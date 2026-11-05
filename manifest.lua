@@ -103,7 +103,7 @@ return {
         { path = "trinkets.lua", hash = "0058abc6", size = 26584 },
         { path = "ui.lua", hash = "6af2398d", size = 154785 },
         { path = "vendor.lua", hash = "d5c38054", size = 142297 },
-        { path = "version.lua", hash = "9fd0e3c9", size = 9965 },
+        { path = "version.lua", hash = "18bbe3f4", size = 9965 },
         { path = "watchdog.lua", hash = "7686b586", size = 24016 },
     },
 }
