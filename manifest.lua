@@ -52,7 +52,7 @@ return {
         { path = "movement/locks.lua", hash = "e0175a39", size = 23192 },
         { path = "movement/memory.lua", hash = "4c934763", size = 113731 },
         { path = "movement/mount.lua", hash = "694ce9a7", size = 35675 },
-        { path = "movement/nav.lua", hash = "1d415d47", size = 203202 },
+        { path = "movement/nav.lua", hash = "05855d56", size = 203202 },
         { path = "movement/pivot.lua", hash = "da7f6c30", size = 25356 },
         { path = "movement/range.lua", hash = "d8e1fb3e", size = 18196 },
         { path = "movement/sentinel.lua", hash = "4a1e3ecd", size = 28006 },
@@ -103,7 +103,7 @@ return {
         { path = "trinkets.lua", hash = "0058abc6", size = 26584 },
         { path = "ui.lua", hash = "6af2398d", size = 154785 },
         { path = "vendor.lua", hash = "c06c04e8", size = 154348 },
-        { path = "version.lua", hash = "2008e529", size = 9969 },
+        { path = "version.lua", hash = "e0abe52e", size = 9969 },
         { path = "watchdog.lua", hash = "7686b586", size = 24016 },
     },
 }
