@@ -1,1 +1,149 @@
-return(function(...)local d={"!sFfDq+gncJrqD6nooo8=","C-Ep<_%8N","CgpF$b";"!VwatH2eUtY==";"!ObZmHBO=";"Chk;GW!L";"CSEIV@B_p";"!WkGDq7==";"Co-!a\\6?b:";"!YpmqmN7=","!Mz7VXVqyX2Z=";"CJ:k6\"coGmb7XfbMJs";"!+NgG7KO=","C(?.u0%ln\\SC1q","!ejVq0sdcdKJW";"CEdo,[8Bj^c%28*\"","!","!Y0dkl2I=";"CXAbh\"","CI^,Z;","!SVBsqS2T/PeQvPZ=";"C&&lD?[\\`EnCR_","!bvlShDI=","!wiWyDNTo3dfClMR8KAzIfkg0Xok7j7==","CF3XH;8aG@L\\GD=d+d","CV`\'-2If^TPH=Pl","C6#=)3S9";"!hH1svXqG","!lO2o";"!Ni5ykH/s/9/8r7YDKC7=","!nXyjYrxAZjF/dw==","Cfc\'oQOWKS%PQMqp","Cl)q3(RFS","!WdOx7xFmLhy7","C\'>-4lG2S#4","!j0AONBaa";"C%6GM)^-ZeE+8oC1";"CfD,b(Vp[qLs=";"CrEFC9#+]&)\"\'a[*d(";"C.q\"T`YUaU";"!51TmFmDo9Lz=","!3F/hIjhgS7==","!TGnm3fO="}local function A(B)return d[B-(-682386+2066738511)%15191346]end for B,c in ipairs({{197580-(3769110078%16750190+-119749),-554044+547859177%2499110},{(-214630+-624664)+839295,59833054%378690},{-766149-(-766184);(16082571523%187145678)%3503777}})do while c[-666868-(-666869)]<c[-792650-(-792652)]do d[c[704160+((-843649+668814)+(-869374-((934688+-1206005)-68733)))]],d[c[((-1151779-(-562516))-292581)+881846]],c[103416-(262096684%4019754-709259)],c[2239873298%9105176]=d[c[491474+-491472]],d[c[1524387676%(((1323016-367524)-616512)+12916565)]],c[307486+-307485]+(524146-96801363%2092983),c[1043625506%(10664943-(-206156))]-(45492-(324681+-279190))end end do local B={n=1436508669%15282007;q=-792031-(-792108);s=237886-(1197692-959830),I=457116+(196175-746758732%((1676126786-(-1010897))%6547486+(4765041-(-685636))));b=(106633+(-943024+54712657))%605673+-576982,G=-829002-(-829022),["`"]=182358672%1939985,l=-377230+377287;W=29690771%9896918;h=((-747657+15062921772)%753663582)%3570029,[">"]=-977849-(-977886),["2"]=-571068-(-571068);[","]=-808243-(-1078692-(-270387));["\\"]=-719375+719440,C=8876-8828,Y=(-481035+118715)-(-362395),["9"]=911737-911683,A=672637486%13727294,[")"]=387367+-387333;H=-155399-(311075+-466492),["8"]=-938243+938290;M=914639+-914586,_=-456423+456492;["]"]=375835-375783;R=907597-1525718199%10814260;["*"]=784318-784257,t=-268752+268779,["$"]=786187+(-400849+-385324),a=(73852+620756038)%5306238,O=450789-(272187-(-178586)),c=599393+-599392;["-"]=841996-841941,["+"]=-734889-(-734932),L=779207+-779165;N=-328966-(-329025);["#"]=800717-560991354%16005449;K=-874444-(-874483);i=710538-710535;e=244976147%2551834;[":"]=703710311%5136571,X=385374+((-723533+361714)+-23524),["\""]=285028284%6064430,F=1750660536%11909255;["\'"]=708214+-708158;S=1306748106%10129830,["%"]=128841-128812,["@"]=-91284-(-91365);["!"]=149606743%16622967;Z=-303155-(90182+-393350);D=1234280907%(3926099854%16568965);[";"]=(113533087334%489383492)%2682324;["6"]=(-276426+517540)+(835937285%4282258+-1138057);j=-218436+218477;g=-334237-(-334310),B=-127492-(-127527);["3"]=-355096+355103;["<"]=-106160-(-106236);J=-681794+(312936-(-368868));o=927721+-927691,d=784439-784434,T=-61452-(-742671+681186);["0"]=331355+((564256+(-986250+523014919%5554342))-816083),V=(484740+2318555952)%(40207+11852309);E=((733802-(-850112+1251561))-(-308607))-640896;p=-124185+1021372770%5903171;["&"]=597942+-597897,["4"]=692048-(-968437+(9293277766530%80114502902)%560292995)%3333336,["1"]=(-50053-657048)-(-707151),P=-433246-(-998924-(-565669)),["/"]=-36037-(-36083);["="]=681430-681422,Q=-393775+393845;m=154708+-154689;["."]=-637144-(-637210);["["]=(87381974-341855)%1061464,U=674817-674813;f=528528+-528502;["?"]=552656+(-386328+((748051-826875)-87482)),u=426020144%2566386;["5"]=2104657220%((-30829+-664086)+12133019)-46063,k=38670078%(566375+-336196);["7"]=99267+(-20207-2133748413%8334646);["("]=(963480+935158716)%8667798;["^"]=-49087+49154;r=(-930641+1197099)+-266430}local c=table.insert local u=string.char local L=string.sub local k={o=(((-472293-(-942043+649550))+-889938)-(-443701))+626077,["9"]=494104450%13725123,b=3314047312%13256189;E=-234838-(682225+-917113),["7"]=592697-592681;n=-581667+581686,k=1275175789%14827625;M=-528663-((-1220156-261251)-(-952734));f=241320+(759294+-1000584);F=3835176380%(2152462587%(25115528-565412));u=81366775%430512;c=(-724044+31589456)%4409336,s=1831456981%10966808;["4"]=(-466482+258092)-(-208426);a=896043+-896032,x=294867+-294818,X=805510+-805455;H=(230571935687%1220040529)%9055009,i=274166-274153,N=900660477%13245007;P=(602448+-645351)-(-42909);j=2378769936%12074974,O=-791693+791737,D=1965426880%(13584905-304994),S=((34901+(-99659-(-611768)))+262353522)%1452489,["+"]=1011095+-1011087;g=2601829335%15864813,B=762542-762481,W=769813-769789;e=297466-297461,["/"]=3348300320%16332418+(124882-279483);t=-650739+650785;y=425841-425794,["5"]=(226009+491240300)%6300850,I=(63424765488%312443652)%1994537,Z=358975+-358955;h=8482835%8482807,K=-314974+314976;A=126686211%9745092;z=885366958%(-822365+4542394),Q=786295-786261,C=24979541%198250;T=445604829%15914457;d=647222+(-660002-(-12837));q=384618978%12407063;r=-874754+874796,p=-431470+431501,["2"]=343139-343122;["0"]=573157369%((-330083+(-984935+28852641943)%703979190)%(518609+11141996));l=2490295773%9921497,U=815611-815597;v=35652+-35625,Y=375124856%5210067;m=36811-36793,["8"]=(1891803164-490008)%14775884;J=-486382+486433,["3"]=-92413+92467;L=-340947+(592901+-251891),["6"]=430485-430437;w=-795573-(-795573);R=499482832%2484989,["1"]=1030093+(-894522+-135550);G=173487877%1807165,V=862101+-862048}local W=math.floor local l=table.concat local y=d local w=string.len local P=type for n=-410509+410510,#y,2192584801%13703655 do local T=y[n]if P(T)=="string"then local P=L(T,57750-57749,-811328-(-811329))if P=="!"then T=L(T,361243631%2614104+-497277)local B=w(T)local P={}local X=(2150874120-(742679+-704416))%10340557 local Q=(234321+5746242728%38905575)%112121 local S=72045-72045 while X<=B do local l=L(T,X,X)local y=k[l]if y then Q=Q+y*((667390032%(636231223%9848006))^(((828500+-828497)-S)))S=S+(739298+-739297)if S==779206-779202 then S=767521-(-372920+1140441)local B=W(Q/(170381-104845))local L=W((Q%(614143+-548607))/((-776194+1568860142)%8000427))local k=Q%(464718-(-563075+1027537))c(P,u(B,L,k))Q=1220906250%8139375 end elseif l=="="then c(P,u(W(Q/(-117157-(-182693)))))if X>=B or L(T,X+(-333531+(20024503058%364321937)%1686466),X+(-925388-(-720480-204909)))~="="then c(P,u(W((Q%((650817-782241)+196960))/(-560906-(869602296%9877680-927618)))))end break end X=X+(734697+-734696)end y[n]=l(P)elseif P=="C"then T=L(T,-879629+(221426+658205))local k=w(T)local P={}local X=((426525-(631026-1015962))+-1142962)+331502 while X<=k do local l=(k-X)+(-415376-(-415377))local y=l>=-799932-(-799937)and-1006273+1006278 or l local w=877856-877856 local n=y>-346391+346392 for c=694118490%3559582,-591449-(-591453),((1023890-98053)+-413761)-512075 do local u if c<y then local k=L(T,X+c,X+c)u=B[k]if not u then n=false break end else u=82748+-82664 end w=w*((((1509287096%14364450+1502971179)-(-813701))%7668377-944439)+-858310)+u end if n then local B=W(w/(4865645476%32542740))%(832536+-832280)local L=W(w/(-678016+743552))%(1010954+-1010698)local k=W(w/(-61826+62082))%(332555794%(558107+10169491))local l=w%(-74385-(-74641))if y==1020231+(-1450962-(-430736))then c(P,u(B,L,k,l))elseif y==479403+(-1428025-(-948626))then c(P,u(B,L,k))elseif y==13233759%3308439 then c(P,u(B,L))elseif y==(-577626+556852)-(-20776)then c(P,u(B))end end X=X+y end y[n]=l(P)end end end end local K,M do local B={}local c=math[A(112202922%(-485592+(-98708+2584046))-184036)]local u=149598+-149598 local L=string[A(422292329%(329329389%6878662))]local k=table[A(-576088+609176)]local W={}local l=2591807948%16098186 local y=math[A(884021-850934)]for B=-851749+851750,3178482006%12713927,(43919843107%348601995-983937)%2009414 do W[B]=B end repeat local u=c(1011774+-1011773,#W)local l=k(W,u)B[l]=L(l-(-120522+120523))until#W==-471567+471567 local w={}local function P()if#w==995335+(-1084281-(-88946))then u=((u*((32142661-149812)%235241)+(-231215+29722862287718)))%(35184371315322-(-773510))repeat l=(l*(759558596%((134073719-49288)%12799619)))%(-951227-(-951484))until l~=853876+-853875 local B=l%((1006407+-1196039)-(-189664))local c=(-74818-(-74831))-((l-B))/(652348+(293987+-946303))local L=(y(u/((58985115-442566)%1427867)^c)%((100142+1068539688196)%4308683486))/(243631976%5663849+-86467)^B local k=y((L%(190106-190105))*((363875+1035090470861)%(-818885+4295801666)))+y(L)local W=k%(511762+-446226)local P=((k-W))/((61668032172%868565514)%9867962)w={W%(1800467737%14637947);((W-W%(2112194097%10302082-267031)))/(827932-1293856621%((-597037+5411416)-(-420556)));P%(864713-864457);((P-P%(-538131-(-538387))))/(-644522-(-644778))}end local B=#w local c=w[B]w[B]=nil return c end local n={}K=setmetatable({},{[A(526616512%8776390)]=n,[A(-904247-(-937328))]=nil})function M(c,L)local k=n if(k[L])then return L else w={}local W=B u=L%(35184371926397-(-162435))l=L%(27750-(-661466+(1223110-534149)))+((-236511-164981)-(-401494))local y=#c k[L]=A(-549726-(-582803))local n=-401357+401440 local T=A(-967746-(-1000823))for B=196878463%(558182097%(2483364-((95791+((-903577-95231)-(-408644)))+((1103122-295110)+-1096152)))),y,-176298-(-176299)do n=(((string[A(506691-(319952-(-153628)))](c,B)+P())+n))%(961193-960937)T=T..W[n+3091483585%(1814021226%14287460)]end k[L]=T end return L end end local B=require(K[M(A(-891331-(-924435)),-450427+34646634989266)])local c=require(K[M(A(((854657+232663644064)%1561511156)%6293607),17352503642985-6085)])local u=require(K[M(A(-940431+973520),7.298055259814e+14%5838444216709)])local L=require(K[M(A(2542079514%15500283),23300789711595-((486857+-2008748)-(-529300)))])local k=require(K[M(A(806707+(-332311-441296)),295331+11349238732345)])local W=require(K[M(A(-598983+632092),28139421657994-(-1041525))])local l=require(K[M(A(3499537550%16276765),(((955449-910078)-(-494694))+4638909137735)-(808404+-936947))])local y=require(K[M(A((863020+474365489)%7780396+-591275),21136006904016-736687)])local w={}local function P(c,u,L)local k=B[K[M(A(481971+-448898),7319596484892-(-505410))]](c)if not k then return nil end if u and k[K[M(A(876039+-842957),-670813+14513982261872)]]then k:track_buff(c)end if L and k[K[M(A(-991517+1024593),-12325+25566016727895)]]then k:track_debuff(c)end return l[K[M(A(796758688%11381794),390987765%7095173+2635477467006)]](k,c,u,L)end local n={1271478784%5065545;(49297594660%(211773591-(-776058)))%919518;((65127125743-849967)%296042761)%2737395,614168-(1608905216%7770700+238656);249728711%5945798;-798137+799199;((67191708%623737+-1091779)-(-37822))-(-128925-473522)}local T=P({-142417+169402;167048312%13918444;-451780-(-461692),(-109201+367071674)%5396376;(137788+602745152)%5023968;-444905-(-450085),918479+-913300,2271081828%11953035;-989430-(-994607),606805+-601629})local X=P(n,false,true)local function Q(B)local c,u=pcall(B)if c then return u end return nil end function w.class_id()return c[K[M(A(-1041828+1074923),482187+17126114534022)]][K[M(A(1742677897%9845451),24506614162487-64942)]]end function w.label()return K[M(A(1022826141%4525633),5.0528682560052e+14%(-935748+21053618862439))]end function w.combat_range(B)if T and(type(T[K[M(A(767253-734154),-871792+27337910294547)]])==K[M(A(-226821+259914),5.351321497642e+14%12444933979653)]and T[K[M(A(-141024+174109),13524616449070-(-50839))]]>-194665+194665)then return T[K[M(A(430029227%3739097),7816370100329-1016624)]]end return(254145+-400044)-(-145929)end local S={[-332712-((-445617-(-44707))-(-68197))]=true;[1378931585%10607166]=true;[315673478%10522449]=true}function w.is_melee(B)local c=Q(function()return core[K[M(A(-220515-(-253589)),5846770042346-(-1006249))]][K[M(A(2271106164%(5772543660%26785788)),24990224121917-189670)]]()end)return S[c]==true end function w.scan_range(B)if w[K[M(A((302993+(1164318635%11302036+-796266))+317447),-294671+17992741633311)]](B)then return 775690606%6410666 end return(552645-132748)-419862 end function w.combat_profile()return{[K[M(A(383421951%(-486198+11440165)),-922179+(8000058114673-214696))]]=K[M(A(1712330239%(8006560-930952)),31534957148396%6306994122908-(-579322))];[K[M(A((-156239+-387464)+576795),22468540466448-207418)]]=815628+-815620,[K[M(A(1001755+-968664),978610+(5692172570919-(-579290)))]]=537961-537947,[K[M(A(287820122%11068732),24767235143721-(-700812))]]=function(B)if not B or not B[K[M(A(726021528%(421503+(74110+14629146))),-647118+(12065606434249-66017))]]then return false end if B[K[M(A(138081-104995),638201+25393279861208)]]<(995058+-1807243)-(-812186)and B[K[M(A(395769+-362698),467022+8471020040613)]]>-901538+901546 then return false end return y[K[M(A(235636+(-769554+567016)),609863242657-30726)]](B[K[M(A(1055532-1022427),(-322260+(1034567+9983342319231))-657802)]],n)end}end function w.rest(B)return L[K[M(A(1722418781%10072431),3384001815204-396123)]](B,{[K[M(A(1797125696%15093682-944431),25373132757744-(-751637))]]=(((-1013942+804441)-(-775954+1548103))-(-630525-(-595290)))+946445,[K[M(A(957581917%12435699),831640+1089682241458)]]=583335+-583305})end return w end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- Druid grind filler + OOC buffs (TBC)
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Forever_Questing
+-- ============================================================================
+-- The reference grindbot's Druid branch is two lines - Mark of the Wild and
+-- Thorns - with no rotation at all. This adds a balance (caster) filler.
+--
+-- WHY CASTER AND NOT FERAL
+--   Cat/Bear levelling is stronger, but it needs form management: every heal
+--   and every caster spell requires shifting out, shifting costs mana and a
+--   GCD, and a bot that mis-sequences a shift spends the fight in the wrong
+--   form doing nothing. Moonfire + Wrath is weaker per kill and far more
+--   robust, which is the right trade for an unattended grinder. Feral can be
+--   added later behind its own toggle once form state is readable.
+--
+-- SPELL IDS
+--   Highest rank first. A wrong ID fails CLOSED - spellbook reports the spell
+--   as unknown and it is never cast - but silently, so `fq_druid_debug` prints
+--   which ones resolved. Run it once after any ID edit.
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+---@type enums
+local enums = require("common/enums")
+
+local gui = require("gui")
+local resting = require("resting")
+local racials = require("racials")
+local state = require("state")
+local spellbook = require("spellbook")
+local auras = require("auras")
+
+local druid = {}
+
+-- ----------------------------------------------------------------------------
+-- SPELLS  (highest rank first)
+-- ----------------------------------------------------------------------------
+local function make(ids, track_buff, track_debuff)
+    local spell = izi.spell(ids)
+    if not spell then
+        return nil
+    end
+    if track_buff and spell.track_buff then
+        spell:track_buff(ids)
+    end
+    if track_debuff and spell.track_debuff then
+        spell:track_debuff(ids)
+    end
+    return spellbook.watch(spell, ids, track_buff, track_debuff)
+end
+
+local ROOTS_IDS     = { 26989, 9853, 9852, 5196, 5195, 1062, 339 }
+
+local wrath        = make({ 26985, 26984, 9912, 8905, 6780, 5180, 5179, 5178, 5177, 5176 })
+local entangling   = make(ROOTS_IDS, false, true)
+
+-- ----------------------------------------------------------------------------
+-- HELPERS
+-- ----------------------------------------------------------------------------
+local function safe(fn)
+    local ok, result = pcall(fn)
+    if ok then
+        return result
+    end
+    return nil
+end
+
+-- ----------------------------------------------------------------------------
+-- IDENTITY
+-- ----------------------------------------------------------------------------
+function druid.class_id()
+    return enums.class_id.DRUID
+end
+
+function druid.label()
+    return "Druid"
+end
+
+function druid.combat_range(player)
+    if wrath and type(wrath.maximum_range) == "number" and wrath.maximum_range > 0 then
+        return wrath.maximum_range
+    end
+    return 30
+end
+
+-- Entangling Roots is a real root, so unlike the Priest this class CAN kite.
+-- Retreat only in the window where the target is actually held, otherwise
+-- walking away just donates free melee swings.
+--- How far out to look for something to fight.
+---
+--- Melee has to walk into contact and then stand still, so a wide scan just
+--- drags extra mobs into a fight it cannot kite out of. At range the pull
+--- starts from where the bot is already standing, so the extra warning is
+--- free. This class does both, so the scan follows the same toggle its
+--- combat range does.
+--- Melee while in Cat or Bear form (2.151.0). This read a "cat_form" GUI
+--- toggle that was never registered, so it was always false; the form the
+--- druid is actually in decides now (GetShapeshiftFormID: 1 Cat, 5 Bear,
+--- 8 Dire Bear), and the druid's melee distance slider applies in form.
+local MELEE_FORMS = { [1] = true, [5] = true, [8] = true }
+
+function druid.is_melee(player)
+    local form = safe(function() return core.spell_book.get_shapeshift_form_id() end)
+    return MELEE_FORMS[form] == true
+end
+
+function druid.scan_range(player)
+    if druid.is_melee(player) then
+        return 20
+    end
+    return 35
+end
+
+function druid.combat_profile()
+    return {
+        name         = "druid",
+        melee_danger = 8,
+        melee_safe   = 14,
+        should_retreat = function(ctx)
+            if not ctx or not ctx.target then
+                return false
+            end
+            if ctx.melee_count < 1 and ctx.distance > 8 then
+                return false
+            end
+            -- Rooted: step out of reach. (This also required an "entangling"
+            -- GUI toggle that no longer exists - 2.151.0; the Spells tab
+            -- decides whether Roots is cast at all.)
+            return auras.debuff_up(ctx.target, ROOTS_IDS)
+        end,
+    }
+end
+
+-- ----------------------------------------------------------------------------
+-- RESTING
+-- ----------------------------------------------------------------------------
+--- Sit down and eat or drink. The thresholds are this class's to choose; the
+--- machinery lives in resting.lua so a fix lands once rather than nine times.
+function druid.rest(player)
+    return resting.tick(player, { eat_pct = 30, drink_pct = 30 })
+end
+
+return druid

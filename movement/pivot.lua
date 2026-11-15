@@ -1,1 +1,240 @@
-return(function(...)local Q={"r\\=t=,amh_";"r!f)F^";"rD2G#";"]LBg249l=";"]JL3F","]wV7=";"]Jb6grwP1tvH3GjycPfK=";"rQr";"]VUPhr3qv";"rP1=-E7P^","]wS/eR3D=";"]vH+4";"]IH/Z92/pRksVhAJoI+pQ03pEMc8PsZvlBD2XMMxQzjwRA65uyl==","]3Q3QBqRqVop7iSKB";"rEi;J5`o";"]V7KtL5yQ";"]jhx87MqP","r\\*\'/DV\'b<rUB","rCR&NhFhX]T";"]6WvfdMNiC1==";"r**0&3";"rLjj[K1qO%4T@ApS";"rZ(-%N$&";"]W7==","]+dEk","r(6BU*","]HLkey+Z=","]W2z+","rc8PV>";"]M+su1I2xu1==";"]TEI6fcKzX7==","rIn","]oYjbH8/tp7==","rl4";"]JTGOf7==";"]JOWexNspFjE=";"r?(-8MZ;","rQ\"Sn^jX*l";"roonjb^3ei";"r?P._H%.EkqT^cL","r5_%!!6e80\'";"r^>]\\i\'\"k","]AiE87aQ+gl==";"rGIokh^&";"r\"a1kh","rRpYL!ccpcdB3Jo0)i8&0`o","]b1==";"rmCgJ","]+1R7XI9R";"r-$/gP@T!";"riUUAtXup!(Q-WiF-G","]uAd6Fnq=","ruEK";"]Aebtwba8";"rc4","]x7==";"]b6DAMJPd";"]Acm/tOJ=";"r$O";"]0EGsQXl=","]i7==","rbJ","rY`)?@DG";"]u79MJJN59b6UGA5BftGB","r<ddcR:^(";"r5\'UFh?UhVOa1F";"rBk\\WB`?jfO!GFT";"r8M";"]icb/f7==";"]jM7=","ru^0hB<4";"r.RDMD84";"]waROGm4y","r!cr^tWUuk","]M+==";"]jIVit+==";"]7I1=";"]n1sVJ81Z";"]tF99z1==";"]60KIpIFz";"r/#dr","rb<";"rCbr7??Ot","rG+";"rFEW\\*";"rdM","]PFIx","]ukDP09jotSB=";"rSm<Vr1`";"rWif[\"?-0_XfHWc";"]Q7==";"]RqTORz7wuGnosgwxDVYp";"r)2Qf>GFBJ","r?5-*R";"]Hwhx6n4l";"]CPD=","]vJ/AhgeO","r9?A*","]e/P=","]hBXC2wi02Rrqc4mo+KKjLjmN6la5";"r)UMC";"]Sl==";"]yHMxlcGSc7==","rge\\tn2`","]rCct","r/Yn=.2^\"6g!-mkF?QT)C9\\srj=H,,XC^32jPKn-KTVTSc4FIkBspL283=l<<N3cnZVQ[4k,Y*0DtOo]\")kPNr\'o0a9CDmFa=%3","r0Qck)VZ+d\\!)\'N)7Y_u";"]1nXW9YxfXLGWZsUCCIq=","r\"61=kP`","]+1==";"r^,jt_n@<";"rNRA#JmM@","rSf5uc";"]w4DXkIbma1==","]";"]V7==";"]s+==","r^+_Rq!+";"rsk8p","]tUi5nqIVD0bSgUc=","]G6qnPwT0","]0ZHcQ1==","]smWyH03G";"]SJYzFsc=","r\\]%g","]KsrOti0lKl==";"r%tD";"]eUcGktU6","]WgZ3","]bdgC5K4rOIPNdK+=","r6XR9","r6Ko\'`u[?U","]ZlsUdEM72GSXN1soDiGecEBCoHIX8WrHuShcW0TMROd0mvUXhTieImhoHvuHNBz9C45OOUABGwC6TNDgXjx/szBrSifEfTy4MabT","r&*S7Xh[";"r-A#0(?0#JAT5rU?H$^";"]PzbC6+==";"rj_";"r[XW=?","]kOUd6ko95t2wWtZ=","r,I","]m+==","rIV!M";"rDhL%2*G@Sj7-C";"]d2yb";"]WTEPd+==","r<M";"]EIsf";"]CPq=","r?G9;Q6TNC","r)C(8<Ug";"]fXMqdTXGP+==","rnsS*";"ru\\#2f]3\"K","rh]VE66%","]Jkfoanzk";"]zR9bXcl=","]oJcxBlDCe+==";"r7lAr\\b#b/","]W1==";"r&rZ","]Q7xW6x6Pq7TYIRWMhNJhmhHptWdtX2rZi7SaPwpEt115Gs77A6J=";"rYIB";"]Z9l3jtrF/mw2in+BmxucJ7==";"r]^";"rkB","]Bh/EmJIaPxc=";"r=,\"f5,9","]+PE=";"]4D8=","rAr3c!!?,`","rP)H,MdW;";"]qFUJf6gb","rY!";"]l7==","]re3R17==","rG^L=K";"ro_C(E","]FscROQXT";"]nkEAeoPwRObDr7==";"]U5nbBbq=";"]2Y+="}local function n(d)return Q[d+(-803782-(-828101))]end for d,S in ipairs({{553015126%4424121;1396947262%16056863},{(558227-443248)+(485543+-600521),(-1018008+1195597)+-177513},{1136857925%5860092,-981988-((-311617+-533932)+(-156172+19552))}})do while S[-295383-(-295384)]<S[(-723313+1247055120)%11029485]do Q[S[3803664907%15652942]],Q[S[238232367%6806639]],S[-208151+208152],S[-559122+((351824+549097)-341797)]=Q[S[63144281%259853]],Q[S[436698326%2495419]],S[(-740036-(-924184+870519))-(-1477069-(-790697))]+652764932%7173241,S[919781-919779]-(1045669876-(-721978+1654581))%9856012 end end do local d=table.insert local S=string.char local v=math.floor local w={q=-752699-(-755112-(-2342));P=321731993%((-558541+1417728)+3672249),b=42411+-42385,X=-359668+359681;["9"]=176570+-176547;["+"]=498696-498657;o=-397177-(-397185),["`"]=-863045-(-863096),["7"]=1037240-1037199;E=905774-905762;[")"]=(-544241+-452165)+996436,["!"]=-330661+330675,k=-270360+270394,["/"]=889955887%13484179;["4"]=88035493%1873094,["\\"]=-401149-(-810325-(-409167)),["%"]=574344+((-742072-(-600267))-432482);g=2135883813%(3805097473%(((742988+-79983)+5928955341)%38852701)),F=(29572+-435792)-(-406242),["8"]=2227451630%14097795;d=1987122707%12737966;K=65675+-65651;[";"]=373588-373570,S=272795-272776,m=109653+-109648,n=-623659+623694,r=-360826+360868,["?"]=185713-185634,t=422649+-422577,Q=(-590754-((96808458245%(383458050-(-726727)))%9450751+-502193))-(411734+(-819771+(981055+-710797))),M=(51162100731%(278766658144%1093219880))%6772981,["*"]=-712141+(943814+-231599);L=-842098-(-842159),["."]=-86797-(237225-1316454906%13709696);I=-647600-(-647678);T=-948335+948388;O=(-1446667-(-952217))-(-1064304-(-765443-(-195616))),f=565661+-565617;[","]=-813576-(-813640);Y=2878862598%16083031;["&"]=222578+(-592896-(-370372));["$"]=960444+(-549471-410973),a=1074617430%6796279+(-523347-281939),["5"]=439061062%3484611,["3"]=(787741+(539301+-2087740))+760757,["="]=-894343+894386,["-"]=-228943+228995;["["]=774460+-774454,s=1553828873%6265439;["@"]=742381143%3586382;G=-344188+344220;A=818677951%6879646;C=-487552+487619;c=-1887-(117479+-119395),J=(1011082+184138187)%(2422775640%11578599);D=(975143+-657)-974416;Z=154966979%1867072,[":"]=-798132+798198,["("]=3067072286%13878155;["#"]=(-1067524-(-189962))+877645;["]"]=(772977-867425)-(-94463),i=333997450%5964240;["1"]=-289710-(-289738),W=1392925669%(146143563%8670899);["\'"]=-1021161-(-1021199),U=2281104043%10229166;R=45955214%1767506;l=-723020+723067,["6"]=-164012+164092,u=1481274150%12545893+-858755;j=((-883717-(-660496))-225836)+2761970135%(12932929-(617848-294604)),["0"]=403717-403672;["^"]=(((-302572-(-152726-22003))+62873823899)%1122836529)%6856975;_=(280836-480312)+199557,h=34440+(470580+-505013),p=286312654%5506011;e=(592364+406457)+-998771,B=-1009593-(-61757+-947896);H=-689425+689481;["2"]=863805-863750;N=264662+-264616,V=724310+-724294,[">"]=77460+-77395;["\""]=(-184774+(479197213%10390404-434339))+((-403495-889208)-(-673191)),["<"]=276408497%(9150021-774006)}local k=table.concat local u=Q local m=type local Z=string.len local z={T=-68074-(-68128);W=(((-743408+-85228)+3282786981)-(-128476))%14717878,H=514429+(597317+-1111725);["2"]=1188964206%12001437+-821938;["3"]=-985837-(-985868),S=(-492457+1550578163)%8333794,N=2442292450%(4326485665%16986042),["7"]=1040562558%14655810;n=124921755%(954318+(526941+5904)),Z=34273+-34253;["+"]=-350588-(-350604);z=(-857144+388423)-(-468760);d=333547521%3586532;I=2574130503%15413955,["1"]=2871670044%12877444,l=761909400%13605525,e=389178070%1827127;h=258424+(903336+(((1002914+(-1423917-(-471057)))+-2251180)-(-1039404)));f=-543490-(-543540);a=-50803+50845,j=(-1274030-(-658821))-(-615266);["0"]=645804-645793,["9"]=-761840-(-761873);r=999987085%16393230,D=130439+-130395;J=-579955+(190610+389385),P=3093979432%14874901;p=975496-975461;C=-754170+754222;["8"]=(932578968-(-962876))%8261432;U=86744565%563276,x=-73531-(-73572);G=-907994-(537283+((-739492-1038099)-(-332258)));["5"]=3830626489%15261460;K=-882121-(-882157);c=425437-425433;m=(591412+(-796345+-692036))+896984;R=176131020%2516157;O=24545415%12272681,V=-237052+237061,s=1224800317%10558623;Y=-648674+648687;g=(420291831-(-54060))%10508646,k=202397-202374,X=-12683-(-12697),o=131873370%(3782808-(-764549)),u=880987+-880986,b=(791830852-851175)%6591497;Q=-1048214+1048260;v=646970-646923,A=-394851-(-786701+(413854-22007)),F=499914+-499871;E=-1025130-(-1025142),["4"]=242027+-241965;M=2691640562%16718264,y=(-687570+(((10945-349093)+-5824)+944015))+87553;t=-973931+(-253047+(461019+765965));i=822713+(((-684724+1295621)+((31633-(-194812))+-1092136))+(771605+(-1476710-(-137188))));["/"]=(-1180842-(-145956))+1034896;q=-1038552+644590476%(5683775-3582798611%16355465),["6"]=243718-243693,B=1764450563%7201839,L=545322-545315,w=(578366-(-299776))+-878108}local c=string.sub for e=599791672%3920207,#u,-512057-(-512058)do local T=u[e]if m(T)=="string"then local m=c(T,692310-692309,117777+-117776)if m=="]"then T=c(T,-370812+370814)local w=Z(T)local m={}local A=882762889%6738648 local b=48289-(((423484035-(-574047))%2753090+148627)-182560)local G=-631202+631202 while A<=w do local k=c(T,A,A)local u=z[k]if u then b=b+u*((3283721382%16580118+-857954)^(((((258330-123110)-(-1418644-(-505532)))-(893628+154701))-G)))G=G+(689749-(389761-((-501052+1120652)+(-346249+-573338))))if G==1654758351%12725416-(-163334-(-617601))then G=1115049768%12816664 local w=v(b/((464642941012%2141258746)%15221331))local k=v((b%(1179587461%((-519871-494767)+7460113)))/(845815+-845559))local u=b%(-988142+988398)d(m,S(w,k,u))b=(-1015289+(1027379+(618026+-205825)))-424291 end elseif k=="="then d(m,S(v(b/(-147087-(-212623)))))if A>=w or c(T,A+868131356%(-240691+9780596),A+102758101%6850540)~="="then d(m,S(v((b%(789401864%8969731))/((-535404+835660508%3378189)+-712165))))end break end A=A+298983510%1181753 end u[e]=k(m)elseif m=="r"then T=c(T,195954626%5443184)local m=Z(T)local z={}local A=-951344-(-951345)while A<=m do local k=(m-A)+(956192+-956191)local u=k>=(324858+-720004)-(-395151)and 1578161453%14612606 or k local Z=495794-495794 local e=u>879989023%10864062 for d=437910221%8262457,217516732%16732056,-128672+128673 do local S if d<u then local v=c(T,A+d,A+d)S=w[v]if not S then e=false break end else S=-724023-(-724107)end Z=Z*(345491-345406)+S end if e then local w=v(Z/(16190763-(-586453)))%(-863597-(650889+(177993+-1692735)))local k=v(Z/(949338916%10547482))%(1056486242%11113581-695791)local m=v(Z/(1401646788%10083788))%(((-690042-(-869737))-(-717290))+(-916387-(-19658)))local c=Z%(728551+-728295)if u==399178+-399173 then d(z,S(w,k,m,c))elseif u==859689744%6612998 then d(z,S(w,k,m))elseif u==47860722%15953573 then d(z,S(w,k))elseif u==1117475394%12698584 then d(z,S(w))end end A=A+u end u[e]=k(z)end end end end local K,M do local d={}local S=math[n(199816+(-1219482-(-995353)))]local v=table[n((-939909-(-837401-(-802866)))+881173)]local w=string[n(-974089+1499026472%14980766)]local k=1112465200%(5886758731%26807609)local u={}local m=math[n(-27276+3077)]local Z=(1525692667-639155)%((-297241+-179066)+6456909)for d=267261+-267260,894269-(-132093-(-1026106)),833536+-833535 do u[d]=d end repeat local k=S((-255134+3245151032%(13656163-466717))+-292181,#u)local m=v(u,k)d[m]=w(m-2233270403%(1638484252%(21397938-(72363-976458))))until#u==-879007+879007 local z={}local function c()if#z==531370+-531370 then k=((k*((-149459+-552730)+702330)+(10616281046452-((-835347+-179359)-(478320+-1491583)))))%(710501+35184371378331)repeat Z=(Z*(-963975-(-964044)))%(346828-346571)until Z~=487330-487329 local d=Z%(423661+-423629)local S=(-252488-(-252501))-((Z-d))/(-336214+336246)local v=(m(k/(305614613%4230986+-983619)^S)%(770002239262%(4302530803-((-94084-836030)+(749686+984984)))))/(1041770-1041768)^d local w=m((v%(-776338-(-776339)))*(921174169192%((4304273464-(-50258))-(-273470))))+m(v)local u=w%(2388806275%(-73496+16323433))local c=((w-u))/(-67318+(12437+1282211513%12327799))z={u%((-898330+420513)+(345457-(-132616))),((u-u%(226903-(-389065+(-354826-(-942760+(-879924-(-852146))))))))/(350673+-350417),c%(988726211%6141155),((c-c%(374890966%9865545)))/((((26951368868-445132)-(980301-105670))%641854851)%10745762)}end local d=#z local S=z[d]z[d]=nil return S end local e={}K=setmetatable({},{[n(95387-119537)]=e,[n((-288002+880838314)%9362105+(-601602+64875))]=nil})function M(S,v)local w=e if(w[v])then return v else z={}local u=d k=v%(35184372598571-509739)Z=v%(-14748+15003)+(942931+-942929)local m=#S w[v]=n((-844985+2861820020%11821023)-(-126832+438610))local e=945190-945055 local T=n(-617532-(-593223))for d=302135-302134,m,947304-947303 do e=(((string[n(327449+-351737)](S,d)+c())+e))%(128962-(122261715%2474175-898434))T=T..u[e+(-768790+13713567385%57191156)%537955]end w[v]=T end return v end end local d=require(K[M(n(-411558+387366),565135+2589407101366)])local S=require(K[M(n(917789+-942018),(21485267094352-25986)-586758)])local v={}v[K[M(n(416038+-440284),7280062611191-(-565454))]]=-191459-(-191529)v[K[M(n(996993-1021206),20752996149742-716271)]]=(-1485338-(-824013))+661340 v[K[M(n(131985+-156242),10236114545768-903663)]]=274557618.5%1080935.5 v[K[M(n(464615+-488822),((6159980261772-(-180812))-353983)-(-276760))]]=212589742%7873694 v[K[M(n(-922099+(743899-(-153900))),492243329%15363820+22690668867034)]]=806760076%(10026376-535081)v[K[M(n(2186698524%9761959-43897),(-316849-(-197781))+1171387843704)]],v[K[M(n(-701922+677762),-975439+34700596130997)]],v[K[M(n(-599480+575253),(-709610+5.5958461714116e+14%15988132270627)-952648)]]=962587-2746531038%16539569,(1039547-1003804)+(-343992+308253),621943185%3553961 v[K[M(n((561881+-1077443)-(-491308)),(((12365+((-659284+734792)-380839))-421886)-171894)+23005685979939)]]=false v[K[M(n((-1022637+47322696%(407619+2701076))+306117),((943221-595523531%2844413)-(-144458))+(9709157459139-(-649211)))]]=false local w={}local k=(568317+-1252810)+684493 local u=K[M(n((-631522+(806667-977180))+777760),-307163+33357435456753)]local m,Z,z=-309783-(523023+-832809),-18412.5-(-18414),488952-488927 local c=nil local e=(39083903354%(751569406-(-54218)))%(2375206388%19534306)local T={[K[M(n(-1001475-(-977302)),-323456+1162511658654)]]=517720-517720,[K[M(n(-142363+118086),810048+27909044769014)]]=405868389%9899229;[K[M(n(-762601+738392),17806658908286-893638)]]=nil;[K[M(n(541996344%(-117332+3342736)+-152731),31590122748186-(-371370))]]=nil;[K[M(n((-723958-(-929224))+-229518),770580+16952652802763)]]=false}local A=nil local function b(d)while d>math[K[M(n(502203612%2180797+-644446),14314302011782-398847)]]do d=d-((-827149-(-723958))-(-103193))*math[K[M(n(2149148141%9383809-280027),420960+6775303123252)]]end while d<-math[K[M(n(193861-218098),29150638501036%1619480590331)]]do d=d+(-418468-(-418470))*math[K[M(n(-335774-(-311518)),(927831-394790)+9843930425857)]]end return d end v[K[M(n(236221+(-827750+567365)),-117031+10562851002641)]]=b local function G()pcall(function()core[K[M(n(74252-962109288%7457448),1.8042380786148e+15%(28638698969293-(-849896))-((-105262-808366)-(113106+-426110)))]][K[M(n((-35358+548481)-537412),-553330+837946279418)]]()end)pcall(function()core[K[M(n(174952+-199220),34567433187542-75619)]][K[M(n((-1537899-(-519960))-(-993760)),240419+2920821259797)]]()end)end function v.release(w)if not c then return end c=nil d[K[M(n((-828863+-221001)-(-1025598)),34013017776406-394931)]],d[K[M(n(-847537+823334),16571961217505-(-322788))]]=false,false G()S[K[M(n(494086+-518279),1568948815%(4828166510%28663167)+27211354180680)]](u)e=d[K[M(n(-799079-(-774923)),-277518+11061479051821)]]()+v[K[M(n((((771767-567204)+-954283)-(-335975))-(-389573)),-811161+(13013298223252-(47473+-77036)))]]if w then d[K[M(n(-73690+49541),927063+14030532403352)]](K[M(n(-766116-(-741801)),28225788660546-1004472)],K[M(n(-925818-(-901514)),31932915849113-(-1000556))]..tostring(w))end end function v.is_turning()return c~=nil end function v.set_enabled_fn(d)A=d end v[K[M(n(-943700-(-919405)),14918344754810-(-575447))]]=false local function j()if v[K[M(n(-90834-(-66529)),219124+29128471864561)]]then return false end if type(A)~=K[M(n(-970033+945878),970104+4693634088517)]then return true end local d,S=pcall(A)return not d or S~=false end local function g(d,w,k)local u=S[K[M(n(-730254+706078),(557058+40818)+(((-619189-((220743+-1227250)-(-732885)))+-521864)+(-510263+22435156143758)))]]()local m=S[K[M(n(-461778+437497),(-203423+299862)+24752341287338)]]()if type(u)~=K[M(n((760931+-217098)+-568139),18867387494311-(-582876))]or#u==-655975-(-655975)then return nil end m=((type(m)==K[M(n(322995+-347264),((827059-(-345427-(-885480)))+-390800)+23947965873169)]and m>=754005125%(3398952-(-174532))))and math[K[M(n(-37905-(-13666)),(464495+-120704)+34119562806837)]](m)or(1444555-529357)+-915197 for d=m,#u,30756-30755 do local S=u[d]if type(S)==K[M(n(((262511-(-86834))-(-655029))+-1028580),14198453879943-677480)]and type(S[K[M(n(-254871+319011589%(487135+3548066)),12378135067289-342499)]])==K[M(n(714218558%10977193-725178),-750586+28261417169927)]then local d,u=S[K[M(n(-26073-(-1790)),9087286324359-141154)]]-w,S[K[M(n(962196+-986447),784797+19444983654630)]]-k if d*d+u*u>=v[K[M(n(622855+-647113),20399351565401-(-974854))]]*v[K[M(n(-790450+766226),(-82764+754382524)%7850185+25973153852701)]]then return S end end end return nil end local function l(S,v,w)if not T[K[M(n(69522+(-149061+55358)),(892966-130245)+2215679919346)]]then T[K[M(n(833215-769522430%7391010),-771+3679258552688)]],T[K[M(n(445096+(-659258+190005)),2343978655542-(-13124))]]=S,v return end local k,u=S-T[K[M(n(543581+(-677763+(593964-483950))),-709673+((22316248418495-(-178943))-876733))]],v-T[K[M(n(-514703+490521),1632081679114-24357)]]if k*k+u*u<Z*Z then return end T[K[M(n(-796806+772647),34580962935880-379013)]],T[K[M(n(1666066297%(5958844104%24164583)-715028),23144518065441-670236)]]=S,v local m=math[K[M(n(-42946-(-18731)),1977719409300-(-476607))]](math[K[M(n(-230307-(-206069)),11130519042840-(-373963))]](b(math[K[M(n(52654-76834),15052919842197-181321)]](u,k)-w)))if m<=z then T[K[M(n(767992+-792158),-471652+26816908790854)]]=T[K[M(n(-887859+115247034%((12911546-851279)-(-649004))),(23407945695819-(-1040045))-(-319875-238139))]]+2446433731%10454845 elseif m>=149638-(1142236941-(-389173))%10021724 then T[K[M(n(-494574-((-439172-(-108863-(-88159)))+-51824)),23715248935004-659289)]]=T[K[M(n(315200+(64039+-403479)),19410188287955-454897)]]+74608649%321589 if T[K[M(n((-1239943-(118417-345714))+988347),5287453776976-749088)]]>=1438674632%(-127479+10118275)and(T[K[M(n(701551-(-720664+1446470)),26997981536201-379854)]]==(621566+-1317601)-(-696035)and not T[K[M(n(-610854+586620),563022+24214333408090)]])then T[K[M(n(-243613-(-219435)),(-830239+(615015+2966823399177))-930307)]]=true d[K[M(n(917796-941991),-43616+11245181775063)]](K[M(n(951980-976298),19391356665763-(-527913))])end end end function v.tick(Z)if d[K[M(n(399261+-423414),18378295186947-(-718983))]]then d[K[M(n(-972819-(-948525)),20548655461265-384784)]]=false v[K[M(n(488268-591056129%16872674),-784535+22680493182147)]](K[M(n(643057+-667278),11455478146591-(-742010))])end local z=S[K[M(n((-395016+-469919)-(-840634)),(-983766+22281480718143)-(-361001))]]()local A=d[K[M(n(-500203-(384356-(1800713-940430))),1427131148684-(617269964%3084894+-1331713))]]()local Q=z~=nil and S[K[M(n(((18496-72897)+((516109+-260852)+-611513))-(-386483)),(-663300+12271281364205)-(-479782))]]()if not((j()and(z and(A and((Q or c))))))or d[K[M(n((1031753-667781)+-388123),8784298964379-33308)]]or d[K[M(n(178188-202398),101534+(1892431711307-514572))]]or d[K[M(n(715892-(12078+727991)),(-164069+((600840+-161605)-451798))+23053930842950)]]then v[K[M(n(-108377-(-84172)),9515551614173-891133)]]()T[K[M(n(-809152+784968),18460391817257-329740)]]=nil return end local a,J=pcall(function()return A:is_casting_spell()==true or A:is_channelling_spell()==true end)if a and J==true then v[K[M(n(1323943018%15042048+-266994),(23883206729933-122556)-(414867+(545156+-659259)))]](K[M(n((1013875+-1315962)-(-277947)),-729764+4518800615966)])return end local f,q=pcall(function()return A:is_flying()end)if f and q==true then v[K[M(n(-925680+901476),-810969+10740590449628)]]()return end if not c then if not v[K[M(n((14192+521991)+-560475),5029769362068-(-852145))]]then local d,S=pcall(function()return A:is_indoors()==true end)if d and S==true then return end end if Z<k then return end end local V,L=pcall(function()return A:get_position()end)local F,U=pcall(function()return A:get_rotation()end)if not V or not L or not F or type(U)~=K[M(n(-226292+202106),(-1164827-(-316775))+4442482915677)]then v[K[M(n(-120307-(-96040)),747551+((9402535712883-136175)-(-828465)))]]()return end if not c then l(L[K[M(n(596468+-620718),278191+13744951176161)]],L[K[M(n(165401+-189620),1497759709%13019902+4591077768547)]],U)end if T[K[M(n(-796068+771771),2.0336556569338e+14%13557704617495)]]<m then return end local D=(Q and g(z,L[K[M(n(182577-206812),226138+19681002224881)]],L[K[M(n(-786318+438863244%2269954),415697+5212827740884)]]))or(c and c[K[M(n(-373492+349230),607015+32494108487116)]])or nil if not D then v[K[M(n(339350386%9962511-649235),818695+19897832178152)]](K[M(n(890301+-914537),((474951+828868)-596961)+32475584643594)])return end local Y=b(math[K[M(n(63108-87382),(64331-523285)+26622817819517)]](D[K[M(n(471963+-496271),22753375562187-(-852000))]]-L[K[M(n((773576+113343)-911233),645939+22984628493341)]],D[K[M(n(784098+-808363),-414593+35085133442742)]]-L[K[M(n(677899-702110),-32386+(-180849+22373184000378))]])-U)if c then local d=(Y>-885081-((-478683+(668764+-2123738))-(-1048576))and c[K[M(n(((42170-568487)-515361)-(-1017431)),-1046189+(8873257886374-94025))]]<709051015%6165661)or(Y<92414289%664851 and c[K[M(n(957286+-981572),(-281871-576740090%(((329252847%1359697+(1387025-(-822202-4042)))-(-647678))-226574))+20232682264122)]]>136618-136618)if math[K[M(n(-875939+851801),13988714012520-((-442942+-621385)-(-871736)))]](Y)<=math[K[M(n(-1039303-(-1015031)),33699598389275-(-494357))]](v[K[M(n(1015513+-1039755),((3058237568870-(-346568))-(-753817))-(-547900))]])then v[K[M(n(912183+-936456),19233089063346-700425)]](K[M(n(595147-619290),24362463297357-308721)])elseif d then v[K[M(n(227583+-251752),12364892982384-523356)]](K[M(n((-65103+549664)+(-238714+-270163)),8750144070106-536008)])elseif(Z-c[K[M(n(488213+-512404),(18544806875034-930274)-94333)]])>v[K[M(n((-510588-(-244182+-787910))+-545689),(1885348722%(2280555706%25734312-227724)+23716902442222)-(-299773))]]then v[K[M(n(1021272+(-361742+(-1168983-(-485143)))),11014860811716-(-800822))]](K[M(n(-628066+603864),1328653727234-467889)])end return end if Z<e or math[K[M(n((1803014-758293)+-1068883),6714535582209-(843748+(291695+-1883384)))]](Y)<=math[K[M(n(157200-181418),(-277231+(133637-(-488551)))+32494773267611)]](v[K[M(n(223253+((357024344910%(469137840085%2577730501))%15863401+-1107083)),16835869451053-(-535176))]])then return end if not Q or S[K[M(n(34002+-58227),-523767+6669760442271)]]()then return end if not v[K[M(n((208803+-1038642)-(-805598)),387182+((194529-746515)+((-93224+29657123398663)-(-345222))))]]then return end S[K[M(n(-33015+8799),2566206986259-(-411526))]](u)pcall(function()core[K[M(n(-194193+169923),26652149110713-627512)]][K[M(n(-281617+257420),29070286893259-(-288523))]]()end)G()local R=Y>390203-(231281-(-158922))if R then pcall(function()core[K[M(n(510898+(-140549+-394532)),(((966132+-334139)+1916995224065)-(-520959+1090523))-(-492719))]][K[M(n(294921+(-369476+1524324258%(-771875+9240064))),30828129075736-733546)]]()end)else pcall(function()core[K[M(n(-408688+384398),(-402978+285516)+(957213+22712333404494))]][K[M(n(-698993+674732),6075571362679-(-267453))]]()end)end c={[K[M(n(-106534+1389233720%(1869899783%15371713)),103932+30136297371915)]]=R and 187094640%3980737 or-505046+505045;[K[M(n(995201-1019355),41056552256050%3158197056915)]]=Z;[K[M(n((-572351+78200345%12870368)-429976),13525747906011-(-661333))]]={[K[M(n(110277-134464),29464668061717-378651)]]=D[K[M(n(-594486-(-782420+212194)),-1020093+17502856572423)]],[K[M(n(-651843+627565),608910+(781684+(-673593+(34262666183941-(-699124)))))]]=D[K[M(n(109654-133806),86753+135463232301)]]}}d[K[M(n(3111952872%14338827+(-493012-(-41387))),488830+12817143029676)]]=true w[#w+1203644905%15631752]={[K[M(n((90089+838670)-953043),-27734+6569433718671)]]=Z;[K[M(n((27840-(-1109))+-53260),(-872560+8.1362900383664e+14)%21411289878321)]]=c[K[M(n(-164962+140714),632867+15304703197949)]]}while w[-282888-(-282889)]and Z-w[1988871426%16432444-545701][K[M(n(713894+(-270565+-467470)),(131953773%10963514-688464)+13498591262667)]]>v[K[M(n((1180503-488674)-715992),-201639+15113748188127)]]do table[K[M(n((74840+(1528040522-676476)%11142590)+(-1919217-(-990865))),9525703433587-(-248059))]](w,-756421-(-756422))end local o=(437549735065%2044685814)%10008161 for d=(382656917%4149056+332175997)%1306352,#w,-83379-(926032+-1009412)do if w[d][K[M(n(-198216-(-174018)),(-568455+-246687)+33015792283838)]]~=w[d-(1029031-(554383+474647))][K[M(n(1009016+-1033174),717713+12286464538332)]]then o=o+659297748%6400949 end end if#w>=v[K[M(n(600681-624851),(672294+28976129737156)%591349698930)]]or o>=(-710871+(-689554+531475))-(-868952)then k=Z+v[K[M(n(513342-537488),23106550026723-(-773569))]]w={}d[K[M(n(224071-248291),11713477901656-(-986787))]](K[M(n(594951-619118),(974935216%10584539-520496)+(-776318+(31367892560678-825211)))],K[M(n(-1024838+1000547),19594046653670-847016)],o>=948121+(-1540084-(-591965))and(o..K[M(n(459422+-483667),(-774748+106231)+35079647259518)])or(v[K[M(n(-337555-(-313252)),-798954+(33566515730710-530356))]]..K[M(n(-806183-(-781871)),87023+28941838649497)]),v[K[M(n(355738+-379886),-620210+20031784702650)]],v[K[M(n((483742-544298)+36330),(-1650470-(-648359))+14918582814208)]])end d[K[M(n(697232-721403),(8101904439242-359253)-(-586564))]](K[M(n(562747+(201186-788141)),6820308156470-(-376898))],K[M(n(875916+-900146),26784174438523-(-1095605-(-1045657)))],math[K[M(n((688145-14600)+(-123281+-574406)),701057+(4529824761192-(-36660+1064535)))]](math[K[M(n(987024-1011255),789376+3909792160503)]](Y)),R and K[M(n(-825285-(-800983)),22059923648221-806614)]or K[M(n(677559+-701791),(20122160907740-(-581238))-579019)])d[K[M(n(1018256+-1042535),34614936408617-205059)]](K[M(n(463366+-487594),(143433-(211742-(-216496)))+11095537410371)],string[K[M(n(-756485-(-732232)),715507+2921929960079)]](K[M(n(-568657+544394),14794+31286789832863)],math[K[M(n(761876781%5810397-(432872-(-306182))),24843660010512-(-754660))]](math[K[M(n(775079+-799372),21338477649788-186652)]](Y)),R and K[M(n(612607+-636829),-684917+(-652784+9781611110729))]or K[M(n(354181-378320),4.5260011585042e+14%15606900748857)]))end function v._reset()c,e=nil,3016512741%12114509 w,k={},376895283%10186359 d[K[M(n(-649749-(-625451)),1752907148708-563102)]]=false T[K[M(n(143707+-167950),14400166499200-(-989072))]],T[K[M(n(((1337167-659126)+-1274527)-(-1601182-(-1028841))),17695144145359-(-47908))]],T[K[M(n(-244701+220513),((245025+278794)+(-912192+458317))+1920574671530)]],T[K[M(n(186957-211244),295711+24147335075010)]],T[K[M(n(-342452-(434476+-752734)),3558497110257-(-464821))]]=-995890+995890,-617287-(-617287),nil,nil,false end return v end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- movement/pivot.lua - stop and turn on sharp waypoint turns
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Product version: see version.lua
+-- ============================================================================
+-- THE RULE (CLAUDE_MOVEMENT_RULES.md, "Sharp turns: stop, turn, go"):
+-- the old walkers (Sentinel) kept running forward while they turn, so a sharp
+-- corner is taken as a wide arc - off the path, into walls and packs. Every
+-- frame (movement.pulse) the next point of the walk Sentinel is on is
+-- compared with the player's facing:
+--   * more than ON_DEG off: the walk is held with Sentinel's own pause
+--     (reason "mf_turn" - a paused walk releases its forward and turn keys
+--     and presses nothing until resumed), and the player turns in place on
+--     the turn keys toward the point;
+--   * within OFF_DEG (or turned past it): the turn keys are released and the
+--     walk resumed - Sentinel runs on from there;
+--   * a turn never lasts more than MAX_S (then the walk resumes anyway).
+-- Turn keys only - never look_at, never a second walker. Not while casting,
+-- channeling, backpedalling, or with no Sentinel walk running.
+-- 3.7.1 (crash logs 2026-10-16 18:06): the pause made Sentinel end the
+-- walk as "arrived"; the turn was dropped the next frame and a fresh leg was
+-- started at once, still facing the wrong way, and held again. Now a turn
+-- started is finished toward its point even when the walk ended meanwhile,
+-- no new travel leg starts while it runs (R.turning, movement/nav), and a
+-- leg younger than movement/nav FRESH_LEG is never held.
+-- 1.1.0 SENTINEL PORT (as restedXP_questing 4.2.1, in-game log 2026-10-24
+-- 19:53): on Sentinel the hold did harm - it stopped Sentinel's own stuck
+-- recovery and every corner cost a stop + a new path request. Sentinel steers
+-- its own corners and recoveries, so Pv.HOLD is off: no new turn is started;
+-- the release path stays for a turn in progress. The next point is read
+-- through movement/nav (Sentinel get_current_path / get_path_index).
+-- FACING TRUST: the facing (get_rotation) is only used once it has matched
+-- the running direction TRUST_N times (as Sentinel's own use_facing does);
+-- a client whose facing never matches never pivots.
+-- ============================================================================
+
+local R = require("movement/core")
+local N = require("movement/nav")
+
+local Pv = {}
+
+Pv.ON_DEG   = 70      -- the next point this far off the facing: stop and turn
+Pv.OFF_DEG  = 15      -- turned to within this: walk on
+Pv.MAX_S    = 1.5     -- a turn never takes longer
+-- 1.0.11 (log 2026-10-20 18:16-18:17, Northshire Abbey: "sharp turn 71 left,
+-- 72 right, 77 right, 128 left, 83 right, 82 left..." every 0.8 s - the player
+-- turned left and right over and over at the door): the point turned to is at
+-- least MIN_DIST yd ahead (1.5 picked points the player was stepping over),
+-- a turn waits GAP_S after the last, NO PIVOT INDOORS (game_object:is_indoors -
+-- corridors and doors: Sentinel turns along its own path), and a
+-- FLIP-FLOP GUARD: FLIP_N turns within FLIP_S s, or the direction reversed
+-- twice, mute the pivot for MUTE_S s.
+Pv.MIN_DIST = 4.0     -- yd: closer points are never turned to (was 1.5)
+Pv.GAP_S    = 1.0     -- s after a turn before the next one can start (was 0.4)
+Pv.FLIP_N, Pv.FLIP_S, Pv.MUTE_S = 3, 4.0, 10.0
+Pv.INDOORS  = false   -- 1.0.11: the pivot does not run indoors
+Pv.HOLD     = false   -- 1.1.0: Sentinel steers its own corners (see above)
+local recent = {}             -- { t, sign } of the last turns
+local mute_until = 0
+
+local REASON = "mf_turn"
+local TRUST_N, SAMPLE_YD, MATCH_DEG = 3, 1.5, 25
+
+local active = nil            -- { sign = 1|-1, since = t }
+local next_ok = 0
+local trust = { ok = 0, bad = 0, x = nil, y = nil, logged = false }
+local enabled_fn = nil        -- set by movement.lua (GUI checkbox)
+
+local function wrap(a)
+    while a > math.pi do a = a - 2 * math.pi end
+    while a < -math.pi do a = a + 2 * math.pi end
+    return a
+end
+Pv.wrap = wrap
+
+local function keys_off()
+    pcall(function() core.input.turn_left_stop() end)
+    pcall(function() core.input.turn_right_stop() end)
+end
+
+---Stop turning and give the walk back (safe to call any time).
+function Pv.release(why)
+    if not active then return end
+    active = nil
+    R.turning, R.turn_cancel = false, false
+    keys_off()
+    N.resume(REASON)
+    next_ok = R.now() + Pv.GAP_S
+    if why then R.dlog("pivot", "turn done: " .. tostring(why)) end
+end
+
+function Pv.is_turning() return active ~= nil end
+
+function Pv.set_enabled_fn(fn) enabled_fn = fn end
+
+-- FOREVER QUESTING: 1.0.0 had the pivot OFF (only the outdoor unstick pressed
+-- keys during a walk); 1.0.7 (user: "Turn it back on" - Zygor style) - it
+-- pauses the walk ("mf_turn"), turns in place on a turn over ON_DEG, resumes.
+Pv.OFF = false
+local function enabled()
+    if Pv.OFF then return false end
+    if type(enabled_fn) ~= "function" then return true end
+    local ok, v = pcall(enabled_fn)
+    return not ok or v ~= false
+end
+
+---The next point of the walk at least MIN_DIST yd away, or nil. 1.1.0: read
+---through movement/nav (Sentinel get_current_path / get_path_index).
+local function next_point(_, px, py)
+    local pts = N.path_points()
+    local i = N.path_index()
+    if type(pts) ~= "table" or #pts == 0 then return nil end
+    i = (type(i) == "number" and i >= 1) and math.floor(i) or 1
+    for k = i, #pts do
+        local p = pts[k]
+        if type(p) == "table" and type(p.x) == "number" then
+            local dx, dy = p.x - px, p.y - py
+            if dx * dx + dy * dy >= Pv.MIN_DIST * Pv.MIN_DIST then return p end
+        end
+    end
+    return nil
+end
+
+---Facing trust: compare get_rotation with the direction actually run.
+local function learn_trust(px, py, rot)
+    if not trust.x then trust.x, trust.y = px, py return end
+    local dx, dy = px - trust.x, py - trust.y
+    if dx * dx + dy * dy < SAMPLE_YD * SAMPLE_YD then return end
+    trust.x, trust.y = px, py
+    local err = math.abs(math.deg(wrap(math.atan2(dy, dx) - rot)))
+    if err <= MATCH_DEG then
+        trust.ok = trust.ok + 1
+    elseif err >= 60 then
+        trust.bad = trust.bad + 1
+        if trust.bad >= 8 and trust.ok == 0 and not trust.logged then
+            trust.logged = true
+            R.log("sharp-turn stop off: this client's facing does not match the running direction")
+        end
+    end
+end
+
+---Per frame (movement.pulse). Holds the walk and turns in place on a sharp turn.
+function Pv.tick(t)
+    if R.turn_cancel then                      -- the bot stopped the walk itself
+        R.turn_cancel = false
+        Pv.release("walk stopped")
+    end
+    local c = N.client()
+    local me = R.me()
+    local busy = c ~= nil and N.busy()
+    -- a turn in progress is finished even when the walk ended meanwhile
+    if not (enabled() and c and me and (busy or active)) or R.backpedal_until or R.resting or R.unsticking then
+        Pv.release()
+        trust.x = nil
+        return
+    end
+    local okc, casting = pcall(function() return me:is_casting_spell() == true or me:is_channelling_spell() == true end)
+    if okc and casting == true then
+        Pv.release("casting")
+        return
+    end
+    local okm, mounted_taxi = pcall(function() return me:is_flying() end)
+    if okm and mounted_taxi == true then Pv.release() return end
+    -- 1.0.11: not indoors (is_indoors), not while muted by the flip-flop guard
+    if not active then
+        if not Pv.INDOORS then
+            local oki, ind = pcall(function() return me:is_indoors() == true end)
+            if oki and ind == true then return end
+        end
+        if t < mute_until then return end
+    end
+    local okp, pos = pcall(function() return me:get_position() end)
+    local okr, rot = pcall(function() return me:get_rotation() end)
+    if not okp or not pos or not okr or type(rot) ~= "number" then Pv.release() return end
+
+    if not active then learn_trust(pos.x, pos.y, rot) end
+    if trust.ok < TRUST_N then return end
+
+    local pt = (busy and next_point(c, pos.x, pos.y)) or (active and active.pt) or nil
+    if not pt then
+        Pv.release("no point ahead")
+        return
+    end
+    local diff = wrap(math.atan2(pt.y - pos.y, pt.x - pos.x) - rot)
+
+    if active then
+        local passed = (diff > 0 and active.sign < 0) or (diff < 0 and active.sign > 0)
+        if math.abs(diff) <= math.rad(Pv.OFF_DEG) then
+            Pv.release("facing the next point")
+        elseif passed then
+            Pv.release("turned past it")
+        elseif (t - active.since) > Pv.MAX_S then
+            Pv.release("time cap")
+        end
+        return
+    end
+
+    if t < next_ok or math.abs(diff) <= math.rad(Pv.ON_DEG) then return end
+    if not busy or N.leg_fresh() then return end      -- 3.7.1: never hold a fresh leg
+    if not Pv.HOLD then return end                    -- 1.1.0: Sentinel steers
+    -- sharp: hold the walk (Sentinel: stopped, walked again after the turn -
+    -- movement/nav N.pause / N.resume), turn on the spot
+    N.pause(REASON)
+    pcall(function() core.input.move_forward_stop() end)
+    keys_off()
+    local left = diff > 0
+    if left then
+        pcall(function() core.input.turn_left_start() end)
+    else
+        pcall(function() core.input.turn_right_start() end)
+    end
+    active = { sign = left and 1 or -1, since = t, pt = { x = pt.x, y = pt.y } }
+    R.turning = true
+    -- 1.0.11: the flip-flop guard
+    recent[#recent + 1] = { t = t, sign = active.sign }
+    while recent[1] and t - recent[1].t > Pv.FLIP_S do table.remove(recent, 1) end
+    local flips = 0
+    for i = 2, #recent do if recent[i].sign ~= recent[i - 1].sign then flips = flips + 1 end end
+    if #recent >= Pv.FLIP_N or flips >= 2 then
+        mute_until = t + Pv.MUTE_S
+        recent = {}
+        R.trail("move", "sharp turns back and forth (%s in %.0f s) - the turn stop is off for %.0f s",
+            flips >= 2 and (flips .. " reversals") or (Pv.FLIP_N .. " turns"), Pv.FLIP_S, Pv.MUTE_S)
+    end
+    R.trail("move", "sharp turn %.0f deg %s: stop and turn", math.abs(math.deg(diff)), left and "left" or "right")
+    R.dlog("pivot", string.format("sharp turn %.0f deg %s - stop and turn", math.abs(math.deg(diff)),
+        left and "left" or "right"))
+end
+
+---Test hook: reset everything.
+function Pv._reset()
+    active, next_ok = nil, 0
+    recent, mute_until = {}, 0
+    R.turning = false
+    trust.ok, trust.bad, trust.x, trust.y, trust.logged = 0, 0, nil, nil, false
+end
+
+return Pv

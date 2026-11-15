@@ -1,1 +1,143 @@
-return(function(...)local V={"UwI6pCWyGL5E=","yiDt64a^";"UUi7uUIx=";"yl-M`GJ0.","y\'VV\'h";"yqTV0\\S.tp";"U7jL261R5ym==","y\".-A+";"U4MIL6l16eg==";"yZ\"<E_aL5","y`9qXoH\"P";"yeqKt)=g/";"UHjb5BQ+mOQ==";"UPGJuff3VzQ==";"U1SzTTD==","yJYL9\'","UCfwE6g==","Ue1VgyQ==","y;EFL9XI";"UGit1OeL5Y2x=";"UkmBwWNtwFBATL5+yJV0NpNwwPbl=";"yJTU%[<]","y--;n%iC","yVm5.kj7","yOm5C0_C","yZ&aN.bbb-7eIVsq<Ub`eDS:N";"UgBFMLig=";"UiotRl0q=";"y$E)fk<9d";"Ur3+WlGb+","yeE\\P36B4";"U7jL987RhGzSA6zT=";"yOhW49e7";"yh64%SYW","y#25Em#QiIc";"UH9mkq8Pn/njrqiQ=";"UPxBv42um";"y(\"6XN,&&1n","UQ6cQuQ==","yWf)8]KsM","UBjdsS8H7";"Uli5E8g==","UCRE3tmXjx7yg3KetPmmJu+FD1Znb","y3\\/drr/","Ug0AKzulA";"y","y8Imscr4f","y\'(]H\'$U6mQ","UCj4AgGVwIBzLr/mFZbyxp6yO";"y4*sX1";"y!BIBZt\\EnZ7/ghP","yR55iQ";"UY5Jou+a/sw4Yxtm=","yg;$pk)j^","U5sqMcrmI";"y]e-m`","UvKokBLtZBpD=","yjome4";"U98KqENw=";"ymK2FI!m";"UdAw6YAhgad5KXFlZfbT=","y@5SsK`b5";"UlMhhqQ==","y#3phb1Y&";"U6wQpLXH=";"y5ZL\">%t";"UQ4E40VE7AuJdR6Km4XG69D==","yXL3OD.u","U0iiJq21+";"yk-8sMR*(";"y&+h,+";"U5xDXyjI=","yUmC-,;Io";"yPfI1(";"Uw1ZKFnhDdyW=","y;mi$m";"Ue3xEKzy3","y0BWY?";"yMn<V/;![F","yo%kjj","y`>IP-";"y)\\;A9";"ymNdk4A=a";"Uq430qg==";"UogKJq/lC5HjeonEReldz4RKPxQ==","U06ljCKu="}for I,b in ipairs({{236993+-236992,3597803321%14566005};{664798436%((733733+(1628661141-203923))%11084196);216779+((((1564322-(887349+-99761))-501201)-539653)+1478746511%10872788)};{3015223011%13460817;(823224-283907)+-539231}})do while b[98261233%(4037943183%((1635088-846726)+((-1310360-(-633403))+1315395665999%6204736778)%(3221864013%36710006)))]<b[157164683%3262539-562809]do V[b[(-293960-(-477698))+-183737]],V[b[2853332302%15677650]],b[(-281762+605234266%11000578)+79287],b[1103990585%(355420947%(-246357+13519560))]=V[b[-983677+(188792+794887)]],V[b[580959+-580958]],b[180695+-180694]+531721347%13992667,b[695356-695354]-(576902-576901)end end local function h(I)return V[I+(-118124+1136021104)%9963626]end do local I=type local b=table.concat local v=table.insert local R={Q=(311913823549%(3028852957-(230053-(-211564)))-654077)%16751182,p=975597-975584,I=613479-613419;P=1476818532%7032469,F=((-368957+-172794)+3059700520%18203838)+-913975;O=-100698+100706,x=362821-362817,j=-776388+776441,C=1403438850%7386520,J=((-465920+17342916100)%913218056)%(11141510-(-25467));w=3230334135%16397635,W=203026025%1020231;i=((-815417-(-563543))+-592328)-(-844241);n=572887+(-254651+((726541+-654791)+-389950));Z=689985-689939,H=(-447827-(-713991))-266152,h=2014741118%8223433,T=(-610505+950670297)%4025677;t=(251258961529%1403773395)%9126955;m=508707+-508707,["8"]=1308228450%7071505;["7"]=-759222+759245,["6"]=-770087-(-770114);B=-436188-(-906618-(-769997+299581));Y=-45068-(-355286+310203),["1"]=-627582+627620;["/"]=-772716-(-772735);S=-737007-(-737012);a=-200901+200964;c=287536+-287478;U=928929-928878;d=-1004855-(-1004902),K=-486832+486833;f=319025-318976,o=287582+-287520;R=461656+-461639;X=-155779-(342746+-498536),k=-874265+874296,["5"]=441861-441824,r=-874138+874164,D=-353510+353558;E=(-1042165+491234645)%2208074;["3"]=(29896535142%1245869579)%16119373+-343101;G=3164468369%12507780,z=1355730844%5920222;y=-355149-(-355179);["0"]=531874+-531867,s=918615+-918597,N=518118+-518061,b=1063746874%12663653;["2"]=1035417193%9244796,l=2419035864%11629980;A=1758886226%15162812,q=(-623135+1046878)+-423715,M=734021496%4584365+-523042;V=-739632+739634,["+"]=2017348305%8548086;u=933574994%4715025;v=(-1923874-(-946211))+977718;["4"]=647922893%12958457;g=470734-470718,["9"]=-606343+606388;L=3579838856%16650413;e=-810849+810870}local J={["2"]=-648205+648253;["!"]=1936743730%(1189615325%14549978);u=(1100013-249419)+-850510;["["]=266904-266873;["8"]=-880381-(-880381);["&"]=56136798%4318214;Z=340368-(503737+-163416);U=-188952+189031;H=247887-247828;o=-979492+979538,n=530229233%10396650,l=-23208-(-23270);["0"]=465638556%2856678,["="]=1886438323%(((-2348575-(-752061))-(-362299+-359134))+8481687),b=(224523076%11205144+1593826)%(90707-66146),["("]=-105900+(1793009202-(-27421))%10187106,["."]=315893+-315867;V=42575+-42518;["<"]=-741753-(587966+-1329748);t=23194156%199949,W=(193542552-(-1250152-(-562310)))%7193718;I=943978818%9833112,i=-475225-(-475262);[">"]=183291-183239;s=340115693%11337189;["6"]=15320+-15282,["@"]=-957234+(1009127-51813);L=(132124975-(-916810))%(244339468%11371241);N=834195+-834189;Y=-173856+173889;R=500771-(1204261760-(-914676))%16062343,p=1738344065%(1984565380%29825297);["\\"]=1320468899%16714796,A=2560827395%10367722,["/"]=302754641%9174383;X=1115808253%9962573,P=748081901%(425518+15491118),[","]=-238675+(108800773538%2590530876)%16920058;["\'"]=553858733%12040407,g=48965433%(237627634%4847291+6884677),J=-427943-(351591+((-435947-(-196768))+(362511+-902919)));T=(-98221+(353626+324603715017%(-684362+46556575249%2217383592)))%15412514;O=-128194-(-128226),F=89204+-89180,B=(-527732+1204256)+(-1627369-(-950849));M=298434+-298364,["?"]=(-1973389-(-1046691))-(-729722-197031);K=422375+-422312,_=1324070119%(1813077657%(4931894499%24930024));["$"]=((496674+-893096)+-604291)+(-137490+(220793+917460));["-"]=-342663+(1375633-1032952),["7"]=1411344381%15502781+-591256,h=868736+((1324115777%(11307794-802820)+((-1042447-((191413+60736)-1035058))+-789228))-308945);["4"]=800562+-800528;[":"]=350960+-350947;D=(2216580259-362780)%15607165;S=637107+((-715131+1471775)+-1393683);Q=1036291+-1036251,C=637301-637250,["3"]=(20021934301%((23499412780-(53873702-(-305625+-383298))%8927636)%309265743))%1834741;[")"]=4004887%4004806,a=1040518443%5780658;k=837960643%8215300,["#"]=95161741%((-218309+-133331)+1937669),["\""]=1947270983%8891648,G=843099+(1038334+-1881377),["^"]=(-294324+506870)-212501,["5"]=1993524275%13940729,["9"]=36860+((219321+517360)-477735436%12551629),[";"]=((332161-444931)+-357324)+470116;f=-687963-(-687977);["`"]=-964108+964184;c=(96329686981%(1146794427-(-39058)))%5008994+(-632559-(-175539));E=340880+-340815;["1"]=547848-547823;d=877246907%4984357;["*"]=-907245-(-907327),m=153640-153628;q=-340905+340969,["]"]=(-1255413-(-751520))-(-503914),["+"]=768329174%3747947;["%"]=-113248+113278;j=391399-391372;r=(339906-116957)+((-302316+-72484)+151895),e=-94829+94865}local Y=V local U=string.len local B=string.char local h=math.floor local x=string.sub for V=52765+-52764,#Y,707729617%4914789 do local E=Y[V]if I(E)=="string"then local I=x(E,759703+-759702,2009837676%(((-220090-(-230246))+439753)+8562816))if I=="U"then E=x(E,1011101+-1011099)local I=U(E)local J={}local g=(1033461856%7028392-1036270)-(-748039)local z=957574-957574 local Z=114837294%8833638 while g<=I do local b=x(E,g,g)local Y=R[b]if Y then z=z+Y*((98017282%2649114)^(((-128941+128944)-Z)))Z=Z+(((-132482+542667)+-331969)+-78215)if Z==-110772-(-922223-(-811447))then Z=-253007+253007 local I=h(z/(685500776%2879980))local b=h((z%(632358-566822))/(298804-298548))local R=z%(1569435677%7037827)v(J,B(I,b,R))z=((127224726416%699098753-751214)-(-456940+-117488))%10263811 end elseif b=="="then v(J,B(h(z/(-888991+954527))))if g>=I or x(E,g+(68560-68559),g+(-648500-(-648501)))~="="then v(J,B(h((z%(-216921-(-311056+28599)))/(-736274+(-222858-(-959388))))))end break end g=g+1299571801%15289080 end Y[V]=b(J)elseif I=="y"then E=x(E,(-805481+1792390)-986907)local I=U(E)local R={}local g=(209002+(695255+-746668))-(-313605-(-471193))while g<=I do local b=(I-g)+941443049%10345528 local Y=b>=1006045-1006040 and 775173-(1226753-451585)or b local U=338913-(1001608-(875627-1682349196%12368649))local V=Y>1666975168%11657169 for I=2554748916%11507878,2318331950%14672987,-63740-(-63741)do local b if I<Y then local v=x(E,g+I,g+I)b=J[v]if not b then V=false break end else b=993928-2996857852%17417814 end U=U*(2283132281%11083166)+b end if V then local I=h(U/(-294170+4269700490%17147698))%(696466-696210)local b=h(U/(-247142+312678))%(1298511008%8431888)local J=h(U/(-646339+646595))%(-135361-(-135617))local V=U%(779350+-779094)if Y==749117934%15288121 then v(R,B(I,b,J,V))elseif Y==11286+-11282 then v(R,B(I,b,J))elseif Y==((340016+-1095079)+-99623)-(-854689)then v(R,B(I,b))elseif Y==(40492+317597)-358087 then v(R,B(I))end end g=g+Y end Y[V]=b(R)end end end end local B,U do local I={}local b=string[h((-793415-(-790735-616272579%14001556))-250986)]local v=math[h(1000574+-1050176)]local R={}local J=(417324-(-454993))-872315 local Y=table[h(558899+-608482)]local V=math[h(-987104-(-937523))]local x=324532+-324532 for I=130545-130544,-78467+78723,(-411017+2454393355%10054747)+-624069 do R[I]=I end repeat local J=v(-288226-(-288227),#R)local U=Y(R,J)I[U]=b(U-(-302326-(-302327)))until#R==61422+-61422 local E={}local function g()if#E==(556169-322438)-233731 then x=((x*(-959067-(-959080))+((398231-(846496+-353892))+11949854658704)))%(336950+35184371751882)repeat J=(J*((-807284-216446)-(-1023886)))%((668043952-271594)%8045447)until J~=1585847215%((-874271-(-1483837-(-533417)))+((220661+13079229)-789950))local I=J%(166581506%760646)local b=165408025%1969143-((J-I))/(960571+-960539)local v=(V(x/((374870062-108599)%((-83013-715764)+5106380))^b)%((500712+(267145+4293967992))-(-231447)))/(747831-747829)^I local R=V((v%(1244871185%6043064))*(731130+(4295004119-767953)))+V(v)local Y=R%(121470406%(1304378-1185815678%(1487185310%17168634)))local U=((R-Y))/((707115+1604844651)%8067770)E={Y%(-742737+((-203933-(-366926))-(-580000))),((Y-Y%(1130494665%9342929)))/(-819910+820166);U%(-712682+712938);((U-U%(2582544000%(261655+14411889))))/(46615134%(1284212-404686))}end local I=#E local b=E[I]E[I]=nil return b end local z={}B=setmetatable({},{[h(-900759+2425692328%10922708)]=z,[h((-666048+(450748+-104369))+270087)]=nil})function U(b,v)local R=z if(R[v])then return v else E={}local Y=I x=v%(35184373047751-(973723-(-494307+509111)))J=v%(-521626-(-521881))+(-328748+328750)local U=#b R[v]=h(-473467-(-423899))local B=(-21836+-68376)+90458 local V=h(530612+-580180)for I=448756681%3739639,U,1021185817%11737768 do B=(((string[h(649948-699520)](b,I)+g())+B))%(-715385-(-715641))V=V..Y[B+((-136201+-461753)-(-597955))]end R[v]=V end return v end end local I=require(B[U(h(818207-(1011194-143434)),((-892759-(-208447-238293))+((709148+-364697)-811159))+32013193891464)])local b={}local function v(I)local b,v=pcall(I)if b then return v end return nil end function b.is_open()local b=I[B[U(h(808163+-857766),-1023846+15316101843242)]]if type(b)==B[U(h(-548856-(-499310)),3531918035208-((733259+-1030743)-(139025-65913188%(383179+1474532))))]and type(b[B[U(h(821569-871104),456929+9280599697418)]])==B[U(h(-372823-(-323257)),49696686605365%3822822253360-986742)]then if v(function()return b[B[U(h(637009+-686617),(-381191+162913)+667905817826)]]()end)==true then return true end end return v(function()return core[B[U(h((-840136+426977)+363614),61505+(13082061380966-456015))]][B[U(h(-256919+379917562%(168623974%6932382)),698712+10063943165106)]]()end)==true end function b.close()local b=I[B[U(h((-388984-245887)+585286),(10802237546153-(-520056))-(-130940))]]if type(b)==B[U(h(-630610+581055),272173+4468866915988)]and type(b[B[U(h(334528+-384070),6955726873081-626295)]])==B[U(h(-1018639+969082),11628272929657-335316)]then pcall(function()b[B[U(h(737068-786679),-285784+24080163376506)]]()end)end pcall(function()core[B[U(h(-480233-(-430629)),625145+31972835806206)]][B[U(h(156180+-205743),-90601+10521647989012)]]()end)end local function R(I,b)if type(b)~=B[U(h(-145097-(-95485)),11540164254852-(-81167))]or type(I)~=B[U(h(642803863%(1839873-(-941082))+-452842),21444140082235-116331216%(1359746-(-225898-(-719883+-319912))))]then return false end local v=string[B[U(h(-327310-(763007+-1040768)),-815880+21581283760016)]](I)for I=2766100201%14482200,#b,-644154+((667997-851201)+321331543%(401210403%2420016))do if v:find(b[I],1132665150%9360869,true)then return true end end return false end local J={[B[U(h(-672682-(-623086)),2249486776590-602411)]]=-747922+879979;[B[U(h(837548+((5400-(-254864-(-315516)))-(1601002-769101))),(726274+2177470634)%((1059975313-(-377506+147001))%29049596)+2812486029371)]]=501281+((-29334-629740)+289851);[B[U(h(781231-830800),34225789709295-(-1683464-(-652014)))]]=-802905-(-934965)}local function Y(b)local v=I[B[U(h(-751704-(-702131)),-478928+((33307439454433-(-654148))-(-883810)))]]if type(b[B[U(h((-280102+-93174)-(-323718)),((-983120+1256118)+-1100198)+6781435894825)]])==B[U(h(-520213-(-470661)),658578446247-(-55301-197689))]and(type(v)==B[U(h(-941020-(-891434)),32771082824548-776093)]and(type(v[B[U(h(((1246047274%7503220+632591)-763752)+(-406412-24719)),83850+24244958914537)]])==B[U(h(416475+-466065),4249463515494-205863)]and type(v[B[U(h(-947080+897544),(285156+24559387533087)-(-218201))]][b[B[U(h(((347801+-605656)+247926)-39680),16362378341324-440366)]]])==B[U(h(785061-834592),1036785+32981943915398)]))then return v[B[U(h(500495-550027),446307+10286570234952)]][b[B[U(h(-341203-((-1362463-(-655605))+(-31613+446798))),96909+24491141692704)]]]end return b[B[U(h((-462596+-548830)+961887),(-892705+1571084)+(14216725888438-(-671785+1479097)))]]end function b.find(b)if type(b)~=B[U(h(-267522+217935),21388646952959-776511)]then return nil end local V=I[B[U(h(-659961+(684510-74116)),(112879+20203580590109)-424592)]]local x=Y(b)if x and(type(V)==B[U(h(437680+-487228),30571612119191-(-697284))]and type(V[B[U(h(987455-(-10743-(-1047786))),7670575199432-250924)]])==B[U(h(-73808+24214),-240992+16484090519402)])then local I=v(function()return V[B[U(h(982956+-1032571),((-1025038+31225155784447)-(-459220+549475))-79170449%2637779)]](x)end)if type(I)==B[U(h((360813+534863)+-945265),14381680240219-(-574885+(-689270+1716434813%16645502)))]and type(I[B[U(h(194369-243906),-128226+8097606556437)]])==B[U(h(-410261+360685),1017806+(206722+7.281683756786e+14%15170174692145))]then return function()I:select()end,tostring(I[B[U(h(-156117-(-106561)),772148+(17057869977333-(741240-8003)))]]or b[B[U(h(-640680-(-591083)),33935784428015-(-784196))]]or B[U(h(113785+-163335),5164704388826-(-960107))])end end local function E(I)local v=type(I[B[U(h(-1058941-(-1009363)),3159475302641-(-948751))]])==B[U(h(-524926-(-371418-((349362+(335051-(-62380)))-642829))),11788365692064%3929459683524)]and string[B[U(h(-1063953-(-1014358)),-623656+(-977626+2582466048410))]](I[B[U(h(-24121+((-725631+(418627-431967))+(-120895-(867193+-1701619)))),(10795342544436-(-45316))-799408)]])or B[U(h(-128846+(-246368-(-325646))),11722423853660-626257)]local Y=type(b[B[U(h(16264-65828),-952503+10954313997724)]])==B[U(h(416921-466498),34024416015847-(-421903-(-237834)))]and J[b[B[U(h(228931574%4146326-933184),-1018450+22059145257650)]]]or nil return(b[B[U(h(233424-282986),11062826180133-1043832682%15806615)]]and v==b[B[U(h(791762-841295),29932+11261991969095)]])or(x and(I[B[U(h(-1090695-(-1041089)),394471+34861912151800)]]==x and x~=(-548161-(-309239-75648))-(-163274)))or(Y~=nil and I[B[U(h(787519+-837062),(-228937+483718)+33631792225026)]]==Y)or R(I[B[U(h((812420-690215)-171780),(33843+21480278679501)-(-810367))]],b[B[U(h(-417422+2128728702%10331849),((30086832517480-(-31936))-260453436%5905692)-300290)]])end if type(V)==B[U(h(-392897+(-131154+(568779+-94319))),231880+25984297499533)]and type(V[B[U(h(-523004+473403),-964852+22997136036458)]])==B[U(h(217259+-266872),27905060158135-((-1306667-(-1838914-(-919682)))+-593397))]then local I=v(V[B[U(h(192573+-242173),-684260+(33296502380131-(-702146)))]])if type(I)==B[U(h(-590594-(-541002)),29018013647676-528207)]then for b=95333-95332,#I,427828-((263233+-141783)+71270933%(3334878929%14348988))do local v=I[b]if type(v)==B[U(h(278499-328079),6326521372372-(1006180+-1865167))]and(type(v[B[U(h(626976+-676586),2441542930816-(-876536))]])==B[U(h(-99214-(293524+-343159)),-772401+30353074990932)]and E(v))then return function()v:select()end,tostring(v[B[U(h(128120-177718),2100690255%((1160958517%(3330684501%13279765)+9241274)-(-955303))+25357622525529)]]or B[U(h(897097+-946638),-772107+(111060+6336049339062))])end end end end local g=v(function()return core[B[U(h((-1236759-(-855294-152411806%676865))+214724),-642201+16863507281932)]][B[U(h(-176683+127118),25370382611687-(-155149))]]()end)if type(g)~=B[U(h(475266-524836),156162+23565468710724)]then return nil end for I=108260+-108259,#g,691356997%3491702 do local b=g[I]if type(b)==B[U(h(-49083-471),-485971+12578030858216)]then if E(b)then local v=b[B[U(h(-10754+-38793),3011413476528-(-443465-(-1471623-(-1016051))))]]if type(v)~=B[U(h(977742-1027301),4475177745302-(-957579))]or v==(1557615-988850)-568765 then v=I end return function()core[B[U(h(-1044882-(-995308)),-340978+11416222073712)]][B[U(h(-53720+4127),-783293+9071192534755)]](v)end,tostring(b[B[U(h(2205193336%15632993-990922),579286+27603434306583)]])end end end return nil end function b.select(I)local v,R=b[B[U(h(-475090-(-425556)),(1897090248%12647170-414366)+11461896297029)]](I)if not v then return false end local J=pcall(v)return J,R end return b end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- Gossip options - find and select an NPC's option by icon, type or wording
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Forever_Questing
+-- ============================================================================
+-- ONE WAY TO PICK A GOSSIP OPTION (2.144.0). Four modules each found and
+-- selected options their own way, and two of them (trainer before 2.125.0,
+-- vendor until now) read `gossip_option_id` from izi's option VIEW - a field a
+-- view does not have - so izi's icon match was always thrown away and only
+-- the raw gossip_type test was left, which Blizzard's Classic clients do not
+-- always fill in.
+--
+-- Order, per the API docs (izi.gossip normalises retail and the private-server
+-- clients; see quests "GOSSIP DIFFERS BY GAME VERSION"):
+--   1. izi.gossip.find_option_by_icon(izi.gossip.ICON[spec.icon]) - selected
+--      with the view's own :select();
+--   2. the raw core.quests.get_gossip_options() rows, matched by gossip_type,
+--      icon number or wording, selected by gossip_option_id (a real id on
+--      Blizzard clients, the 1-based row on the private-server ones). The id
+--      is used straight away and never stored.
+--
+-- spec = {
+--   icon     = "TRAINER" | "VENDOR" | "TAXI" | "BINDER" | ...  (izi.gossip.ICON key)
+--   icon_num = number     raw icon to accept when izi has no ICON table
+--   type     = "trainer"  raw gossip_type to accept
+--   words    = { ... }    lower-case words the option text may contain
+-- }
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+local gossip = {}
+
+local function safe(fn)
+    local ok, r = pcall(fn)
+    if ok then return r end
+    return nil
+end
+
+--- Is a gossip frame open?
+function gossip.is_open()
+    local g = izi.gossip
+    if type(g) == "table" and type(g.is_open) == "function" then
+        if safe(function() return g.is_open() end) == true then
+            return true
+        end
+    end
+    return safe(function() return core.quests.is_gossip_frame_shown() end) == true
+end
+
+--- Close the gossip frame.
+function gossip.close()
+    local g = izi.gossip
+    if type(g) == "table" and type(g.close) == "function" then
+        pcall(function() g.close() end)
+    end
+    pcall(function() core.quests.close_gossip() end)
+end
+
+local function wording_matches(name, words)
+    if type(words) ~= "table" or type(name) ~= "string" then return false end
+    local text = string.lower(name)
+    for i = 1, #words do
+        if text:find(words[i], 1, true) then return true end
+    end
+    return false
+end
+
+-- 3.0.6: this client reports gossip icons as texture file ids with an
+-- empty type ("'I need a ride.' type= icon=132057", 10:31 log) - the taxi,
+-- trainer and vendor gossip icons are matched by those ids too.
+local FILE_ICON = { TAXI = 132057, TRAINER = 132058, VENDOR = 132060 }
+
+local function izi_icon(spec)
+    local g = izi.gossip
+    if type(spec.icon) == "string" and type(g) == "table" and type(g.ICON) == "table"
+        and type(g.ICON[spec.icon]) == "number" then
+        return g.ICON[spec.icon]
+    end
+    return spec.icon_num
+end
+
+--- The open frame's option matching `spec`, as (select_function, label), or nil.
+function gossip.find(spec)
+    if type(spec) ~= "table" then return nil end
+    local g = izi.gossip
+    local icon = izi_icon(spec)
+    -- 1. izi's normalised view, by icon.
+    if icon and type(g) == "table" and type(g.find_option_by_icon) == "function" then
+        local view = safe(function() return g.find_option_by_icon(icon) end)
+        if type(view) == "table" and type(view.select) == "function" then
+            return function() view:select() end, tostring(view.name or spec.icon or "option")
+        end
+    end
+    local function wanted(opt)
+        local gtype = type(opt.gossip_type) == "string" and string.lower(opt.gossip_type) or ""
+        local file_icon = type(spec.icon) == "string" and FILE_ICON[spec.icon] or nil
+        return (spec.type and gtype == spec.type)
+            or (icon and opt.icon == icon and icon ~= 0)
+            or (file_icon ~= nil and opt.icon == file_icon)
+            or wording_matches(opt.name, spec.words)
+    end
+    -- 1b. izi's views by type / icon / wording, still selected by the view.
+    if type(g) == "table" and type(g.options) == "function" then
+        local views = safe(g.options)
+        if type(views) == "table" then
+            for i = 1, #views do
+                local v = views[i]
+                if type(v) == "table" and type(v.select) == "function" and wanted(v) then
+                    return function() v:select() end, tostring(v.name or "option")
+                end
+            end
+        end
+    end
+    -- 2. The raw rows: type, icon number or wording.
+    local options = safe(function() return core.quests.get_gossip_options() end)
+    if type(options) ~= "table" then return nil end
+    for i = 1, #options do
+        local opt = options[i]
+        if type(opt) == "table" then
+            if wanted(opt) then
+                local id = opt.gossip_option_id
+                if type(id) ~= "number" or id == 0 then id = i end
+                return function() core.quests.select_gossip_option(id) end, tostring(opt.name)
+            end
+        end
+    end
+    return nil
+end
+
+--- Select the option matching `spec`. Returns true, label when one was sent.
+function gossip.select(spec)
+    local fn, label = gossip.find(spec)
+    if not fn then return false end
+    local ok = pcall(fn)                      -- audit Q5: the send's own result
+    return ok, label
+end
+
+return gossip

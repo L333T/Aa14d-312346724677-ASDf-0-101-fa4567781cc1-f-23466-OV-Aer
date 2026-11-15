@@ -1,1 +1,369 @@
-return(function(...)local Z={"zLoW>6<m","zPSmm=jb!","zEGco`(/a>V","z=Tn,";"!MdnUuFsA";"z#E2SblIfUdP-cX`^nL%[";"zHJ5<:=LQFMl3";"zaA>I3(=","!mq+ihrU=";"!opEo9lb=","!KdVYcKUTYeg=","zc#OH8WO";"zeKs&8Eo.5Y";"!I3a2N8SC/AP1YEeM","zA783o@8BI.QdLq","zA)HkU%(";"!unOOMIBdzbJtk3==";"z6WL>#@b!Xg","!AtiTWBn=";"za$8B\"<P","!JM+tTRE=","zBTc&sY=";"z>JKu+XYM";"z.8dmU(ZM4^RK-","!BNBpCo0N4M5xWKNENI==";"znn+RgDU:Dc";"z?>@bMI^e&%\\DlE=";"!tCBeqRphAN+2eI==","z>Lb*>^[5c*299Ij";"zWPd@@qT\'Z*THKR9,n#h$%ef98","!+8PQDCIeLULO8QK=";"!l24t4W3=","z\\l8me8.ofR","!UVkmiosX","zq]7A>R&";"!zOLvk2XJPuLzvb2y2Kj=";"!wq3zyrK=","!UfskxG9=";"!NP4msNxweRGYiRu=";"z)EG!gp*<sY","!ESphmNf41Y/KyA==";"!6I40A0iGBLONNGJIFj/S9jQ=","!7WYXoBSBhtBaqc3=","!dvRKiHECV9jg3U3=";"!lzZ/vg4npxNM","!79Z+8SADWCCRFKO=";"!kqFKeI==";"z1[&<Tt\"X","zcM]M),hI*SDD1od/ea5C";"!nIL7GJiXnEIYxA==";"zEVt,.FJph3k7Tf%MLBucKT","!LDeFbK==","!MvsZ+6iSl453zULm4rmvs4n=";"zi&O_QpGpkW!pVFa&ki2EliJBf_M";"!RJpV3FTP";"zY@;JH;2$","z*@?l<Bej9!b9,U";"zEj#7a)B#-1U,35f\'YP","z&G>PR0REW]fG","!YmPo4RQCHclWuoErQA==","znY5GM9u";"!bBi5h2VoeQ/sv3==","!oQ8Ar3xGlNlL6sHPe1ZWtteExK==";"zH41<@d+;Cr7\'gXfT:KNj[*!O\\";"ze*-!e5s!i>cHktVru$62oE\'QA";"zXK8*eCt*1Ol*p+A","!8eOFzjn=","!/1Y5osF=","zk+:PedqT2fC#","z`s*&RG8<Ve0+8","zidYG#FqQ";"!LSv+CKK7fyuWDaQ=","!vS3fK6UfzQezxqoLYy8hSapA","zm04SoH&O","z.k)tm_VH0]X:^J";"zdYC1QK9rD5`icI(jOH6B<m";"!UVGTsR4m","zDo/Bb0_?","!QC0fF2+E+yAom3==";"z82$+*G^N;fIcm+;@l!_`(&h";"zE>H\"";"!l7TFxtbHPw0v","zED9UACno[Ca%GP";"z#D`^J88CjBMpW:=AS.","!wUVJCrQLMeb2JA==";"!dWD4W87i1p7HlKCrL3==","z*>Zr","zr[+8i/6Dkhtu!D]m?))doa.QWf.:RUci8";"!8k9CWS+Vd4FLUA==","!xDm+gE7PuVH86A==","!UVE=","!nsPGZ9u=";"zpI\\:";"zrR02>Wkn^igP";"zG[-ctqhK#Ut6Zm[";"zQ[K2$4aa2C","!C6wCzkSr7ZEGd/3MuRu9+I==","!RwKtxSzHPAU=";"!OWMD7Vn=","!uRATPjn=","zkK\\dQ[S";"!HNp5TVAnH6Q=","!M2u=";"zb(o$ntLmMo4hV8A!N,G1.rN?fe-4CU`hJg_,e9LJF0G6c)pD*qXj[DBOZc";"!yltE4fg+BoRB","!/2bTYzQpiuO=";"zr.8?EFZn\";","z<5=N!,2L","z?ss<e%\'*h_","z^+c*F!:\'IR";"!QvnsBk7myStGV3==";"zrVE1WY*","zW]U+=fBM","!fSeBtBU=";"ziqB=or6M","z<Y=ZLfF","ziH_I?;VKte3Nh","zQtn+T","zTC\'UPeVb^%";"!z1YG/FcloK==","!5l0P/vxJ5t+Cl5w2BA==","!N/ddS3==","!RkvLibEt98VDKSuijRsOjfnG","!g4x4K+YzOEq6aiIlILXJ";"!av9ai7mqSFLd","!Hif3eJLDakIl","z+,GLQKX2>3","!n7y7J55x4YXApTViTRxQ3Wep9CxMBP/SyLiK536lHiUyBjd4PRGhQKk79o51b1I8QKblLQj92tAcAyyQlygEr4fp0K==";"z","z[*/7O\\rAWF#fcLj\\)u]@";"!Mrd+Ct23TD9=","!YaFL7D5iMKPq","!eD13eLn=","!fndFRNA=";"zG/)`J\'b)B!(f";"zhs\'HEI/G","z)>MAPnOYe+","!5m/vLsnP4Fj62Rmv";"!rkAf","z-diHFr]7]\\/)[UaW#j4!7=";"!Bp0UhaK=","!Oi0qTSn=","!NP4diVxXZK==","!1VJ/KSeNe4meOQ+7","!ACG6","zCmBl9","!9P4QfAEtB51QPK==";"!jpwwUA==","!d6ImwDcH";"zDSl_#*F","z(\\!A[(Ar";"!QddVhF3=";"zANF]YoV/YPlADiEhT\\j#;G$iW-ZV`CZBtj","!UN2pjByFyfH9oXshdkB7sK==";"!VEGBr1oz","!Y9SLfHEVqGvO";"!LsmHmZeq";"!G93=";"zoQK?u$Yo$kIBLuSo0Z]tC/+","!Aln=";"!E3==","!6PMT8o/cVZtrlxeURkO=","zj8#";"za-Lb&W&T";"z38TKg$Gu;*D/H";"zC8]_s?XP*-1ZX)9))JZFZjAY","!mta810zddZE+";"z>u4JY\'0&EXTq<:"}local function j(q)return Z[q+(116968+(775603-841603))]end for q,i in ipairs({{-836708-(-836709);-39569-(-39737)},{((-1325711-(-761870))+1337687582)%5594660;71514081%(-243972+3819668)};{-237449+237611;-983027+983195}})do while i[-320118+320119]<i[-18388+18390]do Z[i[454533+-454532]],Z[i[(689661-((524632-(-382878))-6203))+211648]],i[667147175%3810383-330149],i[1189700696%15252573]=Z[i[7499+-7497]],Z[i[-900665-((-935199-834771)-((-934917+165990)+-100377))]],i[296705+((-397469+344395)+((476502+-806479)-(-199041-(-112694))))]+(183702655452%2296369637)%(5652300666%(6450912930%28564033)),i[-578463-(-578465)]-(-2437+2438)end end do local q=string.len local i=string.char local e={B=1342766401%(856764+8095012);[","]=321896+(-970128+648299),[";"]=(169381086-(-106588))%688974;["."]=645047050%7950624+-1046453;Z=284734+(-1239376-(-954676));H=170178+-170149,["4"]=824093707%4527987;["*"]=593724159%2650554,u=205594-205543,["6"]=-868243-(-868292);E=768450+-768430,["["]=-283434-(-283514),["9"]=(557684+-1543444)-(-985770),["8"]=288563+-288507;b=330831-330787;G=-387379+387406,["0"]=-838875-(-838880),["3"]=759810727%8258812;["\'"]=-249818-(-249883),j=1019147+-1019147,O=-168976-(-168978),W=180179171%(39966664%3871542),["^"]=677034+-676991,["?"]=120697923%4642226;["7"]=-332608+332677;t=411210+-411155;f=-856489-(-856525),e=1193701107%((687263+5629081)-(-1227200-(-874823)));["/"]=(-623919+1195775981)%7612433;L=210476-210469,["-"]=670697+-670678;h=-798198+798239;[":"]=239958185%1153645;["`"]=373748-373671;T=236057+-236046,q=(36408906670%234900440)%4258889;Y=509671-509593,["#"]=(-831670+244329)-(-587379),["%"]=59561+-59539,["("]=953184-953142;["2"]=((-591573-410240)+1594986)-593169;o=-797860+797924;M=1537362360%7117418;["@"]=-791870-(-1052449-(-260539));X=2860586519%(12999366-1030385),k=2020215405%11161411,i=338920-338896;V=-522261-(-522277);["5"]=((782576+133259400465)%2514555479)%11643247;["<"]=1391481725%13509531;["1"]=134826-(12895926894%(31689741502%130466161-(-306299)))%2785159,["!"]=-317320+317353,S=-437631-(-437715);d=1297803699%6064503;["&"]=(-413676-630191)+1043893;A=1027564564%4126765,P=1027791-1027725,U=772257+(-1066629-(-294448)),J=(-144690-(1343865-((1827180-683877)-561400)))-(-906669),l=235183+(748618754%13600041+-851636),Q=-915501-(-915532);_=(47938223426%326127410)%(-756289+12314201);["$"]=456851+-456777,K=-846294+846344,C=-214576-(-214644);["="]=2779877354%10944399,["]"]=-726761+726764;I=459054377%5530775,["+"]=3017862896%(-921153+14042296),p=-598176-(-139899-458352),F=-465031+465085,["\""]=1015739+-1015656;a=552826417%4125570;["\\"]=2698434177%(12015725-(-565872-312945288%11587340)),m=2728241823%(68136+((55887-362058)+12868784)),s=(-452769-42772)-(-495623);R=958956+(-789772+-169139),c=-474291-(-474312),D=1507438764%6414633,[")"]=100925+(-861078-(-543089-217126));N=988105+-988047;r=-905396+905467;g=1987191199%9032687;[">"]=294617+(336836-631440);n=15191+-15173}local G=table.insert local O={L=329567854%1743745;M=((((929631060-349058)%8515904+-51206)-335364)+325316009)%4656827;R=1208643926%8695280,Z=(858396-294043)-564323;i=542556+-542529;t=839598-839559,["4"]=70616+((-778292+1283942)-576205),H=(467457-771505)-(-304095);["9"]=(-767233+(881420312%(15361983-(-147853+582865))+449676636))%(967241594%11175374),E=-493831+493843;o=(195413873-865890)%1231316;b=904221+-904169,Q=-135198+135206;S=-501219+501262;P=38885-38832;y=966904225%7673843;B=908480+-908471;e=229319+-229290;["1"]=-131076-(-131118),g=-1003541+1345678971%6313030,Y=775899+(((-1175853-(-689090))+-569306)-(-280204));s=827401065%(728914+7003806);["3"]=-143488-(-143536);O=49415+-49371;K=145498886%(10707280-(-484942));W=-738037+738040,["6"]=462867-462866,["5"]=293333358%((-601637+83982951559%(1376277533-(-686589)))%10560048);m=(-1065893-(-510136))+555802;F=976573+(-1032663-(-56094));J=1512679967%6520172,j=1064751781%9950951,k=-135017-(-989429-(-854391));["7"]=-1011208-(-1011270),["2"]=726254-726195,l=153245300%3737690;T=802756+-802710;A=187317756%8514442,r=481718+-481707,["8"]=(-547965-(519169+-625901))-(-241832-199415),["/"]=-133205-(-133236),C=-852192-(-408237-443973);x=23474321%((-386546+2313137)-808767);v=-786628-(-786650),n=13790+(896105-909839);a=34309+-34249,G=1029994+-1029989;h=1004448-1004422;c=(271630+205452)+-477069;w=-711027-(-711060);U=1835873074%9713614,q=((601749-116068)-267754)+(-815354-(-597478));I=-363414-(-363430);z=-248682-(-248739);N=98540-98517,d=20517177%2564642,["0"]=1336975133%(6398953-(-457176))-1969641969%12873281;["+"]=(17812816570%101244842)%4129095,X=3116348037%15581740;D=-698998+699017,V=(429996+1231252466)%7331443,p=923721867%14662251,f=920307090%((743365+3405227289)%16319552);u=912267-912247}local g=table.concat local v=math.floor local Y=type local I=string.sub local r=Z for K=885752+-885751,#r,1112149397%7832038 do local x=r[K]if Y(x)=="string"then local Y=I(x,482606645%9280897,-12109-(-12110))if Y=="!"then x=I(x,342651922%6589460)local e=q(x)local Y={}local a=-457978+457979 local R=-123775+123775 local S=(-951369-19812)+(1859459-888278)while a<=e do local q=I(x,a,a)local g=O[q]if g then R=R+g*((74801+-74737)^(((-423900-(-423903))-S)))S=S+(248480+-248479)if S==564841444%((211171831-707821)%9014174)then S=(76350038282%(107924200622%(482964816-(-1003203))))%3444342 local q=v(R/(-241947-(-307483)))local e=v((R%(404060047%4344027))/(-195817-(-196073)))local O=R%(310044621%10691185)G(Y,i(q,e,O))R=-760542+760542 end elseif q=="="then G(Y,i(v(R/(670878770%7136311))))if a>=e or I(x,a+(-309418-(-309419)),a+(-762593-(-762594)))~="="then G(Y,i(v((R%(415727+-350191))/((649327+(471403467-(-593251+-410256)))%8601019))))end break end a=a+(-913286+(1530827-617540))end r[K]=g(Y)elseif Y=="z"then x=I(x,-816754+14688534%(5358979-735053))local O=q(x)local Y={}local a=952532+-952531 while a<=O do local q=(O-a)+(199216281816%809879525-728494)%8281976 local g=q>=-566923+566928 and 18756968%((1935678039-(-173303))%14994859)+-582591 or q local r=-993823-(-993823)local K=g>-521219-(-521220)for q=-1010482+1010482,11922772%331188,-289498-(-289499)do local i if q<g then local G=I(x,a+q,a+q)i=e[G]if not i then K=false break end else i=(-681789+81569505)%594762 end r=r*(-416650+(-194832+611567))+i end if K then local q=v(r/(924367316%18151802))%(599941-599685)local e=v(r/(676107+((398216+-572390)-436397)))%(858065-857809)local O=v(r/(704132-703876))%(1216464502%7113826)local I=r%(-550366-(-550622))if g==-691861+691866 then G(Y,i(q,e,O,I))elseif g==-785665-(-785669)then G(Y,i(q,e,O))elseif g==655479-(1078947-423471)then G(Y,i(q,e))elseif g==405679+-405677 then G(Y,i(q))end end a=a+g end r[K]=g(Y)end end end end local t,l do local q=table[j(122106740%(4354732930%25083938)-(-778784+1243217))]local i={}local e={}local G=string[j(-182108-(-131281))]local O=math[j(-711207-(-660309))]local g=math[j(1115012273%4372283+-130967)]local v=(-854513+(980704968-(-952719)))%5131029+-776633 local Y=-583191-(-583191)for q=897176-897175,-606258-(-606514),-734624-(-734625)do e[q]=q end repeat local g=O(478735-478734,#e)local v=q(e,g)i[v]=G(v-(386760+-386759))until#e==-410713+(323636-(-87077))local I={}local function r()if#I==(-1140464-(-793000))-(-347464)then Y=((Y*((904690+120006)+-1024527)+(3800897328299-300722)))%(-108433+35184372197265)repeat v=(v*(515199-515069))%(16446549%4111573)until v~=392872+-392871 local q=v%(92536580%2372732)local i=(214154-214141)-((v-q))/(763379+(925444+-1688791))local e=(g(Y/((((-367999+(447226+(156774-(1090935-240857))))-(-135329))-(-416141))-(-62609))^i)%(679531769320%4300876669-(-835009)))/(409869662%1607332)^q local G=g((e%(((-639667+1951926837)-70913)%(1734981448%12864888)))*(715186299766%4308432318))+g(e)local O=G%(1163971822%6727782)local r=((G-O))/((-582094+(152135+1496875515))%(689171+11576239))I={O%(-205472-(759090-236556228%1301610));((O-O%(-1026820+1027076)))/(373402342%12875934),r%(4136088211%16610795),((r-r%(673227+-672971)))/((119369023072%(47505191818%913874731))%9450978)}end local q=#I local i=I[q]I[q]=nil return i end local K={}t=setmetatable({},{[j((92860+-651839)+508147)]=K,[j(-967222+(438395-(-477891)))]=nil})function l(q,e)local G=K if(G[e])then return e else I={}local O=i Y=e%(35184372725076-636244)v=e%(-762904-(-763159))+(-319761+319763)local g=#q G[e]=j((-163714-259900)-(404810-777578))local K=(211313-(-118797))+-329918 local x=j(((-737976+850869)+-1049528)+885789)for i=(-434258+1582231359)%(5457823344%29273429),g,1155089755%(260450418%16376105)do K=(((string[j(-230904+180047)](q,i)+r())+K))%(207995-207739)x=x..O[K+(653817-653816)]end G[e]=x end return e end end local q={}local i=nil local e={}local G=nil local function O()local q,i=pcall(require,t[l(j(86570+-137461),127708892%1763007+21868080519133)])if q and(type(i)==t[l(j(((256860+-1099848)+1434318)-642289),556102+12688305553296)]and type(i[t[l(j(997655+-1048485),((24792851204055-742745)-596618)-22891)]])==t[l(j(949191-999995),576349+27145975123632)])then local q,e=pcall(i[t[l(j(421571+(-554008-(-81555))),1999670481863-(-478601+816976))]])if q and type(e)==t[l(j(984212+(1011756+((-804711-(-846523))+-2088647))),61412852097312%((8773267048474-(70916-(-349801)))-444975))]then return e end end local e,G=pcall(function()return core[t[l(j((804649+-1608377)-(-752928)),-445784+2621606786153)]]()end)if e and type(G)==t[l(j(714012-764909),790737+22525051044052)]then return G/(322219-321219)end local O,g=pcall(function()return core[t[l(j(-169422-(-118494)),-914603+10248026075047)]]()end)if O and type(g)==t[l(j(-626982-(-576177)),23436269727570%2130570346817)]then return g end return(126868785740%803039172)%6824446 end local function g(q,...)local i,e=pcall(string[t[l(j(-610458-(-1060415-(-500783))),16279478833915-(-705260))]],q,...)if not i then return end if G then pcall(G,e)return end local O,g=pcall(require,t[l(j(271460-322422),-577114+27734665297238)])if O and(type(g)==t[l(j(-231548+180714),11076540278153-525817)]and type(g[t[l(j(881112+(622197+-1554192)),933769+(16325966288797-724995))]])==t[l(j(-384404+333447),-1034691+23127931307480)])then pcall(g[t[l(j(-675768+624926),974037+13902045937512)]],t[l(j(299088+-350035),-481654+9108331617160)],t[l(j(942452211%5539943+(-978076+265363)),789130+(-140465+34159712341729))],e)else pcall(function()core[t[l(j(-97663+46769),39188586035441%3918858657626)]](t[l(j(312983-363933),23556926335848-(119639-306137))]..e)end)end end function q.set_logger(q)G=type(q)==t[l(j(-264522+((-855028+1251309)-(351927+183631727)%(833715+548247))),(26689784997842-993326)-1000908)]and q or nil end function q.helper()if i==nil then local q,e=pcall(require,t[l(j(-624288-(-573466)),16169556371933-955524)])i=((q and type(e)==t[l(j(498782+-549605),21436375523926-(-480726))]))and e or false end return i or nil end function q.id_of(q)if type(q)==t[l(j((1312285-1024155)-339049),486092+34157101214286)]then return q end if type(q)==t[l(j(762393-813256),-745196+14429232491060)]then if type(q[t[l(j((254103+-1291071)+986153),(-689792+9053624004185)-988952)]])==t[l(j(-687999-(-637133)),12280554482124-(-511260))]then local i,e=pcall(q[t[l(j(249820-(27991-(-272701))),13214387538415-(-76809))]],q)if i and type(e)==t[l(j(-1009869-((-956344+718672)+(-889464-(-168085)))),26842607036843-149145)]then return e end elseif type(q[t[l(j(-394219-(-343402)),(-233605+180900)+25440920931650)]])==t[l(j(-242286-(-191447)),-592061+17946320648332)]then return q[t[l(j(550902-601786),9461527419962-(-656416))]]end end return nil end local function v(i,...)local e=q[t[l(j(228334-279235),5869392104222-(-689305))]]()if not e or type(e[i])~=t[l(j((339075-(-363228))-753180),-943773+613876899683)]then return nil end local G,O=pcall(e[i],e,...)if G then return O end return nil end function q.has(i)return v(t[l(j(-816619+765803),1386590303982-183157)],q[t[l(j(462563-513470),(492201+16900154258686)-(987363-849861))]](i))end function q.on_cooldown(i)return v(t[l(j(298299-349210),(-85713-(15074+-927679))+11917952663942)],q[t[l(j(-593635-(-542681)),4854999764246-(((105757-383360)+((-317151+-112176)-(-1019823)))-736464))]](i))end function q.in_range(i,e,G,O)return v(t[l(j(205511+-256435),22417989159484-473519)],q[t[l(j((-786767-(-418976))+(331086-14101)),(-953107+623349)+24256861826462)]](i),e,G,O)end function q.within_angle(i,e,G,O,g)return v(t[l(j(-5497+-45424),-962120+3652304059853)],q[t[l(j(592911-643786),160650+20012164414694)]](i),e,G,O,g)end function q.cost(i)return v(t[l(j(4057-54974),-688858+22635653686234)],q[t[l(j(-210673+159707),16261489122043-83566)]](i))end function q.can_afford(i,e)local G=q[t[l(j(875904+-926857),25784159169117-(-446933))]](e)local O=v(t[l(j(73271+((-2036326-(-1009440))+902802)),-825952+13992091250758)],G)if type(O)~=t[l(j(-374939-(-323996)),776567+32026974561659)]then return nil end return v(t[l(j(-149711-(-98866)),206575+7496248167898)],i,G,O)end local function Y(q)if not q or type(q[t[l(j(917286-968123),36897+15573405512798)]])~=t[l(j(599311+(-1268823-(-618639))),17862049418846-51479)]then return nil end local i,e=pcall(q[t[l(j(842396-893342),28278475449769-965549)]],q)if i then return e end return nil end function q.why(i,e,G,O)if q[t[l(j(305855-356658),10393329658652-1035734)]](i)==false then return t[l(j((-24987+860241)+-886164),4670245714030-(-213070))]end if q[t[l(j(-943488-(900680+-1793250)),-714701+34216276647621)]](i)==true then return t[l(j(199476+-250420),-994876+7710554377100)]end if e and q[t[l(j(852471+-903361),(1508674-961980)+4832792891409)]](e,i)==false then return t[l(j(-845142-(-794333)),69295468521571%6299588985842)]end if G and G~=e then local g,v=Y(e),O or Y(G)if g and(v and q[t[l(j(433716-484651),162808+9840074160316)]](i,G,g,v)==false)then return t[l(j(871070+((718770+-2083073)-(-442353))),6082387700908-(-570549))]end if g and(v and(not O and q[t[l(j(507727406%(5169565740%(22575124-(-349536)))+-1019677),26808841549866-321342)]](i,e,G,g,v)==false))then return t[l(j(-832998+782134),((741289671%10292009+-1156142)+7532554772899)-(-876536))]end end return t[l(j(931513-(((-715765+(2859879847%12533622-942086))+(86081446059-1025073))%((341030+456663627875)%1887105789))%8432922),24915487559581-35122049%3443760)]end local I=50457-50337 local r={}local function K(q)local i,e=pcall(function()return core[t[l(j(-541555+490621),718195+24414246467902)]][t[l(j(-333928+283033),1.8166524724228e+14%12111016935943)]](q)end)if i and type(e)==t[l(j(-232804+181993),13749769549703-(-675539))]then return e>-126289-(-126289)end return nil end local function x(q,i,G)if i~=false then if i==true then e[q]=nil end return true,nil end local v=tostring(G())if v==t[l(j((-1029426-(-975225))-(-3298)),20354513772383-523819)]and K(q)~=false then return false,t[l(j(316250-(((934097+(-669927+691250))+-1336956)-(344306+-1092940))),-307961+32352459377089)]end local Y=tostring(q)..(t[l(j(232578+-283392),(-889630+14113015492733)-35372)]..v)local x=O()if x-((r[Y]or 307035+-1000307035))>=I then r[Y]=x g(t[l(j(-670974+620127),314095+163260332720)],q,v)end return true,t[l(j(-10184-40617),16851195152235-(-610010))]end function q.can_cast(i,e,G,O)local g=q[t[l(j(-861718+((-546275+1045600)+311426)),15860877078376-202839)]](i)if not g or not e then return true,nil end O=O or{}G=G or e local Y=O[t[l(j(839460+-890289),262069+24629857407499)]]==true or G==e local I=O[t[l(j(502211+-553018),6083329470657-(-835267))]]==true or Y local r=O[t[l(j(251406-302302),-578566+11493882167883)]]==true or Y local K=v(t[l(j(-453093+402194),467686+34721055956203)],g,e,G,I,r,nil,nil,nil,true)return x(g,K,function()return q[t[l(j((-347859-41761)+338732),(-535790-(-395383))+23981185192591)]](g,e,G)end)end function q.can_cast_at(i,e,G,O,g)local Y=q[t[l(j(-849642-(-798687)),(-850903+80282126)%1049179+23648243378588)]](i)if not Y or not e or not O then return true,nil end g=g or{}local I=v(t[l(j((637846+-1168850)-(-480117)),32295684743959-(-238187))],Y,e,G or e,O,g[t[l(j(924957-975889),31005667181651-(-1500388-((-373256+181977)-506292)))]]~=false,g[t[l(j(-609625-(-558815)),1012002+13170500426791)]]==true,nil,nil,nil,nil,true)return x(Y,I,function()return q[t[l(j((787515-776471)-61880),(-292094+1146289736%14883083)+29690154026766)]](Y,e,G,O)end)end function q.cast_done(i,G)local O=q[t[l(j(-421554+370678),582766+15163064045202)]](i)if O then e[O]=nil end local g=package[t[l(j(727125+-778045),458486782%3340835+(-628788+3478588337436))]][t[l(j(614421+-665286),(-337422+7583001012017)-(-430649))]]if O and(type(g)==t[l(j(892947-943887),-528304+12573871706626)]and type(rawget(g,t[l(j(-459981-(-409076)),-674597+18656848557043)]))==t[l(j(184561-235405),655063+20127699608256)])then pcall(g[t[l(j((888032-32873)+-906017),-274080+13319826151499)]],O,G)end end local function a()local q,i=pcall(function()return core[t[l(j(-20490+-30449),-522534+32511475346952)]][t[l(j(376665+(781759+-1209245)),15560731837544-897381)]]()end)if q then return i end return nil end local function R(q,i)if q==nil or i==nil then return false end if q==i then return true end local e,G=pcall(function()return q:get_guid()end)local O,g=pcall(function()return i:get_guid()end)return e and(O and(G~=nil and G==g))end local function S(i,e,G)local O=a()if not O then return true end local g=type(G)==t[l(j((1284435-568706)+((742207+84883)+-1593680)),-876608+19232875984513)]and G or{}return(q[t[l(j(-817750+(-641105+1407987)),32141040386527-(-269147+(2793218741%(-917621+(494809165837%5961753632)%26716893)-457114)))]](i,O,e or O,{[t[l(j(-446247-(-395324)),9078997098705-(-250713))]]=e==nil or R(e,O),[t[l(j(674867-725827),(7874547067400-(-307486))-225266)]]=g[t[l(j(522308-573239),-360483+28835783033112)]]==true;[t[l(j(496083+-546996),(-677209+243232)+(26860493587211-470972))]]=g[t[l(j(-878825-(-827867)),577964+2441672895731)]]==true,[t[l(j(-313718+262849),17516103953718-(-407488+249285))]]=g[t[l(j((478760475638%2166358384)%11495662+-497595),31432125345224-908486)]]==false}))end local f={[t[l(j(912184+-962986),17896473649144-546378)]]=t[l(j((-1181214-(-286889))+843416),236730+8818537548532)]}local function P(q,...)if type(q)~=t[l(j(-752776+(-58397+760317)),26962249090878-327678)]then return nil end local i,e=pcall(q,...)if i then return e end return nil end local function V(q)return P(q[t[l(j((1011354+-166986)-895294),(8865546416942-(382879-((1019459+-2350861)-(-1041056))))-(-478757))]],q)==true or P(q[t[l(j(-916016+865071),(-339752+(633072+-915880))+15556012004246)]],q)==true end local o={[t[l(j(-763309+712382),5106077491015-(-898745))]]=t[l(j(-566549-(-1204896-(-689200))),909727+9237307428192)]}local H={[t[l(j(214929-265749),(28197546229890-970094)-(-480202))]]=t[l(j(246228-(919025-(446958+175031))),-809545+26346154209957)]}function q.core_castable(q,i,e)local G=a()if not q or not G then return false,t[l(j((-1567029-(821667+-1831085))+506762),(295721-888149)+19994931448039)]end local O=type(e)==t[l(j((-1773712-(-999380))-(-723395)),(1866294-827923)+30535860128793)]and e or{}local g=core[t[l(j(411367+-462252),14365246226398-881314)]]if type(g)~=t[l(j(-222439-(-171614)),24724099613702-820646)]then return false,t[l(j(914421-965336),240639+2217624715372)]end if P(g[t[l(j((-299478-((573644+-577735)-181355))+63154),-799729+35056424639715)]],q)==false and P(g[t[l(j(-104276+53457),(-174863+-125731)+23621124761919)]],q)==false then return false,t[l(j(-421345-((-1009830+1671717)-1032332)),-108025+1894211932866)]end if P(g[t[l(j(700604+-751455),14111894370264%162205710140)]],q)==false then return false,t[l(j((-509515-(-798645))+-339958),21552763173842-(-1356261-(-922891)))]end local v=tonumber(P(g[t[l(j(-45986-911378950%12315866),15545788985103-(-683262))]],q))or 25080100%6270025 if v>.05 and O[t[l(j(548305-599269),655476270584-(-398349-347282))]]~=true then return false,t[l(j(24389+(-213898-(-138630))),283569+30162441815449)]end if O[t[l(j(-725837+674876),-770678+28775873812976)]]~=true and V(G)then return false,t[l(j(-876098-(-825243)),28209458512301-(-278266))]end if i and(not R(i,G)and(O[t[l(j((238271-449626)+160469),929158+32767194296740)]]~=true and P(g[t[l(j(-347361-(-296428)),21696516896750-29518)]],q,i,G)==false))then return false,t[l(j(((-31746+82570)+258743)-360515),12297139537981-(-951277))]end return true,nil end function q.core_cast(i,e,G)local O=q[t[l(j(748646+-799602),-738396+1254006650306)]](i)local g=a()local v=e or g if not O or not v then return false,o end local Y,I=q[t[l(j(-163159-(-112305)),9417320389937-738961)]](O,v,G)if not Y then return false,{[t[l(j(119863+-170723),3295123781668-704203)]]=t[l(j(-893322+842460),-350251+7361815357229)]..tostring(I)}end if P(core[t[l(j(-729314+678351),-458750+12424093356653)]][t[l(j(-386960-(-336038)),28583038792411-236607)]],O,v)==true then return true,H end return false,o end function q.core_cast_position(i,e,G)local O=q[t[l(j(604749-655687),6438175239389-914642)]](i)if not O or not e then return false,o end local g,v=q[t[l(j(698641-749530),871171+4765898409709)]](O,nil,G)if not g then return false,{[t[l(j(-787635+1490357343%10490286),34099045614572-385162)]]=t[l(j(-956099-(1305942024%(1036745505%24907318)+-1028071)),-898213+7037422974387)]..tostring(v)}end if P(core[t[l(j(-1019900-(511182+-1480208)),20939961787917-(-720909))]][t[l(j(-639470+588558),28489035345432-(-719815))]],O,e)==true then return true,H end return false,o end function q.use_item(i,e)local G=q[t[l(j(-261499-(-210591)),7707406212715-206899)]](i)local O=a()if not G or not O then return false end local g=type(e)==t[l(j(798082+-849047),613320+(1026834+((-881080+23898530373885)-637349)))]and e or{}if V(O)then return false end if g[t[l(j(-254367+203475),-729483+11318090754274)]]~=true and P(O[t[l(j(394760-445641),20505603452804-955249)]],O)==true then return false end local v,Y=pcall(O[t[l(j(352934+(448375-852144)),14990563701558-321130853%13354084)]],O,G)if v and(type(Y)==t[l(j(-706520+(768486-(304484-(-610841+802407)))),-73030+5243509762222)]and Y>1968249000%9841245)then return false end return P(core[t[l(j(-408268+357354),25207347753218-((1308941547-(-346822))%10145270-152598))]][t[l(j(-423439+372601),(9691899416313-(-440445))-612187)]],G)==true end function q.no_los(q)local i={}if type(q)==t[l(j(401680884%(((327901+-726773)+2549548219)%22042058)+-976761),(-101586+-924880)+20787565239299)]then for q,e in pairs(q)do i[q]=e end end i[t[l(j(751892+-802732),-457403+3034428457166)]]=false return i end function q.cast_safe(i,e,G,O)if not S(i,e,O)then return false,f end local g,v=q[t[l(j(319233+-370163),-58611+9966390907506)]](i,e,O)if g==true then q[t[l(j(-745513-(203782-898452)),-762638+23288851102260)]](i,e)end return g,v end function q.cast(i,e,G,O)if not S(i,e,O)then return false,f end local g,v=q[t[l(j(565445+(524465+-1140816)),2.1838587901032e+14%849750561254)]](i,e,O)if g==true then q[t[l(j(-982110-(-931260)),24481155254407-137005)]](i,e)end return g,v end function q.cast_position(i,e,G,O)local g=a()if g and e then local G=type(O)==t[l(j(507037+-557878),30568080799222-(-64207))]and O or{}if not q[t[l(j(938212-989141),40839579255087%8167918050228)]](i,g,nil,e,{[t[l(j(((-1244344-(653063+(905870+(838296+-3314587))))-184154)+((-309702-(-939892))-2711474383%15318104)),22569570158772-509189)]]=G[t[l(j(297704-348655),-352610+24408465915962)]]==true,[t[l(j(-1031116+(1020352-(-41277+81455))),946588+27891206161465)]]=G[t[l(j((665412+-871375)+(361463+-206416)),22722910312858-(471483+-330259))]]==false})then return false,f end end local v,Y=q[t[l(j(178753+-229655),-996617+(25578898241476-(-485233)))]](i,e,O)if v==true then q[t[l(j((-1531390-(-736012-(-54012)))+798520),17590441440520-(-280918))]](i,nil)end return v,Y end return q end)(...)
+-- ============================================================================
+-- spellcheck.lua - Sylvanas spell_helper, one guarded gate for every cast
+-- (Master Farmer, shared by every project)
+-- ============================================================================
+-- require("common/utility/spell_helper") - accessed with ":" - answers:
+--   has_spell_equipped(id)                      in the spellbook
+--   is_spell_on_cooldown(id)                    on cooldown
+--   is_spell_in_range(id, target, src, dst)     in range
+--   is_spell_within_angle(id, caster, target, cpos, tpos)
+--   is_spell_in_line_of_sight(id, caster, target)
+--   is_spell_in_line_of_sight_position(id, caster, pos)
+--   get_spell_cost(id) / can_afford_spell(unit, id, costs)
+--   is_spell_castable(id, caster, target, skip_facing, skip_range)
+--   is_spell_castable_position(id, caster, target, pos, skip_facing, skip_range)
+--
+-- M.can_cast / M.can_cast_at are the gate the cast paths call before a cast:
+-- is_spell_castable answers for line of sight, cooldown, cost, range and
+-- facing in one call (self casts skip facing and range).
+--
+-- NEVER A STALL (2.250.0). A "no" blocks only a spell the client confirms is
+-- on cooldown. Missing helper, an error or any other refusal answers "yes"
+-- (logged once per spell and reason) - the cast path's own izi checks run.
+-- ============================================================================
+
+local M = {}
+
+
+local helper = nil           -- spell_helper, false when it cannot be loaded
+local streak = {}            -- id -> { n, t }
+local logger = nil
+
+local function now()
+    local ok, izi = pcall(require, "common/izi_sdk")
+    if ok and type(izi) == "table" and type(izi.now) == "function" then
+        local ok2, t = pcall(izi.now)
+        if ok2 and type(t) == "number" then return t end
+    end
+    local ok3, ms = pcall(function() return core.game_time() end)
+    if ok3 and type(ms) == "number" then return ms / 1000 end
+    -- Forever Questing: session clocks only (core.time), never the os library
+    local ok4, s4 = pcall(function() return core.time() end)
+    if ok4 and type(s4) == "number" then return s4 end
+    return 0
+end
+
+local function log(fmt, ...)
+    local ok, msg = pcall(string.format, fmt, ...)
+    if not ok then return end
+    if logger then
+        pcall(logger, msg)
+        return
+    end
+    local ok_e, el = pcall(require, "errorlog")
+    if ok_e and type(el) == "table" and type(el.trail) == "function" then
+        pcall(el.trail, "spellcheck", "%s", msg)
+    else
+        pcall(function() core.log("[spellcheck] " .. msg) end)
+    end
+end
+
+--- Where to send the "keeps refusing" line (default core.log).
+function M.set_logger(fn)
+    logger = type(fn) == "function" and fn or nil
+end
+
+--- The spell_helper module, or nil.
+function M.helper()
+    if helper == nil then
+        local ok, h = pcall(require, "common/utility/spell_helper")
+        helper = (ok and type(h) == "table") and h or false
+    end
+    return helper or nil
+end
+
+--- A spell id from a number or an izi spell (sp:id()).
+function M.id_of(x)
+    if type(x) == "number" then return x end
+    if type(x) == "table" then
+        if type(x.id) == "function" then
+            local ok, v = pcall(x.id, x)
+            if ok and type(v) == "number" then return v end
+        elseif type(x.id) == "number" then
+            return x.id
+        end
+    end
+    return nil
+end
+
+local function ask(name, ...)
+    local h = M.helper()
+    if not h or type(h[name]) ~= "function" then return nil end
+    local ok, v = pcall(h[name], h, ...)
+    if ok then return v end
+    return nil
+end
+
+-- ----------------------------------------------------------------------------
+-- The individual checks (nil = could not be answered)
+-- ----------------------------------------------------------------------------
+function M.has(spell) return ask("has_spell_equipped", M.id_of(spell)) end
+function M.on_cooldown(spell) return ask("is_spell_on_cooldown", M.id_of(spell)) end
+function M.in_range(spell, target, src, dst) return ask("is_spell_in_range", M.id_of(spell), target, src, dst) end
+function M.within_angle(spell, caster, target, cpos, tpos)
+    return ask("is_spell_within_angle", M.id_of(spell), caster, target, cpos, tpos)
+end
+-- 2.311.0: in_los / in_los_position removed - spell_helper traces a ray for them
+function M.cost(spell) return ask("get_spell_cost", M.id_of(spell)) end
+function M.can_afford(unit, spell)
+    local id = M.id_of(spell)
+    local costs = ask("get_spell_cost", id)
+    if type(costs) ~= "table" then return nil end
+    return ask("can_afford_spell", unit, id, costs)
+end
+
+local function pos_of(u)
+    if not u or type(u.get_position) ~= "function" then return nil end
+    local ok, p = pcall(u.get_position, u)
+    if ok then return p end
+    return nil
+end
+
+--- Which check failed, for the log line.
+function M.why(spell, caster, target, pos)
+    if M.has(spell) == false then return "not in the spellbook" end
+    if M.on_cooldown(spell) == true then return "on cooldown" end
+    if caster and M.can_afford(caster, spell) == false then return "not enough resource" end
+    if target and target ~= caster then
+        local cp, tp = pos_of(caster), pos or pos_of(target)
+        if cp and tp and M.in_range(spell, target, cp, tp) == false then return "out of range" end
+        -- 2.311.0: no line-of-sight query here (spell_helper traces a ray)
+        if cp and tp and not pos and M.within_angle(spell, caster, target, cp, tp) == false then
+            return "not facing"
+        end
+    end
+    return "not castable now (moving / casting / unusable)"
+end
+
+-- ----------------------------------------------------------------------------
+-- The gate
+-- ----------------------------------------------------------------------------
+-- 2.250.0: THE HELPER ADVISES, THE CLIENT DECIDES. A Rogue on 2.246-2.249
+-- cast nothing: spell_helper refused its strikes for reasons the client did
+-- not share, each refusal put the spell on the rotation's 1-2 s fail gap, and
+-- the "let it through after ~10 s" bypass needed 40 refusals - a minute or
+-- more per spell, long after every fight was over. Now a refusal blocks only
+-- when the CLIENT confirms the spell is on cooldown
+-- (core.spell_book.get_spell_cooldown); any other disagreement is logged once
+-- per spell and reason (DISAGREE_LOG_GAP) and the cast path's own izi checks
+-- decide.
+local DISAGREE_LOG_GAP = 120
+local disagree_t = {}        -- "id|why" -> time logged
+
+local function native_cooldown(id)
+    local ok, cd = pcall(function() return core.spell_book.get_spell_cooldown(id) end)
+    if ok and type(cd) == "number" then return cd > 0 end
+    return nil
+end
+
+local function verdict(id, answer, why_fn)
+    if answer ~= false then
+        if answer == true then streak[id] = nil end
+        return true, nil
+    end
+    local why = tostring(why_fn())
+    if why == "on cooldown" and native_cooldown(id) ~= false then
+        return false, "cooldown"
+    end
+    local key = tostring(id) .. "|" .. why
+    local t = now()
+    if t - (disagree_t[key] or -1e9) >= DISAGREE_LOG_GAP then
+        disagree_t[key] = t
+        log("spell %d: spell_helper says no (%s) - left to the cast's own checks", id, why)
+    end
+    return true, "helper_disagrees"
+end
+
+--- May `spell` (id or izi spell) be cast at `target` now?
+--- opts: self (skip facing and range), skip_facing, skip_range, skip_los.
+--- Returns ok, reason - reason is nil, "cooldown" (refused) or "helper_disagrees" (let through).
+function M.can_cast(spell, caster, target, opts)
+    local id = M.id_of(spell)
+    if not id or not caster then return true, nil end
+    opts = opts or {}
+    target = target or caster
+    local self_cast = opts.self == true or target == caster
+    local skip_facing = opts.skip_facing == true or self_cast
+    local skip_range = opts.skip_range == true or self_cast
+    -- 2.311.0: never the helper's line-of-sight trace (skip_los always)
+    local answer = ask("is_spell_castable", id, caster, target, skip_facing, skip_range,
+        nil, nil, nil, true)
+    return verdict(id, answer, function() return M.why(id, caster, target) end)
+end
+
+--- May `spell` be cast at the position `pos` now (ground spells)?
+function M.can_cast_at(spell, caster, target, pos, opts)
+    local id = M.id_of(spell)
+    if not id or not caster or not pos then return true, nil end
+    opts = opts or {}
+    local answer = ask("is_spell_castable_position", id, caster, target or caster, pos,
+        opts.skip_facing ~= false, opts.skip_range == true, nil, nil, nil, nil, true)
+    return verdict(id, answer, function() return M.why(id, caster, target, pos) end)
+end
+
+--- A cast went out: the refusal streak starts again.
+function M.cast_done(spell, target)
+    local id = M.id_of(spell)
+    if id then streak[id] = nil end
+    -- the last spell sent (class retreat rules read it: movement.note_spell)
+    local mv = package.loaded["movement"]
+    if id and type(mv) == "table" and type(rawget(mv, "note_spell")) == "function" then pcall(mv.note_spell, id, target) end
+end
+
+-- ----------------------------------------------------------------------------
+-- Gated izi casts: the same call and the same answer as sp:cast_safe /
+-- sp:cast / sp:cast_position, after the spell_helper gate. A refusal answers
+-- false, { reason = "spell_helper" } without touching the spell queue.
+-- ----------------------------------------------------------------------------
+local function local_player()
+    local ok, p = pcall(function() return core.object_manager.get_local_player() end)
+    if ok then return p end
+    return nil
+end
+
+local function same(a, b)
+    if a == nil or b == nil then return false end
+    if a == b then return true end
+    local ok1, g1 = pcall(function() return a:get_guid() end)
+    local ok2, g2 = pcall(function() return b:get_guid() end)
+    return ok1 and ok2 and g1 ~= nil and g1 == g2
+end
+
+local function gate_unit(sp, target, opts)
+    local me = local_player()
+    if not me then return true end
+    local o = type(opts) == "table" and opts or {}
+    return (M.can_cast(sp, me, target or me, {
+        self = target == nil or same(target, me),
+        skip_facing = o.skip_facing == true,
+        skip_range = o.skip_range == true,
+        skip_los = o.check_los == false,
+    }))
+end
+
+local REFUSED = { reason = "spell_helper" }
+
+-- ----------------------------------------------------------------------------
+-- 2.312.0: CORE API CASTS AND ITEM USES (the Slave Pens correction). Slave
+-- Pens stopped crashing once its izi spell / item / spell-queue calls were
+-- replaced by the core API ("Use Core API and not IZI"); the drink crashes
+-- were inside an izi item use, the step-37 crashes inside an izi cast. The
+-- same is done here: a cast is checked with core.spell_book and sent with
+-- core.input.cast_target_spell / cast_position_spell, an item with
+-- core.input.use_item. No line-of-sight ray anywhere; the game refuses what
+-- it will not cast and says why (UI_ERROR_MESSAGE, events.lua).
+-- ----------------------------------------------------------------------------
+local function call(fn, ...)
+    if type(fn) ~= "function" then return nil end
+    local ok, r = pcall(fn, ...)
+    if ok then return r end
+    return nil
+end
+
+local function busy(p)
+    return call(p.is_casting_spell, p) == true or call(p.is_channelling_spell, p) == true
+end
+
+local CORE_REFUSED = { reason = "core" }
+local CORE_SENT = { reason = "core_sent" }
+
+--- Learned (either core answer), usable, off cooldown, not casting, and in
+--- range of `target` when it is not the player. Returns ok, why.
+function M.core_castable(id, target, opts)
+    local me = local_player()
+    if not id or not me then return false, "no player" end
+    local o = type(opts) == "table" and opts or {}
+    local sb = core.spell_book
+    if type(sb) ~= "table" then return false, "no spell_book" end
+    -- duplicate (audit D1): spell known -> spellbook.id_in_book is the copy to keep
+    if call(sb.is_spell_learned, id) == false and call(sb.has_spell, id) == false then
+        return false, "not learned"
+    end
+    if call(sb.is_usable_spell, id) == false then return false, "not usable" end
+    local cd = tonumber(call(sb.get_spell_cooldown, id)) or 0
+    if cd > 0.05 and o.skip_gcd ~= true then return false, "cooldown" end
+    if o.skip_casting ~= true and busy(me) then return false, "casting" end
+    if target and not same(target, me) and o.skip_range ~= true
+        and call(sb.is_spell_in_range, id, target, me) == false then
+        return false, "out of range"
+    end
+    return true, nil
+end
+
+--- Cast `sp` (izi spell or id) at `target` (the player when nil) - core API.
+function M.core_cast(sp, target, opts)
+    local id = M.id_of(sp)
+    local me = local_player()
+    local t = target or me
+    if not id or not t then return false, CORE_REFUSED end
+    local ok, why = M.core_castable(id, t, opts)
+    if not ok then return false, { reason = "core: " .. tostring(why) } end
+    if call(core.input.cast_target_spell, id, t) == true then return true, CORE_SENT end
+    return false, CORE_REFUSED
+end
+
+--- Cast a ground spell at `pos` - core API.
+function M.core_cast_position(sp, pos, opts)
+    local id = M.id_of(sp)
+    if not id or not pos then return false, CORE_REFUSED end
+    local ok, why = M.core_castable(id, nil, opts)
+    if not ok then return false, { reason = "core: " .. tostring(why) } end
+    if call(core.input.cast_position_spell, id, pos) == true then return true, CORE_SENT end
+    return false, CORE_REFUSED
+end
+
+--- Use item `item` (izi item or id) on the player - core API. Not while
+--- casting, and not while moving unless opts.skip_moving (food and drink
+--- cannot be used on the move), as Slave Pens' coreapi.lua.
+function M.use_item(item, opts)
+    local id = M.id_of(item)
+    local me = local_player()
+    if not id or not me then return false end
+    local o = type(opts) == "table" and opts or {}
+    if busy(me) then return false end
+    if o.skip_moving ~= true and call(me.is_moving, me) == true then return false end
+    local okc, cd = pcall(me.get_item_cooldown, me, id)
+    if okc and type(cd) == "number" and cd > 0 then return false end
+    return call(core.input.use_item, id) == true
+end
+
+--- 2.311.0: NO LINE-OF-SIGHT RAYS ON A CAST. izi unit / position casts run
+--- two line-of-sight traces by default (izi_sdk.lua unit_cast_opts
+--- check_los: "Omitted or true: both traces run"); check_los = false runs
+--- neither. The game still refuses a cast it considers out of sight, and
+--- that refusal is what movement/range.lua reads. Returns a copy of opts.
+function M.no_los(opts)
+    local o = {}
+    if type(opts) == "table" then for k, v in pairs(opts) do o[k] = v end end
+    o.check_los = false
+    return o
+end
+
+function M.cast_safe(sp, target, msg, opts)
+    if not gate_unit(sp, target, opts) then return false, REFUSED end
+    local ok, meta = M.core_cast(sp, target, opts)       -- 2.312.0: core API, not izi
+    if ok == true then M.cast_done(sp, target) end
+    return ok, meta
+end
+
+function M.cast(sp, target, msg, opts)
+    if not gate_unit(sp, target, opts) then return false, REFUSED end
+    local ok, meta = M.core_cast(sp, target, opts)       -- 2.312.0: core API, not izi
+    if ok == true then M.cast_done(sp, target) end
+    return ok, meta
+end
+
+function M.cast_position(sp, pos, msg, opts)
+    local me = local_player()
+    if me and pos then
+        local o = type(opts) == "table" and opts or {}
+        if not M.can_cast_at(sp, me, nil, pos, { skip_range = o.skip_range == true, skip_los = o.check_los == false }) then
+            return false, REFUSED
+        end
+    end
+    local ok, meta = M.core_cast_position(sp, pos, opts) -- 2.312.0: core API, not izi
+    if ok == true then M.cast_done(sp, nil) end
+    return ok, meta
+end
+
+return M

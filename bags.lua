@@ -1,1 +1,314 @@
-return(function(...)local b={"-XWQWzjobov1=","nC04";"n2(*q=","nirmF#";"-SxQGhILMBL/eXVz7";"nY\"$jGAbW";"-qFfuLm3n2+K9xC==","-oDA4Iud=","-WXR3Up==","nDEjMK","-f8OO/p==";"-tkPf";"-UzN91p==";"n!q","-9xKpHp==";"n=&-]";"-Zl9mU94W";"n-9p6<;r";"nqA/mhCG","n/PM-l";"-YCAmw8df95Ca/eflx6e=","n=l;uma\\rK","nE@OUcj_","-pC==","n,/l#I\"*[";"-OFXI";"-vIfenhHaszx=";"-//j6";"-VUPTE/Z+GJoNTzCfuTvWPI0y";"nlq=CQ","-EO1b";"ng7#r%";"-HSJufHK/";"n\\Y@pH9/\\ZhM5->g\'m5X4n_nK]Bgn\'","n&HGi.31","-3C==";"-ICTJ","n1:1%g?:","-LXEHnOo=","-yAGS/xrXZx==";"-PvohMmJn","-Y+5L7YzOHsqTPs0=";"n+G5Le";"-8yo4zx==","nbQcamApAsG","n1%KX_";"-Ss3O";"n7Vd\'@\\f9","n-S:H&f`:8Ch_S5^_-@Ho","-zu1CsC==";"-u3Ir","-WC==","-piiFv+zvmvz0","nt**)+]oE=uVp`hQE1`bkRhU\"0[=k:DK3Lr8Kle]","-hYM0ekEqayaCvBjkmm0=";"-uM58yco3Gu7mzC==","-3/QGuGGQqbMPAcNmTQ2=";"-YNO2cC==","-S74do6cx";"-u4DASjG=","n/Nf<(t)";"n-e";"-eFzl1jVkwiyCfp==","-BC2qq7yz","nZm,DH#O#1Q^Cnb=P_";"-7MyXPno=","-ybEpZmMX";"n_)(MqCsJ","n9WF9%eYGY]","-eOA4RsBwP/G1","-63urWi5Bk6gEbXg=";"-9ISgup==";"-6V3udC==";"n/>EM4,1";"n<JZKNst`7\\";"-N0y+ylNl";"-UZiEhvsZ";"n4T18NQ!2Li3q";"n/mFS";"n,)Rkf@T&]G","-PYY50TuAtuZBHxZuA0OZTI2=";"-9tsz/4lx","n;-hn2eDoio)utst^V\'";"-F+6LtD2iKQMDPRqijp==";"-3GiecW90","-y+bAaIvj","-AC==","nJVI?";"-0rwYFG==","n@77^J3-j","-BIDw4FGqAigSZp==","-WY/IvG==";"-fkhbBSnC","-EJEDVKC=","-sRve";"nc/=4SeQ5)&Qe","nf*6o@","-MUhiDwmtnHlYzx==";"-lBrPpx==","nK?@uaSs","-sA04wnkCI4DjekRLl0ZNgrF/UYht5y1=";"-jdrpKHe=","-/MALPn7E","n,70\\hb?t?J","-RzJcUp==","nQ!Pio#M`gj)[";"-yh5K/Ao=","nBfsE9";"-y9gC29x=";"n<LJ*\"M>>";"nF^mp=B!8gP]P?1";"nZ7-dVT,lLp1<dK";"nn0","-Y6gQqLe=","-878jwAjejV0=";"-t23WRH3VtTxy";"n","nQ0\"Ug76","nPYZW\'","-sLBTC6cKXWd=","nuR#sIt\'.p6MoYN","n!0)o","nc*Q=aXb;(";"n\'lRFe,`","n,jsLF!4m","naFe6Vj_";"-/Mq67s5L","-VcGN3RKOcCx=","nlP";"nrt/\\-5&^t";"-fjEV7x==";"-p6lQBmyFojf=";"n+^)%V";"nGMODE/k!Q#FK&e:5=<","-Rarmygf=";"nj+Fo+M6M";"nBiGsAI0";"-en8DD2ymZG==","nS5uh1","nFIe-d","-xAcqCHp=","nkQZWo";"-0NoN14ggT0Uc+g0Fl1V=","nf07]g$Q6ri3tC@6n0","-ap==","-aWMTm4VV";"-K0d+MpUegLHxmx7ntKRM+bFMPovcCFonvf0="}for O,Y in ipairs({{-881560+881561;-794694-(-794841)};{-990218-(-1723053-(-732834)),-174007+(801759+-627724)},{(-635885+-157153)-(-793067),(184960820094%1141823859)%(15517040-685742)}})do while Y[1007636-1007635]<Y[458374+-458372]do b[Y[369061225%8787172]],b[Y[-837223+((((-1887884-(-1010958))+1962498)-692376)+444029)]],Y[(255701188-(-1041138))%3423231],Y[(((577876+-1162795)-(-236138))-507669)+856452]=b[Y[982327-982325]],b[Y[-870548+870549]],Y[114949998%6350973-(540161-(-92322))]+(925549-925548),Y[48151+-48149]-(557032-557031)end end local function A(O)return b[O-1398249222%10755630]end do local O=string.char local Y=string.sub local T=type local V=table.insert local e=string.len local v={["4"]=-926876+926890,S=-575669+575711,["8"]=1534815564%8386970;h=561871+-561862;w=3252058080%13382955;L=630116-630071;J=672336+(636640+-1308969),H=-109607-((129940-(-561457))+-801033);s=-1019862+1019868;c=656057074%14910388;D=927485-927423,P=8228997%1645794;O=(-402494+2714551838)%14831417,V=1016649444%13926704;X=592504-(-158673+435355212%2324086),v=((-919273-(-576093))+125067614)%15590547,y=184867+-184818;["6"]=1226993380%16580991,U=492630-492629;["+"]=-723373-(-723426);G=328269-328221;l=1793138751%9056256,r=989733499%6264136;f=435357+(-1427678-(-992345)),["5"]=-572811-(-572872);A=288635596%2046480-81895;a=1158289566%12065516;W=787193536%8032587,b=247620420%6039522;I=588023798%14000566;e=89184744%3185169;["1"]=(276286886130%2878076599)%15511401,m=(-119533-(-262555-(-744106)))-(-601135),i=55728323%633276;p=180291314%1193982,["/"]=(1066427043-589415)%6661485;T=167435614%2575932;N=451402+-451371,K=(1409427-(130648-(-370453)))-(501035-(-407278));["9"]=3766531729%14828865,["3"]=174309843%1139280;o=1066417523%15019965;["7"]=1770217150%14161737;B=(1428373-235427279%8378872)+(145028+-754495);n=-845005-(-845060),q=810507-810502,d=3662169940%15785215;j=((-508761+18046908302)%178753588)%((1181134-(-571802))-(-1005785)),Q=375499-375463,Z=2442755204%9579432;g=-1043959+1044015;["0"]=268893+(-233378-(-678872-(-714367))),M=1991011628%(2425182186%19597024),z=((-274012+1088454)+1094918005)%(15510166-702971),k=-939247-(-939269),t=((-237398-(-814171))+-1591815)+1015101;["2"]=-732361+732365,u=1272221531%10428045,Y=159844-159821;C=229409-229409,E=192250949%13732208;R=(53382618873%288630489)%1664296;F=-801230-(-801280),x=696751418%2775902}local K=table.concat local X={["\'"]=-404874-(-404928),D=(-1158300-(-345430))+812923;X=44454+-44422,U=194007261%(-702462+3158250);["-"]=(14385886831%86743250)%8138952,A=178891534%715566,["4"]=((43599-(-659360))+-474047)-228877;["%"]=-1017283-(-1017360),b=12829+-12807;["@"]=990541472%6432087;["^"]=1147941307%5217915,B=-801687+(547069+(386352-131668)),["$"]=(8650341-670250)%(3199394-539372);I=2549960546%12085121;[":"]=(475716-(-567000))-1042644,[">"]=590164+-590103;S=179757515%1536389,p=(-918373-(-115603))-(-802840),o=1933847694%8750442;c=546447+-546417,Y=-799641+(1627100-(-34261+(884014-22321))),["3"]=226978915%5819971;M=(1605646-988284)-617357,O=697099-697099,l=1032376-1032359;["\""]=-491994-(-492004);["*"]=-326100-(-326155);C=-222910-(222021+-444998),["("]=695261+-695177;["."]=-1028705-(-1028774),["5"]=645477+(-819599+174146),["+"]=(780640+637453366)%2500005+-732650,P=-202141+202198;["\\"]=(36959810804%(250528143-781257))%1479153,["2"]=2447938417%10115448;e=305579+-305537,["&"]=796629+-796547;G=785374643%(319333246%(1278349769%21318978)),["6"]=209688-209659,["/"]=2471439956%(1367278898%15372057),r=365694462%7463151;d=-876336+876385,u=35605741%847755,["7"]=(-1048925-(-981595))-(-67410);["#"]=111431696%6964478;["9"]=(-781256+797411648%3789131)-912824;i=-857945+857973,["1"]=-506467+506490;J=529058764%4408823,["<"]=(1254309107%5856377-2658)-2630951215%12583299;F=134691-1624096606%(5007026412%21446885);R=-29654+29691,K=815470-815402,T=(289012+-783102)-((-1601881-(-214475))-(-893273)),["!"]=-466410+(328219-(841527-979737));["["]=509290-509269;["8"]=-993660-(-993668);[")"]=1104901636%10624054,L=-538390-(-538469);_=(895994+-444824)+((-1732236-(-334228))-(-977170+30287)),t=-410855+410893,s=-927726-(-927801),[";"]=-953803-(-953863);["0"]=2523331626%11417790;h=1289380236%7007501,n=-349892+349898,f=11695+-11636,k=319834607%2643261,["?"]=-791406+791445,[","]=(-1024756-(-160308))-((-256736-335796)-(-687813-(-959802))),["="]=71584+-71540;W=471259000%14726842;q=-1038140-(-1038191);Z=1141261952%(2029880522%27282525),j=(-293719+-417765)-(-711487),["]"]=638402069%3606791;V=798966983%5666432;Q=356741365%7927585;["`"]=1414524943%6400565,E=149363013%3723106+-438723,a=38180641%(1303497-(-706007));g=-929580-(-929621);m=1860244367%7849132,H=902949251%10145497;N=265523+-265447}local U=math.floor local l=b for E=(-447077-(-923010+1512856))-(-1036924),#l,313560-313559 do local H=l[E]if T(H)=="string"then local T=Y(H,-730616-(-730617),364862-880120045%8886416)if T=="-"then H=Y(H,(815401+2615673737)%13698896)local T=e(H)local X={}local I=186766-186765 local G=588054+-588054 local s=10341542%304163 while I<=T do local e=Y(H,I,I)local K=v[e]if K then G=G+K*((1432337018%7090777)^((124986488%1086839-s)))s=s+(-90341-(-90342))if s==-771277-(-771281)then s=-304847-(-901834+596987)local Y=U(G/(-325703+391239))local T=U((G%(718664-121857133%1864677))/((-893525+62710401)%4121108))local e=G%(-1030820+1031076)V(X,O(Y,T,e))G=(2701867508-(-641722))%14608158 end elseif e=="="then V(X,O(U(G/(-632052+697588))))if I>=T or Y(H,I+(70316-1037790418%(507869+8212468)),I+(6603869-(-766497-(-993103)))%2125754)~="="then V(X,O(U((G%(513722-448186))/((883006-(251045-(749005-790865)))+-589845))))end break end I=I+(-832846+832847)end l[E]=K(X)elseif T=="n"then H=Y(H,-533883+(-481326+1015211))local T=e(H)local v={}local I=-246274+246275 while I<=T do local e=(T-I)+462835792%4675109 local K=e>=(2377045330%9283455-634697)+153852 and 446112005%1784448 or e local l=((15938711495-(-575380+841960))%(812014+454613591))%8254079 local E=K>374271+-374270 for O=357748-357748,-1011160-(-1011164),8700+((((347118+-608575)+-1469716)-((552721-973455)+-315192))+986548)do local T if O<K then local V=Y(H,I+O,I+O)T=X[V]if not T then E=false break end else T=2933875354%14524135 end l=l*(-881101-(-881186))+T end if E then local Y=U(l/(-699429+17476645))%((693567+267809)-(918427+42693))local T=U(l/(1008805+-943269))%(628946732%5072149)local e=U(l/(307634-307378))%(901545-901289)local X=l%(661986-661730)if K==-670457+670462 then V(v,O(Y,T,e,X))elseif K==(1729286089-476756)%10229641 then V(v,O(Y,T,e))elseif K==-578036-(-578039)then V(v,O(Y,T))elseif K==540265070%6431727 then V(v,O(Y))end end I=I+K end l[E]=K(v)end end end end local n,o do local O=string[A((526840+-1135028)-(835145+-1460694))]local Y=-595564-(-875775-(-280209))local T=table[A(((-309005+-1109540)-(-439139))+996859)]local V=math[A(543050+-525720)]local e=(126153150246%546126591)%9379902 local v=math[A(516321916%3442030)]local K={}local X={}for O=-617978+(-893070+1511049),-642447-(-642703),85426015%749351 do K[O]=O end repeat local Y=V(270139-270138,#K)local e=T(K,Y)X[e]=O(e-(-1008922+(1923799-914876)))until#K==(250206+-49899)+-200307 local U={}local function l()if#U==300830212%1916116 then e=((e*((843728+-1556663)+713072)+(32518906625732-(((-510992+-728254)-(-52348))-(-305383)))))%((-700957-(-788878))+35184372000911)repeat Y=(Y*(813312157%(615764708%(-42085+8908713))))%((52880-214425)+161802)until Y~=48983-48982 local O=Y%((3626624618%14859862-497408)+-320850)local T=(601750259%3537672+-346006)-((Y-O))/(546398+-546366)local V=(v(e/(814363-814361)^T)%(4295763256-795960))/(1586997307%10944809)^O local K=v((V%(1904869641%12784360))*(525019278722%4303506706))+v(V)local X=K%(-935890+1001426)local l=((K-X))/(-191980-(603132-860648))U={X%((233876674064%(1017104525-222745))%(532196726%14609932)),((X-X%(-813323+(36454-(-777125)))))/(812598-812342);l%(19799-19543),((l-l%(659492-659236)))/((2048670131-1005757)%11503731)}end local O=#U local T=U[O]U[O]=nil return T end local E={}n=setmetatable({},{[A(1563055778%7303918)]=E;[A(264689877%(2597452855%(541850+14281096)))]=nil})function o(O,T)local V=E if(V[T])then return T else U={}local v=X e=T%(406491+35184371682341)Y=T%(-38984+39239)+(309256566325%((422246+(579614+(1478900871-770144112%5166147)))-(-240984)))%6244345 local K=#O V[T]=A(266778796%1541973)local E=363836455%(415123631%19324738)+-975262 local H=A((-502626+2081072392)%12458397)for Y=804379-((-610418+(-246342-(-60041)))+1601097),K,736989917%14172883 do E=(((string[A(-914947+932281)](O,Y)+l())+E))%(-601132-(-601388))H=H..v[E+(379159-379158)]end V[T]=H end return T end end local O=require(n[o(A((206551+141383)-330530),10459160145714-519737)])local Y={}local T,V=249149+-249149,16214527%8107252 local function e(O)local Y={}if not O then return Y end for T=T,V,-886016+886017 do local V,e=pcall(O[n[o(A(751383+(334264+-1068297)),20917611851548-502401135%6698313)]],O,T)if V and(type(e)==n[o(A(-933277-(-950621)),778274+16860091856873)]and e[n[o(A((804797-749667)+-37781),(5900425270143-(-376600))-(-256839))]])then local O,T=pcall(e[n[o(A(1278934886%(7965204-(-78302))),6495682567805-(-566288))]][n[o(A((-718233+570546693)%5131069-262470),865125+30975564811003)]],e[n[o(A(-43542-(-60960)),688764001981-668579)]])if O and T==true then Y[e[n[o(A(919280-901820),15955654929906-362228)]]]=true end end end return Y end local v=3991687387%(17425574-998877)local function K(O)if O==-178786-(-178786)then return v end if type(O)~=n[o(A(-897975-(-915358)),385588+(547447+24863401448099))]or O<-55177-(-320553+265375)or O>250244196%2843684 then return(-619235+175920416739%841731661)%11661278 end local Y,T=pcall(function()return core[n[o(A(-351125-(-368581)),(39482+(-1263357-(-983024)))+27302506947837)]][n[o(A(1590169891%8154628),597347+27284155736594)]](O+(-87124-(-87125)))end)if Y and(type(T)==n[o(A((-493151+312714269)%6121641),360903+(33121671312786-855058))]and(T>564142635%(6142283-769496)and T<=(((240850+-495426)+-86755)+-99438)+440805))then return T end return(-430983+1024359427)%(2428296040%10360038)end Y[n[o(A(((-934417+1154736)+551602)-538847994%10761869),3112060431643-70617)]]=K local X={[n[o(A(682588678%14838506),(263047+19454802739875)-(-989692))]]=nil;[n[o(A(2856834320%12640783),30415863213011-(-702122))]]=nil}local function U()local O,Y=pcall(require,n[o(A(-511102-(-528535)),88510+(-171585+21550762626391))])if O and(type(Y)==n[o(A(863618266%(471870+14165433)),(-850538+7474271978963)%679479538767-560734)]and type(Y[n[o(A(-683624-(-766089-(385163-13113631%1809063))),-31953+5989832115397)]])==n[o(A(2261001296%(10143815-(-674290))),-624850+25709348173820)])then local O,T=pcall(Y[n[o(A(86427+-69046),20244415164755-616691)]])if O then return T end end return nil end function Y.invalidate()X[n[o(A(-71266+88729),-619166+17780467649711)]],X[n[o(A(1020722+-1003356),280053600%14731442+23989482021339)]]=nil,nil end function Y.list(Y)local T=U()if T~=nil and(X[n[o(A(375288+-357851),(4308955062262-(-1248473-(269305+-1163938)))-(-42990))]]==T and X[n[o(A(-409372-(-426697)),-124454+26540668207544)]])then return X[n[o(A(2550998445%(1499795364%16551016)),18086790705465-(-865897))]]end local V={}local v={}for O=797118-797118,474329-474325,3083208881%16756570 do v[O]=K(O)end if not O or type(O[n[o(A(((-355304+3387399548)-773308)%14166246-520758),565922+31756740036626)]])~=n[o(A(-97561-(-874779-(-759764))),(23201417305089-(-993979+428097))-(-305372))]then return V end local l,E=pcall(function()return O:get_character_bag_slots()end)if not l or type(E)~=n[o(A((1491642576-(-38508))%15538164),7568919130527-(-38563))]then return V end local H=e(Y)for O=29522716%5904543,#E,663542-663541 do local Y=E[O]if type(Y)==n[o(A(-328276+345733),16485456988945-879375)]and(Y[n[o(A(721788-704406),453139+9401073718898)]]and(not H[Y[n[o(A(951712-934273),19756732601879-1033390)]]]and(type(Y[n[o(A(-888403-(-905829)),-972145+32397254990820)]])==n[o(A(887532952%9752918),(414290-575787)+(4368588726975-(-36879)))]and(type(Y[n[o(A(-671672-(-689102)),372634+14828974504943)]])==n[o(A(642575899%((-656385+961819822)%3927438)),14203003077858-113780)]and(Y[n[o(A((988728+-1291716)-(-320407)),22026773990849-992971)]]>=1532594991%7779670 and Y[n[o(A(792578+-775113),13066986517856-(-510349))]]<=((v[Y[n[o(A(2356655618%12338420),370241+4032622651416)]]]or(1273469888-387725)%(-949266+13309287))))))))then local O,T=pcall(Y[n[o(A(-826745+844168),(544300+(874080+27324246039380))-((1063695-290382)+-1679230))]][n[o(A(259435748%(-535496+1698807)),-178957+32433093466926)]],Y[n[o(A(468678805%(3425302903%20924370)+-482469),(639291+-1554956)+(1046961+20543492991751))]])if O and T==true then local O,T=pcall(Y[n[o(A((197459-(765522-89017))-(-496495)),4.5765713725807e+15%27905923071660)]][n[o(A(676844+-659423),31843537499593-(-343518-231273))]],Y[n[o(A(-430137-(-447507)),313770+26734801723191)]])V[#V+13938161%696908]={[n[o(A(-578119+(-987921+1583394)),-607153+31369665765060)]]=Y[n[o(A(243953+-226573),12368002134668-(-681345))]],[n[o(A(-246484+263817),-336923+856967301252)]]=((O and type(T)==n[o(A(-244702+262137),-188889+12135504001410)]))and T or nil,[n[o(A(1789412239%10779487),30783110020914-(-174436))]]=Y[n[o(A(859906+-842497),14041953148279-547985)]];[n[o(A(-104196-(-121559)),3757032052531-205669)]]=Y[n[o(A(198272+-180949),159313+3230953175619)]],[n[o(A(1011043885%(7546045-(-673682))),(-617137-(-564721-(-321938)))+10827420175065)]]=Y[n[o(A(430796+-413472),816055+(589165+27040765891067))]];[n[o(A(271307-253890),(-25416+764737)+(-143961+32049830775861))]]=Y[n[o(A(917098-899637),-429975+(987142+34046896205929))]]}end end end X[n[o(A(879615-862241),9.6485059535083e+14%25390805197874)]],X[n[o(A((-575264+-398067)+990709),6508573287999-785204)]]=T,V return V end function Y.readable()return O~=nil and type(O[n[o(A(525348690%(((-869408-(-118581))+30470)+6369080)),9499987525724-962406)]])==n[o(A(((1356114452-(-1028532))-(-1036896))%6090415),30879123715840-646074)]end function Y.item_at(O,T,V)local e=Y[n[o(A(((902262+(-608664-956992))+-322475)-(-40918-962351)),9484781318682-(-130530))]](O)for O=1153892347%((234983298-(798965+-623116))%12053105),#e,226622-226621 do if e[O][n[o(A((-1461503-(-635358))-(-843521)),10293655894588-(884521579%3930388-746229))]]==T and e[O][n[o(A(1020357913%4305234),1664990602888-787899)]]==V then return e[O][n[o(A(566903+(614120+-1163682)),((-464245-(-442583))+17997063410122)-769354)]]end end return nil end function Y.use(O,T)Y[n[o(A(115468513%1282790),133380+(11646736339411-(-795296-(-942209))))]]()return pcall(function()core[n[o(A(-359513-(-376882)),((-468879+(17529-416769))+15269930700454)-843669)]][n[o(A(-380032+397411),-871423+34327528711600)]](O,T)end)end function Y.use_id(O)if type(O)~=n[o(A(552858817%3159094),6227162596741-(-91418))]or O<=76147-76147 then return false end Y[n[o(A((-735237+478900)-(-273743)),25568905662026-449449)]]()local T,V=pcall(function()return core[n[o(A(307995847%3175035),20847025194065-1018018)]][n[o(A(396481-379056),15411969616037-(317588-847602))]](O)end)return T and V~=false end function Y.count(O)local T=1022012+-1022012 local V=nil pcall(function()V=(require(n[o(A(422460-405053),776269+16427665875764)]))[n[o(A(1024168734%(6104860-318694)),27565018147363-195235740%12178409)]]()end)local e=Y[n[o(A(194749381%1928039),-804430+(11399328840959-(-124167)))]](V)for Y=(587802-978907)-(-391106),#e,(112397199468%(122924687069%(943488+846874575)))%16183566 do local V=e[Y]if V[n[o(A(-469688-(-487078)),32345065724606-(-1039195))]]==O then T=T+((((type(V[n[o(A(-689961+707334),26042965629592-(-375483))]])==n[o(A(582389+-565014),700955+3012145923750)]and V[n[o(A(-172388-(-1109772-(-919999))),14060608934276-62579)]]>-785511-(-1276597-(-491086))))and V[n[o(A(-59805+77264),30117191815064-(-72040))]]or(-891833+1807878)-916044))end end return T end function Y.free_slots(O,T)local V=Y[n[o(A(-221287+((-854617-(-788144))-(-305168))),15303158352185-595965)]](O)local e={}for O=(-367891+-439308)-(-807200),#V,174771136%2774145 do local Y=V[O][n[o(A(-202194-(-219595)),298905+4713334286292)]]e[Y]=((e[Y]or-650893-(-986556+335663)))+(-214946+214947)end local v=878812776%(161493942%21326887)for O=(-870774-3633807204%15662222)-(-1042474),-615288+615292,46707+-46706 do local Y=K(O)if Y>997045+-997045 and not((T and(O>-813018-(-813018)and T(O))))then v=v+math[n[o(A((334478712-633393)%(2093253370%16834659)),27290250335715-2415590093%11839200)]](-488408-(-488408),Y-((e[O]or 93788820%1563147)))end end return v end local l=require(n[o(A(((-1737599-(-676787))-(-514739))-(-563472)),14177780286364-(-943955))])local E,H={},{}for O=1803828951%10307594,#l[n[o(A(-583044+600391),(-612632+((-1276375-((-684388+-269909)+-2114))+1310385))+33761042991749)]],-1038709+1038710 do E[l[n[o(A(((1255469-901887)-(-206009))-542157),11945949800669-(-796281))]][O]]=true end for O=-660949-(-660950),#l[n[o(A(129985-112648),((977927+(-116923+8348781743308))-(538483-(-65271)))-387195)]],1403468177%15948502 do H[l[n[o(A(82211455%(4043332-(-271383))+-214465),-391835+29641064746339)]][O]]=true end local I=211368769%2006810+-653689 local G={}local s={[n[o(A(624096043%10577605),(31192305613527-534007)-((503058+-769240)+297390))]]=(-999641638-941177)-(-582815);[n[o(A(191593265%2308143),(192769+364575)+8510438227112)]]=nil;[n[o(A(556612-539188),(57200772249809-(422060-819840))%28600388340251)]]=nil}local p=245487-245485 local a=require(n[o(A(-337877+355223),(523626+(30444638864568-((433876+-1180684)-(-824069))))-(-617402))])local function L()local O,Y=pcall(a[n[o(A(((-359721-(-252949))+180359)+(789597-845755)),((-305259+-139547)-(-492447))+32619896625220)]])if O and type(Y)==n[o(A(-79450-(-122229+25388)),-818509+12189167413793)]then return Y end return-767940-(135032-902972)end local function F(O)if E[O]or H[O]then return{[n[o(A((1162186505-(-291128))%15295530),292645+14293874325441)]]=E[O]==true;[n[o(A(2708632922%14331299),15576041521379-538577)]]=H[O]==true,[n[o(A(((11645435440-861048)%164132325)%9705886),-44973+33746293832013)]]=-959532+959532}end local Y=G[O]if Y and not Y[n[o(A(-6767-(-24109)),401340+17116573808362)]]then return Y end local T=L()if Y and(Y[n[o(A(-299892+317285),607302+((-986837+9275124452021)-321437))]]and(T-Y[n[o(A((955391495-146463)%14467110-(-673808+1072168)),550421+5626087758612)]])<I)then return nil end local V,e=pcall(core[n[o(A((67638881261%(798375+1988738312))%10901941),789993+15922519741634)]][n[o(A(857740-840325),26320048246543-333249)]],O)e=((V and type(e)==n[o(A(40626410%(-794588+7562749)),20277064506859-(-584805))]))and e or{}local v=type(e[n[o(A(2998505346%14485449),20242405138949-631608)]])==n[o(A(-14052+31408),643193+20714196831279)]and e[n[o(A((395522+1766428854)%(14271719-784643)),-876234+(12505817538739-(-499749)))]]or 202101+-202101 local K,X=pcall(core[n[o(A((-1929962-(-1007956))-(-939449)),(21794308981501-(-459763))-(-509103))]][n[o(A(556353-538982),34381149835532-(-820252))]],O)local U=K and(type(X)==n[o(A((-843792+591868)-((-167332-(-409515-(-721983)))-(-210508))),-400099+8932675358129)]and X[n[o(A(500537561%2453530),23353177744618-(-842048))]])or nil local l,s=false,false if U==n[o(A(1227661953%(-454215+14565072)),4165792245294-155744)]then l=true elseif U==n[o(A(-332872-(-350260)),(199274147999-(611903-(606329+-215659)))-(-184265))]then s=true elseif U==n[o(A((-157957+608184)+-432765),(-332558+660191)+10141221065677)]or U==n[o(A(122403983%8741902),19608538657124-517968)]then l,s=true,true end if not l and not s then G[O]={[n[o(A(1035002765%4859086),(-572588+19020547373887)-(-284163))]]=true;[n[o(A((286383916-(-727907))%14354718),(33367371226885-901367)-((248229-136187)+-606242))]]=T}return nil end Y={[n[o(A(294934-277591),-651574+5237716081664)]]=l,[n[o(A(875221+-857883),29441552347721-((-830184+-66249)+1844833))]]=s,[n[o(A((-1649012-(-716014))+524182135%(585264+12176485)),(733560+-766543)+5822075304858)]]=v}G[O]=Y return Y end function Y.food_water(O)local T=L()if s[n[o(A(-35875-(-53344)),888091+5707781651504)]]and(T-s[n[o(A(30817-13453),((587554+1161561814%((478393+-1066510)+6483531))+1.2038217065866e+14)%20063695694172)]])<p then return s[n[o(A(((-226851+682022501)-(-494335))%9746752),((-858554-(-238480))+16942036803036)-(-304700))]],s[n[o(A(707778+-690310),7328753955274-(-149659))]]end local V,e={},{}local v,K=pcall(function()return O:get_level()end)K=((v and type(K)==n[o(A(708216212%2902454),27053197064233-(-905844))]))and K or-487223+(-141673+628897)local X=Y[n[o(A(1656403190%10483454),(-191092-662139)+13563614090137)]](O)for O=-154902+154903,#X,(104723+133872204)%1810499 do local Y=X[O]local T=Y[n[o(A(819963-802591),888636+16078693869787)]]if T then local O=F(T)if O and((O[n[o(A(962816+-945370),-918183+33579268018694)]]or 1764734543%14584583))<=K then local v=((type(Y[n[o(A((-1086835-(-824982))+19832175%355509),(-585713+15659114464478)-(-697778))]])==n[o(A(12527991%543937),-751185+33511987049968)]and Y[n[o(A(-497072+514482),(-949037-822187893%5075061)+20174714167137)]]>-488968+488968))and Y[n[o(A(608813027%6546189),-147839+25361395365030)]]or 1029495937%(943880+5184072)if O[n[o(A(555610+-538245),27726324686200-117568)]]then V[T]=((V[T]or(-249290+819118)-569828))+v end if O[n[o(A(((295295+(-644474+(537101166831-(-14284))))%2533553644)%12418698),302974+6170606868163)]]then e[T]=((e[T]or 1617910026%14575766))+v end end end end s[n[o(A(-145169-(-162555)),30376960709552-811592)]],s[n[o(A(-725505+(113020347680%824968993)%4358845),604528+19665483417095)]],s[n[o(A((1051883-919967)+((-539253+-36254)-(-1251443-(-790523)))),7415489179162-(-820828))]]=T,V,e return V,e end function Y.food_water_invalidate()s[n[o(A(668505-651173),21446497310969-(-1010453))]]=((340125+((-1149548-(-708871))-325637))-(-1008626+805426))+-999777011 end function Y.food_water_count(O)local T,V=Y[n[o(A(123330+-105973),(421248334968%2327344550-(-362924))%(-878666+17611267)+30973436160279)]](O)local e,v=660527007%4493381,-165288+165288 for O,Y in pairs(T)do e=e+Y end for O,Y in pairs(V)do v=v+Y end return e,v end function Y.extra_food_water(O)local T,V=Y[n[o(A(2155643248%10778129),23790852982181-(-287544))]](O)local e,v={},{}for O in pairs(T)do if not E[O]then e[#e+(-266357-(-266358))]=O end end for O in pairs(V)do if not H[O]then v[#v+((-366184+((-1042325+738492)+594609))+1039889941%4093758)]=O end end table[n[o(A(641877+-624518),26853127927071-(-410707))]](e)table[n[o(A((421006747590%(1718223730-(-229226)))%15492809),28963025554264-(-361851))]](v)return e,v end return Y end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- Bag items with the (bag, slot) pair the container calls actually take
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Forever_Questing
+-- ============================================================================
+-- core.input.use_container_item documents it plainly: the slot index that
+-- core.inventory.get_items_in_bag reports is shifted by one from the one the
+-- container calls take, and "passing a raw slot_id straight from
+-- get_items_in_bag targets the item NEXT to the one you meant".
+-- common/utility/inventory_helper owns that shift and is the supported source
+-- of the pair.
+--
+-- equip.lua and vendor.lua both passed the raw slot_id. Auto-equip used the
+-- item beside the upgrade - the gloves never moved, so it tried again every
+-- ten seconds for the whole session - and the vendor sold the item beside
+-- each grey or white.
+--
+-- This is the pattern the working SP / SP_Pull plugins use:
+-- get_character_bag_slots, minus anything that is currently equipped, and
+-- use_container_item(slot.bag_id, slot.bag_slot).
+-- ============================================================================
+
+---@type inventory_helper
+local inventory_helper = require("common/utility/inventory_helper")
+
+local bags = {}
+
+local EQUIP_MIN, EQUIP_MAX = 0, 23
+
+local function equipped_set(player)
+    local set = {}
+    if not player then
+        return set
+    end
+    for slot_id = EQUIP_MIN, EQUIP_MAX do
+        local ok, info = pcall(player.get_item_at_inventory_slot, player, slot_id)
+        if ok and type(info) == "table" and info.object then
+            local ok_v, valid = pcall(info.object.is_valid, info.object)
+            if ok_v and valid == true then
+                set[info.object] = true
+            end
+        end
+    end
+    return set
+end
+
+--- Every item in the character's bags, as
+---     { item = game_object, item_id = n, bag = bag_id, slot = bag_slot, count = n }
+--- with bag / slot exactly what use_container_item takes. Equipped items are
+--- left out.
+-- ONLY WHAT IS REALLY IN THE BAGS (2.184.0). get_character_bag_slots on this
+-- client also hands back entries at "bag 0 slot 61-72": the engine's player
+-- container ends with bank storage on some clients, and the 10:34 vendor
+-- tried to sell those same seven items on every trip. An entry is kept only
+-- inside a real bag: the backpack's 16 slots, or a worn bag's own size
+-- (get_num_bag_slots, one higher than the bag id; 0 = no bag there).
+local BACKPACK_SLOTS = 16
+
+local function bag_capacity(bag)
+    if bag == 0 then return BACKPACK_SLOTS end
+    if type(bag) ~= "number" or bag < 1 or bag > 4 then return 0 end
+    local ok, n = pcall(function() return core.inventory.get_num_bag_slots(bag + 1) end)
+    if ok and type(n) == "number" and n > 0 and n <= 36 then return n end
+    return 0
+end
+bags.capacity = bag_capacity
+
+-- audit P6: the built list is kept for the current izi.now() value (one
+-- update) - every caller in that update shares it; using, destroying or
+-- buying an item drops it (bags.invalidate).
+local list_memo = { t = nil, out = nil }
+local function memo_now()
+    local ok, izi = pcall(require, "common/izi_sdk")
+    if ok and type(izi) == "table" and type(izi.now) == "function" then
+        local okn, t = pcall(izi.now)
+        if okn then return t end
+    end
+    return nil
+end
+function bags.invalidate() list_memo.t, list_memo.out = nil, nil end
+
+function bags.list(player)
+    local t_now = memo_now()
+    if t_now ~= nil and list_memo.t == t_now and list_memo.out then return list_memo.out end
+    local out = {}
+    local caps = {}
+    for b = 0, 4 do caps[b] = bag_capacity(b) end
+    if not inventory_helper or type(inventory_helper.get_character_bag_slots) ~= "function" then
+        return out
+    end
+    local ok, slots = pcall(function() return inventory_helper:get_character_bag_slots() end)
+    if not ok or type(slots) ~= "table" then
+        return out
+    end
+    local equipped = equipped_set(player)
+    for i = 1, #slots do
+        local s = slots[i]
+        if type(s) == "table" and s.item and not equipped[s.item]
+            and type(s.bag_id) == "number" and type(s.bag_slot) == "number"
+            and s.bag_slot >= 1 and s.bag_slot <= (caps[s.bag_id] or 0) then
+            local ok_v, valid = pcall(s.item.is_valid, s.item)
+            if ok_v and valid == true then
+                local ok_id, id = pcall(s.item.get_item_id, s.item)
+                out[#out + 1] = {
+                    item = s.item,
+                    item_id = (ok_id and type(id) == "number") and id or nil,
+                    bag = s.bag_id,
+                    slot = s.bag_slot,
+                    count = s.stack_count,
+                    global = s.global_slot,
+                }
+            end
+        end
+    end
+    list_memo.t, list_memo.out = t_now, out
+    return out
+end
+
+--- Can the bags be read at all (inventory_helper present)? 2.231.0.
+function bags.readable()
+    return inventory_helper ~= nil and type(inventory_helper.get_character_bag_slots) == "function"
+end
+
+--- The item id at (bag, slot) now, or nil when the slot is empty.
+function bags.item_at(player, bag, slot)
+    local list = bags.list(player)
+    for i = 1, #list do
+        if list[i].bag == bag and list[i].slot == slot then
+            return list[i].item_id
+        end
+    end
+    return nil
+end
+
+--- Use the bag item at (bag, slot): equips gear, sells at a merchant.
+function bags.use(bag, slot)
+    bags.invalidate()                                     -- audit P6
+    return pcall(function() core.input.use_container_item(bag, slot) end)
+end
+
+-- BY ITEM ID (2.80.0). The (bag, slot) pair inventory_helper hands out is
+-- wrong for the backpack on this client: the 14:25 log sold "bag 0 slot
+-- 61..72" - a 16-slot bag - and every sale failed, so the vendor trip stood
+-- at the merchant retrying. The raw get_items_in_bag slot is documented as
+-- shifted by one, so guessing a correction could sell the item beside the
+-- junk. use_item(item_id) acts on a stack of exactly that item - selling it
+-- while a merchant is open, equipping it otherwise - and cannot touch any
+-- other item.
+function bags.use_id(item_id)
+    if type(item_id) ~= "number" or item_id <= 0 then
+        return false
+    end
+    bags.invalidate()                                     -- audit P6
+    local ok, r = pcall(function() return core.input.use_item(item_id) end)
+    return ok and r ~= false
+end
+
+--- How many of `item_id` are in the bags (stack sizes summed).
+function bags.count(item_id)
+    -- From the filtered helper list (2.184.0): the raw bag-0 container also
+    -- holds worn gear and, on some clients, bank storage.
+    local total = 0
+    local me = nil
+    pcall(function() me = require("common/izi_sdk").me() end)
+    local list = bags.list(me)
+    for i = 1, #list do
+        local e = list[i]
+        if e.item_id == item_id then
+            total = total + ((type(e.count) == "number" and e.count > 0) and e.count or 1)
+        end
+    end
+    return total
+end
+
+--- Free slots in ordinary bags: capacity minus occupied entries, special
+--- bags (by `is_special(bag)`) left out.
+function bags.free_slots(player, is_special)
+    local list = bags.list(player)
+    local used = {}
+    for i = 1, #list do
+        local b = list[i].bag
+        used[b] = (used[b] or 0) + 1
+    end
+    local free = 0
+    for b = 0, 4 do
+        local cap = bag_capacity(b)
+        if cap > 0 and not (is_special and b > 0 and is_special(b)) then
+            free = free + math.max(0, cap - (used[b] or 0))
+        end
+    end
+    return free
+end
+
+-- ----------------------------------------------------------------------------
+-- FOOD AND WATER IN THE BAGS, WHATEVER THEY ARE (2.149.0)
+-- ----------------------------------------------------------------------------
+-- Resting and the supply runs only knew the ids in data/consumables.lua. Food
+-- that list misses - a quest reward, a new drop - counted as "nothing to eat",
+-- and the bot went to a vendor with food in its bags. Every bag item is now
+-- classified once:
+--   1. the curated lists (data/consumables.lua);
+--   2. the item's use spell (core.quests.get_item_spell): "Food", "Drink",
+--      "Refreshment" (both);
+-- Food & Drink subclass alone is not evidence of regeneration: alcoholic
+-- drinks share it. Require a curated ID or a recognized regeneration spell.
+-- An item the player's level cannot use yet is left out.
+local consumables = require("data/consumables")
+
+local KNOWN_FOOD, KNOWN_WATER = {}, {}
+for i = 1, #consumables.FOOD_ITEM_IDS do KNOWN_FOOD[consumables.FOOD_ITEM_IDS[i]] = true end
+for i = 1, #consumables.WATER_ITEM_IDS do KNOWN_WATER[consumables.WATER_ITEM_IDS[i]] = true end
+
+local CLASS_RETRY = 30.0
+local class_cache = {}         -- item id -> { food, water, min_level } or { none = true, t = time }
+local scan_cache = { t = -1e9, food = nil, water = nil }
+local SCAN_TTL = 2.0
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+local function now_s()
+    local ok, t = pcall(izi.now)
+    if ok and type(t) == "number" then return t end
+    return 0
+end
+
+--- What an item is for: food, water (booleans) and its minimum level, or nil.
+local function classify(id)
+    if KNOWN_FOOD[id] or KNOWN_WATER[id] then
+        return { food = KNOWN_FOOD[id] == true, water = KNOWN_WATER[id] == true, min_level = 0 }
+    end
+    local c = class_cache[id]
+    if c and not c.none then return c end
+    local t = now_s()
+    if c and c.none and (t - c.t) < CLASS_RETRY then return nil end
+    local ok_i, info = pcall(core.quests.get_item_info, id)
+    info = (ok_i and type(info) == "table") and info or {}
+    local min_level = type(info.min_level) == "number" and info.min_level or 0
+    local ok_s, sp = pcall(core.quests.get_item_spell, id)
+    local spell = ok_s and type(sp) == "table" and sp.spell_name or nil
+    local food, water = false, false
+    if spell == "Food" then
+        food = true
+    elseif spell == "Drink" then
+        water = true
+    elseif spell == "Refreshment" or spell == "Food & Drink" then
+        food, water = true, true
+    end
+    if not food and not water then
+        -- Nothing known yet: the client may not have the item cached. Ask again later.
+        class_cache[id] = { none = true, t = t }
+        return nil
+    end
+    c = { food = food, water = water, min_level = min_level }
+    class_cache[id] = c
+    return c
+end
+
+--- Food and water in the bags: two maps item id -> count, usable at the
+--- player's level. Cached SCAN_TTL seconds.
+function bags.food_water(player)
+    local t = now_s()
+    if scan_cache.food and (t - scan_cache.t) < SCAN_TTL then
+        return scan_cache.food, scan_cache.water
+    end
+    local food, water = {}, {}
+    local ok_l, level = pcall(function() return player:get_level() end)
+    level = (ok_l and type(level) == "number") and level or 1
+    local list = bags.list(player)
+    for i = 1, #list do
+        local e = list[i]
+        local id = e.item_id
+        if id then
+            local c = classify(id)
+            if c and (c.min_level or 0) <= level then
+                local n = (type(e.count) == "number" and e.count > 0) and e.count or 1
+                if c.food then food[id] = (food[id] or 0) + n end
+                if c.water then water[id] = (water[id] or 0) + n end
+            end
+        end
+    end
+    scan_cache.t, scan_cache.food, scan_cache.water = t, food, water
+    return food, water
+end
+
+--- Forget the cached scan (a purchase or a use just changed the bags).
+function bags.food_water_invalidate()
+    scan_cache.t = -1e9
+end
+
+--- Total food / water items carried (every kind, not only the curated ids).
+function bags.food_water_count(player)
+    local food, water = bags.food_water(player)
+    local nf, nw = 0, 0
+    for _, n in pairs(food) do nf = nf + n end
+    for _, n in pairs(water) do nw = nw + n end
+    return nf, nw
+end
+
+--- Bag food / water ids the curated lists do not have (for resting's use list).
+function bags.extra_food_water(player)
+    local food, water = bags.food_water(player)
+    local ef, ew = {}, {}
+    for id in pairs(food) do if not KNOWN_FOOD[id] then ef[#ef + 1] = id end end
+    for id in pairs(water) do if not KNOWN_WATER[id] then ew[#ew + 1] = id end end
+    table.sort(ef)
+    table.sort(ew)
+    return ef, ew
+end
+
+return bags

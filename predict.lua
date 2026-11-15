@@ -1,1 +1,145 @@
-return(function(...)local D={"sFGu3","s4doYEN==";"sPKH5Smx6","somRJqsOo","sBOo3GDP=","s5272";"s7/e6qwc=";"s4APFLIOlNc55PtOuf7b=";"S8NapZF:","S!0f&\'qEr[t\'\"","Sh`2Z8g\"-","SFk-)%o`p","S*8og=`L3H7]!","S3)IO)`T]_LjDTTu8!N";"s/j8mo8Gk","SMHZ1T";"S-)1c3JBTJ9:YYr1Z5H","sxuj9PrN=","Sl:5ccSh-";"SbAPq/","SBoii9?L.tu;H";"SmsS";"SFm!8.nj";"S3@","sFi==";"sXN==";"S(W\\";"s30saGN==";"sOQj08vbz3W4fghMJfiiWKrMsddWsFaapCjK9UGeW7h==";"SBT69M","S#@AH\"","SpWt;h&F","S\'+0m-","SKs?l";"Sa#0i\"","S8\\","sohw8h31=","s68AnHd7D","sXP+sitmr","SbO@^0","Sa6sXA";"SFZFS4";"sl2eA","sbMwnCeF=";"sIH67","S;A?,@Xpf*$bdT(";"SF1VH\"iT!";"scLe7a4L=","szboSkR1h";"sj+BWNy5AodZYFtg38a==";"S=AYn,IkN";"ssPJ56+Ppkd8eEqBLbNa=";"Su5B<jH_r","S%`QP\'";"SXI$\\9_]BLS4j</Hj;","s7wt7xa==","s4qLzmh==","Sad2r1Z!@","SP+q0SaW0K&\\.W%Q;`H1","S";"s2EZb0h==","sH8uyOOL=";"sylPK5kbdibV=";"sw3XIqC2Oea==","sDiJp5GIrj+dE"}local function d(w)return D[w-252856145%1085166]end for w,I in ipairs({{278765-278764;946897263%(-359378+842030000%20901692)};{-799059+799060;519448+-519438},{-986020-(-986031);789303+-789238}})do while I[-483535+483536]<I[-49980-(-49982)]do D[I[1810630373%12233989]],D[I[10105703%10105701]],I[(-985706+(987364+813867791))%(9834639-2287178510%9490247)],I[(((1197535-(700432+(-1232253-(-975871))))-426026)-390702)+63245]=D[I[2066447597%11169987]],D[I[1861713283%9955686]],I[121194642%1176647]+((562184+-1086624)-(-524441)),I[771984835%3934423+-837925]-2687178189%15623129 end end do local w=string.len local I=table.insert local R=string.char local j={k=-388101-(-388166);j=349116-(-30081-(-379180));G=1034102-1034052,["4"]=814024586%4497373,["*"]=2565219275%12890549;["+"]=1088055696%11217069;["2"]=332878267%(3290168024%18471539),["7"]=(422389701-(-473155))%16880239+-856854;u=605163306%4655102,q=1235002341%5691255;O=((726330+-936253)+591004)-381001;h=(-282561+250972)+31648;["/"]=17072547%((-7614-(-229861+527391))+(8388243-(-453169)));["`"]=838155528%11326426;["!"]=1021028+-1021026;["#"]=873069-99863491%2675418;i=877748+-877713;[";"]=519164980%10383299;[","]=(325987823202%1821221351)%13214764,M=((4882241293390%70757197898)%1088583852)%14828353;I=(1361768554%((285094+(-682403-604313))+457723665))%11208110,f=278867-278834,["1"]=-415186+((233857+-685973)-(-867366)),["\""]=366842-366761,["@"]=463812-463752,A=763588615%12726476;B=((97910813-(-476581))-(-336616))%(509179471%3060588);["6"]=947865901%13934851+-295981;Y=154918+(191509-346401);T=714421-(-833019+1547371),m=1407551685%(((-1560648-(-598563))+145479)+17573173);X=673741+-673704;["3"]=37199+-37129;["]"]=1377233171%11975940;Z=-864941-(-864948),["?"]=-346236-(-346276);[":"]=-612256-(-612310),P=139024-139006,o=1592315933%8996135,D=2641758268%14515155,p=1277913902%6833764,J=137383456%6542068,g=1601643935%(604808+15906985);["\'"]=-103655+103655,l=-533454+533521,["%"]=267125+-267115;["5"]=(-1451418-(-410512))+1040926;["<"]=335941-711579010%6184723;["."]=544251+-544167;a=-787349+787357;U=2576122372%10514785,["\\"]=555824139%14251900;H=1178919047%13869635;r=-445536-(-445555);N=-338453+(1189102500%12250723-443838),t=(-1246994-(-321443))-(-925556),W=-190605+190646;s=1842991018%(-64602+13716387);E=152770-152757;d=1517506490%10762457;_=-500317-(-500394);["("]=356920+-356869;e=998153-998108;R=485655970%2032033;V=(15633861-282833)%438599,S=712189-712167,C=1380103644%(10194246-(-753788))+-651281,c=-492454-(-492536);[">"]=121032+(-399859+278888);["="]=(804292+-1361525)+557308,["8"]=-470831+(112626-(-358237)),K=1024210+-1024148;F=216293436%(-972441+3856353);["-"]=938097+-938082,["&"]=14577066%(-1028992+1171904);[")"]=-395052+((352003-560973)+604031);L=2702641985%(11512583-(-749531-((-1704323-(-448499))-(-207992))));Q=2087701632%14599312,["["]=-527487-(-912707+385199),n=(-714200+334817)+(235908+143523);["0"]=-274406+274480,b=563061+((203402+-1127883)-(-361451));["^"]=(-584824+65806586)%3432723;["$"]=-259425-(-259426),["9"]=12515507%12515495}local Q=D local E=table.concat local c=string.sub local x={N=(4103848674%74740022)%13577494,t=-672117-(330843-1002994),["/"]=692930+-692876,["1"]=1299552452%14767641,O=772079-772042;j=-382189-(-588087-(-205838));["9"]=(773021+208513448)%1041226,u=(2077136879-325914)%10930584;V=(582162+-968457)+386315;["+"]=-121967+121989;Q=-618247+618302,S=2793420565%13176512;G=(19062446381%577966363)%7774284;c=175320+-175284,k=-796484-(-796510),s=114310+-114307;F=1384089274%5626379;e=-1035807+1035837,M=765989-765960,A=(1557344-861431)-695862;l=51065+(114144-165174),d=32986+-32971;K=-872316+872329;n=716735-(254672+462001),["7"]=(-946030+1826627)-880552;m=-310998-(-311006);R=2591+(985395-3381868885%16492102);I=344146-344105;["5"]=-527341+(-954578+1481975),q=(225391672601%1417568673)%10645280;w=(-630150+1539052)+-908879;p=-899194-(-899257);y=(-52816-597806)+650631,Y=75347-75322,J=2778011142%14776655,C=(-23863-(-731095))+-707194,X=-628154-(-628215),W=82098-82056;Z=((-981074+(246553478%14503070+1867948))+-650415)+-237695,b=-673234-(-673238);g=2018867225%8274046,L=-153299-(-153311);P=781631-781603;["6"]=(129617086871%1089254619)%6739390;o=2055174742%10432359;h=456012+-455964;["0"]=223175-223151;U=628546339%12087429;T=303183898%((-91739+(1342466470-(-204381)))%18040534);z=4567401%4567383;D=943684181%4790275;["8"]=-697891-(-697898),v=2136505995%(13495062-(-653984));["4"]=((-906641+247652)-(-673417))+-14371,i=508552+(-507721+-799);E=1267279232%11019819,f=-926427+926486;x=479695-479649;["2"]=81181559%3122367,r=508805+-508755,H=1977457978%8749814,B=(666464+-1424961)+758507;a=-1025343-(-1025343),["3"]=2720976168%14707979}local P=math.floor local q=type for v=813077539%10424071,#Q,-173534+173535 do local p=Q[v]if q(p)=="string"then local q=c(p,721375-(((-785941-38565)-(-829465))+716415),-448253+448254)if q=="s"then p=c(p,-397084+((-413481+137499)+673068))local j=w(p)local q={}local u=(257282896-(-641409))%3907944 local i=2212990623%14463991 local D=(-705127+1459536)-754409 while u<=j do local w=c(p,u,u)local Q=x[w]if Q then i=i+Q*((-165548+165612)^(((724777-724774)-D)))D=D+3154183469%((238781+-67675)+12395362)if D==(820843+((534069+439195)+191839631))%2361387 then D=-145982-(-145982)local w=P(i/((382522+-1147672)-(-830686)))local j=P((i%(291592218%1236108-1041302))/(1224333256%13912875))local Q=i%(-175771+176027)I(q,R(w,j,Q))i=(772493-(-844768+695646))-((564291+62534171)%1241831+-85297)end elseif w=="="then I(q,R(P(i/(1734710410%8630074))))if u>=j or c(p,u+(201466517-555102)%9132337,u+369007475%10853161)~="="then I(q,R(P((i%(-848542-(-914078)))/(-681147-(-681403)))))end break end u=u+(971033-971032)end Q[v]=E(q)elseif q=="S"then p=c(p,375723-(619972-244251))local x=w(p)local q={}local u=-749793-(-362997-386797)while u<=x do local w=(x-u)+(194964-194963)local Q=w>=93033473%15505578 and-156751+(1037344+-880588)or w local E=-382421+((-1441691-(-665765))+1158347)local v=Q>145598361%7279918 for w=666190+-666190,364426+(-937551-(-778868+205739)),-13336+13337 do local I if w<Q then local R=c(p,u+w,u+w)I=j[R]if not I then v=false break end else I=1030591+-1030507 end E=E*(2328345461%10394399)+I end if v then local w=P(E/(-999395+17776611))%(150084671%(1543133239%11169330))local j=P(E/((1095266335-(-405951))%10434350))%(806995-806739)local c=P(E/(134467726%(979943886%15541807)))%(668967-668711)local x=E%(-17837-(-18093))if Q==-729543+729548 then I(q,R(w,j,c,x))elseif Q==316733+(716802+-1033531)then I(q,R(w,j,c))elseif Q==(348291-720243)+371955 then I(q,R(w,j))elseif Q==182052-(-146563-(-328613))then I(q,R(w))end end u=u+Q end Q[v]=E(q)end end end end local i,u do local w=math[d((-258051-498086)+768623)]local I={}local R=string[d(-325451+337968)]local j=math[d(519310-506786)]local Q=-497492-(-497492)local E={}local c=-351528+351530 local x=table[d(339205+-326716)]for w=-711307+711308,2782560805%15545031,173749-173748 do I[w]=w end repeat local w=j(3315857756%14110033,#I)local Q=x(I,w)E[Q]=R(Q-((-895848-(-430208))-(-465641)))until#I==1046662690%11017502 local P={}local function q()if#P==(752049-135437)-616612 then Q=((Q*(575461+-575324)+((242951+449533)+9655572536947)))%(-611045+35184372699877)repeat c=(c*((331885-837705)+2152895980%16685195))%(-539033-(-539290))until c~=1579548125%10256806 local I=c%(194646-2855364294%16222555)local R=149240617%1587666-((c-I))/(780836+-780804)local j=(w(Q/(102047+-102045)^R)%(1045214+4293922082))/(868821+(58593-927412))^I local E=w((j%((873476+1091421344)%4728549))*((366174+4293803891)-(-797231)))+w(j)local x=E%(1317979522%6045477)local q=((E-x))/(1105239892%16745066)P={x%(265240+(-909767-(-644783)));((x-x%(1001032-1000776)))/((-531267-(253013+-533376))+251160);q%(1405871330%13138982),((q-q%(-325875-(-326131))))/(-949243-(-949499))}end local I=#P local R=P[I]P[I]=nil return R end local v={}i=setmetatable({},{[d(-762597+(1013380-238307))]=v;[d(288464+-275941)]=nil})function u(w,I)local R=v if(R[I])then return I else P={}local j=E Q=I%(619985+35184371468847)c=I%(-832728-(-832983))+344860370%5071476 local x=#w R[I]=d(-293805-(-306277))local v=(37743+861839975)%6895021 local p=d((29825560324%368369346)%3068967)for I=3591500233%15752194,x,356867-356866 do v=(((string[d(-958586-(-1664875-(-1152261-(-458469))))](w,I)+q())+v))%(893665+-893409)p=p..j[v+(388452-(733732-(451767-106486)))]end R[I]=p end return I end end local w={}local I=.2 local R=-470194-(-470202)local j=(-776809-(-339971))-(-436868)local Q=685657728%((715424614266%4968313473)%(-798614+21934103))local E=nil local c={}local x=-800408-(-800408)local function P(w)local I,R=pcall(w)if I then return R end return nil end local function q()if E==nil then local w,I=pcall(require,i[u(d(-756156+768662),-68530+29872761867947)])E=((w and(type(I)==i[u(d(-529707+542202),23289621219698-(-886676))]and type(I[i[u(d(910132-897641),19608809633300-394776)]])==i[u(d(2145805777%12123126),-278068+18687877220388)])))and I or false end return E or nil end local function v()local w,I=pcall(require,i[u(d(-832167+((1446511-(-55556))-588700055%16334519)),19864771365721-(-458999))])return w and(type(I)==i[u(d(113222+(-209826+109118)),1579820355748-(-201653))]and P(I[i[u(d(1392649230%(3752096141%31403015)),15918890685475-(-669517-(-394448)))]]))or 288847-288847 end function w.shape(w)if type(w)~=i[u(d(-371010+383519),-810478+13459277931516)]then return i[u(d(-522557+535087),411783+31542128214222)]end if w[i[u(d((-603359+2176291914)%12154615),-655386+(868807+(3779300262029-(-906474))))]]then return i[u(d(705387+-692906),16836354276966-(-4021))]end if w[i[u(d(671996851%14297539),146974+(416815+9978504732099))]]then return i[u(d(540090+-527580),245290+34690568175979)]end if w[i[u(d(590257-(377109+200652)),764300+29689566902761)]]==i[u(d(734440+-721932),1031632+28623641126433)]or w[i[u(d((-750922+315142113)%5821828),-663444+14304154311187)]]then return i[u(d(1105527079%5583407),(22132593646775-220090)-4683)]end return i[u(d((412111-213277)+(((449775-(-9395))-(-310367-(-1184658-(-1023214))))+-794439)),10293628660715-409880)]end local function p(w)if type(w)~=i[u(d(-1045283+1057767),-284388+((-138267-437970)+33567973340374))]then return nil end return#w end function w.hits(E,D,r,s,Y)local S=q()if not S or type(E)~=i[u(d((365241450726%3095325922)%13311661),19801+(434610+30276266443147))]or not D then return nil end local o=E[i[u(d(408862-396351),710300+19641691013279)]]or{}local f=w[i[u(d(799280+-786798),-69285+6348812720074)]](o)if f~=i[u(d(1943050887%11994064),(-477572+14371657457704)-52699)]and not r then return nil end local g=tostring(E[i[u(d(578574479%6147181+(830679+-1557661)),7408344809605-492395)]]or E[i[u(d(657633-645129),82727+7288081012289)]])..(i[u(d(202174258%1168565),-251504+2850551829656)]..tostring(r and P(function()return r:get_guid()end)or i[u(d(3782229369%15437620),-502375+32005408930)]))local n=v()local M=c[g]if M and n-M[i[u(d(593906667%2548902),((354054+-1045329)+5764805173911)-338311)]]<I then return M[i[u(d(-105405+117878),32794605476779-440446)]],M[i[u(d(511326+-498804),(4334633925291-(-981256))-(-659815-142207))]]end local b=tonumber(E[i[u(d((-469442-((-840354+-186793)+1422226))-(433210110%(958694+3287399)-125239148%3882922)),666950+(-611183+17147711373479))]])or 1338767085%14395345 local h=tonumber(o[i[u(d(1061885003%6806875),29489688550837-(-263128))]])or R local m=tonumber(Y)or j if m<=1366381770%((-749434+(-384042+1561040887%10337383))+(12558817-1010766))then m=(f==i[u(d(702863-690332),31741715086606-(-1016982))])and h or j end local O=tonumber(s)or(-546390+588544)+-42154 local z=P(function()return D:get_position()end)if not z then return nil end local X=S[i[u(d(227852653%(3691557668%21293070)),(-221924-275603)+(479449+34164809061235))]]or{}local Z=S[i[u(d(-497325-(-68478+-441379)),27518303014983-139538)]]or{}local A,t=nil,nil if f==i[u(d(914297788%15763539),26213046214061-1015877)]then local w=P(function()return S:new_spell_data(b,m,h,O,857202696%7203384,X[i[u(d((3246919364-(-709452-(-445378)))%15995916),696727+9193514662325)]],Z[i[u(d(578625+-566133),(-50229+28503408546417)-(-557847))]],z)end)local I=w and P(function()return S:get_cast_position(r,w)end)if type(I)==i[u(d(-915687-(-928208)),2724167037934-(-635520))]and type(I[i[u(d(-903015-(-915500)),28427166620952-642875)]])==i[u(d(233122-220642),6258336637195-205346)]then A,t=I[i[u(d(25425882%2310308),221295+9051362571395)]],I[i[u(d(-185293+197820),(1007560+((503922+8986825330233)-(132966-(-337090))))-609472)]]end elseif f==i[u(d((-1772567-(-765060))-(126266+-1146241)),27015409523836-292949)]then local w=P(function()return S:new_spell_data(b,h,h,O,-383308-(-383308),X[i[u(d(1708594014%14603261),27023397341388-(881434+-1400432))]],Z[i[u(d(-285650-(-298166)),(575016+25980665987890)-468879)]],z)end)A=w and p(P(function()return S:get_circle_list(z,w)end))elseif f==i[u(d(1390714085%12528843),-777883+(659891+(300036543355-(-931403))))]then local w=P(function()return r:get_position()end)local I=w and P(function()return S:new_spell_data(b,h,h,O,3419829250%13679317,X[i[u(d(159635409%3893242),(24035521354020-969570)-891077)]],Z[i[u(d(-309684+(-114410+666183935%4895201)),(335084+-370554)+21564401347722)]],z)end)if I then I[i[u(d(-158938-(-869558-(-698095))),-762713+5290721454837)]]=tonumber(o[i[u(d(1541560725%7447093),34254320364384-(-79051))]])or Q A=p(P(function()return S:get_cone_list(w,I)end))end else local w=P(function()return r:get_position()end)local I=w and P(function()return S:new_spell_data(b,m,h,O,-651844+2677859094%(1325738774%11435043),X[i[u(d(-680321-(-692819)),(22313193053759-(-163991))-(-18101))]],Z[i[u(d(925228+(-77344+-835369)),42923+32136567589861)]],z)end)A=I and p(P(function()return S:get_circle_list(w,I)end))end if type(A)~=i[u(d((388063879804%(2011509028-2733649448%12536284))%9459916+-82536),5466493469602-((8363005422-(-4296))%1394715969)%6146405)]then A=nil end x=x+(728775+(-302498+(-65092+-361184)))if x>(-808540+(498136+1121658))%135159 then c,x={},-1040849-(-1040849)end c[g]={[i[u(d(-890467+902969),31850421447862-((373905+563020)+-1631410))]]=n,[i[u(d(3626566587%(14207826-(-902816))),(-313996+(-1361837-(-1011700)))+35019210737667)]]=A,[i[u(d(-932875+945395),13832477062148-1104864252%6457419)]]=t}return A,t end function w.reset()c,x={},421161+(199883+(-999677-(-378633)))end return w end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- predict.lua - Sylvanas spell_prediction for the class rotations
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Forever_Questing
+-- ============================================================================
+-- WHY (2.248.0)
+--   The AoE role counted enemies within a fixed radius of the player or the
+--   target, and the first ticked AoE spell in list order won. Blizzard went to
+--   the target's feet, not to where the pack was.
+--
+-- WHAT
+--   For every catalog AoE spell (data/class_spells.lua role "aoe" - never
+--   guessed for other spells), the hits are PREDICTED by
+--   common/modules/spell_prediction with the spell's own shape, range and cast
+--   time:
+--     ground  (Blizzard, Flamestrike, Rain of Fire, Hurricane...)
+--             CIRCLE, MOST_HITS, cast position from get_cast_position;
+--     self    (Arcane Explosion, Whirlwind, Consecration, Holy Nova...)
+--             CIRCLE around the player at hit time;
+--     cone    (Cone of Cold, Dragon's Breath - catalog `cone = true`)
+--             CONE from the player toward the target, `angle` degrees;
+--     target  (Chain Lightning, Cleave, Swipe, Seed of Corruption...)
+--             CIRCLE around the target.
+--   smart.lua uses the count for the AoE condition, orders the AoE spells by
+--   predicted hits (most first), and casts ground spells at the predicted
+--   most-hits position. One prediction per spell per CACHE_S (the module's
+--   own advice: not every frame). Without the module everything falls back
+--   to the old radius count (nil answers).
+-- ============================================================================
+
+local M = {}
+
+local CACHE_S = 0.2
+local DEFAULT_RADIUS = 8
+local DEFAULT_RANGE = 30
+local DEFAULT_ANGLE = 60
+
+local sp_mod = nil           -- spell_prediction, false when unavailable
+local cache = {}             -- key -> { t, hits, pos }
+local cache_n = 0
+
+local function safe(fn)
+    local ok, v = pcall(fn)
+    if ok then return v end
+    return nil
+end
+
+local function lib()
+    if sp_mod == nil then
+        local ok, m = pcall(require, "common/modules/spell_prediction")
+        sp_mod = (ok and type(m) == "table" and type(m.new_spell_data) == "function") and m or false
+    end
+    return sp_mod or nil
+end
+
+local function now()
+    local ok, izi = pcall(require, "common/izi_sdk")
+    return ok and type(izi) == "table" and safe(izi.now) or 0
+end
+
+--- The shape of a catalog entry: "ground", "self", "cone" or "target".
+function M.shape(def)
+    if type(def) ~= "table" then return "target" end
+    if def.ground then return "ground" end
+    if def.cone then return "cone" end
+    if def.center == "self" or def.self then return "self" end
+    return "target"
+end
+
+local function count(list)
+    if type(list) ~= "table" then return nil end
+    return #list
+end
+
+--- Predicted enemies hit by catalog entry `e` (id, def) cast by `me` at
+--- `target`, and for a ground spell the cast position. nil when the module or
+--- the inputs are missing (the caller falls back to its own count).
+--- `cast_time` (s) and `max_range` (yd) come from the spell when known.
+function M.hits(e, me, target, cast_time, max_range)
+    local S = lib()
+    if not S or type(e) ~= "table" or not me then return nil end
+    local def = e.def or {}
+    local shape = M.shape(def)
+    if shape ~= "self" and not target then return nil end
+    local key = tostring(e.key or e.id) .. "|" .. tostring(target and safe(function() return target:get_guid() end) or "self")
+    local t = now()
+    local c = cache[key]
+    if c and t - c.t < CACHE_S then return c.hits, c.pos end
+
+    local id = tonumber(e.id) or 0
+    local radius = tonumber(def.r) or DEFAULT_RADIUS
+    local range = tonumber(max_range) or DEFAULT_RANGE
+    if range <= 0 then range = (shape == "self") and radius or DEFAULT_RANGE end
+    local ct = tonumber(cast_time) or 0
+    local mypos = safe(function() return me:get_position() end)
+    if not mypos then return nil end
+    local types = S.prediction_type or {}
+    local geos = S.geometry_type or {}
+
+    local hits, pos = nil, nil
+    if shape == "ground" then
+        local data = safe(function()
+            return S:new_spell_data(id, range, radius, ct, 0.0, types.MOST_HITS, geos.CIRCLE, mypos)
+        end)
+        local res = data and safe(function() return S:get_cast_position(target, data) end)
+        if type(res) == "table" and type(res.amount_of_hits) == "number" then
+            hits, pos = res.amount_of_hits, res.cast_position
+        end
+    elseif shape == "self" then
+        local data = safe(function()
+            return S:new_spell_data(id, radius, radius, ct, 0.0, types.MOST_HITS, geos.CIRCLE, mypos)
+        end)
+        hits = data and count(safe(function() return S:get_circle_list(mypos, data) end))
+    elseif shape == "cone" then
+        local tpos = safe(function() return target:get_position() end)
+        local data = tpos and safe(function()
+            return S:new_spell_data(id, radius, radius, ct, 0.0, types.MOST_HITS, geos.CONE, mypos)
+        end)
+        if data then
+            data.angle = tonumber(def.angle) or DEFAULT_ANGLE
+            hits = count(safe(function() return S:get_cone_list(tpos, data) end))
+        end
+    else
+        local tpos = safe(function() return target:get_position() end)
+        local data = tpos and safe(function()
+            return S:new_spell_data(id, range, radius, ct, 0.0, types.MOST_HITS, geos.CIRCLE, mypos)
+        end)
+        hits = data and count(safe(function() return S:get_circle_list(tpos, data) end))
+    end
+    if type(hits) ~= "number" then hits = nil end
+    cache_n = cache_n + 1
+    if cache_n > 300 then cache, cache_n = {}, 0 end
+    cache[key] = { t = t, hits = hits, pos = pos }
+    return hits, pos
+end
+
+--- Forget cached predictions (a new fight).
+function M.reset()
+    cache, cache_n = {}, 0
+end
+
+return M

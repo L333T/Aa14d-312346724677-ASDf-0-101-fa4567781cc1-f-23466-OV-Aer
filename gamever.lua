@@ -1,1 +1,151 @@
-return(function(...)local e={"<sOEmI31eh6==","YF4Q0o\")","<RcnEVNbUV2AbkL==";"YqMeZ;h;TR","<+zCp6EkJ5L==","YjubJt(el75n1`;6d,Gt1dCuCGdU8";"Yn_";"YJL";"Y5CZ.V-!ga,tUs","YkY";"Y&*nNVaq`sS5l@6";"<0i+z1/V9","<7CBjzgd=","YCK#[.LE>oZ;nS";"YJ%U!","<jlnziOgYaKk=","YI$mc";"Y=gZ2\"m9-T";"<scXE740=";"Y5MV9r";"Y","Yi><^9>Db","<ViM81/p=";"<+FjG8OGyyhxA85==","<UfPdKUlN","<ahsxn6PiJM94uV7Puils+6==";"YDV";"<blFXOfA3HL==","YEZbpc]]","<7yFf1ix9PL==";"<9eTP";"YaL","Y4(*,Shh(5";"<rRl7GVk=";"Y0\'``#E]O:S@4F","<HRD9whd=","<ACQa","Ynk@!b%\'@0J","<KJ+JrHoH";"<0eE/ImZqbBuo/Wy3pxia+OBpsj/e9L==";"Y;bL3<tF>","<QJ92Vm==","Y!\"L>XM#nY";"Yt<AL,Hf","<BANMr+03lL==";"YPXg>VFhI","<jtaVYs9HrtZpgVNykHA0QwAJj6==","<C5==","Y;kG[4LliC","Y1t`E2%cq/o,ffDi$al\\","<0ieqVAFz","YdAfW33sdi","Y8$=Mu*UZb"}local function C(l)return e[l-(663178+(-979772-(-459510+87719)))]end for l,Y in ipairs({{249236-249235;(1895531797-(-221389))%8656407};{305439826%4072531;990073+-990046};{-796147+((-1208160-(-979797))+1024538);1542550433%7674380}})do while Y[-253872-(-253873)]<Y[-562885-(-562887)]do e[Y[-484583+484584]],e[Y[704410346%9783477]],Y[260101-260100],Y[563317+-563315]=e[Y[335213183%6324777]],e[Y[-197979-(-197980)]],Y[(887480+-890960)-(-3481)]+2091846711%10782715,Y[545317+-545315]-2293351553%9885136 end end do local l={[">"]=1962233966%8494519;["5"]=946572-946541,["7"]=-933146-(-933181);["["]=575363+-575297;["."]=3805631%58548;o=84040-84002,U=360107-360088,["<"]=(491138-501231)+10176,R=((591565+-1355976)+879225)+(-1072490-(-331840-625882));a=(((1083833-229637)-985609)+597477)-466027;Y=-255598+1570614872%7549804,B=772288630%6330234,X=333470+(-887017+553552),[")"]=444584+-444503,["*"]=(-758917+1216035)+-457063;["]"]=-560708-(-560735),k=(-852695+1657046)-804302,["0"]=61001026%4644204+-626326;W=14226030%2371002;O=-926840-(-926840),t=958089+-958046,S=-1042954+1042955;e=407409-833987773%4790692;f=-152915-(-152999);["9"]=(500070-(1522134-543580))-(-478509),["8"]=-596883-(-596930);C=(-1297105-(-849546))+447567,I=150524+-150445;d=279205163%1980178,[":"]=(75146079897%1273793828)%16442050;["\\"]=1284546973%12118367;Q=2368288705%12021770;E=900481+-900475;["#"]=(1201138958-541617)%11770562,N=-441287-(-441343);Z=1216958518%5028754;["3"]=(-861648-(-617964))+243693,c=165907918%2476237,["$"]=-709652-(-709664);L=969980700%(-962868+13398517);b=-970219-(-970286),D=-697656-(-1137632-(-439915)),["2"]=-877224-(-59838-817407),l=(((75395874%10724068-752597)+-592023)+1377543)+-360268,M=-843366+843446,V=409315-409255,[";"]=(-183722-503348)-(-687099),r=898157+-898083;["%"]=-916545+916548;["6"]=1017793+-1017742,_=2839033949%12234715+-580055,T=503096668%7860885;s=-819788-(-819812);["("]=551639178%10408286,K=132185-132144,P=322868578%(175768+1376578019%6392624),["1"]=41962-41898,["^"]=(-658085+952000)-293908,["&"]=1586750301%6810087,h=1300205577%8966935;["-"]=-975211-(-975227);u=391592226%1915880+-752661,m=-623173+623183;["+"]=228273+-228211;g=(-128595+705183)-576520,A=747507688%3775291,["="]=763258-763200,F=604722886%9913489,n=474446652%(3671320-(-418737)),[","]=(883805+-1295009)+411217,["!"]=-205970-(-205974);q=547758+-547724;["`"]=-978885+978918;j=-418504-(-418558),i=63107+-63044,J=823727243%7557130,H=908774-908748,["?"]=-774931+774953,p=(-660532-(-1000835))+-340271,G=(1671583-852219)+-819328;["\'"]=751678-751603;["\""]=(330609-422984)-(-92447);["4"]=19319+-19260,["@"]=((3989-421383)+862039)+-444576;["/"]=379431+-379355}local Y=string.char local j=table.insert local G=math.floor local p=string.sub local P=e local n={L=419549-419549,s=2811611238%12780051,U=953756-(40574761587%252067276)%12152185;T=363032-(-425669-(-788659));B=-90565+90572,v=-55390-(-55391);C=121492565%1807471+-391958;u=392517682%2484289;["5"]=-88535+88567,M=(-356221+(603142+275245144))%10203408,P=-429889+429919,["8"]=490447-490400;i=143458430%11030510-61762,q=(6662+-893098)+886482,["2"]=(-304635+636410447)%8703821+(-70272+-656555);m=1981909720%13574724;H=1839196049%11640481;["9"]=10116129%10116092;b=855664+(209783+-1065388);["3"]=(59092-(449993+553598))-(-944510);g=-667477-(-831924-(-164390)),A=-663094-(-663100),["/"]=(244996+418896)+-663837;j=2109582967%15511639,Z=644970+-644916,z=-561643+561688;K=1391394011%14344268,N=314769+-314759,p=1431384725%7121317;I=457646-457586,t=(317071534824%1569661581)%11131610,E=(715931560-831594)%13001817;n=269723+-269704;l=((-721659+-16233)+280342)+457593;["0"]=(-739993+-31856)+(770622+1255),w=(800362+-1335980)-(-859241+323621);G=406543-406508;["6"]=1293540483%12558645;["4"]=931888-931874;S=1656672285%(4109839021%20362903)+-911465,x=6226+-6209,["+"]=1249601157%8500688;V=572899044%(1368051909%6623755),k=87842884%10980356;F=(1004808+-1190677)-(-185930);d=-269074-(-269086);a=199642+-199598,o=(202989+(1700528428-779055))%9826314;X=-1031706+(779887519-714761)%17292022,f=-591981+592022;e=1647041810%11358909,J=-911508+911547;Q=130345+-130321,W=395758329%16489930;y=-511085+511138,["7"]=156197+(153265+-309439);r=-895347+895351,c=(-613591+1953083690)%8997558;R=-33939+33973;Y=((-157085-(50383002888%236556932)%(953999+(582641-129481)))+(-1036352+1832557))-(-113007);["1"]=2426435867%15165224,h=-536560+(-689721+1226284);O=713513427%13462517;D=-316334-(-316356)}local R=string.len local h=type local L=table.concat for u=2304611439%11580962,#P,-714330-(-714331)do local X=P[u]if h(X)=="string"then local h=p(X,((-48660-(-152285))-149320)+45696,837146-837145)if h=="<"then X=p(X,((1629112-854490)+1167802924)%12431676)local l=R(X)local h={}local e=312126+-312125 local C=391129+((44300+-1165236)-(-729807))local U=-433512+(929332+-495820)while e<=l do local P=p(X,e,e)local R=n[P]if R then C=C+R*(((1326549572-589408)%5893156)^(((-771420+771423)-U)))U=U+((-380446+-21936)-(-402383))if U==(-25409-(911309+-1629883))-(325311+367850)then U=-916016-(-916016)local l=G(C/(-1035643+1101179))local p=G((C%(-993520+2023906223%8911221))/(1821222280%8631384))local P=C%(240282-240026)j(h,Y(l,p,P))C=2077261436%9798403 end elseif P=="="then j(h,Y(G(C/(840189376%10501548))))if e>=l or p(X,e+1142212303%5768749,e+(103924+-103923))~="="then j(h,Y(G((C%(1009329+-943793))/(1350425020%12503933))))end break end e=e+(617709+(-1644641-(-1026933)))end P[u]=L(h)elseif h=="Y"then X=p(X,-743842-(-743844))local n=R(X)local h={}local e=92820-92819 while e<=n do local P=(n-e)+(167161+-167160)local R=P>=(((-880285-399860)-(-161590+-586395))+1498127926)%(767800+7693193)and-907458-(-907463)or P local L=-435621+66055581%9374280 local u=R>41864-(359899-(1225375-907339))for Y=921689054%6445378,(42067-669457)+627394,523343627%6085391 do local j if Y<R then local G=p(X,e+Y,e+Y)j=l[G]if not j then u=false break end else j=261102048%1500586 end L=L*(-854129-(-854214))+j end if u then local l=G(L/(2561214016%28271520))%(1297898311%6588315)local p=G(L/((574622+-1379771)+870685))%(321490+-321234)local P=G(L/(-109594-(-109850)))%(((17146800340-(-444936))%84948340)%7262868)local n=L%(791146+-790890)if R==-813421-(-813426)then j(h,Y(l,p,P,n))elseif R==(3640076606-739888)%15552721 then j(h,Y(l,p,P))elseif R==235207241%1656389 then j(h,Y(l,p))elseif R==652493+-652491 then j(h,Y(l))end end e=e+R end P[u]=L(h)end end end end local u,X do local l=math[C(1124254254%4974332)]local Y=-923734-(-495748-427986)local j=table[C((27390305210%2490993677)%10082574)]local G=math[C(-891288-(-946535))]local p={}local P=(1637196925-(-286931))%14112824-((723249+178579581259)%3501609857)%14703426 local n={}local R=string[C(-413503+468747)]for l=977777+(-968939-8837),(-652725+1102442)-(167345+(-578546+988000996))%5453814,-142276+142277 do p[l]=l end repeat local Y=l((-112376+-92487)+204864,#p)local G=j(p,Y)n[G]=R(G-(460813719%3239232+(-639742-203032)))until#p==(810444+-478469)-331975 local h={}local function L()if#h==669747+-669747 then Y=((Y*((-816919+1079932)-262832)+(11125085389394-(-1017775))))%(224031+35184371864801)repeat P=(P*(3253853050%14526129))%(1868694487%8980303-791206)until P~=102735436%6849029 local l=P%(159858801%(2088566-(253268-(-491947))))local j=(592623+(-586715+-5895))-((P-l))/(-74403+74435)local p=(G(Y/((-1662790-(-671672))+991120)^j)%(4294620991-((-1004982-371317)-(-1029994))))/(584135939%5900363)^l local n=G((p%(1157509249%4667376))*(153822+4294813474))+G(p)local R=n%(53284024%6652311)local L=((n-R))/(-159400+224936)h={R%(904615+-904359),((R-R%(1157014336%7231338)))/(-532859+533115),L%(-96274-(-96530));((L-L%((2739938118-46202)%16605404)))/((240127307776%(-83926+1244277213))%(((95068973359302%525243026600)%3036057117-(-72350))%15969276))}end local l=#h local j=h[l]h[l]=nil return j end local e={}X=setmetatable({},{[C(1171258068%5114423)]=e,[C(-90773+(882111-736103))]=nil})function u(l,j)local G=e if(G[j])then return j else h={}local p=n Y=j%((989232+-15291)+35184371114891)P=j%((462718497318%2020628503)%8875481+-464192)+1230854315%8855067 local R=#l G[j]=C(369167325%15379670)local u=316168+-316157 local X=C(-565312-(-620557))for Y=(541683+53860)+-595542,R,(980034-649194)-330839 do u=(((string[C(-923205+360080278%11970062)](l,Y)+L())+u))%(414022+-413766)X=X..p[u+(-454820-(-454821))]end G[j]=X end return j end end local l={}l[X[u(C(-446759-(-901301-(546534+(1046446+-1992320)))),-87928+27499705811854)]]=X[u(C((622248+337990)+-904997),-498404+1217108704876)]l[X[u(C(346946702%1398756),19466198368502-(-328755+-392929))]]=X[u(C(940694+-885469),((-1015316+(4948891616935-(-170236)))-928466)-710197)]l[X[u(C(((-734112+227821)+-411908)+973427),77474576887-820415)]]=X[u(C(213158-157938),-824718+2148095902181)]local Y=nil function l.version()if Y==nil then local l,j=pcall(function()return core[X[u(C(196778-(-1012220+1153748)),(-406164-87621)+6781313414299)]]()end)Y=((l and type(j)==X[u(C(841015-785798),-836003+9998212617493)]))and j or X[u(C(-752050-(-807295)),(967417+4579396046019)-(-957125))]end return Y end local j=X[u(C(755783-700565),638442721%9818483+28100598571013)]local G,p=nil,nil local function P()if G==nil then local l=nil if type(core)==X[u(C(600885793%11336426),8543269976448-(-1031797))]and type(core[X[u(C((1433887311%11375905+(-134542+-659083))-(-325555)),-603344+(18300569913290-732744))]])==X[u(C(-252732-(-307941)),(364524-933165467%6806134)+14583704711671)]then local Y,j=pcall(core[X[u(C(-154844+210074),10659096715289-(-405663-(-522800)))]])if Y then l=j end end G=type(l)==X[u(C(((-590986-(-93958))-287424)+839664),698550+((923431+17306730252297)-136755870%13673983))]and l or X[u(C(847822+(-636741+-155836)),255065+14707433698913)]end return G end function l.exact()return P()end function l.is_forever()if p==nil then p=l[X[u(C(554516357%7595358),279882+3967503884625)]]()==l[X[u(C(75378+-20149),8568468795804-(-1023863))]]or P()==j end return p end function l.is_tbc()return l[X[u(C(498817440%4375107),18100578905424-(-289090))]]()==l[X[u(C(362984341%7406717),(5368348651222-110940)-((-1528726-(-931989))+-331953))]]and not l[X[u(C(1099786650%5554199),936819+22084823398117)]]()end function l.is_vanilla()return l[X[u(C(1627970846%14799233),-186886+22274539557404)]]()==l[X[u(C(-1044888+1100087),-784196+7592181869644)]]end function l.supported()return l[X[u(C((1682650779%11963768)%75921),10880932469518-(-493138))]]()end local n={[(648024-656164)-(-186404-(532863-711126))]=true,[154001306%620973]=true;[712671256%6660479]=true;[-470513+470517]=true,[121419-121414]=true;[182044-(-686320+868358)]=true;[654315-2530415480%(16342818-917445)]=true;[19080260%(-267603-(-444272))]=true;[2939901322%12894304]=true,[-683610-(-1055999-(-372378))]=true}local R={[((52169+956510)+-1800186)-(-791508)]=true,[814966-814964]=true,[(-374980+89652886%1516444)+192293]=true;[1794754204%8973771]=true;[-346814-(492667+-839486)]=true,[-182135+182141]=true;[385984738%3598197+(-1362364-(15992-400704))]=true,[(2399287435-(-288843))%13184485]=true}local h={[-486310-(-486311)]=true;[-436010-(-436012)]=true,[223118+-223115]=true,[(-1693334-(-818560))-(413961+(-1061060-227679))]=true,[(775758799-(-665702))%(1612656516%(-224135+23795625)-((460885+-154488)+2924005405%16803857))]=true;[1054220250%13871319]=true;[25041319%1043388]=true,[-221129+221137]=true,[(26774290945%125174444)%6596134]=true;[300724-300628]=true}function l.race_playable(Y)if type(Y)~=X[u(C(-808615+863864),-916863+26361005478606)]then return false end if l[X[u(C(201063465%5583562),17203898408337-(-63905))]]()then return h[Y]==true end if l[X[u(C(-926193-(-981399)),(-637318+-352930)+6056378044283)]]()then return R[Y]==true end return n[Y]==true end local L={}do local l={(378183-(-638730))+(((-2243388-(-1026408))-(-723441))-521959);1947295754%15961429,364663090%2586253,(564879869-776829)%11512278,785088699%8723192;(19074573-835901)%828966;52480-51059;781621-780199;769935-768512,(-339808-(-820120))+-478888,513533-512108;1604026351%8670405;171262+(-608138+438303);-742370+743798,96532879%16088575,149989-148559;-970891-(-972322);168799900%948306;(404658820-(-764278))%7371303;(142324626821%837231785)%((-1412645-((-1037390+1263322)-992398))+8499516);524655867%8892448,-504134+505570,1732793745%11107643,792742447%6497877;143887-142432;-781521-(-782979),536325847%14113787,2055757574%8601488,-1045068+851160174%15180592;-599805+601762}local Y={118894+-117483;-973216-(-974628);304367213%7609145;(136986594%(-302669+1510612)+496165994585%2224988650)%10617234,1220514723%8417333,-121937+123376,-280257+281697,-595811-(528164+-1125416),271448+-270006,658651+-657208;(-602649+69627)+534466,979666-978221;162514-161068;150635+-149188,672068+-670620;-1025843+1027292,-722525-(-723975);-868294+869745;-915919-(830409+(387960+-2135740));-416039+417493,236180448%2108741;849121-847664;608408279%(-912228+3894612);-253574+(-877479+1133000),3702808422%15623656}local j={581010-579066,((873639+-1043894)+41743)+130457,-651824-(-653770),192558-190610,174887+-172938,318610681%2082410;2569822100%10197699;922857-920904,349881+-347926}for Y=2252245909%10776140+(308149+(-263506+(-365533+288242))),#l,(-640191+(2139435-697344598%5572260))-687145 do L[l[Y]]=(-6138-378619)-(-384757)end for l=-635002-(-635003),#Y,127282751%727330 do L[Y[l]]=-990659-(-990660)end for l=(-613082+307765)+(732450-2043484132%16344456),#j,-340218-(-340219)do L[j[l]]=-557427+557957 end end function l.continent_of_uimap(l)return L[tonumber(l)or-471401+471400]end function l.continent_of(l)local Y=nil pcall(function()Y=core[X[u(C(((855624-(353753-(-135578)))+294726)+(-1647547-(-1041755))),3914329065549-297311)]]()end)if Y==(-46246-770890)+817136 or Y==-47976-(-47977)or Y==-82620+83150 then return Y,Y end local j=L[tonumber(Y)or-18557+18556]if j then return j,Y end if type(l)~=X[u(C(492623897%2132332),9917188734004-(-384577))]or type(l[X[u(C(3969402369%16334762),988927+4180755576847)]])~=X[u(C(332717578%13860932),(-275930+1100988)+((-633904+1400409)+25285498298487))]or type(l[X[u(C(-393124-(-448343)),(5508867454880-(982352+(-146831+-1654027)))-(582638+(169512+-1081954)))]])~=X[u(C(645362-590116),33067286765708-1892041994%8638289)]then return nil,Y end local G,p=pcall(require,X[u(C(-734262-(-789483)),773199+(506480+13980574737495))])if not G or type(p)~=X[u(C((138383378-1246934797%6665721)%1220205),457580+(-732528+32930351389192))]or type(p[X[u(C((-475960+1136725016)%10144588),750093+28232702425810)]])~=X[u(C((2019658-((-723061-(-432820))+1315037))-939625),28768459879320-(-208962+-10141))]then return nil,Y end local P,n=nil,nil for Y=369444001%3694440,#p[X[u(C(-242075+297282),(401046+-492448)+21219237883931)]],-740089-(-740090)do local j=p[X[u(C(-508814+564040),26782598871736-(-973266))]][Y]if type(p[X[u(C(387976-332752),715505+27897935994992)]])~=X[u(C((410823527-(-33653))%12082410),32450647352794-(-978102+132503))]or p[X[u(C(-519596-(-574800)),27370047482785-(-754145))]](j)then local Y=((j[X[u(C(812262+-757028),19832263384327-(-870488))]]-l[X[u(C(581541060%(-52165+(3473802-(-354245)))),23548391056564-856843)]]))^((324011+-1298083)+974074)+((j[X[u(C((387713007-(-697443+504821))%4972441),19808630371499-778001)]]-l[X[u(C(1017931-(887081-(-75652))),663337055571-628981)]]))^(-914777+(236633920%2263189-347485))if n==nil or Y<n then P,n=j,Y end end end return P and P[X[u(C(573694119%11950810),44922+(30483108661222-(-462032)))]]or nil,Y end return l end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- Game version (Forever Questing loads on WoW Forever only, header.lua)
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Product version: see version.lua
+-- Folder: Forever_Questing
+-- ============================================================================
+-- core.get_game_version() answers "Tbc" on TBC Classic (and the TBC 2.5.3
+-- private-server client) and "Forever" on WoW Forever. The beta client is
+-- also accepted when get_exact_game_version() is "wow_forever_beta_us".
+-- Everything that differs between the two asks here
+-- instead of calling the core itself, so the answer is read once.
+--
+-- PLAYABLE RACES (wowhead.com/forever/races, checked 2026-09-29)
+--   TBC      Human, Orc, Dwarf, Night Elf, Undead, Tauren, Gnome, Troll,
+--            Blood Elf (10), Draenei (11)
+--   Forever  Human, Orc, Dwarf, Night Elf, Undead, Tauren, Gnome, Troll,
+--            High Order Skyborne (95, Alliance), Windshaper Skyborne (96, Horde)
+--            - no Blood Elf, no Draenei.
+-- Both have the same nine classes: Warrior, Paladin, Hunter, Rogue, Priest,
+-- Shaman, Mage, Warlock, Druid.
+-- ============================================================================
+
+local gamever = {}
+
+gamever.TBC = "Tbc"
+gamever.FOREVER = "Forever"
+gamever.VANILLA = "Vanilla"   -- WoW Classic (2.237.0)
+
+local cached = nil
+
+--- "Tbc", "Forever", or whatever else the core reports.
+function gamever.version()
+    if cached == nil then
+        local ok, v = pcall(function() return core.get_game_version() end)
+        cached = (ok and type(v) == "string") and v or ""
+    end
+    return cached
+end
+
+-- The coarse name is "Forever". The beta client is identified by the exact
+-- build when get_game_version() does not say that.
+local FOREVER_EXACT = "wow_forever_beta_us"
+
+-- audit V4: the exact build and the Forever answer are cached like version()
+local exact_cached, forever_cached = nil, nil
+local function exact_version()
+    if exact_cached == nil then
+        local ev = nil
+        if type(core) == "table" and type(core.get_exact_game_version) == "function" then
+            local ok, v = pcall(core.get_exact_game_version)
+            if ok then ev = v end
+        end
+        exact_cached = type(ev) == "string" and ev or ""
+    end
+    return exact_cached
+end
+
+--- audit V2: the exact client build ("" when unknown) - the only reader
+--- besides version() is this file.
+function gamever.exact() return exact_version() end
+
+function gamever.is_forever()
+    if forever_cached == nil then
+        forever_cached = gamever.version() == gamever.FOREVER or exact_version() == FOREVER_EXACT
+    end
+    return forever_cached
+end
+--- audit V1: Forever is not TBC - a Forever beta that answers "Tbc" is Forever.
+function gamever.is_tbc() return gamever.version() == gamever.TBC and not gamever.is_forever() end
+function gamever.is_vanilla() return gamever.version() == gamever.VANILLA end
+
+--- Is this a game version the plugin runs on? WoW Forever only (Forever
+--- Questing, header.lua); the Forever beta counts.
+function gamever.supported()
+    return gamever.is_forever()
+end
+
+local RACES_TBC = { [1] = true, [2] = true, [3] = true, [4] = true, [5] = true,
+    [6] = true, [7] = true, [8] = true, [10] = true, [11] = true }
+local RACES_VANILLA = { [1] = true, [2] = true, [3] = true, [4] = true, [5] = true,
+    [6] = true, [7] = true, [8] = true }
+local RACES_FOREVER = { [1] = true, [2] = true, [3] = true, [4] = true, [5] = true,
+    [6] = true, [7] = true, [8] = true, [95] = true, [96] = true }
+
+--- Is `race_id` a playable race on the running game version?
+function gamever.race_playable(race_id)
+    if type(race_id) ~= "number" then return false end
+    if gamever.is_forever() then return RACES_FOREVER[race_id] == true end
+    if gamever.is_vanilla() then return RACES_VANILLA[race_id] == true end
+    return RACES_TBC[race_id] == true
+end
+
+-- CONTINENT (2.146.0): 0 Eastern Kingdoms, 1 Kalimdor, 530 Outland. One
+-- answer for the flight planner and the supply runs, which each had their own.
+-- core.get_map_id() when it is one of those ids (it is only documented as
+-- "the current map"), else the continent of the nearest flight point that
+-- exists on this game version (data/taxi_nodes).
+-- UiMapID -> continent (2.204.0). core.get_map_id() answers the zone's UiMapID
+-- (1426 Dun Morogh - the ids RestedXP's waypoints use; RXPGuides DB/*/db.lua
+-- addon.mapId). The nearest-flight-point fallback compared raw x / y, and
+-- Eastern Kingdoms and Kalimdor coordinates overlap: Dun Morogh came out as
+-- Kalimdor ("nearest Marshal's Refuge, Un'Goro Crater"), so every flight plan
+-- there searched the wrong continent.
+local UIMAP_CONTINENT = {}
+do
+    local EK = { 1415, 1416, 1417, 1418, 1419, 1420, 1421, 1422, 1423, 1424, 1425, 1426, 1427, 1428,
+        1429, 1430, 1431, 1432, 1433, 1434, 1435, 1436, 1437, 1453, 1455, 1458, 1941, 1942, 1954, 1957 }
+    local KAL = { 1411, 1412, 1413, 1414, 1438, 1439, 1440, 1441, 1442, 1443, 1444, 1445, 1446, 1447,
+        1448, 1449, 1450, 1451, 1452, 1454, 1456, 1457, 1943, 1947, 1950 }
+    local OUT = { 1944, 1945, 1946, 1948, 1949, 1951, 1952, 1953, 1955 }
+    for i = 1, #EK do UIMAP_CONTINENT[EK[i]] = 0 end
+    for i = 1, #KAL do UIMAP_CONTINENT[KAL[i]] = 1 end
+    for i = 1, #OUT do UIMAP_CONTINENT[OUT[i]] = 530 end
+end
+
+--- The continent of a UiMapID, or nil when it is not a known zone.
+function gamever.continent_of_uimap(map_id)
+    return UIMAP_CONTINENT[tonumber(map_id) or -1]
+end
+
+function gamever.continent_of(pos)
+    local raw = nil
+    pcall(function() raw = core.get_map_id() end)
+    if raw == 0 or raw == 1 or raw == 530 then
+        return raw, raw
+    end
+    local by_map = UIMAP_CONTINENT[tonumber(raw) or -1]
+    if by_map then
+        return by_map, raw
+    end
+    if type(pos) ~= "table" or type(pos.x) ~= "number" or type(pos.y) ~= "number" then
+        return nil, raw
+    end
+    local ok, cat = pcall(require, "data/taxi_nodes")
+    if not ok or type(cat) ~= "table" or type(cat.nodes) ~= "table" then
+        return nil, raw
+    end
+    local best, best_d = nil, nil
+    for i = 1, #cat.nodes do
+        local n = cat.nodes[i]
+        if type(cat.in_game) ~= "function" or cat.in_game(n) then
+            local d = (n.x - pos.x) ^ 2 + (n.y - pos.y) ^ 2
+            if best_d == nil or d < best_d then best, best_d = n, d end
+        end
+    end
+    return best and best.map or nil, raw
+end
+
+return gamever

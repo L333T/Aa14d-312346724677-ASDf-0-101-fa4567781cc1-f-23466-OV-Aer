@@ -1,1 +1,2681 @@
-return(function(...)local z_={"IcYHysjvAdD6LoiuqSFtSL5Ct+vkZ3BvcysB6","[g.i[&UQu","[!4o<qgD,*7KAkV\\XSeP535p!.8i8.cLK\"_e8&hTO@7a$3m/<0_s_g)eoU0$\\2JelF-(Ma\"RZMSPcQ\\\"j$foO0m8:I%Vu>#+\"053Qn-Gt;6o[1;Qj/a[-16p^-YgNYs<V@)e=7UkR\'F>3`ksH","[jQR@aG9CY,","[Q0.tfa\\";"[^iTerT\'.8L</BhbBA","[O//MaCB]","[#@b]O+R","IjowKTMjHHSrmv8nhyCbqfpFVhP+5";"IhpQq";"[1*C6DtI";"[&a!,/akEDaMtbAudCe\"`\'2";"[j:J]";"[IN4<\'*YdfE","I0NakaHZC7G==","InlE2/dl=","[92h5\'+aG_M@-=bsh0.&)cQ+(#CQ3pK689Q";"IexE+gGxJM7==";"[AD`;\'*.t7","[^eN,\\Hj","IIK2+dEh/";"[1=./[D<2","[Dm#?Eh9";"IVOjJtLDYZ1k=";"[%.X;\'kf","IYh5a","[^gr?XBk?QOK\\KW!,q2KC342";"IqyydcHmWEJWmK0a=","IyfmE45a=","I9abGvAWU1+uS";"[4_(+uLm^g8HN","[7XP4b*1t","[1*Ps4","[!=KE+]@_X3";"IRiqFjxg+eFYamG==";"IEVy/3FZEMr/IuoTm7Xi=","[s-JpN0/";"[FpQ/bI^g\'N:JJ_/","[k+bQ^QR";"IXljyQIQ6WdJDX5rWype6c3MEuJBqYfabtVRP4dtYhewzxQ3o9tfMREs=";"IqG==";"Ifn5L1B1nyRu8app=";"ITi8vi/1T","[Ysjo";"[Th7bg(U&$i";"IvJOPNhBl";"[fl`3QOL.^R$:*sT","IPtYmDIQn";"Im50zC7JxugsQVHEcCr7=","Ilw5ION==";"IjroCE2IUaxdrI1DHfXmSQeN=","[5ao<1@IsbJTh$m";"I/9SSq+hH","IO2jviEHZgQw=";"[2:YHs4o","[13s51";"I0v5P","[6)CDdFk8T+a:]?","[rQnk","IG+Phfr1L";"[&XTFLS0fp(af3dOl3M","[YJ_nNJBQ","I/fEG/5axKABk8vow7A0OHSPzxtl8Ba==";"I5q2JS8pQaQbckmgdQN==";"INYAA97pt6v4QffpD3v5rt6MOq0knq5weHoPU36/m+womQMBTb+m5FZTIjTYiile3HK7IU3aG+mG2wmlpIYZNd3Ro4IUNgxEns2WakOS2L7Lu2IXehB2s3yAbtzLaXT6t9hMSejXKCUA956fsnkSa1FHJYLcxPxGGXYzkgFa+IePEUXqMXmkhgY6T5HIR7itwb8rIS0Tb1tTIsDot2KxAoFOOukV4NPx9LoGy0HD1W51sa3W8C0Op275fuycDdv3Xza3sX4fypfCEzQ0Cj7w6zRmBNRJlECkd","[ZL54Gbk^%>-At\",FD;hEq#","Ij+tJcRlda7==","[g\\KXuuM:02F0%93";"[l\\G8s\"/";"[dnjA^p<","[o7eX71IdV9E\"","[s7QjKkGU;^&P=Pp*7j0";"Ii5b6nOGA+4Yv2p9y";"[d\"fkNB:BunVj&1dOE/<L@&rj[OV]Z;^k+Xr`!D==PAhnbU_4\\h.N&UDJ6Gr71;/f4J!H2V+UL]^ES6(8(2E!M(KPoq*_AB\\opDW;q2\'sl+oH\"a@]qaR^2pqm@]\\dB/F>tpm</2=sr6lC8`#:JUDZk=AF8_.EL6QHmYIf>g1bKXVCgKCZ$\\#)Z\"","[EgGA";"Iv0aOQcnogpK=";"I1Fyn";"I6j9eGhqy";"[JF%Rd?Ln93lEBTkZjVr=Uu/9Rq6M378n?";"[eqcC%oML","Ioukz";"Ik5yr5MK=";"IqlOq+a==";"[h..6^jOT7K[^4E^blNuMP6ccp","[Mc3dRBA";"IecOS8G==","[30#E_$RiE%1d","ImfzEh3v3ArAsU4a=";"I/HVnV3woM2W93Uk=","[@$n,&&c?(b7d7e5";"[\"L\\$d%=#9fn+i*";"IrAfy/a==";"[_&:a),#60+BWi:\\IC","[^M6I=P$OfV&#";"IdL/MA7==";"IFg73Y66mZZER5xi2MVoj";"[M5bBGXTWm3","IRqBzDa==","IEhrxQHUyPpejxhbzU16Y0b3kudv+MaYRCreQLGXwA7==","[+][s,","[;,aM","ILq7i+G==";"[sEt```$,ljbn\'<DZ+[","[&*Gri4#I=l","Ij/7az8p=","[-4+i\\3@","[1D&WU?%","[chg6Bp<9\\";"I3wSV";"IhnvMasTAMus=";"IDWWZ5wSWITL8s+0uRo7=";"If2GC7Xwxnaoa/sSoW+W9zqbO","IF6aS","IDtr/PyV2joS9","[/Yuj%T#P+Au/g9CX:\\";"[??tVj7\\)cQ","IH/fRbAF2P5Dz9mjb7A/H","[7e1P<";"I8UfnMHJRoDl=","[-q]!\"<a";"[b$E:h!UCt","IM/C+KwGHzkmJyza=","I0z4voG/Uu0QggUiKjh7=","IQV/1cifOVXnnVLZ+If/uZ7==","[<7^KOhB&%FQ#3(U\'O!gDl@";"[?-rY14P+%";"I2gV4q42HrUk=","[!Pm_Y\"R6W&d$Pakud","InWQwtmHQg7==";"Idr6Rv7==","[2,)#;^C(ZTZN";"IU7==";"IZcigF/4=","[OfaYMj#","IPS/Dq2cK";"IyEpqEgFIFgIFfD1/","[(\"","Im872p9G=";"I+MYW";"IYo78rN==","IHbjzuLUfl7Zz";"[cJ-Cd_Jh\"\\AsuJALal";"[_A";"[2d+d!%gLif_%p9\\>b";"ID6KkiIuh";"IWHjaR4ChulaOK3z=","I4vMURc4q+QTUQDLkW60hV6l=","I9HUJv4wfmtqkWmw=","[9A^;","IlHPzhIbvSMc/j2w=";"[`Q\"8";"IcauS52wIrktM57DW+5i7Aa==","[cC#1+UJH(U","[t\'df&>@\'","[`S.o\"78W","Iu9GyT+TPX5x+sHJ=","Ih7FDEXhHioP4Va==","[mi";"[bE5^6[/N@aLpRg;V>,";"[*OKEM/.0MR!\',","[QR@iPM-A,??sF6";"[9Rek","[L:SH%9,-";"[[an?!!(p\'!","IKIVcT3JWcuOo";"[7\\hHsgCF,^G7T:7I]E+W,[)H","[<uPA";"I8dSLVC7=";"I+wDlZcJ=","IH1IDo0G=","[S0A`1[7\\";"IgRId0ojfcOi8","Iym2Dc7Kc2eL=","IvHgj","[[GD`(";"IZeE2JBT7iUVoO1z=","IJtpM/Lwu/1oYDPfLE1p=";"[(3`9IPhmRr;a*\\aKslFk;B1Eo+5t)!@#AYZK1`tjBA;UYbt)2+P?OHGQ\\I2LI*iqQWeR&g";"[`e/\"";"I9gY9l6pPRvfOL/ySyPfK";"[hLRtn","IeOMJdr5cTyl=","I7B+675tH";"IPGJ=";"Im6LWupg6","IqHzW+01O0MZMBYAhxXQVSPMiRVrWakAvc3RXkhJ9CKZtXl4KI2w1e9G65NIbPb8iT9ruJ/8EjjomFUDWoZ58uWSl/Ya6SexZNqEKxsmUwuzDb6FVsNRizdTncuwtRae+Ss26IaAnK2+0i0amD//9TGB2H3sKz3kCqcaNdIrnyHF7smWQseWzwb1jOydKLEHQ5nOt1qmm0DsFEO+kilPTTLABgKuyED82yGqx/yas7Mvg2PWrZuci5Z8mdNxIjnOVB+PpI3XiJM8RQomSa4PY2MjVofAGjfF5tSng58oV/gbSnNA542oTho4yV27reufZp4ih2pBpgzXZ1b1INDS/vCPMmk3Iwj3qZbuGQTQbH84k1Xc7RLc3ISWDyQ/B72cBtpnED+dwt8pJpWFTMPbG8dHHGQJCps9tqBcAopIbID+N+ce1h49CzW8yoFn+tmKgFyZMs3xsMGSYTt4RhoiJnxkj5CtmpC8XCT2OK1Efunfsvk7+vpamJw5YL+rVp/TBiRcyYS1RzXFrXakRv9SmNoT6t+5Wlosnqy4/kaHLOrgJpr7Zqf2ONW+vIDnnIcqr4ZYvkURBziyFd2zxmU1i8ZFWwF9Sx7I1VCVqv1yKRs/YS5uqLDsiLHJxxFa3ULfuwXUK02jzfuD8REFpeKBKlwVTSzKsu1z7V6Xi78JU6z9ezN==";"I/vegK2z=";"I9NlgmJSDml5SU6wKda==";"IVUUFqQPNv67=";"I+jp/vJ/bbCKh";"[HSH,!_i/$E,[WVKp1[II:!h5-pSq\'l?YTh\"%8+9T^b5;[ek0d^t+i#";"IwLGTBZ5LAa==";"IRY8Z";"[:\\.E<FR%1uCFg","Imxqh","[ctClIlf-ct8JRtC!KhK;O^RXJ=L\'GqEb$X";"[lO$\"N.H.>9#eIe\"";"[7+tJH[d*]F5)-nQD]ns";"[&TQ@","IoWueQUTrkG==";"Iir+T","Inz9R+vJp","[\"8P(4+l&&%CJ";"IkagnkxoncN==","I3d6gfXk=","I9G==","[HTn5kULON","Iqp97xrTge27=";"IBbFjda==","IJEIhhWawx5r90OkH7HCQxa==";"IcTeScByx","I1wx6hfw4+EZA";"[i2aXq(j,P7!9","[r\\A5Q7sER\"[=dNfTr`&JfN.<1CSa`Q","IGa==";"[&P912_#Ii%","[_SQ>-qj8:V";"IdtuHzpetv0yaJQVr9XU+","IQdQnBxk=","[<Q:\"r&6";"IOmVLKWQM","IVBj5aa==","[U)!j)&\'?","[Aj%L;crgA";"[q/4`d>21hZ9QeCKn3";"INt0faOuevlAYDEw=";"IB5UrgjvCHAAVyd76/N==";"IBpBb";"I+5w5x7+=","IcaISJb5SxBQVY14=";"Io942lV9Np7==","IC6myKs7NaUz=","I3YOuL+1x4A3ekZYWC9i=";"IdXhZFAedIcqdQDyB3lGn","I5mEJ32RsjMmKFqw=","ITE8zrrBcETlYlxO/pggbm//B","[M&=[\\md","[6K]A\\h:J?pdZuO]\'eC4";"[BmY10tI","IQSDNlkN=";"[6hYLQS\'eDoU^\\R\"?G2VZ91DhZ=#F-<c\\t";"IWEIuX7Q/QrlfDPK=","IghNC4/DhfG==","[t35iZLV%p4X@t";"IeKKy";"[^,C\\a!!G\\p-\\G4<","[Xo<o_r[3oc";"[hR0T/";"[_84RG!\'r";"IL5sMEr4=","IgYt4ESoG","IFgrgXli=";"I5Oe01aF0SyMyE/uP3Dcn";"IPG==","[W/%W)&#","[SCHNg(^]I+TTW\'`=^s40f;+kQhh%\"tuc?Ku>XSc#5f&URi^E1&","[J<tQc(Y>";"IPzl=";"Ipxtei+FI1Cssp4H2QsrP","I1TsPfUp0CSuC";"IFOb8DJ2wwz+=","[bprse?U\',";"I2RITCjLXj9/i";"[#iPO[t1>.71N]@Wk[QF1";"ICr/Si3LKkG==";"[scm&^V..%M","[n8HH`3cC/;fN<Z.`0uD*+T9&Uo,\"E$7N","IbBpxEypc+gs1";"[C%ZUPHF\'@(W$n0";"IzT7Rs6qLlMCjFdjkQtWQ";"[g?:qf6!ce","[=%U=l2SobfSPZGF5eDekI8P(pnDd:@sfaskqe%li\'&-N5T\'U74(@ME*MFe]q..;NqGIa.jPN]@blL?g^oC\'m1fB(p&e-pg7_V7H)<c7$`kckM=!(83Us&n63at_]4>uaH*_]A6HIEEIc!\\89L((?k5,UE]QFja+>\"&:,!.[e$-uo+s`J@CnT]p`d0tM0jh(#Rq`E];>5,2aS=Y,A&A^e5q*Xi4$6_=Vd#V8sd:E=(,TJ\\a$51JZ<c!qibVgR^dbj/#-LE$3XG";"[b61m*k]Jtl:qk<3=o";"I3U2U6X+=";"[C\'2L%kM$SU4s6a\\2b@j0","[>jb@@/,:04TSU@","I6Bylm80qxAw=","I8Vhsm7p28noGiD5N","IO9+=","IQuLgy6PillOqf7LtQRkB4eRu8eEod3xsKYVr/XW0n8lBBIuKu6cdmacjgxfIJHSYDy/Tso3NHKcGdNr/Aa==";"Irwe1cml=","[j$E4ak:/7\"f2-@u#-\"#?OsDH]Vi","It1IlDMx7m7==";"IhVRFQ7==";"[lqIohMJ)ObboS]<XJoMhbf";"[#3>T","IV897YMYz3NDqvPnk";"[-\\/P>&mP\'","[696Q.+(=>LgjPnJ";"[Ksn^]g0","IljVH/EUSKAwHUWIML7vREVr/NaRKyA/TIQhWswDPuSR1w43FMXLDTP6MHUScbkOYWgCxVD2aBEGe4BbhnkpMRFVVW46giWrmglpU7juvY3h9oSg6gzW/xq63JpOGTxoTwBvbjG==","[uQB#";"[/Cd\"";"[dcBT_tG:unmHo+rrBcFg8@7","[L4/uqoC_2:O(Ml3d;\"Y[$9";"[34j78tI","[TSA/n[ahK*Z.D","IqBFDM2GVz+bs9Nmz";"IwnHFM5JMveqLYgZMCbPt","[0InPdl,&Og(N","InSjm97w=","Ig77wcxxMZ3xojG==";"INXgK3h4L+VL=";"[(8f`]ORIX>#GbsQfA-gG>_Ep","IrHQltJk=";"Iqqbt1N==","IfoHhSJPv0a==";"[_/\')i[Qpd";"I+/uePTQsztmlR5u2IBeDbyum";"[?+hD5]?X@MT0?J$Y:hu@RH_H/tC4\'JSnd?","[p8U(^JiK0j4Srk","[PnG0erb/uE8[d:","IH9orDVk=","IRiSs6XHzA/dHza==";"[BotbiW_`#3.lY,G.o/BDT68_";"IJmfi5hzGgJQh47==";"IbTrqhHj9","IEV1fasfu8/2tnXJ=";"IPmNrdcLGMNN=";"I4jccAbcZI4L=";"I2Fo7c94=","I3Ek+pz/BYSK=";"[8P+4C2&plA";"[e_KIDe*pjr","[ofNS84#8&6Xms)<`)+t\"_NK";"IRAhpSJUU+G==","[<LDko%?";"I2NlD9L2ORgVqREN=";"[l@","IWM9f7Mbmva==","[?<H*L:nU+7Oc.*p9:)&]k:,&","I4fHyl+o3ebo7Ja==","[i%1WO!H(>";"IuBYp9oG=","[a0WlB9B%9","IdhHKA28IC2Wu";"IVRzoeuG=","[Lu4KoOj;g^";"ICN4XhV5jIH8yGa==","[>Il>%$KY8c6GY_\"n\\","Ij7CIYgz=","[9=j/Z#K+*$";"[\'VERVaU%a/LK.K","IcSZ25PDgtpll";"IJBRYtSTF9h3ZiBs41QCc1nsrBAqh","[mdA^B","[2hAF-5A$","ISOW1fEQw+Fw=";"[o*F=Dud","IiqvDt8K=";"IaLTsedb5Ra==","IptYbga73WGa=","[^5s._Us9)IPZ;2u";"[I@t2N","Ibq6HS3wFMTk=";"I+vmtj+laKtPtUuN=";"IP//G8R8JBV3HgSx472FOla==";"It+jWw92rYFL=";"IIPn2","IOfcJM4f9GjrBzFGh","[H/A53%]n,";"[/)`.2r3","IH5aE9LFml3J=";"Ixo/82OK=";"I1dEyH8Yvrp4=","IAIBHzG==";"I0ZWmH0YyAntXDns=";"IXGlyDFJs18brf1krxHd9P7==";"[[,!sc";"[3\\&\\UAu%m";"[u6WdO";"IvWIL6dK=";"InTY5MY7D","[!Z)/";"[7M\'Fn!0R693p","IWJILZ8JQGyZSZ5HMaN==";"IU5VeaXhrRyDG7kzF","[K+d1=";"[kki]k]RB`=_`c";"[e-ZRD";"[P992G\"M8,\'jH9q1";"IHtn+DVpu/S2EhG==";"[#5/Y\\bRAhjK9","IKeYEf6xF","IJEgus3MUYNyZ";"ImHqjS4FFp7==";"[-l).28fUY]Nf$Ybq=qEq:::";"IEjf7vApnCcz=","[IdPN\'=M,E?aFnEB9T_$2lW=M.u,6UITq0Z^#]`i";"[2<5527><\'E^,tG","IUKp47G==","[Wo","ImkUpPD+xZmiTwfnsHbJ=";"[TgJaLYghU)/-I]GfI)\'fCd=Ce/K>VRKQN5:r(>VfW.nq];qBNYQ5","[M=0qP\'O.D`";"[.7kM=oB)0(";"[X`oq&QZ9i>","IumZpZb1gRiOTnG==";"[fI\"lR!2smh","[9Lg$-ga.:s:@";"[>*e)^Lb*ENjUES>+f7","IuY7wLz5YH9UXjoajNEBx+a==";"[NWU\\O1[fOlQ\\1YS!*:";"I+N==","IBd1+TGXnaqrOGfGQnwHQc7==","[-t,Xp/[3?";"[i,oqsW]@91%UOI6";"[X+_k>%@","[QmU?X","I88EOJVeS","IzDkSUMz=";"[JN088Y]tNAss-","IVhvcpaSN80kxyN==","[[C(KPK0";"I/dDBBe7d","[_#ESq!N8<#>+@%B?b3oa3T%C","Ikxnh3HUtJoTRbunH","IglRaik9HFfl=","IXc573EJWTkcIOvteca==","[[a`,ZJjc,-Prc2R#gt","[<+8*pd]KZ+5,bgRH/.A","[Yd,uX","IU0vO7Iwu","[dTKXr*9)","IPaoL","I5N2N","IJUZKba==","INZl77OjhKYF0vR5c8a==";"Iicc+cDfTS+U7","I6dTXZdp=";"[;=S$UV&!=S]Z!_(fIG";"ISMXada==";"[X3d`hE\"";"[\'70.S-D<MD2<","[F4C\'KMu0onW7ELCS@Mh\"L^p?e>W13Woj1oeu_Ss","IwyNtfuXRsERrNfg1T7==","ICOQY57LE034JXqAOQiJN","IxHPs0xy6xYF5IZjV","[lR!se>urt^";"ImZ0d";"[<k^?#Pm>$8K.-lMT;";"ISJODXnL=","INccJLpm8Rxyx","Ilt71yg1vSXk6Ioi=","[(gbuu6Q_>S6U\'1OeKne","IXAJ6AEn4lTi+4Xo1prtR6ZuFgFJf8b1Aan08LO/UM8Y0JB7jS93NcfybOEX4vbFC+QwnOlPaheFiLTfKoAofWdcmpDi/bXfy07jTTyOBMwAdY0S7ZF2KMNN7rt3eiO/QGgC5ZEA+";"[i>-lS[4c5>","[VZNNW7O4F24u!Fi";"[fU%rRQ\\","[Vhu2q","IDQHarw7=";"IIn6MWNLh70lVEa==","[Yh9anfJ";"[,3J$";"[TW\"ht4.I)TFE\'!br%";"[CDq","IKwP9mhs=";"[]-2)n\"Ft[e","[P%q#49:";"I2XGlcETIaYRb8Sa=";"[;8H78","IkfKfjK7=";"Iz91CWKJ=","IoyDFNDI+IV5exuvWZlHP1BymawJ=";"[GSB6`rYGr$!7S\'","[.\"p","IZa7VfCl=";"[I\\@3E";"[8Gc","[_p=Yb/jGC","[B<^Aq?B?Z";"[RH#m!=kmb9gS2";"I2zJ=","[W7NE7eWI";"[eZ2;:","IIkX2VQo5Ja==","IDaLQg7WaJF6eygXyeg17";"IPXmpVzt9Tl+a";"Iker6pMeAuLRn1Pp5QjQnEVp=","[f[0=!3c*&k";"IIsphBKmxcN==","[fr2WR:9!Y;Ph;]f?\\","[$PnJANG,s;#Ok<2oq0V]";"IZMkbCoJPWmbs9jhtOU/5zf5IG4n4FmKObfHU";"IlDxw1TLOIzNSDZLUHF9f08HSpagC";"IvSbyMBxh0ySR","[cUeP\"_JB";"Iz4/b6jiEi7==","[7Ko>E\"/:ZZ,3","IH5+L7C/XAlXz5N==","[H>:!";"IPefwaejULv+=";"[QG^K%OdZr5;^t","IRIzjYtJq4XvaP7==","[J^2;0%gE.mf4\\+B<Ih","[;VsBaA6;@:*u5F","IdWhU","[UQIL$\'M","[`=qtMA+XGS[*Y","[Vk2O>2Vj","[K4mBY*;`","[Q#J68=f";"[%W8";"IU6BeUZaInDvU","ItW1lTnP9q3pFD/0l","[1qV\"7/M","IIIQjOnePnwYcH0IMOmFNCie7lhIAgH/bncxA3GKmyN==";"[efc,9Y8";"[gb2K0@<";"[TJ&H4?3";"ItR52rh5wg7fk3EYWa3soiG==";"[nO+t","I6YNmDYRF","IrAuPwbrd";"IVETVxN==";"[cYps2X7MI6M4ffWk>L";"IU12SO4kd1GRV";"IZ7PR";"IEC8wCqePuJha";"IIwRayea=";"I5cENz8xbKFcF4mNyfa==";"[j12;C^P3(T%`<(51d";"I/lY6cQAJFeME8Vks","[Xd2>-i@2B$;d+[^>)`OgQ8>@D4Ecq0=^M9WJV6TLY#!^\'&=BdheNm,n@g2jrgLg.\"J\"C#VXq3%XXNd<[QdE^AQ8%tl2C`(fA(@U#oQR>,/^f+AieO0GT?\'@RNKi>KPN3P.E1i?6i**gn>14V,8`TNrLEKm^Xi\'0(`%>I1[i1","IguaYsH3GuNPo/4z=";"IEHm/Ncke24YqJxBF6up=","ILM+NNGvuZX3hGN==","[-*<6W*QC/JXe4bp@#-2dt9\"/E2.#","[9RERkfsA<f0m\'F";"IYQXC/xEBJX47Kvs=","[4@`bfV1\"^i(R-";"ImUSJDdOw7YwOau8HKWxQAwbT","[<#.!uGT$(^YUQ?\'@d-";"[3!5Km,GKj-JW#e#e_","[3!VC*qe;S(8/ao_[h*","[c4*$`PEN,el!AmJgAdFG=<1b052+3:bj\'GBq(CLM3g;sBMqPWFk;:)V%LN3O.<mOV%*[L5ZC`MTO31KeH\\MPG1PFb2Zt5uo`et\'J4\'-C*p%QXZGH+r41d";"IhuAcjOUqj7==";"[kFoP\':#.$4U\'\\JU5eXMc";"[WE^)go6C_\'CJ","Iq9QQ","IXNy4gpN=","[<e8-";"[\"+A9TA#aDQ%^s1aF%E";"[H3(4$$=Z";"[joAP%^m.,/Y8","I5tE5";"IovsL";"Iq00sd6HdNUZDvPz=","[+FT\'rBA";"ItsZZOiybj/snEx3Si9AonWa4KG==","IGzG4j3dVmAik","[%Xe2S]7$t-^\\g9:";"IhDALH7==";"IyrFn";"[-c!a!VC2hs";"IcdZeCO6b";"Ih+zrJRsb","IJ95Uqxs=","IAksVxWW7rh20KkdP","IyDJQDlHCqeJ=";"ITryTuYMq";"[7JnJ","[g#<>*,>52T@6\\o0LgU","IXixFimUg8Oa=","IIqxJmgedtQCSyVc8UN==","IAtVeuF5yv6k3f/EV","[W4k2N`9Tu5]N","[&<C$","IXZgVLOgeujLH/mv1iqp=";"[]@-0M","[U/gr3\';j","IC2iHrJgGh90rdN==";"Im57ofdM+NHa=";"[XAo","[0QCp6`ie:;H9_","INZRRy7OKCFcwp7ggaVliWXPD";"[pO*3GY=<","IbjyO6GX4","IBcPGG7==","[*iG^:.Sj\"","IwyfKnln4jI7URu2mpG==";"[?hS?L#r;";"I/cI7swf9","[F-PSR1L!$YnkNn#Q^7Z\"J@";"[/IJ7b(eKpt","I/BS9ha==","I3sTE0USZQa==";"Is25Brg+1qeDe7G==","[&b4-t","I0UHWm7==";"Iv40uY75z6lOtpJz=";"[MPKj";"[\'?YY@";"[br@&[E&.";"Iprrnj9MpSE4i+G==","[LXQlr9n5MDhXp@iXt.?","IrDNnCzN=";"[1XROrTa7[t\'.\\","Ia0xnWimvb2l=","[Kh[\"$=(*";"[*)W1@X\"","IUYyxJTcoIG==","IpGPPpTbqDFHp","IpVUxXuv3+7==";"[+h1I2`i","IsYOCGaqwt9DzfQEsaYU2","I5T5ba7==";"ItelwPftvaCN=";"IyL50/a==","[E;GA+%U<MOg><&q#$Z^n8c8\"K`E6.","[";"IOs4JVN==";"ID4P/DhBd3FyS6DaZ5bJnHkvfJi3S16ocB+dIqTInG6BvZLcEy4qaOWfrsqE6ZNXkA0fpupQDN7Vk5ZwgfN5c";"[@5lYa";"I1SEcurevWG==","[((JWE@U%_u.e:\\jJfN";"IPZswSXFc9oviR3oA","ILbHKTV08y8ABE6dsSRp=","[6Ep:8i63airFs40t$i";"IOZAc0NDdnqGVWB9hDZ7Gz7xge63HNmoYQFtVGTOLaPgIuidAImPNEpPUKuIr05uF4MFGDH2/3WD6zAcFFcYcmqQCr5e6JIQ0DwqfHvxeSVjqjOvAlOVHo7lRsqi=","ION5qf5+F8Lju";"ItnefSv6dmD6v7CnLXJg+l9vH5rzqNcI/VAznp81o0RyYsw6MdzQVXxoTYl/IZcUrwuHBsM9quQAXnKQsM2BxeCrtllj6dU6jtEPVZNSWf72yeHBDvnCknUmujL/qkKwyxbT4ttmH8fGbbBkaXVd39QuMs40b/v4WxtWJzq56c37Y0cOyPeKwpWjDoKkN+2CfHlj8qLa2Iw48i8v607dK9GHWVMnPiRIcpFPlvW9hdoRVd7u/RdYeFuLko2+Ok36bAklSzz2HgR+G5WEwTZi=","[\'78jp51CA3e>N>@&4WKPU<&-iWf0I2:(grg(LO=7foL$eO0<0#B\'EcSI=J\\K/dt_4EbBO#=@d88PiN\'r:V4+puIQ`uTtam\"5[\"k\'d7R-,`DO(PaH*&X.PC!-L,?GWrE-@DEa=$_i2X4/;VRPf3Z_,/%7Ff%j[ilA7DfQD%])/Y/N17aY\\qo.2D\\6InK=&\'aYjh137i_cc]02\"4540R=7G6Af1#fQYq";"Ifly1zWPKR8P3CsyNtI0IiN==";"IK5yCHeEyorosV5GiztmCQY2pZEv0W+m857==","IIeY1OW8YFxhQ7dYUz8RjnG==";"[M^G5UGTj\'8-kMXI7\".(3X;V88=\'d3ZU8";"IknRvOFEuJM4taoJ=","[c7%Ssb\'EVdnR";"IX2G+GYaqaA1p","[u+uqPrFKc9/a","IAK7idWJ0CuajVvs=";"[oc&tk<bQ";"[P*aC:h5.","ICU8rVHg7","[r;+GX#<","I74LyoJvSDEVNAq5lV2yvWFw/","Ipiu/";"[rLhHr/(f";"IZc4QU07BBbhvI3HYJIAlzabYZxqD4EkcGe3FgBP/c+uaH0reEdoX0MfwjvJSJoCXIQGI5QnIuLR8NZRXa1VNwERo6PNq5OqLBCyQ7wYnVGw99JdAMk0bX2iHoQkjppNcc+q4lKH9pqunAmAnMMt28egQ9Bcck/KHI1T8cVZQSIFk7+fJBWfVsgXbiKOUymNpIgQv4PZGzQRNYjkIXiU1";"[MmF#";"It7z=","[6[NGS";"IRk/smvQOZnVt0xby","[rr!:(DJ9,5";"[&H*;M8AlllEJ8","[Q4*iXu:4$c";"[>DXP","[K\'<,\\>Zg&";"IVQvWM2gv52a=";"IhgdzksxiDGqi0kK=";"InlY+ZADUXHPKMAJXQFWQFWEtDHeU3ZHlU1dSaPL9Llgrt/qmG+/N4gJLrT6tBrDm4yfGyq/vSZaELh4+t6DGgWB6JBfOs5HilMh2mGBkpRhwPugOlRTP9Zqoh7Gwo65eF5PzS3nRBVn6VPRDGub0VGYZnSeKV+MwJbtNc4/iRLwQrxwORlGqNW15CKGV7wE5vmFp7WAZtQ70igIHuxa/KG3QVaaF7TFQpbkEjSC2METG9u+v/cyU3s61vvDk0pKonBcXiJXg9qugAAKKUhr+B8KZS3W+Dzy76zInIGXyIg9RxcOCdrrBh4G=";"[gQE3!D!*)X@-UB-ZcsH6r\\","IADaVqJDOPKNOtiwadyjHnIyScnX+Su3gcFs=","[IXK07-=EpN\"83,5.!3R=[MfgZ]]N^4Mkk\'C";"[#kS\'HbPU","[[r=nCBpt<.","[WL!]I:\\Oo","[e&3u#DL]<Kf[n]Slp","IyX/DrGtzody4sqa=";"[+$&M`\"(J\'B","IfAL80Mlc7YG58JXxRtUO4YAE";"IL2RNHasxla==";"[OVF[m,TcI>&X);aJ[mP1B:";"[\'Z$X#KluUXV!KHY";"IM5WdslXTcgvhhG==","IpfzxrFEvCt+ahXp3VG==";"IfzjNHc3DrF8ADN==";"Isz40NKata5oWjtcb","IpbFvdpt2";"[r=b=Y/kX:+?R";"IlzW+","ITe395tYQ+WP6f1fqbrp8Hcas";"IBIXT";"[TdPK.pM";"IXs9hJM7MemK=";"[2Rk4.8LfX2H,OT","IHaMvlA+=";"[e+YD5]\"";"IxB4B6Kw=";"[oA/%r03fT","[\'kUJD3BC7n\'p$J/N/";"[Z5U:3Jrb/4gNd","[>9IZlD]\'";"Iz1w7HFaQea==","[V)VH*\'0C1lQCD\\q1^up(","Iut1M+fDktUa=";"IqQXP9uFSqY3tjsJ=","ImanZPN==";"I3Bdw/wrOhHs=","IUQqHjaz=","IvNBeuIG=","Ij7yF4fODe2Q6lLow","[,@Z`8\'Y4O0g0";"I9Jr9";"[2H]67FFcq_";"IymgZ","[[V*n:*3b=EtsgkY.MTZ";"ISx/7";"[38+gMT=FEirCmR6RiL;)Q.Pmp\'j8-AL-j\\Zi3GONTr5F_9C;c90TL]gcgt=2[Zi<%[07225mkg+[5M3Q3_1G--F1O;Y`Q:(C*;MKH.%?OgGH99Qt\\m_<(OPm%d^W%$EbH82*D`&K!F-Z\"/","ISsxFYv0cQppA4idi";"IYsFlzGtYhN==","[]=6nO(i1\"RE=Hm:dLr","[Q(\',a?<J-gj6";"[ghI-!VO@";"IOwBQKOs=","[O$n\"E4^\\%lWe:","IeVeDbhV2ios=";"[m&auj7BSe@`4(qH:VkKf8#";"Id3r2szs=","[@YAifP/_;=";"IFGxDeqH7FmtR";"ITNVlV3jXJ0M/OWcLZKmi98H16d0qyebrhMp2Pa==";"[f.FjDAp*it^C";"InkI+";"I8ijt";"[3!L#+=%kZN.\"#%oD!=";"[fpo@pN/";"IleyvClDk7N==";"[K5cB8lA?Lj:gUY$E$=T23AD,]$RNMm@d>_&>/Q*GZS$a6Y[W%\"cuY=\'rB3djaGJ^]2=SsK<gB#=uQAafEu%ZLS^J[*\']*oE3LC\'8pLmdbe31?<YS:BMJ3V_jugVuWX/M)57/\'9B@^-_n.9.\\M?-aLj+T<.dh>Q8;uSol=E44J81(-Ar,mP.q5,LBIOX[F44>@I<_pGp(%r\\@i%M3WS*c2@ja0G\">+M[-F]L5Su>?d,0f.Y>mb@Q8Hd!B$&K%5-]M^E\'\'9up^`>3d_g2LU^L680BMW#B@A6\\";"I3KicAG==","IqU9uKVfe9Hs=","I4BhL+gPy";"I82C3zCEFok+=";"[dV8co:D\'e@j3p75p+/!IRD-";"IDcUN+bku","I6MnHM9oG","IhMv3XjdiAHuhigM0IUqr","[neoG(\".=Bulb-((";"IHnOiblK+yla4X8eX6Brq";"[ESDMg.im..Ap";"[Ncn%G","Ih1RGHG==";"I1RKTTlhQICXU8P4IeuE8+BWJI6rZPARh9GLycJSVOZEMeF6N/ScDUjcEsYWarrW5x8LDj6Q+5XS9mIFlWO4UnFQ6rC5AUaR7vg3FUbCUhLDYALWiRpvYSQNt/zsoQf7vfkjseTtsDgTGJKDNgFh6qGkIktrAq39WXsCqjxiIc7F9ns4M74Yo/y7cYeNqU5zCr1FWzJx/iAd8gdLYhDCwwex8LeRECvyYerozulbEocHzw61F7TITIlLVyOW4P529RmE3NgFfAMHZlcqlWZc9LvM6sa==","[I!E:79,NBd7NX2c","IUjTF3QXeVKz7LCV27Jp=","[2XqT%","IiEy1ZT37kpUqDb6skN==","I+8dpcP4=";"Ik7sMasG=","IfZAFs8i81g5UlxMmSfyf48dO+HFhzp8/b4UjsuxC0hJ4yfvprj58jbWJQBrYbSOkeKHMNLOKoRS5YbxtlAEHBfaP75rhk8rds1wEjKHuRjySEepyDXC5eKXkYt/QGKlTxGpZt7Pu+j0g3G+ipnr1buhsgUSnI556tU1Og4HxSEvkhLzZrhbUWHuc5oy7Z+jkRGA4knY+q1+9gYD2iUTEfV+LEhS3KOcNUKeyCcSpM4H/Az+E0rM1fg4hNnpMuO6OGXhJpdlSy0HuxhrS","IVOw3y/5u","Io4yJ","It/26mvZMWisH6vTzs5L=";"[;%)@(&<P#^&!s","[NnGC:Ud","I7Ts9w7==";"[1D*mB;5.","[]CU$Q9Q]ri","IgTJToTl44N==","[rTb8ug\'8MI","I35Nnyip=";"I312SowXGprp=";"I+IDsjgd6Mj4=";"IrHrxa+w=","[D&?TX_&Rt3K@8H","Ir3wHiIN=","[F[Es#jSGck39s\'D*uL\'","[5C+`n-01";"I30SFB73mKnb9","[+4iY$GI6";"[7@bNO(0`k=c0";"IUp4=","[Unp#5s\\oK","[U(EVQd#dej";"[gZW","[OJ&IDQK,?Qn\"u_jFAr/";"IK5/PnLzA";"[m]o#g=!-)Y9f:E%+dJ1";"[l?","Ibyvjf7==";"[LQUK6";"Irc6ChW+t";"IP0XhspHQMmkNFNW8sarkykbc";"[WJ$%*!)5)U","IoPXlnTo4aT+=","IaDMYR7vAO7cciA5XlpmSwP+20PbcYX/qXN==";"IxvSGpYhnujGLs398","[\"(fa#";"I3dWL";"[r/@rb@V:";"[n-ZQ4;eoW!4:DkR\'tM2?^DZb8*U+c?U4+\'eubO\'AbR!s`j,:*-obj;SFcRHdbK,%2rSIO=CV`,n*VYXsRj2SqPLF^u4og2*igWXabmp\"#0:i-p=Rj\'q-%-4n:Z/nN$Xd^\"i_OfqWF73;dD<Y8Z`?Um/:)#\\0F##Gj\'^l\\B$>cfA7NjZ0;kMr+EK+HH;*]U]*WA[Z.u^d:&pItA4Z;?l$7=KS%ff1#(*(9:dF:5:m2i2^Z%QUglL/-$Ee8=X.\'fWg0","[]J!kf>_7hgRp\\","IPgqt","I6RGRlpUHyXWPw/vZ","InN==";"Iz7nU";"[71ouT**5I[";"[=aZDIQ_Q:ZdqN","I6S97uN==","[hlRF-d`?@!\'M","[YLX4H\'fXNVVq_-k","IGj4Bb2pauuzo","[^Y(]-ttL";"[%q#a^Rl";"Iwf/WoN==","[BtDtgQBaLd]sIp";"I8CrYWCd+9a==";"In+NdlT7=","[.D.=CQ3","[mED^-gS","[/M27oL<";"IA3dqOiPbuzadaDUb0N==","[%Z!rk_gd\\";"IN6VAhXcl","[QWCHgIXBTZ>c\'?";"IE4x/a1p=";"[fc/p9CJ";"IIGgMBEzn";"[WqGao*.S:Ip:O;X(X!_KdVgg6psqRZoZlr:P1csI;FK.mVJj$fS7cB;Qn[Z2Z?cqW#4;0<]tmHrY$;dFia]EVmQ).g?R","[MA\'$05IHP;02=.A3ldr";"[.?p0&9`Hc","IBArjJQ1DwCp=";"Ivo8e6VwpyD/u","[HO.9","IUdn2OgcXD4L=";"[^KaM";"IH3SNdbz=","IRuzV";"[$PQ&qg%D8?";"ICN1Rm6SI";"[,&3<S#Q)l27[DX";"[WAhHU;<","[fr*p,4hKu.LYtX";"I9oS66/ujo94PPbVtH+dJCUw64X7e+tid2mqTiIjt";"[:;l8d4Y1J41r;e2","[+C$nPkl";"[>6Js/H8G$n=R,";"IQlogVCt4pvzmWUw=";"IyhCd9rRoM2k=";"[]]eM9-C<]>0fi)j";"[5*R1_$Bh","I5kccuEWpGrG=","[fo/_";"[h1.NmZ95I7","IpZls";"ItE3g","[`Xp","IIOMOp5p=","[6s[o2:\\2M","IFIS7yJ0ugYFgOG==","IyGlMFYAJ0bDm+jj0e/RyjYvJ2a==";"[5=-8:&Ms(<>C","ICaf0";"IPHzW1p+=","IS2XQ1xl=";"In/Rh";"ISVvrX37=";"[9R7_gU8";"[$W4c*1CK,NPoHc","IPot5hc8hG3xJ/5tbzdwFjNnW","ISx0/K4o+JU1xNG==","IBEl7VpnxPa==","IIzhB6GBulpL=";"[r6fiNZ0sS]`N,/%eB0d;";"Ig6pUsfqnhtlZjdjUmjJHi6+DGYGZuGocCASN";"IdgWc6hxvnLP4u3AlpAO3k3k9";"[6oP;f6%","[djU[oI,@btO\"R";"IkkoIovwtBa==";"[e!fO$:ZrVn2nO/`J@";"[Td.EMpVI>i";"[5LF.3+LEF";"IhfHt5G==";"[n>Wr$S)kWQ","Io+IaR+w=";"IjRA4JNDkudK9bF/Auy28NSi=";"[2$\'&)","[[=_Vc;<";"I/LA0Ha==","Ih6SYamJ=","I6JXzUyf3qeh8dsoJ","[Lf#fi0[:_=&Jt6/osIV";"[^ndkn?ndD@F0";"[<,B>?ikSCckjs","[hl;fpfpC9i\'W5PQ!Huq0B9Nt";"IL2qEx2yz4skICEYy7QQQfuJ3/HaFm7/wTjH6VfN0zHvyUf9L+BE5Nf160gL84fKr","[5VGEf7c/G";"[_JNXTA?A1>LZP++_9NS^63";"[o8:qk#%670<D$","[28R&K/7r\"l","I/LF0pnjBON==","[G;$j-4c#lf!^&","IRVtuJ/+=";"If0TyMPl=";"IRPE5jPFpeIy8EOZpW61BbG7=";"IeXB7Eg+=","[M[qN/a3";"ItpVjdHw=","IGxDqn7==","IJ9wN60RpAg8d","[D)c8";"[\";Iu";"[-<\"KDd6";"[U8B_HbrF\\X#`pX";"IarGBpUj0wD2Dyjwc3Q/ktFXD7sfmvqb7+194X8wu1bWu3p3JCbDZNgNBdplzGfm9Mnw72DNQMercSHm/x8M3WF2ut2BL2u1LKEcOuapd","[-MZbO18";"IK5woXM4=","[I\"D4o`q[iO";"IeFtSrvIHiWy7tzdR","IQoP+7dWkVn+=","[+?np&#cs";"Izq5ODGCjIsw9i7==","IMha=";"IgxW5fkqigN==","[tc]o\"L<","IPSNmziifHyp=","IssVclezyFG==","I/s+7";"I4eciveYKaa==","I8gO5WiWIKGmYra4OxLgW0ybJhlsf3fUkxa==";"Ix7tef8j313zs8zXxA7==";"IE5zBVp/TOHp=";"IueTCk4s7aLvUrc4ebKse";"[p\"R\\\'E<Z,A";"IMLXZu2ZliugVkh+Cyv4pgV4=","[O4`FTLeAGu5i-<KULVmBWY/U>PWLU.E*;\\.:u6.d;SP!d-#mp\"%sR\\p4#l?(l*0s%U\"\\cUtk:.LMp*K-;42B@iI)8JL4`)S<o+/Mi6(_@k1GWqOGOX\'V\\1UKbMnhpn_J6_<8.6;U%q/Ud\"0f4gP]/\\S3T)s(I";"IYNrP3y9txdP+JXTUog+=";"IYDDmZ4rMOucSJvYc1G==","I0ZNYXCApZSyO";"[K\"JW?/`[!(Rl-0;lGq2:.PJ";"Ig2g3Cmjg";"Is2n6JxCWVOl=";"[i&9Tb8j=f_RUdE\'qtRW`fo","IfZDPEXxicWj9cLygcTBmeN==","Ibq4dEgYuTeim3R6oVD5KCLk=";"[SD]JClaphCs@?(";"[X@/m7HGRHh=rZTb";"IjTWt","[]pHHGsBP/6]$6";"[I2^?D25quqmKJV!Z\"";"[0UTIYk,A%pM[A\"";"[3?eQUpk2.&";"I9UjODnpNXHw=","Imtvm2YubWE4KJyl=";"IPw9gR4UL2QRCwtaQxls=";"ItA278/eZKfUuPWG52D7=","I8MHX";"IdMiNFbK=";"[9bYm","IMgTJyMMX5hRO","[!`^Wc^V)0kNt]KW=T;<V";"IJLv43nEA","[4AHeo_J8S\'>[^`1";"[o8_O6\"!TF4om\"Y$+2*";"[9iY`uMb**PEN";"[8j<?.PkPG\\X\"";"IOwbUCcN=";"[M\'d0N$0";"[7nPVb###pjPS";"IilbTTqcpwYAB8Epi3RR1vcrB3IaHf7==";"[+;+P,C8>,$I;c";"[8FD^GF9\\3BN36N:","[.9uU@","I3d/x8WxZErqq";"IZORVqa==";"IF0TI","[5X`h;.P\\>s","I5a==";"IfDpyanZu";"[HJN0Z^f-l-";"IPZj9SL+=","[r=,SWQ;^=?rR","[^3,6ij<d#";"[l9i^fYq";"[fOKO][#QC=","[KT(VC`S\\#";"[%\'qZ","IwVSPT+7qKBv0","IdSv29ba=","ICILJp13t1Spcc3s=";"[>VO+ED)b<D:Rn^7t&*8j";"[-!S/O\"/";"[a\'g5";"[Tp","IHQwJQ4atqG==","[KG&%..H$tG","[YAY]75cit2A.`H_";"IkFq3JN==";"I/AmsLUyu+jp=";"[d%c]h.\'f.OC*\'9[i>;[V-@";"IMJs=";"I1dDwZ9a=";"II9vOEa==","[&:8J&A/Us!^B6dtFCk";"IYzhzmPb0b6w=","[/>Ra-";"I17U0g/sSPomqzilvQN==","[E4_nqM<","IR2cMN8cTta==";"[$#Iibq<.","[Nch#QcNroj";"[*!B0SfV>)19=[dU>@H89`F$/[lijac","[/4a%3VjrAgbIZb#.hN","ITlZuzvqr4Xi+/CL=","IACQaxWi=","Iufu0";"ItvNt2f+=","IOOAHofa+x1m+p7==";"Ivv+8zwAoIG==","[NgD_l*@kcaR0[Qg","IAa==";"[kB,X","[Y+\\ihs-J_m!gF9W\'.\"<","[%]6DWj/";"Ine1+V2Q9Ol4QL3R/Yxx0grKYThjHPG==";"[Jh=ADB=tU7A,EE","IonEiicX2","IzE8d9ruAH0r5";"[\"c*o`\"J=sT";"I7e4YQu+x4JG=";"I8ywT7qhW569DVE7=","[sieU:d;iJ4i+N@","[?/cW0O\'?V";"[A4?l*cEr";"IqsMq1+z=";"IqS09v7r9H7n2gN==","[\'#9_:iW_QIE@W_A((Z";"IqRpumDu7jIIP2PSK1cG=","[3RN3sHeQMa","IenD2DTs=","I1uGd3nbl5qrOya==","[L53;2Zm*","IGCYDXXye9MAr","IiJZxOTEy6PtW0ri=","[tr*";"[/G4D;";"[@m2#c6VX&8L5t[F","I88olmd7OsXp=";"ItRrkt4CxViVcfMt8vxah","[>uNBFQY<","[=`!uk9JtHOD_$;b";"IdyuPvcSkxOWnvlGlbQJ3jfaUaHTGzJVeBU+eqc2vs0PgxaomOBTIIyzE92Yt4zUqdxiVz/VEz929YeO3sjachPKJETMuXqP8kmYrC6otummp5rPlWTnShw1GY81w64EoE27LbqaYmh/MFmTWjVucUzqL8kol69iKpq2TA3INe2GOHP3GceVLlJUgxFexqVDfiMRCERl8ElrxuOs4qhaXkyM0J66IhusRLTS26Nf8wNB9cvI7qnrknMNysUV1k61STMx+lHRI1Fm7oOwwxWEj4DrhcwRF4dARpiFcYhXycAJbm9VaSLMQACECVuZ9yr/v7khuuKG2jFyBRV4RuunpWOMblwcC";"[DqlCZSos6\\";"IM+NHETZIBjUG","[Bp8^I@e/`W","[Q?_@DDr%dW`X<","IH/TbwuUUogw=";"[^*f";"[PJQ5\\cN-Rh","[Bs@0\\","I8gDMCehozjs=";"IVhnS+bBufbxQqK+=","IxfuA2fxuV0qeWG==";"[-VSX";"Ihh4GyQbVQuLUeyqK","IFMG5";"[D=L=\':u3!7X1*oM6%","[]*J?XM4pS","I2RnPfPmuEeMDbN==";"[Pi:B","[TtQ,[=fZ6?$^;+,";"[iV*ujdUj*\'0Wb0S";"I1S8sTOa=","IeI9LPeG=";"IUN==","IcPrpKjDp";"[iCW_";"IgdMcjiEoVfgjjCYCVEK=","IdTvRqgg4IHN0RO7=";"ICxIr","[*LljsVF&]gm8(-0p-9X";"[P.)h";"In/rBOWpodHK=","[u7mu$";"I6a9ZjeOJMlk9REk+W32mgU1+w4NSeS3WtvUPd7==";"IDIRd";"[Te$V8T4LX5","I0AS88i37";"[o>:=k,gkL";"[_),k+P#mn6/DG>";"[$3UkTQg(WP>Ymb","I2NY5KpTZh47=";"[U^B59.h`7/d$GV</Z(#";"[#EJJK$(&l","IBbccrrjDsTK=";"I+qjzKwk=","IjXQv7zN=","IqnzIMBRFFRvmGJDj9hmOvGrIkw2i0+7uFbw8wn3weZ48FiAnD16GCHpMvwQplrs95N98EgJGLfNLLvX4sH2h/Bu6s6X7D+iIn7V1SzEA+QfDK+VBIW2A7BIVs0WV4ZohgRyNUryFzCUS4hDuwa1O";"IqLL=","IviaAzu1sSVujzU6E6FsVyFsndzFvJ0DUyN==";"[T40JYY:9V7g7_,","ID3t+ldVO","IWYvr";"[TW\'k","Iu1orcqzt","[Ef!<t:ne^`mZofE[\"u[","I3ETGM3dJXa==";"IHmWcPgEUAC8thQcX","[*.)oGVO07,Yn8bc5o";"[/-rFGFUIC&","[A+Ig)e/;nl";"IBsmM6ZHP";"[I$!PpAE!igT#K";"[gfm5Wei","[\'mCuFoH>5s<#>\"qtA&\\","[jQQN;*IKp","IhF1uNzi=";"IJpLLdQkqsG==","[+R","INhIZcSbaHmvVqN==";"IK/vzp6tI39/bFVrQ0d7tW7==";"I9Z9iLaosrA2v8a==";"[,tLOd:p","IhTG6RkvyI0dzR5QZzxi=";"[u]A[SfSF;uDC","[b8m6fMC!Mj";"IhvjFHyLv";"ILYOLmnE01Ia=";"[^jRf","[p<";"[O`?J^L[\'K\\fGeA<";"IkoE872HNIKE2uPj/6RMoK0thK9hWISwcIxTrvqnpmqiVZqC6VXEPx6Fk19Vb4CZHEQMAhbfTJW4SDtWcFq5AMsa8coKB4oQxhVhe/Gk=","[1Ng`ntWoQ";"[\'eBoJjlg&";"[e.Zj","IkEnNGMt3bFL=";"[uX%;7HN";"IkJH7y/OtKXz=";"[]+LD\\a\\","[KC=l)","IOzbfiWbTWa==","[M?R:bS$L";"ID7dZG1L79eKKgOK=";"Icx/EIfsN/7==";"[a9GUV0Kq";"[b;3#5!9";"IRcZvj56LiX27eGZVhOi=";"IJzhzG2n8umAj2cu5zHfAYa==","I+9dR2BxCxwCLR5vnaZs=","IbjhznHVr","[(<Z7ca?iD0#&Ck","[(GIF]","[s&r*laVf","IVdBWLG1oD3fE";"IbMILqR+=","I2vyj+P1Z7dZh/P7/bV7+","[++e11:kq>@?%","[]\"";"[Cl";"IXa==";"IrFiVY3WTNBLm";"[`b7_g6%J+l\'jc";"Igugp","[c4/><p<";"[4ZYl<@NHQXHi-4","[?3","IvkbBZoo3SN==","[o4krFkl";"IBc8D5kfUiw2OwrpGfCz=";"[-@\"W","[(OLX$t0*Z]";"[&Q^bZ,R";"[$dT","[nOCaQl.aTk?jb";"Is1NDgCiU4ueJllOuKOpWvR4imiXRE9RabB7GELzXnqVJtINNkNiOiHyk5C67F8jZ7VXiLbV0vXFE1QK=";"[3:XQ6:-EF?[J[JM&#","[q9Ajb<%6e","IewC8/dcgDlDFxN==","[.RP*:M;C^2ma%8!pbI+<5RQn,_!F1/ATt>t";"ICCxZQcz/bS4=";"I97G0","[>CM_]1AOa!aN5Ke[8";"[TcjFGfZ+)E","IvAMK/gRfbUOkA1Ff","I/i7LKlk5P4UqaLVX9PYIm2XPh7/FOl9JW+6hPZuTWULAnXxm84V+IBv/JVDSZ/vJy1HribJohde3+qJmBatS8BbaIwVJY9+xSEq+GsqgyzzCYERvGlP+U6uUVwr775WgRWvKD3fu4aG=","[]NSc#0q*XrS4sQGiO>:b","[-fMU@\'($f,@=Rf)(/)]B^eh","ItoLOu6YChF9n8l8saDS0Gnmmu1NdnAiyoxsCLfKN+Ic91Oa=","ItYH9LdN=","IyvxPuPm83WK=";"[<ea>;\'M","[6fcN?]J7Wm8KH;";"[0=q04s+9$0gFW%";"[+;r)j0E+0\"";"IHhpjPIyEdG+5Vx1HzN==";"Iv/+vDrmmdTA3","I3QbXYcGX+wAc";"[?R]UQD%M2J>du5";"[q5fn=`7,n","[!S1rp8G9]*W;JW\'/IOngm4W";"IHU2TPjelz7/7";"[]+JlY6ol+\"o3f@:","Imzs0fHL=";"It7pypm4=";"[3s]Q9&Km7oWi\'B1g`I,-j@0ctgV<4pF:ViCU^.jq+9G!B12+,+[_BUnX9n)e8`OUL;]Deq%(D?B+PAccBFO@(Ze:)GJp<5h8F,.h#+i`\\KCe_tr>*T=KALNTbTgH)[Y_f?3Xg\\B8fXac0FX-fB=Rk@.U$l<QDP\"P0Xlbh_Kt/%\'Yq-GZ`<VMIkNQDG7$<k/WLFhB>\'\\O]p0sQ#o\\L!KE@BoUL]S_n%Mk:$4R-OL8P5Ys9LA)$is=?A^Zu/>i@htCK\"&V-FQ%@?*pcG\"KM6R+o6al9q@^\\\"!g6hm(ZAdKRFIm9LQ5c+UsEpV9e0OrRHNTi9gUEM_QsD7NmU1>NeXM.?P9b/mb75q0:";"IfNoMkHp=";"[pnmOHQLfI","[o\"@9","IGLSzN43rJ8s=";"[4<pF10U>9";"[%`L5u8*kI/es<@","Io6yCIQY83gzW9pKmdSRfPM6S","I03BnN7OIgR3ZYNVFUDl=","IgJIl97qQ";"IVJNSS3KE";"ICvP90UtsvM7=","[oZD\"5";"[-Xf3lJp","I+sSPRx66mBz=","[hGlU<$&*o";"Iq160";"I8CJI5X91","IAsJWWZLDJHcreeV9QpqBQwp=","IpGBQ5N==";"[RB9^P<&K";"IaMxV4El=","[t_-o,m3XCrPA`X","IoHfw3Jk=","[O@sY[ip0";"IPUXxYXxGL7==";"IlxsO9Wx6ih1UG6d1ee7pV3Kp4xV15yy3077Lcu/E4UtYH528mFZn4urRJ7/QToSLGuw7XLRMFeE84gCZzWg1VhhbNHzuekHipNwfDnZ5GQ6gBY3lyTuuYoosc+MK4yUczsPjArUxs1NHJVmIk+n/4Xk7T2e+JsUVVp4u2adZkB/8yfHgcHoneD2iRbK8EF5dqM0EjozDh1cyqFxegUybWam8tAbVq1Z5";"IxVlwJUVBq63o4nTn","Ixq+s/Ks56y+oh+p=";"[5H&$Wd/","[\'Lc_n9A";"[AC:Jb,\'\'F";"[T12VY%H\'.Dn#J7oo,P;hrZNX";"[Z%qGtHLi8","Ild7d/KVlX7==";"I0YugZKJsMSuj6lKoua==","IupEghChM2CKEpyk=","[H>*FN2+o7co8Rb9ZI","I1RcZSyzXT0jpZ7v7vG==";"IsofgWHIMgyG=";"I6N7gTSryVvL=","[[acB>JH7q4";"IkYEofKNyoJr8Il2I9y4fTkVueIsUpAm8/HTTUwzYFdsivDX5lyAWg8J1C6hBhhFb4L0iW79CnSM6j5QgqpCweVVtcjV1cNgH50Z4LbOjTS18PMmu7ZcjZzv2Y82h3AiT3qlIG0EAqkV6TG9jjB01qzVItIl=","[hCI197\"","[&7P1gBt08W%?jd","[(42Pl16X@>`i";"Ioi19++TsR8c1","IT2nSI/dvmG==";"[ZZn275%O14";"[Ka_%W&#?";"[e<gL>?U-u#enGZ$";"[%FGp";"I/1QO4G==","IdTEJbxYsvTdWNVeYY4ODdmnvpLiWolzKGBg/PsGwiN==","I9iBq0LRqQN==";"[u,4IPMq(Ks=ENc=-Kf8\\$6okKWl";"[L!S8;&]W";"[T%j","IRXaU7JXKkJ4tZV+usz0NVTUL","[r*_ZBJ/4Yn";"[_TWjJV_";"IsWUSW6a9P96koVC5fZJRET0Dqu/ZZRX/MgnCwycs+jvMmnRpt3HRWLfjPGkyfUdQj67JxpqUd+HPnoixlGcGPS7u9G==","IFJce","[2aH#","IiQTsSlyxWN==","I1qbTXS+4yK6iJts=","[hip\'F";"IbqlL2a==","[U@XrASLo6","[.gV*Y7F?Ad;#NEQPS";"IrqwaOFWW+Pk=";"[j_4Kpg(34qFhX","[5B$GFOn_IpIa$";"IgX5oMDgy","ItzuCaCBAaa==","IL3BUGZSe3Twb4YTtL2k6tKDHfvm50psituPm9RJ6g56BHesBf9iYLK8M/VJtc3eIeBs=","[!aKRXT)o2","[X;QMg","[]T!,-$ie","[&6";"[]\"3W3@,\"0?";"[r;n@[4q\'U`NBBMOJ+k!ijb_`4(AnHY</M.c52ZXgQ-k64]XP9)AIB9cLlGq&OSBp*3X(/*h-0fK6OBm,V`nHE>)Xa$fNl6U%4q@hFYn,ti*c[rkuKo;*)>^#uroq@MMdu6*,pAG`tX&$i(g,IJXt\\J@&2=N(];XqLY`:%Y+?S>YYT:truZbI8p(;JWA0U8o6JJ%fg*cUsuL3M3SW=A(H3\\ha``]73t`GHc(+`8>\\<>l`K^0\\qpi+=TVF*q3Cffu+gsA3\"U:&;$Sh:g4.7fE`CRr2N06";"IkFWNvCJ=","[/2uP`^+I1,ma&kNJO2","[OX-^";"IurHmK3ZSxUs=";"[a0d=NUqk1";"[b7<\"[h0","[hs\'";"[u,l_EOqc);,3","[q9,9JTU%Ql4da8","[O^_\"95nM";"[iNnN1JHa]K";"IxnBF+G==","ISPHVgMl=","IqgCL0vUT";"[Sr]Y2e_I$J";"IX+mhmys=","[T51L_Co","IGHGt8tN=","[pkeKQI:","Iri9ORoeNH5p=","[!^27\\\'*G,!","[DVqL&\"Y$Li&q_ng";"IeaNEwKt72/z=";"[TjZ/bnWE","[;]\\P.BV=Ah";"[F\\T6o";"[r<l/<VnBj(";"IyvPbca==","IE40ebVG=";"[e(gXT#+e(hPOgqCUetEOXI","[_<$bD0_,F]49K","IZ+lKiBL=","[4$ik,","[h4P\'uJa3u&3ir2BhRB,4qW[@Ml\"^r^]kSu9iE<-K3\"^\\!VW$Ckt_^@DL(;^CBX=qa>)+6,KF<`]5(B0\"Q]rQ\'=.9$&WFL.ijFgK%h]8T/1Ir6NuR\\7EY)Y8!8>,==B\"b$Ou\'`NJ&r%+,[N9;\'LbeZgC\'\'ps*E#k_2@CU^guD*]W;L\"_S92XQ.d:MM/;i41$*]Y0J`To","[D<CC/.!>%keFP;14.PDjg[%:K7XCE";"[ph0HKCY]gEc2YrCX-1&W*u$![8`<@-TLrNEM;].`#2olQteNPr6^C\"_eT-O`huB(B_lA\\[7N";"Iec4ORmbiYHq1DoL=","IsN1e82wnhdRfFcFX";"[#fhg7Qt\'3b-Lomm;Xob[b4leqBH_60IC","IRdJ3fG==";"I7Q/DtF03","[OT,>%Wu$cUQS_eg3p","[0e:=IUF;\"[;;sGO";"IOomu";"[!53Nmj53!_L(g]L:l\\ONt[,","I3a6sYew=","[_Tm3+16nt8>b";"[E9qh82M";"IVTNwgY3q","IEWVsjB+=";"[@d*d","IaEyhya==","IeP+6ndQLqcB4","Ieo9E";"ILaUTdcgN1N4dUjoBK+91aa==","[QT_c`WpAW;/+uSYV^Ph.(Y$rTZ5c)dL\"MUd,Jr2;eCRT9M%smfL1a%;kY0qeBsHsWWfD`nUX(FL\":l1;:K_;h>93$,<Jmql.?=$\"K(92>f7]k1";"[pg6U!L<","IfoLhk8lZlxT04ja=";"I2bJbfCXW16p=";"IbN/+","IOC735NBVD958ITQRrtsZiuM5tF+VGGLGuN==","[%*FL<o@@P!PSC,X^(XU";"[Uq?Fus&","IuSoYAG==","[gk0as(dQLE","IWk4vonYW2xxx","[(E\"\'uZ-h55H*:FFop","[u#S#+;m_Nq04Herkf","[`IjJG.P$(ED?Q-\']q6";"[LSLHq&i^3)*5Z)J","[;5P\'L5<q>";"[%fL4";"IM98P","[23Q","[eSS^P]th93.tW#R","[`PdhA=!T!WQs+>00iF\"c8m.:jY==csF(Jd1;MGE0m5(%eV=tcpT-J.D#krrjm\"eCNj9(;Na9,VMN**E/@Jb\"GjQQ2W^+2NE/M";"[Qk9ugdn";"[/9$eIJ4(W","IzLf0eLVVzbn3Ecv1L7==","IOhmD+YDk";"[YUP<eH5[$aK$&r==d7G[","IAMbda74=";"[JeSHGi\\[;","[g,Hi/dp>f3$c7Mkh0";"IBPHDNVa/1BTTCG7W","[[U*&BqjEV","[.rCm+lu\'+0J;";"IU4b40wHlAFXlUBkR";"IfM37ajWpfSRAB2ce";"IcftZ7xK=";"[O/M-M0/","IwRIeT/R/","IdTUfZucj+9N=";"[f#iQa4U;","[1I#q<co<AkfqM<Egq,\'0fo","I5JEIBa1wQTk8ah8/r5rA","IT2WHJxi=","[$[Y,e3m^";"Iqpw87Di=";"[k&1?S63","[bOr96a3$H%","IJZ+5v6cq+C5FquJuaEpCBxw=","[A!aFZW%9uuZl,1g";"[4-F6^Wm%<I:c4G","[nLXbUVL#","[=4";"[47n@-9S^`)AU=";"IH4GDXfOr758udCeV","[I=G\";=)-qq9p2ngWZ_+^imP";"I0A0GsgOPRVjo","[M/-@j%Qpun","[*-$gmM6cS\\";"I8+opQu7=";"ItMltWgLU7oElF+MjumPw","IGqWn";"[p;#E","[5>_%UX/)GJ";"IZN==";"[&N5-HH\"";"[\'SYhEZ^N^:","[;FY";"[p4RA=<3Y";"[@F[6Al]qGV:WXT%$qa=FPS";"IIMEBE3l0tG==","IpJJ=";"IgxlOeoP1ee07qJc5nwk=","Irfh2Ft0csa==","[=0iF\\6[o9";"[[P!?[b8)H,#<","IXVC6BHIyGN==";"Iow2aGTa+","IsSx5H/wiZ0T+","[Uk8U\\Pc_0d","I1RgOEIp=","[:\"AiXF.uB?-^.";"I3QYOLLT8BRZ/";"ITltxODp5","[lH$P","IigUe5kUJ6scs+QH3r70NS4k=";"IAijEsui4d7lkTN==","I5W+t","I03gKTCK=","IWjN7","IlnpcPJz=";"IPw7vl6HZWiHCutxskQS0YcsLqtvUQ63Uzov/F/YWCV+b8eSV2MlawbsooERCg9KCg0wBMyQbUjIrBrMQFHqLwlYsvBvjjpGgokyKTSRnQkbu6ECLx5CPb9wXuNoXzbtx7GIMmY4R","I67/q";"[b4E>2J.f<C","IyP8x","IkjteQtlh50EMMLl=";"[&^mF089;+HNVA";"[\"3>>67ZbQM.d?dkmq:f","[BE\\2\'StK","IVYZIFmDnNN==","Ir1NuhQYfSh5k";"Ia7ZR0G==","IYVIEl4GaZG==","[lpShk#2";"Ii6Pm+FrhkgyyY/BCsCN=";"InokPfZw=","IksED","I9LgcGxAX";"IwnTQKN5MmUCCeTOKJwK=","[KZ;qC","Ig/N=","II6XSdnw=","[,`1>Ug0","[r*/$1;8sN=Ndoii";"[SVr","[lIBr\\Co";"I3j9h5qLmw/a=","ICHBSosF0";"IZhAI","IKh121mi6Hg4=","ItAmm","[Hp#X6U4/","IQ3Qfz7==";"[?P6HqlK*&";"IpSL00TJ=";"[VC9fp%@","IKKCgLWQFyG==";"[sX!W_LRJRlZJ)P\"lJ<[";"[;6S/5+NIc:u_","[@H%CK";"[Bk0ISS6SiVY6XJc","IFN==";"[s`%l*N73[o5G8pL.*\'6La^@","IgJbkYn6M","IG4F+nt0ggaq5mFpdPs+Pnafcy736QNMxvKOQydJS7VOMHS3DUSueqEK9U7==";"IyxGNfFY6XM7lc+548e58qYpU6LGaOSF62ZDyOkaA";"ImMmMlk+uls+=";"[&bo!Z?3";"IVLUAZ3x351K=";"[Aoi3T<n#";"[Jd!io^Ro0bs9&m";"ILTJFJN==";"[a%","[$ZA<(4*F2";"I8SXAFxTwpZl=","[C<V>";"[3$Y>";"[Z4Q;\'Br:8*dGTRTPMn";"I/ogejfpbT0s=";"IUDDXZlW3SUx6","[Z5$[e#4k&";"IOsYaVpR1zhq/Oc57IbKm","[18","[:O!75N/]";"[uBo^fON";"[YL^A,.SgW!Ej","IGtQRXol9fG==","[B30--6#-9-9rDUrG\'sd9?%";"[fZn-VjFS","[2+?@Oe[AW0","[[Wa8WBY;b=&qLX,Z2Keu%#rLQ+XJc[AmEVgO*=ZYe%Cu,C5ek>Q\"7(Ho`k";"IJaZEXJsPKCDbtvCK6G==","IeHj12SGFiD6CbW3dJ8nzWna7TN==";"[/J:#q_C","IUjrm9oDSOzj/";"[Mp<*/CeB<;ehlno","IrJ2OJyxqBVvs";"IeeMcsx1Z+x1lRkfCp7==","[OT!(","IbSVLcLL=","[X2G)3K.^eqj*&","[n$0aKAHNr","I30Zf8+G=";"[S?mce6&;HBNe1=","[1POPo4duP1VGN$r:0$`glr*eFu6`N?#phpo.7[HOYX.3L*sBGjHoOmA<uH3!=296!`$sljd/";"[\"8U-dc:adCMrX4lBPf","Ij3yVZ+POE7==";"IxVDc7D74q4gVka==","IB2nhr0+UYs0Qj0E/9N2m";"[atD^h+5","[_m&IT/\\+*","[^(;","[M\">jpDF@9Y";"I5ZoOJpqbRNi6";"I2kjE2D3RljToW7==","IzSxxmKSe5f/nSqXncYaWXslLCXTFkNs2E8dCh1AGzBJ=";"[KI,W2.1mB-^b31u","IsL4vy5K=","IQLZrMCaV";"IW5pY8sSOOKUI7AAbcxdn5g2eg6Vf/xVk5uUM00rFX4OccDBlWsn4lb7N2jt4SO96Cv0oZglxW1mWRWpoTAlcPnM10dKa1rQzrDorpgIbN+JMf1lupy08FNsqp+N9LyCyjChRKYNXpV4+ViNC5/Yv639g+Zx9QLWxzbt4Q8JLr68YbPM98uaBW5J/rCgUSpGVljNa+EMW5pPodVrgpCIQCuQAzpSKjR2U0m5vj9BHgxj6S72SBjda4rGJiMNBMIK6A2wMbbtQ4zKg5Eqf+bevEpQY92BQiOoH3ne6kLqnngHksrFTq5m4Xug/93U3o8PBAwtnWkup8OL=","IlGUb6qp=","[E\"l@>ZuuZOrh<T=IO1n","[.DK?#pT)","IT4Io4lyP07==","[ih:[","IewG8W7YPJdmfgG8ZKa==","[V45E9*d_8Pt)@ga5p2^TdFhpoLQ=[LPJ#[JVMu*U`jkbXW4:`#pM`n\"3b\'>(S#Dl","[i&r\"+Oomh%G?p\"2";"IYMFsSpl=","[dL?Vls0","[<-dC*gS","IdEfHigs=","[\"K%?K","[9@;pU=f";"IyOrPt5Pb2HWVYX7KO53Ak2Oss5A9","I80GqA025J7==";"IM+yuHiY8Nc5LEAuYEgQgoBSC","[#X/p<n0R";"IIJO6mgNm1dp=","I+ld2x9PY";"[Iaj/RP@5","[Unt?%spfl3=jrd;YegDqq.lD\'U]1on";"IoCKZFG/OQG==","[qblb<b+FW","Ioqz2quDHgFIzI9Hont9dLAp=";"[E>?q[L/`fqA@","Ij2eS+qG7gCm1XlEon7BU";"IKkGst0DIylBM","[Lmt*g+>sdaMK^hC6bV.","[q>cLo.@Y0","[Q=S2spX5$H0-&T","[kROh?","ItTes9anuI/p+2TA7xLDmlHgnxnaLkkD7CTOMe9FfFGXy4fFIQQ0kBqulZ2WEv7==","IVeE0Ja==";"[huX?U\'M";"I2JavF7==";"[p]jL+Sa@$,:?","[S$D_g?%";"[]h@\"+[-9(","[oN)Al";"IL52M";"[q_O59I(c)FiDq*786?";"IAF0u/kG=";"IB1Qt","[EAZ$8r%","IVfxnOVz2F5+=","[=s6F`";"IyR/VbN==","[Ju%/0-4Ei^.XA)mQB:";"I29EMSGO5VCqmMGIjTI0zWwh2UN==","[J\"rLPp(N","[%?\"=W+dMD>?bHAJX)#";"[2@81$++2k:";"[ZQ`A=m[#%";"[joM6jj,)";"[bM)\'nSpeC0";"Ia8KMZtaXqG==","[T(+Nmi1+usNg61cPe:";"[eKg$=,]eQ","IkWRyjEQjX+CIYKkfEY2W8pXB3SclBxp/wj4Q1cvAu/7CECTQbo/Jpj27XvNjOvfGyO9MZL/q+Zl=";"IzjkWRfQ15G==","IKoLvdV+KwSG2Fka=";"IqI52","IvCgupAk=","IQMcrolKH","IVo8VXL49U7==";"[EVRg!";"[:^kuq+R>NX+S4Dn","[$ca<sbsJ-X90`(A,^uA";"IGkBH";"[Yf+HH0gN;s,I%8`;cU";"IrvivYH/IKhQsgOLnGxbr","IPPLiuG1fi7==";"[eL$+ln$nm5","[5/bG3OS[ZK0hRG\"jknf]","IhMkRfL7=";"IuW1s7S+ADlwYda==";"[u_eJN7#t:\'Uh!?f]7dGHZa.","IgA/BQxzFcG==";"[5@&hdXWJZ5iVGN","I51b/2Hw=","IXxXofHr/GBr1BG==","[Jm<6j8A3t","IdhcwRinaR1X4KoB3Kygm","IFUuj3IIxwN==";"[+_Ji4/S*ZbK[jp[";"IpoG=";"[2a4O6Q+Jf@UmF-S<tf","IuEiFmil=","IlMVG+SQ0A8eMrUP5ia==","IV8/LJ5l=","[[Q`[fUo$\"","It3Rrlhz=","[lpg0CV(J<#pJ!e[!XP!9O1!$I07M8dRF^CFQ&0iN+Yj&[p:ag";"[mt(.lbKH6\"rNG4@&N\',","I14kW37xNOkmvuj1hZN==";"[S3a<","IZpwF4jvKoIgHL2cm7Ew=";"IxfHQb5N4eWhGjS3URW+64G==","[BTn>","[8pf0!n/`)b.3","I/kj7sjitDXSqwa==";"[Dt,S)/#q.","IRyUa","[$([5-";"[K+UWY;/A","IxjVoc47D3xU6WhN94xAfHRmr";"[(1c:]";"IVxDh1dvHn/DT","IYAuZtnmRxg2eJN==";"[4&*@Ub8Q#B1`#9";"[b)n_Su?K`n";"[F2R0HF&";"InG==";"[De1dh<3AjqK/3N$GCGRi>65l`","[Qu@sH&C7=O","IC+AmXX9qPugN8w+YwXWxJktFqFZwRl40/k4Nv7b4OkHpx0yRGMkT18xqXM8Qg3M6KV/M1P7CFLIaeglC5s1afs5LD23MLCK3+1cVGkd1RwpiH56Y5C9Vd8BOm1wTZM44YqUxwW0fNmIa5YXuniNkJepqEV6wXJgG3pSu";"[21UbsQtXBH0$G","IG1SVkMk=","[bZ#UPdm(!","IRwemsP9/6SFn23N29G==","[1^lW";"I6Q4SxjGo","Iu3jeDxGJ","[7!A!ok0V^t_)teQr]:\"e<VW>UJW`$aR83l#6$gt,,n\'PUDCc4b^V2XHR\'eo):t4U`A(mZ?XcK3V>h8I%C\\A8^A_`/16R$Gsd3KM*H38F+/M2r1.>(Z@h\'[ff3>QlqU1c*)K]ECEV?[KSno-W$QMILP@iV4LD+5haI>+7sF\"k8:&E^t:2mQ>b]9\\=!oGr0cmK58kMXMo7;N8-+nCqjQ`WokEqpt8ta+T$IY-:4VP(;s5fhtMd#Oi^8Ua](06@Ei,sTV.KBC=IU+0p8Pk9@R2a_5Ufuuhj?qT@k";"Ig18pWZw=","[@?!E/\'HD[dC%W>2k(C";"Iik4dODG=","IRLs3HG==";"I8gPp";"IZ5uFB7==";"[7*!u0MQ;36l]mlp","[I]GG_;4gb*\"XuF)d8LLJ&#","IqgaJU5WP5vG=";"I4IjQEZaDCMp=","I4lAy";"INP7L";"IzsMEeN==","[N(@DVWj%7B[rMEU","IoR4BRBJ=";"[Z?QU";"[YUn%(","IfcAeCLLM6fnUoMIZnmPwupAx0erk";"IlMynks3IF7G=","IBg0tYj6oYiq89ZVJ6fJ=","IAK0HtJHkqORvaUHDQfF1","IlrB0Ka==","[W[*4CK2\"Z!<\"Zt","[<E#J";"IOH01scC8NMpzhpkX","[rck2R><_l]g&","IKaMwon3KcNhvBXK=","IGH7Zo7==","IV0k+CJa=","IfjCObOZn";"[SSh)I:k5#Zu<GR#QD+-DJ#Yd*R@Usq/a","IB/AhMy1IW1M8I2TaNxy+";"[M_^Q","[ZE$;","I9MBys3z=","I6ax9","IH66NfczI","Iin0uDAJrNa==";"Iu4kPfN==";"[\'P=SR\'Ai[","[EIbI#-F`QkiNrZ","Il1ZgRL94tNmaISk=","I4Nk+3G==","IiD9dbfRi","IrKFgcGw9USZbwT1hHd3YuN==","[p:8&pnVROH*dqaADu[";"[kH:5>,;pP0F`3";"Ixkv9QXYAgPw=";"IoTnPMAhEfhXq","[\"MD@QM!N-";"[KkIBfI=dhg_=/hV";"[1Z8$r%N^","[Qo+9Q";"IuU5EncEdDhBihpw=","[l,,;X5dAgs\"]>X5";"IOVGv3Ik/d7==","[k-mh%NHGWYI-&+Y<q<?b>dc`dmMphB4l";"InW5d","[>cJ62+\\","[R7u==OKH#FoG#X&43e)$37%XG,-*I+V?8","IlUQnYgbZxaou0MK=","[;r0g3uXY@BU;N","I9v2OIqgTjR07/S5F7XsC";"IBZVuz8jDcWX7ga9GC3qglN==";"[(_?hcSiC(";"ImXnQhfoX6LKIgI92/PtRkGZwpZQ08zwYksca51d+SHtq2c6EDVM8zI3+V+ZoDjrr7JkPUf46PolQtvyahTtoPJXANTnhS/2LxCIphTj32UbXnh1kLFFJMVBkOM0lLK16Q6vRnPzEgaIaNVs4fSFUfQw0OyvqP5i4YSQIsHiZ7RZivqRzKJkcivZ3YVHj0PLLi7OTgNy7+DtV3i/Hyv6VfJFhUkOuAqh/x1WH8qbmhfuIw0mnDiMcpREbkTNNtxvke9wRs9WVBKz6WDOlCihK6Oh7gnTS3ubY3Koyk2dohNazlTshA7ZT6DEFJvqiZR1YPjarjjmTsJDzpgX3ijgZxl063dByzHv1NJP5x8PwhiI3oOf8Wxa3o8SduzU3qdUviFfWlqR9VtspkHlsG4BpUH7G2uNwgTzt/Kb6V7==","IKs/QYZ4uEfw=";"[PJ37YR7fO8","[J$$9]@L\'#GT9D";"IFRSn";"[$50#Ch9";"[UE5fcV,(\"/","[XN","[mFTWD7EUePB4\\9O6iGfd?D,@U4sLWVLHfAOmU_Kh-#q9FcHWr=K=HSor&\\7InAZ:S0qkQ\"^Ng\\PB>e,A#7\'Ts>&<8d","[FfXKK19J&";"[X]C#q";"IQrU84EmY";"[sD.`pVMMq#";"[hg_#:#6(!","IvCq/kXATHdi=","[2IGI2@M";"[4\\8[","[esQa[ei";"IWlfBg803T5AQBbAGE+jk","IAYGC";"IsZyr6794VaXW","[$lUH6PuOb","[mTIPMoM\'";"IrTkY","Idb453CGj";"IdVct5s4RDRDVNJO34N==","IaWL9AoUhGG==","IUlxbf+ql";"IYrT7QcysrOwL";"[SnLj";"I6PLJ";"IVHytGWrS";"[sf+<=f3b\\PWf";"[2<2,[I\\Q","[9];$H,s&;\\";"[#Xes==o","IHomy4FNf87==";"[g[K*TEG5`<A?","[Yle,)Z`2l@J@","[[W_V5:C&","ILVuOrp3QvxGvKN==","[B+hiu+/]";"Ifv43YFtzmZipm7p0EZbyRwNx","IeyUmPrXnu/w=","IYOp60NGWSQG=";"IlTmjLCHUwNLrYAK=";"IwpqqFWeXXlcTw5SA6jsrfN==","[rHFVs7+\";C,6sZBEI4^+Hj","[[W#J`L;&0";"[6+H1ot/F","IEW6bjsqsxztcrcx0ihnV","[U*\'\'uJp","[:jl?lT&\\,Do[jRR\"t\\:qW7mb(tq;cj8#X>O;qqnePW+W5k#&M40X_\"]8,/)F4lADc$\'R[-?9fbh;+3?g%%C&>rP3R(uMC.o?G,VTC.HZcL$/<u\'V#8Llsp*V,$sG$<8aQZELA3_4oRb7\'`]+Qq0;D%7`,W3sC1*Y#[i6bsQk_LVUk$BN7/u[8W,PUlERq!W\'S89g(&BQ-B!ab%MM!32F+!uD\\OkmBFr","I2Nvs+EiI6S5XENkv";"IQOIENN==","[nR";"I46RuqiVA";"[H1O@N;eHD","IEWnsf/w0";"I7c8/Qca=","IEYcVRJtF3zMJXG==";"IO0fK2OgAQWtGkYjfSpnVaN==";"ImkBZVDilhP6q+tCbL89DHLtN";"[UPo[-5R<sYQ7)","[Np,;Ru`C>t","[>PTF";"I7LJjiqxMb1K=";"I1EUPoAqfoU8Gaz7QG7jdxuYUElprxG==";"IwF/C","IE11GamFNamcXW0a=";"[qNFAnbMu\'\\I,q&Y:+1A3Flk&^`7rNlM>/iO(lhN^:T*\"uB\\AJao\'9s[_o`Zdh,F+tmmt[[V:(3>$3Nk79FTgRCXIR`(3p?E06?kn.k$ejt\"&h\\cb\\Jh3.;&js;6SU^Xt]8X1Q/eEPIdmNI/en[H(oiF:LQlkktG>9ojd[Y?!/?APIf9\'l#\\o6;0r+VV=-7;%diu[hQar5;6uo9\'R>@+(VhHl&mT8","[=m@DUMke+5]<lpo";"IZozXJVonrgxG4Dnm/V8X","[GTlPnl=8","IohSso0jqgFl=";"[C(8GiN]:uTgQ,DbpLA;s","ICIc0W1q06LW+ooJ=";"[m;h3AApX","If/7eOgsT","IGrI+lD/qJ/g9xQa8LY+aPLYTCSTfJN==";"IQefdDUYQ";"[^f2t@(NRVmf2I?T@F<rRHb/X2o%\\\'*dF;9g\'<","[>b0RPA8STI5oF&fiL<t\\(Q\\Vi";"IWMVE";"IB80LdzOP5pL=","IFx/TqBK=";"[!I=WLrE?TFr%";"IcLarsIw=";"Iq2C89Ni=";"[n<2YPS/";"IMG2YPfm8";"IDgOGF3S7QSY+","[P-@LRauI>";"IPQuFpIs=","IoDKBhnHvUG==";"IL2TiZG==","[$1,mZCo","[>pjK%`[aFt";"[_[Ri\\.g8";"Io0T8bX1GstfxwzcB";"I0RFGIfjZ5gHqvQQ7u7vTIM9rNN==";"IEMj6ddxvnQ8j16i24VPliJvDN2pGa/80R6Sz7SgPmLFaDsejVJnsLuqFwH7=";"IPzUELi6NcY8JNnl=";"[JPfS+c0";"[tWlg8Td%u","ICTKgsaVGYJdJ/0aVdtiqaPz=";"[jTV!uMEbE;cN\\qkuo;i3\'<";"[ZJ)e8*A";"Ir/QAD/RPpfi=";"I7RfbS+bPgqxEq36W7a==";"IHe++","[_5TdIpNPGlDmH","[=n[$q\"/","I8ELm1/R6z6G=","[2Ogd<ogbDU#WaN#P/R`";"[FC.bA!%,Q:%b!T";"IU+SkZZ4m1cWfMBPNQQqfyaeA4wnNMexOH3oEz2rlzOOY7a==","[aTj$a]\"";"IH36yvN==","I7y0ESKKA6fp=";"[^0cb";"I4MtzvnG=","[=oeVid78HrbN75Z<d&#";"[Z]@f7!r/qi;p4QMuHCoZuO#\"\\XN%s?";"[2<D\'P";"IfVk5tZgP5ZzlQyYl","IGgwFjeH8J0Cxh6RfJTPD0a==";"IeIqC";"[Y>QdbB9%\"r9l9[-","[#j,Z`Yti";"[l4\"]6kf";"[c51pCnb+N(cY`K\\XIff<ijS[6nu&QLWf+or(<S@rH=,M$;nBQa4$$0(FZ^_gk-ZSXcJ?AeEfu3%.dD9)\'(\\";"Ihm384rz=","IyNYwjJa=","[eCKeMRJ";"[t>5Z?";"IGbiWs9hhV3wsoCG=","Iglbm8qz=";"Ixu1BemspOcrLOJBxdpZjfDEegOD3Ya==";"I/q18jy2c6y6ca05DoG==","[O[ttO&Yi","[@)udZRbEhr","I1X7LlqDpvH08QnPrqG==","IM+JtLTz=";"I38K=";"IC7bN";"[dk@q","[4k,j.Tj+:q3c=aO_+82o+<R#@?#DT.j!(f;%?";"Ip0u5psRTHK9GBKqk","IR6io6apA";"[a![(]J!F1m2XP3/]I5=2W$^\'cl,H8Ftn+I5CPp4Wg8`eBN/TE`M3)7BBe_Z2AHNJ\\P*h/nm/?V.AZHFDn$En!o\\<Dam-GD^IX-8.>C";"IMByY6lWldHCjLjw5Z1GFdKlFqpfOcUm2HURqDqLElaQrK2KsDqSrmHevFnOhSAHfwrsBlgagGc1IIjEGAcPPYlCAa3VDezqIudfI";"[p8h:cdBN";"Iom3j2mkX5m2YW1z8Ka==";"I8Lbsy/Ve4EsIZvPGCxNMTG==","[3r\'.","IU2YuE3x72Xi=","[=SffS.sHqt_)tr=<D7r\"@cU";"Ia1ol","[>[XB.te/ID0EqQ&StP","I+EoLGDX2H8dpW2SHdmcZGB7GSBvpli51flV/+JtQYDwMLZeTQjTgTsYW","[7W4tYXN","IPpze86aArOhMVG==","[1c,fqj#";"Id2yK2ia=";"IZvN4xa==","IVbUs9nvDbfk=","[UOKhVBOmd?[i","IDdFKJfN=";"[31+=A<t5","[9Nm78miFPd\'<";"[af$qfeZ9)qgWU[k\"/";"IkgzvTnNC";"[Kuc,M6eN-]^3_.9I;Isd=9Vum0n@r+_C","[n7HQ^D:c?a.H;D","[FJ1GHOm+4gF*A","Ija==";"I9ZnU";"[0o^/KPS";"INnX+NC66CQBBN/3zeG==","[.R";"[-DIcc0n";"[$Y:I+R&.REhAaZ","[#OT<\']+g";"ICgFZyzdxRN==";"[15fSkZh&!nBWAI\'O?_1ei_O#>?!CF(<]:fhl.iQ`\"m)T2tVK3Pnn2CCo+>_%OCg8W=@0_>M1(n;I7^,Y!c+G(AmHZI\'#@Mhg_t>Cj)r]tocS,E`Q@&)rFDM?ZW*<NVm#!\\L+d\":>3B4AfY0EDN32#lA\"51:+_2^,=uPBR8h,J9&@sm4Ld`[H?P-\"\"O[lb#XSS_6m+Og:PO2pgBE&HNhCG\\5mff.8uuL^,pRGp]=Ujppflr.,LQr,%eX[s?OQgfQI_q>f1>lnC1?Rto4ho1\"T=[6[M2s3Ca]r\'t9\"b>Z?e\\g8cB::]pP.6","IDrKLf7FPUa==";"[;Q3#@ebbOoLLp";"[:Ao","IicPT1YeUAhtQnGym";"[O\"";"[.P:hS+K&IP(3L[","[JH,/IgrR";"Ir3G15dd9","[6%","[!&";"[50oe7fKh##OX!i)jA?^eON";"[LQX#cbo";"[CAWU`_FF_[NjS","IBZnu+N==","IOtMF","[g:\\cQ^g#&jn-fd_pM,45gI[QR1/AQ#[i";"IhAoIjBp=","[*!s_L\'([5LEM]+&X?G\\-6>B7";"I7UnfMO94","[i+FWB";"Iwxj7Weqn";"IqBFSAGE0fmO4fsVj1XiNq6Wc252SOg3k6e0j+Coz9rfxOZM4S4EoEr0UO5VVCvy9ZN9I";"I/PIcceEw3CxahN1QOgMMWSN=";"[EoLTn:HCZRPHZhb,E7DfR,f8+C!ie+\"%.(\\I?Y`DAOM(5+?DiM@ZSn9L<;cSW/Y$,e,\'mTic\"Wd#M";"[OqRh","Isx5e4YgUgwBU53e6btK=";"[ut3_[E6gHT=t\"LBN?6t-XH_a9&$8_DA,rinsfT!NN[Y7fW5iu","[Und!#!^RTlL%0M)";"[&G;hBuqN\"=O?*)Jj6";"[FA;\\VHpO","[jR#3Yfl";"Icbh/IISNta==";"[iG,=i+XB#&Pp)","[87B%";"[?f\"9Q","[j,L[;#I1*!$;e(TQUr","[*C","IRu/hQ17=","[c<W";"IAv/iFn2MMj6dL4IICN==";"[D!nk\\","[]4u6>eSC3&","[c91HuNDt@bpr[FqE%\"@TYFV#uB:";"IQV47A4TkJnL+8NoY","IqD2aGIth";"[_9\'iE6\'BH;";"INVvcdCiRFN==","IUHC2OL1T";"[]3:_p8eK\"=";"IJRfac86JH1YyjNfF","IMz+=","[e9fE4NkUuTP\"9hT^,V";"I/GXe","[R$!0K#)\"+HIJEF7R`i(;CF7N3=e?lUYCKfo+<K";"[\'2","IaG0g","IXMwuV9951a==","[tj<s3[-\"";"[_>YFdm@pq#I.RBb","[S05kKa=7p\'uR>4,18","Ip3xW/2kK";"IHdaFP0EOlbqHmvgm2ai=";"[Z^uk/*.(B\"LA,?:","[<g9RhbZr","IeeBLNHa=","[J?h)uflqE","[_!OhE7DJ$uZ/T\\*ZbMNB;K:*ghN^!fc0JlF^XDaJ#RK\']cRheN&]t$]NBg6ujV%m;Y@gW4*.eCPkcj%SMeWSmE)d";"IiuNQvak65DEtlOwQhN==","IRtnxvnJ=","[Zm8@Y+@]ADM):c.%N/uWd_VU?3j)\'<p9A>iALAq5h^L1X#@U<:A-l0(W1IM7_1/3&\'\"3qlSd>q/PIc>FIp4lp1As4\"^IEW)","[\"5^Mj<n=hB\"1:";"[!dZs2_]F[R";"[.j\\mpo\"IJC],2:","Iq3YT0G7UW8d8NWREAda=";"IDS6VM/62bm8TF4Vm";"IT2AT8e5YPT8/","[FZSq,O\"";"[ZHaA","IXKYmDtdv";"IcJMtHMSPXe5QPnL=";"[/g97S^;mG5+Z\\jCB^1?!";"IPlug7MaW+vjsWVoboTs=","[H?I>pnUbD";"I16Srwxl8ioxzPrvgdHN=";"[O)Jq[-0U!u";"[MTifD^b9\"d,b@I@","IJHl3";"[_4/)ePIYm8V8\"-","[9)AV[<ZE\'_RFE","Id8Ub/7==","[<<";"I4rY+1EPXxbynP6pmW4NrelH/QLusZaVBjKwuW8GyBnhtUTSx8b33HH0j6o/V26530Oxak27=","IiE+hESll6zTKpvNHHFIY";"[Y74$;$d%,","IzwBx/7==";"[LiIXd\'mMC";"[hUj,";"[+ns3XSZ&nT@j,hg[cY","[Q\\4b=2&Ih";"I6tgEQN==","I9hpt";"I6xg+rzi=","[>0]Q","[4hcB\"pM","Ie4nsT7==";"IXyunI4wb";"IFqGP","IRNO8EA6x","ICQZReuEE";"[=D*%bMm.mF[9BM>tDDZbX\"";"Id3K7MUBNo14=","[55>mKIC","Itp5UIqa=";"[[RgUF;mbM,cj$dZng&","[,cgKEK4QAGJqs&]laNRm";"[GfnA4","[MPM3i<22";"[Nc)29Wd2i;\'R%`/<bX6HI1`@2KC0:`:)/";"[u_Gu","IcvUs";"[Xb:i]";"[>&u$>g^;`X";"[RGo^Yg_MT`=a05\'RJ";"IXAuQpydW","Iz59ixCd1","[&gri?fo";"[g==lG?arK0UIeNIe($(";"[%8K/&9:","[`DO(mud";"[*JcRjQ5";"IsKxEJx6aTGVBKs/4";"[*_9nEPId9C3k%JhQY`+)";"I4nLPU7==","IEfG7gvEdo9fw2vSGstVH";"ITPyi";"I6zH3wwtFL5wS1XrNh7==";"[Vc++F[CHEe@.9MPH%@cDF0pPfIk-7:,9p`3PR6M-,0[B(r??%42Ni8b\"pfG4O`dUAZXa*Atj5V%]Qp`j2YE9$X^QW+P]#aj*AHGiSNE,mSmtjntB+-!]lW`CI.HOephSR2D1r;-]GXR;<tc24<I/4C;U3^@*KB+n5uGJj#nqL\'YBp&Cmnd<b@`7`RSa><4.#FKasGK30@<2437b8^!dr(G%5_#XRIr`3hp85aWj!;VQpBYSGruqMu?ITh7-\"1+ndt)5#:J$=","IWVsCIW+m50XWIWdZbMKwUfeDtG==";"Igk7JIV/jma==";"IcHC8xAsg6a==";"It81kFxrtkG==";"Im16G";"[*[HHD7#gZX2]:YFqQR","[P,f!90,ieXP0","[q\'";"IMHyNEZK=";"[M96u)S[l)\\*tGD","Iei7JLSG=";"[\'.P%Q";"[:fHt;DdV";"IgHMhxN7=","I9Q6POn7VVa==";"I4sStMRPXYHMz";"[0GFH-s(oastsm@m=rQMW+JuTj7>NnEDN(","Ij+Y/rlcAruZXeG==";"[+R,U1Y\'J*9";"IQ8SFtG7lnklbTta=";"I86Pg","[CLmM`SB\'";"[I:";"Id+MUbs5jhVs=";"I5uCBY52h2jp=";"[H1,]Br6l`";"IoDWVKy1VKiGA0TsQ7yi=";"[=pG7MPtCS-";"I+uG9Kbjqui7pdwmUBr8MjfTJoCGtQI9zGqSuPPGkrRXNSzricn70pRW/8zwVpVYREUK=";"IvzwxTQjcH9QSmcKkmnrIrZbKj9R936UfoRPWdJVtIet4Miecp/c9BOl7KKOucXs+BGYfM/JjOjHkaPAH+L/VM+a4vgV4UvlEzADIGveiJ9VNKa==","IUVZxuupeVF2Zx+B3qdkl+qXVMwmF7O6ZkouW1kaj/JQ/fGFzp4NE0u65FwA70ZCTX9osFN==","IUUs/TqJ=","IzLavcnl=";"IUiWy1sOjPEow+/U52BA9nSRd4jm5Is6I5G==";"IlD1jJYVnghK=","Ia8KECSoWiTs=";"[8U[\'cSkX";"[\'KUPa$9";"[$^IWFa?g(";"Id6X+","IYl3S";"I9NfY";"[?7_l5[prOYc.5","IpQBecPsgGN==";"IrP7Wx7Lodc+=","I3G==";"InzWCKkCmTjTZoUSb6s9wLo4=";"IOKRt11R+wOl=","[*/?9S`/+`CPh\\M3$kF","IA9lXpxnZ";"ILa8AHan1";"IqYhrV7EsQ1suc1Ft";"I2CZu7fW7qTz8";"I/T5yaIs=";"[0P3&,+3";"I+j1vX7==";"IUio68ziAoR5Vta==";"IpB85NF5C+G==";"ITabGaVcTp+3L","[h*mLG4rJ](CBBl]B\\:d";"IDDWn2ok=";"[aI\'7ckm/5TaQWl/:M4GK%?";"IDffPGmk=";"IIlqvN9G=";"[!tNn4XkLK\"\']sF0\'1/k";"Iq6uigU1X","[0QVu?#E*6>9H6pa","Iq5Qf7a==","[^ocV/bo","Ilty23bTBIovBn2pK8ODfObVh8qpwxKqqAKW4","[B8-kX[8","IUapVSIzgBrL=","[-/`aQ`GZX`Y/Nc,";"[7k4nlT@","[>k8U","[:/ubW^i%%";"[WMI-","[1[%d";"[U\\^q15:@;n9B9Qi.?.Dgk-5?L*\\Z7]Vt@G\\>G;@";"Ip/b+MuvbXgYP";"Irb9KNjgC";"[2*d^g+XQGgYnmKU8`S2a0(k","[\'O#$0","IJqj0bU7=";"[.ihEPI`_RZSFQc=7m=?;","Izsrg3JU+l7==";"IrShpXeC+","[Z1Mu\'&Fh","I24cb6ECeBiUpQd9oKNi8EG==","IGCRllIiCP/uBJvi=","[25h4\'>@,&3`K4","[j!POT+>%","[3Pd?U\"\\K","IzzqfJmRjRKLMSZ2oj2AUWG==","I2Wwn9Z8GCRGk3NmhR1nvYG==","[N_&a","I7VFeTN==","[^$pA<P9/l","IBBX9/wiVPKNR","INYUq9mt7","[fh,ct8D!<","[J+@!";"ICdAhs5yEUEUA1JeC","I2NryBtUcs/Ccp4xSsdnClN==";"[,;Eob+1$#,$d--jTf@FN=\\`kqefAmg7.!";"[#2R-Rk=q87a%","[>LO=`50;\\a4t_Gg$SD,HmV=`\\0nrOYba8!4sQ0gK]\"SEm5W5k9>Zgb/K?^Aq@AN$nS)laNW9@-#!dAeok8KkJ,Dk1Pl1I*1<Iff\\n$ugCOV!D7Q%%(ij!4B0Cooh>m8b+T-\\u^pLKT1tW]\'-YFen3,-9\'8VFVVMOSShb0o56]/@R4m8rIqNqChK`;hC\'cEZcJoM:2%$tOBY)g`Q>iKLf(U>g][m9LG<+DceI)4&+8g<B;!-&,\\7\\$4s!$&:V6/L%G5;W^Oh0cM4k(<.j&CI6Fgq;MN4UMQeIi.";"IflzM43i=","IZKNRvywCf9tinfi6SkgGLa==";"IwF29tSs=";"[r\\<eP!P+Q";"[h1[i8gC:09Cr@";"IxGEYRTN=","[PRh4n";"[_jP4W?jC","[P\"t>","[T.B@","[=BgM8;g^","[V_";"[pS\'70f+?","[a*bulB:","IiF8Be+PdM7==";"IXP4GLCxzTN==","ItN/XOjnMICrRmHVJutnR";"[]!A","[F!7B&P0";"[JWj+u-.C9+mP<FX?Tpc?Vi";"[rYE^bm8","IKKJ6VNTJ+Kk=";"IJYxBzTnkFPRsP7ivZm3xGww=","[<M#]SNFq";"If6YpVCnj53CTPka=";"[=G%T";"Iyb38IseCYN==","II0za3SwegG==","[NqA.N6-\"$\\BnSR)r2(h";"Ie6maRB2sOl7=","IYZmFj75DCDvKfq0WZd0Fx8wd/QC2","IlL8/56ojwiO3YYnrXhJUnoAaQui2","IkThGxxzweO7=";"[JbRc#Zd+>fffaB","[#J_m=QJ.=jb#dYdJp";"[8lhu5nXY,o";"IZASl8v/XY5QLmZiLv7==","IQhKCKizsdN==","[s2Wa.Z\'=l_","[I3_J]/,N`S@XD(p(qdDYB<8q","IqQZXxU9mJXDGwtYfmTsop7wDoLCj/QGs/mgr3d3iSWMXNecV57==","IQGtikXIK";"[/#%iM";"IaPKon7AvWhF4";"[u>*R1FeT@-","[g(5;s`b#Uq(TJ]\\@DO","[:jf>u","IlM0/CFfE4rw=";"[]GO\'@tN";"IQyh5";"[\'Us`2*`P","[MfgoXB;#","[;Ql`s*A";"[U]aZlq\'";"[FNo7>@n+E.Wo";"[Y@%n","[mAm\"P]G74\'`o9snejXF2F0";"[YEnI%!6i26KYJ";"IG8YSLuHhIxcwj9TzsG==";"[BLmh#DWl";"IY69awBvNf7U1ATeVxHL=","[C7XkX";"I1u8dOjKw","IrNSa980hyJ51BPSaja==","Izf/V","I8DuGm6R+NQ/Dh1eC1M7+UP/n6rs=","[O[*:)";"I9Wleehlwv3Th","Io5phrAeK";"IG0qn","IXbeH87==","Ig/xbXpOdLa==","IEbg8L3Pv","I5coZ5VF0","IXFj2JEL=","[\'5,<";"I81xTSG==";"Icav0RejPmrpXn1w2A7==";"IhfzTJKTT27==","IJCW+","IVVN9cii=";"[kW&V@XI";"IW4c1fiMYa5XjDwxnz37eVUvTn/k="}local function S_(E)return z_[E+(471516-(476501-15866))]end for E,N in ipairs({{347093+-347092,918678737%4029283};{692813-692812;160120488%(-356458+3692271)};{((636331-(-10502))+332499)+(606249+-1584116);-43135-(7429+(-603621-(-550844)))}})do while N[711172+-711171]<N[804970307%9937905]do z_[N[(413954139-363524)%((312583614%(-509428+1769429)+5034937866)%((636902+21856571)-(-1003074)))]],z_[N[3044965441%15777023]],N[-507794+507795],N[-561457+561459]=z_[N[437920+-437918]],z_[N[-452617+452618]],N[415358222%5257699]+(-470350+470351),N[840645+-840643]-(579796+(-788357+208562))end end do local E=z_ local N=table.concat local T={E=773623-773566;O=100739190%(238615-(-906148)),X=(561786845%(2296978203%12188722)-232648)-(294385524%5990757-127902),z=415963+(-659469-(((936200-857467)+-996511)-(-674212)));g=158757-158746;q=468694-468636;J=-372781-(-372785);t=660872+-660867;x=(933176+-1896540)+963415,Z=587425447%(-611697+11695195),A=(1843446133-(-263736))%13556690,P=754967+-754932,["9"]=962917+-962879,a=(995176902%4873336+-1879231)+862873;r=358717983%1949554,b=253141-253102;L=(2710690399-(1176333-206140))%14256646+-957438;h=-463868-(-1321071-(-857153));N=-442580-(-442628);["2"]=1795997430%7212841,U=-748795+748837,Q=-361970+361984;["+"]=985709+(2463-988160);R=641010+-640969;Y=2233030019%9382479,c=144340+-144321,C=-535398+535428,y=(529851-((-363544-(-332191))-69408))-630579;k=2151457176%(9067333-2138577747%12960910),["1"]=584013-584011,["4"]=(45588+1545305604)%8048704;w=183320-183264,T=-27249+27311,s=549042-549022;p=1441378702%7919663,M=225949846%2689879;K=688082+-688042;D=(1386434-1047466)+-338941,["0"]=-835491-(-835514),l=1687974112%7403395,I=(44510354221%1085725332)%4562620,u=125128817%2662314,i=(106380070888%894055756)%5374949,["8"]=1250901065%15254891;n=-428599+428605,["6"]=518402+-518339;m=-407867+407912;v=1059361658%4950288;F=(751084+-399212)+-351841;V=754496323%3067058,["7"]=(-620279+(398159+320037))+(((-1495678-(679945+-1308763))+1834807)+-1065832),G=-804705-(-453798+-350923);["3"]=293457+-293448;H=-64082-(96042+-160149),d=(-187476+-197508)+384999,e=-487962-(-487999);["/"]=(-744002+-27551)+771575,f=-619411-(-619454),j=998954959%(-536707+10330383),B=-949339+949352,W=-224705-(-224766);S=228013-227995;["5"]=-852267+852321,o=2182984733%11308606+-423726}local b=table.insert local F=type local m=math.floor local a=string.char local C=string.sub local w={["+"]=-752466-(-752546);[":"]=554134+-554095;["^"]=851416-851366;c=(599327359-(-587814))%3174154,P=-829404+829408,V=1510401067%8883521+-202445;A=830331+-830265,["\\"]=536205-536121;[")"]=760844531%(336615+13249893),["4"]=-339105+339152,h=383660633%1768021,[">"]=359626307%2446437;["."]=816623-816561,E=152608892%1658792;["\""]=2068391666%13091086;t=1187607666%7970521,u=(((149773+-303253)+675246)+-1369366)+847679;K=524900+(-643239-(-118370));D=653764+(-328954-(97984+226749)),["<"]=344394517%((779380+29115)+(-970736+2617121309)%(951887085%20000069)),H=924232465%10873323;G=-991324+(600962+390444);e=-154645+154706,["]"]=786157133%13554433,U=145686883%690459;["&"]=-489334+489376,m=456677771%2476395+((633498+-1452748)-201825);Q=-254341+638743168%8292062;["?"]=1631770115%10135218,l=57293+-57245;R=3943448393%16993589+-935743;["`"]=(-9260+-56456)+65786;Z=395941-395886;["\'"]=724332-724323,J=(1024795+38300071)%7864969,X=163101600%((-787068+(-960602+1230345507))%(-443527+14888394)),I=592788965%7318382;T=(-877000-(-39297))-(-837715);_=644942715%8375879;W=446292600%13946642;["-"]=592614957%3658117,["%"]=107637-107607;["0"]=590022-589953;b=868969+-868931;L=1311286900%(2371236896%18724731);f=334800920%(((-59497+423163)+368960)-(-755378)),a=493301-493275,C=-326988-(-326999),["@"]=-820433+820478;n=50398081%896419+-198582,["1"]=-781555+781580,["$"]=2837510785%15421254;j=512755344%7325076;["2"]=356475+(-25621-330827),o=209533-209458,["3"]=-586650-(-1235310-(-648603));p=(726123-(-873468+705018075%5763245))-(-302666);["#"]=-60227-(-60263);q=872661920%6920687+(-12370+-642982);k=-1022258+1022323,i=3701168909%(17657139-(246298+738909));["["]=2122260444%11111311,["6"]=-554563+554571,["8"]=692452723%3377818;r=(509749+(339057+-1007942))-(-159180),B=2071344656%16056935,S=-296343-(-1171331-(-874973));["/"]=(-939208+76896271)%3038280;["!"]=-394486-(-394526),O=-853743-(-853816);["7"]=((((388768257-462972)%1569580-777273)-(-128628))+2086047730%(-182397+(-761292+13283884)))+-525154;g=2306411646%(453530+11880222),["*"]=(-989406-(-419341))-((-1071959-(-367183))-(-134652));F=196144+(688573+-884704),M=338550-338496;[";"]=961543854%(4534536-(-225582)),[","]=(479099-(565255-(-226832)))+(-1040526+(1564556-210971)),Y=-714451+714458;["5"]=1241900445%9702347,["9"]=303200+-303186,["("]=-847600+847646;["="]=(-1117693-(-130512))-(-987255),N=932186+-932135;s=768378-768320;d=189418009%(9089474-853911)}local W=string.len for c=-526513+526514,#E,(1002643332-711876)%((24912625087%2264805835-(-871680+58328))%((709712+3205394364)%18798703))do local X=E[c]if F(X)=="string"then local F=C(X,-36455-(-36456),660468-660467)if F=="I"then X=C(X,830105230%(4131386765%19095798))local F=W(X)local w={}local G=-538819-(-1448317-(-909497))local v=684057505%14554415 local i=1036033028%8492074 while G<=F do local E=C(X,G,G)local N=T[E]if N then v=v+N*((148302+((786851+-364630)-(868125-((1305557-640550)+-367341))))^((((1308541-610749)-697789)-i)))i=i+(-251107-(-251108))if i==-67174+67178 then i=237362076%4844124 local E=m(v/(317718349%11764919))local N=m((v%(-988366+1053902))/(166198296%8309902))local T=v%(380765-(225566-(-154943)))b(w,a(E,N,T))v=-214929-(-214929)end elseif E=="="then b(w,a(m(v/(992743+(836854+-1764061)))))if G>=F or C(X,G+36458855%272081,G+(943842-(109623-(-445233+-388985))))~="="then b(w,a(m((v%((2577115632%15154665+(510698+18284250810)%(204533762-(-1000407)))%3363345-74327))/(810694+-810438))))end break end G=G+(644008-644007)end E[c]=N(w)elseif F=="["then X=C(X,(-350508-46024070%3486963)-(-1044061))local T=W(X)local F={}local G=(82854687-(-273085))%2681541 while G<=T do local E=(T-G)+911892521%5921380 local N=E>=154621+(((-558329+(729938-946564))+315376423%(4670352472%19715561))-114716)and 811381598%4338939 or E local W=716371375%(-882619+5445494)local c=N>-626752-(-626753)for E=1833558982%9307406,-942386+942390,(330431+(-201437-(-745697-42200)))-916890 do local T if E<N then local N=C(X,G+E,G+E)T=w[N]if not T then c=false break end else T=80340941%(174932903%13419096+522588923%8975227)+(-309794-(-302121))end W=W*(868897-868812)+T end if c then local E=m(W/(-512891+17290107))%((357603+-1097432)-(-740085))local T=m(W/((-317000-(-255334-(-85739)))+212941))%(446560996%(2114337764%22177843))local C=m(W/(804714-804458))%(248868849%4079813)local w=W%(278968+(-251100-27612))if N==765415349%16639464 then b(F,a(E,T,C,w))elseif N==-972671-(-972675)then b(F,a(E,T,C))elseif N==616075+(426521-1042593)then b(F,a(E,T))elseif N==(101361+-240768)-(-139409)then b(F,a(E))end end G=G+N end E[c]=N(F)end end end end local i_,B_ do local E={}local N=table[S_(834437+-843198)]local T=string[S_(499271-508310)]local b=math[S_(-819620+809518)]local F=(268169853-(-1018949))%6729720 local m={}local a=399036039%5783131 local C=math[S_(548632+-557736)]for N=2043017025%15022184,-544797-(-1030014+((-239740-(-49118))+675583)),(92257+93563925488%522752144)%(-903164+8354412)do E[N]=N end repeat local F=b(1150218939%5636202+-433730,#E)local a=N(E,F)m[a]=T(a-((915022+-1647061)-(-732040)))until#E==541624-(26653-(-514971))local w={}local function W()if#w==1440392125%11523137 then a=((a*(3459063188%15233710-1010993)+(-259352+27713822394349)))%(588354+35184371500478)repeat F=(F*((774061840583%3870383888)%((-259072+1522630913%11194646)+17081544)+-639574))%(-415738-(-415995))until F~=-695923-(-695924)local E=F%(-48906+2923005766%12078334)local N=(114854+-114841)-((F-E))/(662816-662784)local T=(C(a/(42677711%14225903)^N)%(12908822266%4306927485))/((3345471561-829908)%14229980-(125104+(358564+2021804448)%8530345))^E local b=C((T%(157932580%2770747))*((288514+((-413908+630117)-590853))+219534151926%4304781970))+C(T)local m=b%((-243471+-125574)-(-434581))local W=((b-m))/(-145958-(-211494))w={m%(-174517+174773);((m-m%(1024143726%5753615)))/((750189-473539)-276394),W%(808373155%15850449),((W-W%(1142226721%(13192312-(555710+1797149015)%8722303))))/(-42619+42875)}end local E=#w local N=w[E]w[E]=nil return N end local c={}B_=setmetatable({},{[S_(-492115+481289)]=c,[S_(-401451+392401)]=nil})function i_(E,N)local T=c if(T[N])then return N else w={}local b=m a=N%(-876029+35184372964861)F=N%((2694960075-867545)%15394813)+((-823906+(773882+(566961-(-530995))))-1047930)local C=#E T[N]=S_(-214888+206082)local c=-933293-(-933494)local X=S_(645523-654329)for N=237636621%1827974,C,561105931%8015799 do c=(((string[S_(163079-(-504756+678035))](E,N)+W())+c))%((190001619156%((319652520800-(-1531041-(-781222)))%1664926654))%9889955)X=X..b[c+1291070980%13041121]end T[N]=X end return N end end local E=require(B_[i_(S_(-663287+(-316550-(-969893))),-1003111+12814739019681)])local N={}local function T(T,b,F,m)m=m or 94268+-94013 local a=((((T*(-920197-(-920453))+b))*(-430933-(-431189))+F))*(270368+-270112)+m local C=N[a]if C==nil then C=E[B_[i_(S_(500457+-511036),933512+32869911382511)]](T,b,F,m)N[a]=C end return C end local b=require(B_[i_(S_(((-93249-(-420518))-888181)-((-722282+1126711)+(-1842100-(-886857)))),-673563+12314251015129)])local F=require(B_[i_(S_(980579-(807726-(-923368-(-740685)))),26333672544870-(205375+329529))])local m=require(B_[i_(S_(272975-282950),(((195253+231420)+151182)+23452384386315)-683082402%7501995)])local a=require(B_[i_(S_((((-437073+727319)+-528089)-153193)-(-380472)),(286061655%3475980+33381171262096)-((871769-(-107781))+-121669))])local C=require(B_[i_(S_(619441+-629594),17821754750778-949005)])local w=require(B_[i_(S_(859772+(-1237874-(-367864))),-11752+33002162560171)])local W={[B_[i_(S_(-50406+40056),((-548070+6701065522135)-(-482156))-(-184741))]]=B_[i_(S_(-352766-(-342025)),3251944454827-703662)]}local c=require(B_[i_(S_((25866722566%((-699806+876824)+488177410))%3604316+((-448359+543096)+(822779+-1053172))),9.6768676528892e+14%7741494224581)])local X=require(B_[i_(S_(-213545+203877),(18605000238749-(-586338-117058))-(-347750))])local G=require(B_[i_(S_(-517712+507317),210729+34258877721639)])local v={}local i=F[B_[i_(S_(752094+-760952),(2014361-256435320%1935196)+34711620716569)]][B_[i_(S_(-90234+81298),(-397731+595804)+32306015328228)]][B_[i_(S_(104950+-113988),18177729027927-((-452586+(341773-(-664955)))-24037))]]local B={B_[i_(S_(-911-9325),691141+(379445+30611316368433))],B_[i_(S_(221276-231916),20816125727481-833483)];B_[i_(S_(-886583-(-1235522-(-359554))),33800154363689-(-433605))],B_[i_(S_(857834+-867367),9823334436632-171039)];B_[i_(S_(1004051+-1013776),((45214244%(557199767%9102884)+(426982+-552544))-448293)+15640104884355)];B_[i_(S_(248136457%991012-393171),10294+6078600891701)],B_[i_(S_(-520622+511129),(-919958+143361)+12600720789196)];B_[i_(S_(868156+((-858368+771536)+(-69648+-722424))),30109902170937-(1032499-(-703886+771828)))],B_[i_(S_(-733724-(-335796+-387186)),5100449712139-633899)]}local z={F[B_[i_(S_((1310388-637192)+-683323),-12981+8520444044977)]][B_[i_(S_((-63239+-227716)+281449),888912+162640761945)]];F[B_[i_(S_(752488+(-467559-295332)),21280450368251-521406)]][B_[i_(S_(-1034034-(-641869+-382032)),-29376+(7141685622508-(-169809)))]];F[B_[i_(S_((-1503039-(-857745))-(-212269-625205830%9917198)),50559+(481757+35114554878836))]][B_[i_(S_(-500215-(-490820)),23869787838436-(-684170))]];F[B_[i_(S_(-135147-(-126093)),984957134781-106744)]][B_[i_(S_(-448524-(833623+-1271402)),(-33905+-305224)+19441177470498)]];F[B_[i_(S_((-1535421-(-990885))-(-533819)),27222579645130-(-981531))]][B_[i_(S_(855863-864702),29530820892798-509805)]];F[B_[i_(S_(173982+-183283),14090+(-744935+10235244350058))]][B_[i_(S_(153678+((482928-870044)+224495)),8800686393780-(-546889))]],F[B_[i_(S_((1464516261%9150003+278128)-802974),(-236280+-427271)+33137599181344)]][B_[i_(S_(286936+-296918),561618+9420572097207)]],F[B_[i_(S_(-318129+308831),-874686+(-315845+30693575507052))]][B_[i_(S_(952112-(-71528-(-948624-1004536117%4386246))),-556139+13085128699226)]],F[B_[i_(S_(334454+(-152857-190649)),1946124176241-(-558912))]][B_[i_(S_(-610887-(-601932)),14095230932799-(216484152%1715455+-1245986))]]}local S={B_[i_(S_(1466008982%17038167-736406),967886+21834781798051)],B_[i_(S_(-299347+289016),1993955542898-1804309904%(2539849589%((120562700026%6698125361)%34731992)))];B_[i_(S_(121554+-130378),31408738301796-760828)]}local y={B_[i_(S_(713762-724225),-857454+3948615877317)],B_[i_(S_(-271615-(-262848)),482442+3361853617873)];B_[i_(S_(784116-793537),26359561356857-(-677207))];B_[i_(S_(124912+-135214),285397+16263225796408)];B_[i_(S_((-496255-(-589677))-102911),9497421315632-(1347074-517288))]}local h={B_[i_(S_(96682+-107474),(-978452+25785649649791)-431785)];B_[i_(S_((391958-(-122889-424086))+(((100822-99364)-(-869650))+((-921094-101856)+-796432))),14278470650830-137744)];B_[i_(S_(-798933-(-409420-379008)),10086230735380-(-31361))];B_[i_(S_(646051+((-1808156-(-188964))-(-963742))),5121382480054-(-634622))];B_[i_(S_(-289260-(-1179553-(-900615))),20929559231213-97061)]}local V=require(B_[i_(S_(-1009520-(-998802)),13324522940783-(((925939+-2161742)-(-1007137))-784860))])local function H(E)local N=nil return setmetatable({},{[B_[i_(S_(1317460896%5930143-978828),(1038201+-303825)+(-957809+17436432104438))]]=function(T,b)if N==nil then local T,b=pcall(require,E)N=((T and type(b)==B_[i_(S_(-373484+3770009234%(433594+14952717)),((-541676-(-224050))+23427888102843)-862065)]))and b or false end return N and N[b]or nil end})end local Y=H(B_[i_(S_(501046-510302),-941840+2698471895878)])local J=H(B_[i_(S_(974041-984189),247510+8251622604532)])local k=B_[i_(S_(-793003-(-783743)),22710201300595-(-157889))]local Q={k}local function x()local E,N=pcall(require,B_[i_(S_(801823-812339),64158598419-921192)])if E and(type(N)==B_[i_(S_(1035786-(1691586-646891)),13272648738108-336125)]and type(N[B_[i_(S_(181835+-190984),45195339756303%(32194384894381%619122949493))]])==B_[i_(S_(-79906-(-70947)),32595323815527-(((-1338818-((247689-(767592-228550))-279515))+603000)+-416248))])then local E,T=pcall(function()return core[B_[i_(S_(-804714+((1936401303%9827700+((333541993114-(-83142))%1684608737)%(5335057062%22949987))+-72969)),17854565480396-(-782143))]][B_[i_(S_(893441+-903532),16109214469135-(-90295))]]()end)if E and(type(T)==B_[i_(S_(-518965+509716),19791101874499-854226)]and(type(T[B_[i_(S_(-896318+269473267%9947684),(-966962+((65893070281%2125628217)%14946139-289496))+25497904449585)]])==B_[i_(S_(410647-420839),-577655+31505031614817)]and type(T[B_[i_(S_((706416-1094953814%(9475603-(-125964)))-341162),-339922+21024357929523)]])==B_[i_(S_((404442+((426766+-327934)-501496))-12117),916500+23367605265736)]))then local E,b=N[B_[i_(S_(735191+-745501),18275798627357-(-895817-(-751811)))]](T[B_[i_(S_(245411+-254499),14673031777598-882302)]],T[B_[i_(S_(-937596-(-928311)),-83699+19800552797151)]])if type(E)==B_[i_(S_(183165+-191840),28082172385780-(-864051))]and(type(b)==B_[i_(S_(-835962+((-355852-(-802992))+378553)),16934406025598-1013078)]and(E>3164513408%14127292 and b>(-414633+42265082933%1363692327)%6803510))then return E,b end end end return 2294144300%9558930,301208792%5193244 end local P,q=x()local Z=w[B_[i_(S_(-386382+375749),30136965416636-(-810313+669867337%3086711))]]({[B_[i_(S_(-664195-(-655057)),1426361332%8640874+23072982678898)]]=B_[i_(S_(613398-622615),-741278+34199620566683)],[B_[i_(S_(600270-610237),13964648319406-637409)]]=B_[i_(S_(-117701+(862743-753800)),(((470968-426019)+-802073)+21441023%(805056+(((-653139-(-549654))+(-635428-(-915290-(-1344740-(-593015)))))+6746425)))+18716604010803)],[B_[i_(S_(-629221-(-619819)),-83459+33108354997428)]]=C[B_[i_(S_(-64247-(-54679)),-517259+7866308342191)]];[B_[i_(S_(-484849-(-475760)),779478+31486143852382)]]=C[B_[i_(S_(517713+-526600),733081+14625858657266)]];[B_[i_(S_(-473129-(-237520+-225605)),(-850248+17462906866282)-(-575333))]]=C[B_[i_(S_((-990769-(-15582-232796))+732727),502609+5809502431956)]],[B_[i_(S_(135599+-145472),-463573+18384768361785)]]=B_[i_(S_((((-1747392-(-984700-(-76333)))+61595)-(-1016779))-249740),-995251+28115595843365)];[B_[i_(S_(2513356226%14871895-14822),27822354017204-(-549823))]]={{[B_[i_(S_(727426-737972),522018+1520789624322)]]=B_[i_(S_(952260-961893),-571426+16558293085350)],[B_[i_(S_(6865-17587),12524249201971-467291)]]=B_[i_(S_(836700+-846253),((-777454+630988)-(-800817))+23027972834874)]},{[B_[i_(S_(428171+-436872),361358+24564148104709)]]=B_[i_(S_(245661+-254896),((282730+30693401465968)-(-591258))-687202)],[B_[i_(S_(-712428-(-701897)),14732914287050-2078212190%9400953)]]=B_[i_(S_((-137944+307336)+-178129),16747766375502-(-870811))]},{[B_[i_(S_(425441-434952),28768787240015-(-660760))]]=B_[i_(S_(2511181961%16406678+-970174),4710235041600-432138)];[B_[i_(S_(-334584+324425),600383+21985796870009)]]=B_[i_(S_(398459-408168),-116616+14353710815000)]},{[B_[i_(S_(367354+-377657),-592338+((651305+(1315854-(198905-(30704-1027185450%6002295))))+16175320014253))]]=B_[i_(S_(523598+-532783),-747788+4994438246883)];[B_[i_(S_(475438+(-1051943-(-566270))),6499360382715-389357)]]=B_[i_(S_((930446-296125)+-643132),2419845464244-(-850877+376822432)%8938231)]}};[B_[i_(S_(-450365-(98849+-539128)),859220+((-370008+9048726875419)-568553))]]={[B_[i_(S_(860550+-870556),-429123+11016565130631)]]=P,[B_[i_(S_(-225711+216335),-82955+(6497654608619-(-968573)))]]=q},[B_[i_(S_(((148082-(146818-(-585106)))-341893)+916595),2395307413840-(-571466))]]={[B_[i_(S_(305010-315167),944131+8672634438045)]]=(216914368334%1232519781)%7694381,[B_[i_(S_((1496398-2153082487%17496909)+-543279),802392+14102433158828)]]=956822+-956642},[B_[i_(S_(-207253-(-197895)),406065+12335990141094)]]=B_[i_(S_((42332+-51705)+-1254),50768+(632779+26372503955580))];[B_[i_(S_(-1034958-(928446+-1954475)),-497258+(13536027533104-(-905002)))]]=B_[i_(S_((-82892+-679687)+1866852339%10253299),28159014763232-110704)];[B_[i_(S_((133326-423558)-(-280088)),-342835+2411458801837)]]=745791264%3056521,[B_[i_(S_(332535-(-1031630+1374636)),3333357335035-(939632+((-307473+(-766721+2056561))+(-2820056-(-716814-(-167396))))))]]={{[B_[i_(S_(421495+-430504),969589+20314993804964)]]=B_[i_(S_(((1704430-819498)-(431338-(-162937)))+-300488),(-548180+-284619)+2514276503318)],[B_[i_(S_(29792-39387),16838262047349%1870918550079)]]={B_[i_(S_(213109-222949),402157+32549970100526)];B_[i_(S_(-667081-(-657044)),34757869459656-(-436723))]}}};[B_[i_(S_(359058+-369070),-462551+(-1046241+16564157543758))]]={{[B_[i_(S_(((12244+-394638)+-554087)-(202337+-1129874)),456814+16630317603408)]]=B_[i_(S_(934569-(1159118-(482328+-268659))),194408764%7763345+13826975147735)],[B_[i_(S_(49315-764165296%(6227694-(-1156329-(-681342)))),-1040641+21606397955841)]]=B_[i_(S_(825545-((1054574-(-598741))-(871161-53557))),283161122%3443744+21769931439016)]},{[B_[i_(S_((905741-217428)-698669),-218750+19922766630084)]]=B_[i_(S_(569396-578064),11620335094165-(-305407))],[B_[i_(S_(-776010-(-766169)),-252610+5422273121244)]]=B_[i_(S_(-142881+(106170+26407)),192693+21978845180338)]},{[B_[i_(S_(550289-560893),19176278880239-(-656732))]]=B_[i_(S_((241792-(-638251))+-890786),272987+((-903606+((-281909+(824215+13998947688944))-(-428046)))-664397))],[B_[i_(S_(-1014762-((-663843+-136766)+-203847)),-87738+20035606955743)]]=B_[i_(S_(1008188-1017005),12249438263339-531038)]},{[B_[i_(S_(-646875-(-637182)),22604086744850-(-43042))]]=B_[i_(S_(-776411-(-766357)),7350834483393-(-100276))];[B_[i_(S_(-132294-(-122742)),27974665032997-604733)]]=B_[i_(S_(-158228-(-147838)),(146695+-468577)+3842796421250)]},{[B_[i_(S_(-618868-(-609920)),14792521919908-893520)]]=B_[i_(S_((-879341-(-84133))+784394),-791503+12305616695143)];[B_[i_(S_(723912-733528),16991429909561-(-573898-(-430389)))]]=B_[i_(S_(-744966-(246803-982110)),889469+10348257110169)]}}})Z:checkbox(B_[i_(S_((-688216-206492)+(610171-(-274445))),534067+7976111671023)],false,{[B_[i_(S_(929319-939872),24585688697677-1038675)]]=B_[i_(S_((-1142052-(-791926))-(-341330)),22133856531052-(-457034))];[B_[i_(S_(-882995-(-872919)),-323875+23138346111976)]]=B_[i_(S_(-68069+58324),(-715044+33026864336400)-(-470587))];[B_[i_(S_((-1221700-(-716127))+496827),-702062+31570672416727)]]=true,[B_[i_(S_(-298540-(-288007)),(-108131-781426)+(4063247868931-230979))]]=B_[i_(S_(622946-(1271466-638396)),603983+25964726933255)]})Z:checkbox(B_[i_(S_(-295280-(-284480)),1594742546776-(-893763))],true,{[B_[i_(S_((-364151-(-800317))-446978),(922319+15271645885504)-(-163394))]]=B_[i_(S_(-159919-(-149466)),24993000453223-(-182257))],[B_[i_(S_(-859072-(-849665)),-968881+6304694352884)]]=B_[i_(S_(-677966+667828),(13090289240550-(-358362))-683807)];[B_[i_(S_((160311+-234498)+63817),(-217245+-559142)+10357386500936)]]=B_[i_(S_(-814398-(-1729209-(-923494))),1466142699272-883885)]})Z:checkbox(B_[i_(S_(649205+(337852-(1700694-703609))),12483131212170-521847)],true,{[B_[i_(S_((864526+-805339)-69544),16029681220807-(-1342884-(-665366)))]]=B_[i_(S_((-585642+1207389)+(-506867-124323)),733654+2474714149879)];[B_[i_(S_(-621880+611967),22810429170458-(-300383))]]=B_[i_(S_(-841869-(-831459)),-199330+20156301939610)],[B_[i_(S_(-48248-(-39023)),30180716156693-(-932583))]]=B_[i_(S_(-84487+75710),-736608+29600625090830)]})Z:checkbox(B_[i_(S_(857853-(-742431+((-719337+1380082)-(-950393)))),10985113174843-(-419022))],true,{[B_[i_(S_(607345-618173),44801895729620%3200136053386)]]=B_[i_(S_(780961+(984780+-1775107)),-431764+14931016196353)],[B_[i_(S_(((475934-1017561)-8267)-(-541045)),20316509923403-(-317255))]]=B_[i_(S_(-277219-(-267129)),17705+16717041899697)],[B_[i_(S_(-284205-(-274624)),2051407517004-(-923949))]]=B_[i_(S_(-1046902+1037025),(-864213+19791965594340)-30728436%641163)]})Z:checkbox(B_[i_(S_(-213751-(-203883)),(564553-(419075+143303669%1335450))+3020898062019)],false,{[B_[i_(S_(-125259-(696859+-811641)),21266042707311-982859)]]=B_[i_(S_(710792-(872245+-152019)),(11091724280311-153246)-(-844821))];[B_[i_(S_(((149173-(-479591))+-137922)+-501635),17400166632596-(-288602))]]=B_[i_(S_(26408+(489806+(-381773+-144799))),-931326+22729914074653)];[B_[i_(S_(122934-131814),28804063290622-402384)]]=B_[i_(S_(-252477-(971727+-1215410)),-593371+(512678+(34442968990261-(-72616))))]})Z:checkbox(B_[i_(S_(-164037-(-155037)),13684564246108-(-141920+-740252))],false,{[B_[i_(S_(488078+(174255-(906920+-235043))),486026+29046822615579)]]=B_[i_(S_(((-747365-853953)-(288746+-889630))+990672),7936683939359-669252)],[B_[i_(S_(-449021+438799),(197271-303277)+5487387965118)]]=B_[i_(S_(-934828+925744),2467916065008-(-354496))],[B_[i_(S_(431116-440245),33362197462057-(-16556))]]=B_[i_(S_(-57436+(-985772+1032806)),22237176926850-(529503+369927))]})Z:combobox(B_[i_(S_(423657+-434433),33735296799898-346195)],1054538078%(693943+13751784),B,{[B_[i_(S_(-53022+42263),22820772306075-723657)]]=B_[i_(S_(-596227+585533),14043003168469-128938)];[B_[i_(S_(-183576+174267),1213354432%8665742+26057005944778)]]=B_[i_(S_(269302+-279415),(-544272+549862)+29775137890682)]})Z:combobox(B_[i_(S_((58176+-760259)-(-691265)),((142999-(-544632))+-1732648)+18060984730289)],(951794+(1321049032-694951))%13482713,S,{[B_[i_(S_((430621+-1346755)+1036825429%4177097),308075+9127296369150)]]=B_[i_(S_(-73611-(-63939)),-319069+(32535750199652-(-843377+-203994)))],[B_[i_(S_(-208286-(-198956)),(803611+-1335218)+30219874076146)]]=true,[B_[i_(S_(480653-491269),35138891126139-286020)]]=B_[i_(S_(-47928-(-37123)),6150966920835-(-787499+691443))]})Z:checkbox(B_[i_(S_((262063785%1773738-499284)-834700),32733502457238-((1362394-528917)-3023006109%(3734528341%27547769)))],true,{[B_[i_(S_(268500-277286),18996594243546-770171)]]=true;[B_[i_(S_(-954356+945229),-269926+20108286097896)]]=B_[i_(S_(368201376%1641720+(-271791+(-1206328-(-1012702)))),223402+5108669899516)],[B_[i_(S_(650043-659309),(328060+(574889+330508900)%(2360408896%(-565011+28804228)))+18246324075501)]]=B_[i_(S_(1046976+-1056379),(992542+-1209506)+(30254528189142-(-249260)))];[B_[i_(S_(535900-545505),-56280+14867304142328)]]=B_[i_(S_(966396+-976399),4984+26042952901199)]})Z:combobox(B_[i_(S_(-164349-(-154331)),33210033018973-((629802-759380)+346572))],-396625+(-40923-(-437549)),V[B_[i_(S_(985210+-995112),29047560493073%764409872200)]],{[B_[i_(S_(((353402+441727)+-1786826)-(-981567)),-988126+((27615301646151-(-85378))-801586))]]=B_[i_(S_(-829830-(-553010+-266759)),915344+32821804363149)];[B_[i_(S_(190636+(604669+(-1787087-(-713170+(-575093-(-306128)))))),510221+17939787322788)]]=B_[i_(S_((-458203-((987073+-1578541)+((((1027852+-514282)+-921712)+-168246)+1595584)))+875553),(-893074-(-1019379-(-934079)))+9.4860768133451e+14%29643990536196)];[B_[i_(S_(((-1046584+486071)+995476)+-445411),108691+((730941+-881160)+(310023+18837911342214)))]]=true;[B_[i_(S_(-219871+((4498636123503%78923508491)%515906085)%(856914114%12092311)),-60105+34511241873559)]]=B_[i_(S_(((426489+-1122842)-(-597329+458567823%9355027))-(-260603)),30254266014562-12310)]})Z:combobox(B_[i_(S_(-865682-(-856034)),177937+26927173092385)],(-52420+3099191657)%(15229510-(-344054)),Q,{[B_[i_(S_((928491-534080)+(705825+-1110883)),148624+18132734812723)]]=B_[i_(S_(864564-875296),-869448+26860849411542)],[B_[i_(S_(373367+-382858),2353655790978-42422)]]=B_[i_(S_(985389-994440),-932367+28290197144788)];[B_[i_(S_(-285255+276267),2398138204%15268583+32093244595706)]]=true,[B_[i_(S_(1598018218%(2226923433%14560972)+-311779),198610+22332719261209)]]=B_[i_(S_(560478-569604),-143468+5278716778634)]})Z:checkbox(B_[i_(S_((11323337565%755048387)%(-935435+2720982913%15967993)+-722289),12839523243532-(-216933))],false,{[B_[i_(S_((-935998-(-152179))+774092),20882924491845-76005)]]=B_[i_(S_(725801+-735188),26959545996945-255322)],[B_[i_(S_(159543-168786),-891099+7694018162844)]]=B_[i_(S_(932487-942810),-698783+24026541335854)];[B_[i_(S_(291167+(922090+-1222268)),(-499511+34192171455663)-(-1195565-(-586257)))]]=B_[i_(S_(984936-715643765%6871634),34683274840451-((116567-219163)+451260))]})Z:checkbox(B_[i_(S_((-1149296-(-549565))+590567),-234710+(29406249432381-129912))],false,{[B_[i_(S_(-573320+563494),2.99796333933e+15%13944015577327)]]=B_[i_(S_(329721+((590763-133642)-(1035254+-239085))),-940847+7478609689760)],[B_[i_(S_((635098+-1222289)-(-576723)),13499116125943-(-515744))]]=B_[i_(S_(((-1152270-(-135246))+-21764)+1029546),832905+29777396209855)];[B_[i_(S_(-192083+183246),(-774444-(-184883))+28571773445331)]]=B_[i_(S_(607092-616506),463354+(13371227874317-627936))]})Z:checkbox(B_[i_(S_(712435+-722503),-652636+25632102464797)],true,{[B_[i_(S_(-207644-(-197822)),-739530+(864912+25149070253931))]]=B_[i_(S_(-310144-(-300739)),-202429+11244974974987)],[B_[i_(S_(774641+-784950),-1022257+17036251626329)]]=B_[i_(S_((104830+-596592)-(-700123-(-217530))),162878+21199743527832)],[B_[i_(S_(877694+-887877),(((-1621921-(-989912))-(-377004))+((-1000960+34296535801546)-220242))-624986)]]=B_[i_(S_(653975-664393),5927820797856-(-129549))]})Z:checkbox(B_[i_(S_(-713301+702783),7206519929009%38744815952)],true,{[B_[i_(S_(-479372+470195),24457680835861-(-148201))]]=B_[i_(S_(860012-869525),(426483+6992120511590)-(-917120))],[B_[i_(S_(584065+-594036),676029+35106408087921)]]=B_[i_(S_(-39581+29787),814201+16380988522805)],[B_[i_(S_(-1004634+993882),14100895638219-(-386834))]]=B_[i_(S_((72055+(-686771+63717))-(41126+-583102)),14967567249992-330794)]})Z:checkbox(B_[i_(S_(463677173%5259150-881096),-816746+11360821166130)],true,{[B_[i_(S_(-236345-(-226409)),24258806901950-(-553581))]]=B_[i_(S_(10638-19400),773486+4725217779155)],[B_[i_(S_(-294201-(-283539)),(-755965+33361556792%131355852)%(657966517%6440781)+(9372241567018-484531))]]=B_[i_(S_(-384292-(-374340)),(330798+(275308-646388))+25623198067119)];[B_[i_(S_(2039006123%12136436-94805),(-1019217+10228601862739)-(-499594+458686))]]=B_[i_(S_(-212020-(-1245628-(-1043352))),-475890+32262807802009)]})Z:checkbox(B_[i_(S_(281918+-291057),-766128+11568372190827)],true,{[B_[i_(S_(-414084-(-404009)),(12718991962385-(-10230-(-1022195)))-707331)]]=B_[i_(S_(236500+(-783857+536659)),81445685642096%16289139769333)],[B_[i_(S_(1678667615%6713471+(122807-432274)),129005+(29536110403364-(-630229)))]]=B_[i_(S_(-118360+108811),32954857189299-(-400036))],[B_[i_(S_(-35537+26327),((420623+494244)+((607841+-2300238)-(-1026471-(-853375))))+19591056466297)]]=B_[i_(S_(-440289-(-431144)),(-563249+-380284)+15973842822199)]})local function I()local E=Z:get(B_[i_(S_(829384+-839831),((973699-155894)-456963)+21366425214688)])return E==true end Z:slider_int(B_[i_(S_((758306110-(-269873))%((-94321+9783944)-(-24830))+(-1384098-(-525196))),2982211913615-434948)],523917470%5694755,(123980+(128197+-490229))+238142,127809-127759,{[B_[i_(S_(-678618-(-669907)),1.7535182279988e+14%(2.441179392088e+14%3438280969465))]]=B_[i_(S_(-857685+(399619685-278849)%5044202),-155646+25835890216705)],[B_[i_(S_(-676967+667594),6392951723965-371796)]]=B_[i_(S_(-446027+437212),31073851132773-848171)],[B_[i_(S_(144980-155105),33609519757829-(-1408838-(-1009000)))]]=I;[B_[i_(S_(-178072-(-168152)),((-995637+28853378814503)-(-106045))-464219)]]=B_[i_(S_(211538693%1757430-657644),1014597+210796403930)]})Z:slider_int(B_[i_(S_(-1004038-(-993754)),762014856954-144468)],566648-566638,(-232324-(-574249))+(466724+-808559),(-28744-(-502953))+-474159,{[B_[i_(S_(306012+(321328+-637603)),795326+7641848265477)]]=B_[i_(S_((-1599505-((-677050+563748)-773749))-(-702126)),34147768293122-705254)];[B_[i_(S_(-999153-(-988584)),6324670084234-1018628)]]=B_[i_(S_(168918-178005),27624652943193-(-681522))],[B_[i_(S_((-792410-(-608261))+174585),9541738359501-(-752430))]]=I;[B_[i_(S_(863011-873028),5138867982397-723821)]]=B_[i_(S_(782749+-792092),201216+34852872487673)]})Z:checkbox(B_[i_(S_((-87340+-308243)+386849),77265+(24200134273847-(1159754-509909)))],true,{[B_[i_(S_((447589+23156)-480578),-505061+14098600237251)]]=B_[i_(S_(7782-(320951+-304070)),368995+24625330226171)];[B_[i_(S_((-13161+11012)+-7119),(-254078+16103955343308)-(-95469))]]=B_[i_(S_(-598322-(-589563)),935534+3026631119538)]})Z:slider_int(B_[i_(S_(-319837+(1180915-870534)),9158070626333-917503)],1815672001%8944197,770720+-770660,958924309%3962497,{[B_[i_(S_((-1016164+3487343666%16682994)+(165472+243542)),245956308929-(-874461))]]=B_[i_(S_(-790726+781730),13565793935296-75725)],[B_[i_(S_((-520296-370618)-(-881440)),855005+32597204694762)]]=B_[i_(S_(-97708-(-86931)),(-617221+967549)+8290732611682)]})Z:slider_int(B_[i_(S_(-81058-((-208063-349266)+486626)),864795+4367908408883)],1943431477%11233350-1138508435%(5365875-(-606563+308525)),52039858%6504976,-299198+299218,{[B_[i_(S_(-562704+553457),192016+(-678331+13082912058079))]]=B_[i_(S_(272265+-281015),922312+16027924896033)];[B_[i_(S_(-421943-(-411429)),1.9648419281242e+14%4465550202903)]]=B_[i_(S_(-204916-(-194800)),63491+27971454844293)]})Z:checkbox(B_[i_(S_(-922140+913459),-579777+26173069193766)],false,{[B_[i_(S_(-855252+845610),-945567+9266484192809)]]=B_[i_(S_(953507+-964280),(31200848319533-1659503129%11286004)-620637)];[B_[i_(S_(93181-103204),((16057960046970-(128023+141512))-1044947)-607945)]]=B_[i_(S_(115658+-124428),715892+11569638506760)],[B_[i_(S_((545320+(((((-273740-380651)+-364278)+1684515)+176692)+-1053595))-344787),8509278659434-(-671748))]]=true})Z:slider_int(B_[i_(S_(-792432+782053),489742+(18089876930695-53086))],659791839%6053136,726685230%9316475,-30958+(-44529-(-292381+216834)),{[B_[i_(S_(199536-210343),(549431+459728)+20084038276121)]]=B_[i_(S_(736892-746014),929216+33355443215512)];[B_[i_(S_(723293-733254),512814+(7577547441799-795369))]]=B_[i_(S_(35988-((717908-(801764-511006))+-382083)),(1673663909842-819674)-485670)];[B_[i_(S_(-867319-(-856658)),(1215345-905349)+((13364930766852-(-707584))-580731))]]=true})Z:checkbox(B_[i_(S_(((-1082629-(-915400))-((-1168117-(-227304))+(-500654-(-66452+-876149))))+(-281448-59513)),27278153196087-(-1062785-(-449352)))],true,{[B_[i_(S_(67919-78185),559604+(26358163410093-553131))]]=B_[i_(S_(-168247-(460119-618548)),-858219+((18380837944268-(-859186))-(-68215+-501040)))];[B_[i_(S_((129495-(-36520-(-984502)))+809744),15307828078942-959068)]]=B_[i_(S_(-917091+906342),-39767+10778084378299)],[B_[i_(S_(383432-392330),27262973978303-(-697069))]]=true})Z:slider_int(B_[i_(S_(((((-1516333-(-1264569-(-733660)))+-395324)-(-898478+(767025+(658263+-948966))))-(-68241))-(-464525+-416920)),27576+17373455590823)],(892194+126407)-1018581,1928983562%9273959,54151-54081,{[B_[i_(S_(1022929+-1033344),7839606067808-(-999196))]]=B_[i_(S_(474304+(((541382+512206)-496622)+-1039989)),(3452692518760-(-203524))-((768113+-357431)-(-590094)))],[B_[i_(S_(136100-145724),289770354%1523647+14699215816909)]]=B_[i_(S_(142843797%2959807-782474),28902330113690-(-1208075-(-676955-(-258747))))],[B_[i_(S_(842687-853503),7370099529160-(-915176))]]=true})Z:slider_int(B_[i_(S_((618976-117026)-510974),-1033430+2479470420057)],-945877+(832933-(-112954)),((757118+-1772337)+350340)-(-664939),1084584302%12466486,{[B_[i_(S_(-59000+49034),22998182474248-(-288593-666300))]]=B_[i_(S_(374393+-383186),-727372+6102634669028)];[B_[i_(S_(910212+-920202),-736455+26421819446897)]]=B_[i_(S_(490972-1625904317%12221081),26856366860906-(-566155))];[B_[i_(S_(749385+-759539),34945268944998-(-340769))]]=true,[B_[i_(S_(631797-641085),824487985765-((-224325-843788)-(-586859)))]]=B_[i_(S_(680178+-688895),(99728+-792382)+8736427068588)]})Z:slider_int(B_[i_(S_((385693+-835517)-(-440364)),2788311187%13801598+((23484972988760-755763)-(-202856)))],990183-(((864005+-325576)+101342)+350402),695114-695034,189582+-189552,{[B_[i_(S_(-168595-(-158783)),537863+3512989076544)]]=B_[i_(S_(305522+-315453),1952917635%15875973+5347907548177)],[B_[i_(S_(-1040834-(-1031032)),34348915737485-39831)]]=B_[i_(S_(653495-663197),(25082676169707-702146)-(-439699))],[B_[i_(S_((489287+-340570)+-158218),23465234952960-(-689046-16005))]]=true})Z:checkbox(B_[i_(S_(-116398-(-106529)),23365885893251-34859)],false,{[B_[i_(S_(2229116347%9861195+-496189),891202+15430221158409)]]=B_[i_(S_(472883-(381679+752985202)%(10657258-750883)),28087131510091-804885)];[B_[i_(S_(-189360-(-180317)),-139802+19576451052226)]]=B_[i_(S_(-192088+3544051720%16716369),-836517+34921981923251)],[B_[i_(S_(((-252423+-930332)-(-631189))+542853),190676+28229327085201)]]=true;[B_[i_(S_(1013807-1022917),-819040+26818776708409)]]=B_[i_(S_(-539219+528912),31711633085533-934081)]})Z:checkbox(B_[i_(S_(-336800-(-326968)),34132665241939-(-479427))],false,{[B_[i_(S_(-413188+403991),28937276525637-(-11209))]]=B_[i_(S_(131084-67635404%655286),((662043+((440901+-1173275)+-266281))+(((((414749+(331033+-894682))-672018)+24231692681186)-(-283061))-(-360909)))-(-960221))];[B_[i_(S_(-357928-(403015+-750130)),16633871907661-(-323091-564491))]]=B_[i_(S_(43469-52322),-510653+17320101373833)],[B_[i_(S_(696508+-706351),15780318957918-(-987108))]]=true,[B_[i_(S_(279081-289178),23646989392159-(-139554+-481594))]]=B_[i_(S_(260353+-269324),400928+6970345113265)]})Z:checkbox(B_[i_(S_(-97128+86249),-643672+23065158173245)],true,{[B_[i_(S_(-667284+656502),216438+14893142014640)]]=B_[i_(S_(458628+-469252),-1024811+31028946951085)];[B_[i_(S_(-668125-(-659148)),-846255+13425609636437)]]=B_[i_(S_(598568+(955700+-1563890)),4772095189037-381748)];[B_[i_(S_(277157+-286748),459861+13080380689430)]]=true,[B_[i_(S_(235534-244727),733848+15861695256252)]]=B_[i_(S_(-490150-(-479932)),18316364692341-(407616-(-58851)))]})Z:checkbox(B_[i_(S_(85835+((-905485+409168)+400529)),28749306278540-1000460)],true,{[B_[i_(S_(337180+(-1072278-((471548+-1410989)+213293))),-181504+13440722690372)]]=B_[i_(S_(203491-((-1592943-(-640187))+1165512)),7715501917997-(-395471))],[B_[i_(S_((815865+((-614922-78187)+-642712))-(-511093)),927619+27177407049837)]]=B_[i_(S_((((369350+(270107+-1204914))+-255368)-(-227649))-(-584062)),175744+10822265627336)];[B_[i_(S_(545488+-556155),((787648+251784)+(23621943043308-(-549508)))-(-304470))]]=true})Z:checkbox(B_[i_(S_(921468+-931516),(813417+10036783765093)-(-622288))],true,{[B_[i_(S_(-990166-(331286+-1312155)),(237021+841039316%((551088739-(-765677))%(1008820+3751438)))+(9195382163725-(-425230)))]]=B_[i_(S_(505148+-514197),(-426883+-411633)+8191668141368)];[B_[i_(S_(757939+(-691738+(-687110-(-611221)))),719956+31558960510073)]]=B_[i_(S_(69655+(-935737+856165)),555722+22557296030610)];[B_[i_(S_(836676-(1615213-768161)),2354722677%((13277522-(-58614))-(-191681))+10789547639707)]]=B_[i_(S_(921361-55513546%974676),341773+2084997033720)]})Z:checkbox(B_[i_(S_(-606395-(-597573)),19044767471590-1431490877%(16257505-(1038320+-1228892)))],true,{[B_[i_(S_(389737+-400023),140231016430-(-316585))]]=B_[i_(S_(136801-146374),813776+23700945937022)];[B_[i_(S_(10130-18850),953596+15188531825102)]]=B_[i_(S_(531804+-541547),245804+5441321110554)],[B_[i_(S_(((513713+((-146566-(-3658))+649118))-650491)+-379987),-868089+29515458770454)]]=B_[i_(S_(-932447+923095),526104+32878588538768)]})Z:checkbox(B_[i_(S_(1040217953%6933615-184943),7839016355613-(-809566))],true,{[B_[i_(S_(-326242-(-316529)),(-107939-832022)+1302672583106)]]=B_[i_(S_(28720-38925),14943877118874-(-708637-(186453+-273072)))];[B_[i_(S_(103587+-113728),818481+4849604046834)]]=B_[i_(S_((-1022316-(-46284))+966183),-694632+33743833172413)];[B_[i_(S_(250356-259865),1023833+7193385491671)]]=B_[i_(S_(-294709+2561293179%14803516),117707+(18156070083012-99662))]})Z:checkbox(B_[i_(S_(805629-816309),(-76829-228468)+12864470686481)],true,{[B_[i_(S_(-608014+597185),31981875020832-872059)]]=B_[i_(S_(((-408007+171530)+-331614)-(-559212)),583078+161741656500)];[B_[i_(S_(1010548+-1019803),815655+5499521941984)]]=B_[i_(S_((-120758-373748)-(-485794)),1336774022005-378001)];[B_[i_(S_(740859+-750694),24910304514512-(-252274))]]=B_[i_(S_(353701165%12614302+-511443),((529609686%2068298-751689)+26684940033875)-(-1005327))]})Z:checkbox(B_[i_(S_(-707065-(-697531)),660135+(18862898647966-553242))],true,{[B_[i_(S_(-862349+852734),302640+2019085122094)]]=B_[i_(S_(-127607+116851),-16665+4833142453704)];[B_[i_(S_(-698797+688550),1810083613841-(-264191))]]=B_[i_(S_(792586-801832),(884980+19525129653239)-1025580)]})Z:checkbox(B_[i_(S_(555526-566295),-331959+7727032514418)],true,{[B_[i_(S_(550371-559290),11736158052359-347779)]]=B_[i_(S_(922740+-931664),(26854395423151-899468)-259093)];[B_[i_(S_((325500-(-664875))+-999717),14815580129462-(-311273))]]=B_[i_(S_((-792881+1640510)-858268),11496082232681-508418)]})Z:checkbox(B_[i_(S_(2124-12766),(-890347+-142437)+17501715042674)],false,{[B_[i_(S_(-692640-(-683252)),25115658822670-(-220870))]]=B_[i_(S_(194292+-204665),272737+8602849320819)],[B_[i_(S_(207031-216931),344006+24835949709624)]]=B_[i_(S_(-871000-(-862007)),829607+14895800352884)];[B_[i_(S_((723858-573824)-160516),574196+(238671+19618688879126))]]=B_[i_(S_(-906417+896700),6136733678054-(179981+-1207287))]})Z:checkbox(B_[i_(S_(-830136-(-820420)),31344791605736-(-685070))],false,{[B_[i_(S_((-666079+642687)+14012),352524+(3746034346048-(-1684956-(-917651))))]]=B_[i_(S_(611064+(-698182+(-125535-(-203350)))),21782396756186-185495)],[B_[i_(S_(-728387-(-718404)),27515786731222-(-809319-(-628267)))]]=B_[i_(S_(728390-737320),880693+((16194684608601-(-400263))-691124))];[B_[i_(S_((-441720+572266)-141209),34672018040416-540500)]]=B_[i_(S_(283613-293287),9970935915096-167920)]})Z:checkbox(B_[i_(S_(((612958-(-230968))+-1573386)+719814),6968017955309-254156)],true,{[B_[i_(S_(((-58823-(-342685))+734535)+-1027513),787587+33892180147946)]]=B_[i_(S_(420228879%(1613850-((-666659-(-773965))+(-787610-(-385409))))-315368),-374577+(28143560219622-232287))];[B_[i_(S_((687629+-1489727)+792531),31246580452917-524468)]]=B_[i_(S_(780317+-790600),-57156+(-553291+15546089350270))];[B_[i_(S_(244529-984667136%(718390+(-176707+4666856))),12256027253349-(783520-1221206866%5107659))]]=B_[i_(S_(-985549-((-2348304-(-853788))-(-518467))),30153869039522-577051287%8473714)]})Z:slider_int(B_[i_(S_(-1010651+1000831),5248040063247-(-385006))],-225449+225449,38954371%((220651718614%3677801849)%(3212922532%25790777)),291673200%1666704,{[B_[i_(S_(23049+(-898886+865752)),93776441398635%9377645229787)]]=B_[i_(S_(655158-(-463568+(1372277-243619))),(29473586620430-(-701328))-(-814034))],[B_[i_(S_(-347142+337476),24519560232576-304035)]]=B_[i_(S_((330333+138049)-478287),7752450728088-335732)],[B_[i_(S_(306880+-315946),32741055989916-(917478+-1504111))]]=B_[i_(S_(1017098-1025895),(29600330577505-360806)-(-1016900))]})Z:slider_int(B_[i_(S_(-904389-(-893583)),(-15454+34332296570475)-580405)],(1141092989-(-70280-347352))%4584380,184101-((-748853-(-830298))-(-102646)),-160413+160414,{[B_[i_(S_(-536408+526790),(876972+17227598237490)-1004616)]]=B_[i_(S_(-879661-(-870244)),15526074166252-766831)];[B_[i_(S_(758582+-769274),(718031+10190268312736)-(-327629))]]=B_[i_(S_(496537-505637),19419981366324-357119)],[B_[i_(S_(887828-898225),(803860-209341)+14782734094089)]]=B_[i_(S_(444319-453016),19786231547985-(-886066))]})Z:checkbox(B_[i_(S_(964361-973116),26131482030497-(-1305666-(-1046843)))],true,{[B_[i_(S_((1037415-279595)+-768221),-376640+((573404+10848503883368)-311445))]]=B_[i_(S_(-164344+155332),570357+34031147413835)],[B_[i_(S_(963319-973038),280385+19596724243678)]]=B_[i_(S_(1005370+-1014810),10277888088058-298376)],[B_[i_(S_(-564809-(-554570)),-147916+28487826955850)]]=B_[i_(S_((-240616+-205908)-(-436529)),27501945203560-(-438360))]})Z:slider_int(B_[i_(S_(816364+(102749-928828)),-1019697+10869884235305)],-736250-(-736255),(-162874+(-882898+964512))+81310,888240187%5018306,{[B_[i_(S_(-275962-(1046377+-1313442)),172600+12875892469627)]]=B_[i_(S_(498689-507578),3254221792032-(-321714))],[B_[i_(S_((326444-((-590358+-405693)-(-711439)))+(966108+-1587143)),-779233+22245291269310)]]=B_[i_(S_(252197-((-260024-(-67764-377892))+76311)),11337272631672-(700970152-666137)%3348110)]})Z:button(B_[i_(S_(810933-819886),4826961499502-110363)],{[B_[i_(S_((1045798+((-475277+-466108)-(-631601)))+-746589),(1137546-329645)+11744641662499)]]=B_[i_(S_(-614769+1936785635%9398940),(-903813-((-1627738-205269)-(-813227)))+946474558452)],[B_[i_(S_(663599-674078),16252627271838-922923)]]=B_[i_(S_(-437415-(-426617)),-212235+29093158560475)],[B_[i_(S_(-518459-(-509377)),(2245791035535-(-270020))-43612)]]=B_[i_(S_(((964771-700296)-(454927-(-14699+-321785)))+516088),180419+29103985028617)],[B_[i_(S_(((304153+(-10952+-1207699))+(524506-289089))-(-668676)),-467254+(4237707402526-28244))]]=function()local E,N=pcall(function()return package[B_[i_(S_((293085+-635375)-((-135611-237233)-(541325-581243))),(357398+18999440346431)-2401234168%(14648132-188374))]][B_[i_(S_(-220457-(-211607)),((-364552-(-524680))+3.292959443227e+14%2677202845446)-970796)]]end)if E and(type(N)==B_[i_(S_(267934-278184),-766452+1891006032650)]and type(N[B_[i_(S_(93052+-103285),927535625%4313957+33809396465925)]])==B_[i_(S_((467157+1978685097)%15334929-956891),19244262347898-(-721484))])then N[B_[i_(S_(((1034725+(-1573425-(-634044+1405025)))-(-516802))+(1190003-407596)),34051687454946-83347)]](B_[i_(S_(184610+-194663),20891739513129-(-615294))])end end})Z:button(B_[i_(S_(796765-806173),-797388+28113522495028)],{[B_[i_(S_(((67181+-1078825)-(-193029))-(-809022)),-785118+((400500-569892)+21955405374654))]]=B_[i_(S_(1008701+-1018743),(28793374589533-(-196095))-(-605300))];[B_[i_(S_(269982+-280061),667226402%9799169+21593030240454)]]=B_[i_(S_(-528546-(-519711)),-290353+(946641+14001543868405))];[B_[i_(S_(941292+-951572),-302543+18379253016008)]]=B_[i_(S_(-562295+(505074+46747)),(20318933367270-(1178+-1049070))-90363)],[B_[i_(S_(-104810+94743),(-136175+(5205903820973-(-486087)))-(-617387))]]=function()local E,N=pcall(function()return package[B_[i_(S_(700494055%((391610+39781)+(11166395-128549))-879880),-484910+30045492410785)]][B_[i_(S_(130031-139014),23939850728947-(-899724))]]end)if E and(type(N)==B_[i_(S_(706095-714766),-982554+13459227276074)]and type(N[B_[i_(S_(-533547-(-524456)),(-929509+29864942989481)-1037284)]])==B_[i_(S_((-981332-19961)+992040),20369929921803-527410)])then N[B_[i_(S_(377152342%((599500+1862416)-63548)-619016),-995461+8520362528284)]](B_[i_(S_(340162+(-433580+83263)),103130+8225805226552)])end end})Z:checkbox(B_[i_(S_(-574233-(-563675)),910747+17710367413647)],true,{[B_[i_(S_(-222224+212005),17754124453202-(-447217+238269286%8809716))]]=B_[i_(S_(94279-104873),19585018461510-699428)],[B_[i_(S_(-650567+641697),-237269+2610853288951)]]=B_[i_(S_(-119563-(-109577)),5584266933056-(-228012))]})Z:add_popup({[B_[i_(S_(858976-867937),23354184695498-41530)]]=B_[i_(S_(890836+-899564),(-313570+20494612646538)-(-837417))],[B_[i_(S_(-11997+1776),-209266+17121113066795)]]=B_[i_(S_(-904053+893775),(526750+(14276374476374-(-852441)))-(-784856))];[B_[i_(S_(572595-582030),218573+4830404085769)]]=B_[i_(S_(-704162+695029),1793+18597266148821)];[B_[i_(S_(-125867-(-115502)),24151067368297-(-134587))]]=-743303-(-743763),[B_[i_(S_(723726-732937),845398+16240454456938)]]=(926101-488869)+(616473+-1052985);[B_[i_(S_((-148400-(-769264))-631353),(-139343+-266922)+(((37489007469%((353790+261340106)-(-533013)))%3030084-(-682686+(2276721-718771)))+(28769670783206-(-510514))))]]=(189959-(-3938))-(1235350-1042323),[B_[i_(S_(526965-1264070934%14523382),(436570116%4499754+-616707)+22306878639695)]]=244306390%14370962,[B_[i_(S_(114415-123601),837032+8256702667890)]]=function()v[B_[i_(S_((-625225+-166146)+782618),-920334+27131849865594)]](true)end})Z:add_popup({[B_[i_(S_(741489-(-79961+831191)),2.4681927287515e+14%(-849080+11753300004107))]]=B_[i_(S_(654294-664718),(20104299135278-(-541566))-(-461003))];[B_[i_(S_((-336907+(-326705-((121251-(-70282))-532701)))-(-313196)),14916236703946-(-405985))]]=B_[i_(S_(-483222-(-472981)),12349956708558-(-47839))];[B_[i_(S_(611207+((109694+-1116777)+1745216736%16777220)),(1937098-1023654)+33242147368370)]]=B_[i_(S_(260271-270536),32044155169611-1015783667%(-689938+10741417))],[B_[i_(S_(-145054+(39900+95401)),398948+(3738410758928-(-934243)))]]=925523+-925083,[B_[i_(S_((-506834-(-133933))+363627),((-653355+-537710)-(-607885))+19999204557467)]]=94165-93685;[B_[i_(S_(-222782-(-211938)),-599741+32301005607499)]]=-917911-(-918781),[B_[i_(S_(-423329-(-412846)),(494236+-965920)+((5571715319218-(-351157))-(-227641)))]]=(23460-(-460803))-(1082293-((165607+651037)+-218538))})local function g()local E,N=pcall(function()return Z:player_class()end)return E and N==F[B_[i_(S_(326015+-336374),17930409418390-317215)]][B_[i_(S_(974569+-983416),949938+21948995588913)]]end Z:checkbox(B_[i_(S_(11785+-20765),650967+6742959791121)],false,{[B_[i_(S_(896845+-905752),21359874345272-2962)]]=B_[i_(S_(-332002-((117251+-58871)+-381003)),13720247969436-385717)],[B_[i_(S_(743101-753838),310973+8139786353116)]]=B_[i_(S_((929470+-1533978)+594323),649283+19464295117873)];[B_[i_(S_(-828678+819673),6065358924227-(-833581))]]=g;[B_[i_(S_(-716691-(89904-((-66257+152310)-(-711827)))),20960948296533-(-426911))]]=B_[i_(S_(275933+-286053),8.1512284069794e+14%(776197+5993549555596))]})Z:checkbox(B_[i_(S_(407449-418005),3961862099386-(-314063))],true,{[B_[i_(S_(-686437-(-675934)),16507239279676-(290937+-621381))]]=B_[i_(S_(666958-676093),13320685501220-51320)];[B_[i_(S_(627438+-637729),21182602926823-109079)]]=B_[i_(S_(562164+-572996),990444+21621466933765)];[B_[i_(S_((-819259-(-1010063+59724))-140021),17387506118064-39812)]]=B_[i_(S_(-854312+694333911%15075834),910402+13553358414902)]})Z:checkbox(B_[i_(S_(326239+-336357),664071+20045041127347)],true,{[B_[i_(S_((-1117610-(-189609))-(-917657)),-183850+19699637809610)]]=B_[i_(S_(404899651%(772063+8203843)-992681),8469562242111-397843)],[B_[i_(S_(-753260+1268415032%6306828),780676+15192969670471)]]=B_[i_(S_((1738745-719726)+((-939819-(-468240))-557310)),28399+685164200168)];[B_[i_(S_(344953+-355607),22550715486555-42733)]]=B_[i_(S_(-492513-(-482584)),4003952306656-(-50481))]})Z:checkbox(B_[i_(S_(-271002-(-943885+1348651419%((748941+3447126200)%14509305))),(2195597708%11201120-(((-327944+765579)+(1008095+-1494091))-(-70137)))+(-579168+13352176319231))],true,{[B_[i_(S_(-222410+(-695718+909048)),-1036883+5644284052715)]]=B_[i_(S_(956667258%12926430-(504100+(121928+-504004))),(-212352+(9507118607899-((302545+-1021431)+409949)))-341889)],[B_[i_(S_(180377293%(36597+7143766)+-877992),30025470184684-910394)]]=B_[i_(S_(-506318+(1152355774%(4606348-(-116201))+1280483187%(-175108+12602683))),8918425255992-(-15351))],[B_[i_(S_(-837065+827971),-88017+(11786687306445-(192096+-1098398)))]]=F[B_[i_(S_((1165601-366592)-808316),-517192+7211007785890)]][B_[i_(S_((401072-462438204%8888815)+-191435),32243544964565-((1552283-872200)-984124))]];[B_[i_(S_(-485355-(255888303%2842215+-565478)),(468703+14642604678284)-(-858947))]]=B_[i_(S_(-690307+680700),16315572263446-98318)]})Z:checkbox(B_[i_(S_(148084+-157913),-425425+1154400050087)],false,{[B_[i_(S_((996895+-1412387)-(-405731)),3.4202513385637e+15%19214895252663)]]=B_[i_(S_(886320-895665),16078253493922-233548)];[B_[i_(S_(312311-321369),26256352254217-(-871764))]]=B_[i_(S_(694330+-703665),430269+16473893188358)];[B_[i_(S_(1022632+-1032975),-729919+12601069727011)]]=F[B_[i_(S_(686504+-695887),29971315614671-(1151566-106164))]][B_[i_(S_((-1025560+1973419)+-957285),25008182145003-(-606419))]],[B_[i_(S_(501463-510572),980960+5258218827650)]]=B_[i_(S_(309138-319735),603171+26363118505596)]})Z:checkbox(B_[i_(S_(588792-597995),2617438987367-(-1028832))],false,{[B_[i_(S_(661997+-672310),10216910656650-872431)]]=B_[i_(S_(-395250+385738),(9358139035108-688224)-(-460880-61410))],[B_[i_(S_(-75814-(-66888)),302358+18775089609548)]]=B_[i_(S_(683734+-693257),28144272153338-65758)],[B_[i_(S_(290528+-299848),34767907357708-(-690421))]]=F[B_[i_(S_((-181479-(-23708))+146916),11096259623968-971863)]][B_[i_(S_(-529433+519721),-768690+5785040934335)]];[B_[i_(S_(-239375-(-229890)),-593470+2559723443252)]]=B_[i_(S_(-526041-(189643-706889)),(-1022749-(683372+-1056075))+4415039443321)]})Z:checkbox(B_[i_(S_(-416309-((598511464%8797634+-27818)+-651231)),766892+13609860814154)],false,{[B_[i_(S_((-425497-258487)+674705),57471244674199%(227158735186-(-1004883+609508)))]]=B_[i_(S_(556405867%2448115-693520),(424774+((149022+(-85268+29136514148920))-697421))-(-182104-231351))];[B_[i_(S_(864249+-873527),29138606916356-(-250166))]]=B_[i_(S_(789534-800216),17811937996695-972892)];[B_[i_(S_(-831605-(-820729)),32762979792153-607973)]]=F[B_[i_(S_(-789555+778967),580875+21215751258680)]][B_[i_(S_(-439354+(2149768498-(-689250))%8669471),(211269083%3836460+9555141417476)-(-135227))]],[B_[i_(S_(562735+(-905595-(-332352))),(927803+-1340030)+22543374187052)]]=B_[i_(S_(287495-296171),7188619697747-(-82066+-607290))]})local s={}Z:checkbox(B_[i_(S_(-532384+523090),16818836739227-(-31720+(282254+651126)))],true,{[B_[i_(S_(123143+-133527),-756372+188131424395)]]=B_[i_(S_(113077+-121944),6198858507268-402627)],[B_[i_(S_(344392+-354912),4615800394182-90237)]]=B_[i_(S_(184325958%1582389-777560),18238078083307-(-42969))],[B_[i_(S_(-771056+761231),395243+26573634151352)]]=B_[i_(S_(321922-332285),34827499544418-640281)]})Z:checkbox(B_[i_(S_(-410842-(-400901)),510697322%2144927+34927723360250)],true,{[B_[i_(S_((826405350-(-828191))%9839452+(-279085+-450382)),13824944173427-(-347393))]]=B_[i_(S_(1014940-1023878),27848453771407-647177)];[B_[i_(S_((931927-113567)+-828179),(-872853-(-1278859-(-279102)))+34720886053624)]]=B_[i_(S_(552466-3423144439%15918987),(20517275591155-(-892790))-(-1076467-(((-1102425-(-955758))+435220)-974568)))],[B_[i_(S_(820083+-828837),30069907163795-(-243233))]]=B_[i_(S_(-621828-(-612597)),33437200845318-(-393811-(-805247)))]})local function u(E,N,T,b,F,m,a)local C=string[B_[i_(S_(857918-867654),387649+31351032531314)]](B_[i_(S_(-626914+617542),28643122244428-(-668113))],N,E)Z:slider_int(C,T,b,F,{[B_[i_(S_(-694531+684687),-983486+9936858618614)]]=m,[B_[i_(S_(-859588+850683),-201220+(14494408434800-684644))]]=B_[i_(S_(580670+-590465),767407895077-(-869674))];[B_[i_(S_(444527-455128),17567812483089-270062)]]=E,[B_[i_(S_(-917263+907306),(389782-560892)+27697893617867)]]=a})local w=s[E]if not w then w={}s[E]=w end w[N]=C end local U=B_[i_(S_((-300883+(-485699+(535084807-(-174870))%7209315))+-993437),359352303%5437839+22485043487202)]local l=B_[i_(S_((-881598+13779)+591493081%(-350636+17722275)),717051+((17019843874288-(-670114))-(-469969)))]local D=B_[i_(S_((-439246-(-310139))+119248),477880+28135549384487)]local j=B_[i_(S_(36888-46025),25647880449560-741146)]local K=B_[i_(S_(((342245+341250)+-1311306)+618089),-281545+15071196687953)]local f=B_[i_(S_(87710+-98530),(884678+19843967879091)-(-611155+-15385))]local O=B_[i_(S_(-522955-(-512242)),((654078+20266439793338)-(658453+-398092))-424853)]local o=B_[i_(S_(888409+(-10014-888455)),5583493938570-(-359564))]local A=F[B_[i_(S_(-7431-(819671+-817632)),29934557125353-584755)]]u(A[B_[i_(S_(27668-37140),10275196007474-6178)]],B_[i_(S_(91782-101147),529694+33650177010326)],475362+-475361,701712-701707,578254+-578249,B_[i_(S_((-662973+(811113-(439615-(-321162))))-(-602702)),28751408668263-206562)],U)u(A[B_[i_(S_(34866+-44328),(34405999636283-(-725381))-1026238)]],B_[i_(S_(-571824-(-560988)),553054+10003525615597)],38097+-38087,1719420717%14448913,1843627370%(1999800463%21155606),B_[i_(S_((311173-973996)+652374),(10995084994%1834277168)%15321824+10673744591335)],K)u(A[B_[i_(S_(-1048959-(-2032065-(-993519))),472621+20836348959609)]],B_[i_(S_(1558644604%13432087-2171294974%12694516),14067871702456-(-685226))],613738050%3487148,1917080676%13221246,421952+-421949,B_[i_(S_(-387658-(-1400668-(-1022160))),-300442+6689787772159)],f)u(A[B_[i_(S_(812868-133721104%4746384),226970+19801236718453)]],B_[i_(S_(-678064+668467),-88172+17888562320316)],697416+-697415,-642059+642064,-729237+(-277432+1006674),B_[i_(S_(-746308-(-736718)),16528533569382-(-272856))],U)u(A[B_[i_(S_(-70274+(-506737+567856)),112065654456-(-1045686))]],B_[i_(S_(237350+-247718),22110629148823-577923)],-450885+450905,(-982983+(371865+1229204))-617996,-332663+332713,B_[i_(S_((229189-(-93158))+-332499),16393635223700-(-628903))],j)u(A[B_[i_(S_(499613-((1300447318%13687184+968676485)-(-11207))%16695588),-852812+34201814043368)]],B_[i_(S_(239998-249353),625786+6946892464301)],(104374867804%2007275479)%(13256015-((205021+-916722)-(-148279))),-625080-(-625150),-781510-(-781545),B_[i_(S_(627763-638200),495995617450-(-385353))],K)u(A[B_[i_(S_(-332563+322608),16121433295840-(-283587))]],B_[i_(S_(-293993-(549267+-833622)),399605+32650060496619)],1477421452%10119325,-674885+674891,903544-903541,B_[i_(S_(338578+(338770+-687312)),(-480605+16996330034348)-(-523300))],f)u(A[B_[i_(S_((-671052+(1321711-581254))-78481),-1043446+(346112+34400124656060))]],B_[i_(S_(((-597620-(-803539))+-923954)-(-708026)),24889758594905-(-1008746))],727907-727906,334076+-334071,845751989%4805409,B_[i_(S_((993994+-1703666)-(-700046)),-457873+3302546074681)],U)u(A[B_[i_(S_(339810+-349817),14421331325662-(-375446))]],B_[i_(S_(99633+-109803),34195342380737-463185)],((1029710464-(-687089))-348803)%6560820,527903+-527833,543418+-543383,B_[i_(S_((-124015-(-447752))+(-669961+(305969+30950))),-415069+1083897093794)],K)u(A[B_[i_(S_(766153+((444826-(-313898))+(-814758+-720810))),980226+27238405329844)]],B_[i_(S_(-122865-(-113611)),537098+22831384506149)],(94516-(-490607))-585121,-890429+((1713475-1452)-821588),1313143991%5941828,B_[i_(S_(383576+-392366),-657600+23625197551711)],f)u(A[B_[i_(S_(-1003721+994677),((((-847552+-771192)-(-762842))+2293010)-(180281131%1396971-(-568527)))+19264500423818)]],B_[i_(S_(-952418-(-943694)),8873264176979-(-293871))],375411-375398,216543+(67727-(134325-(-149905))),338977-338952,B_[i_(S_(741032-750386),19051110100483-(-441624))],D)u(A[B_[i_(S_((122973-881231)-(130143-879707)),920980+19427349789784)]],B_[i_(S_(-372157+362890),850810+31302613921725)],1053531312%4854983,-714490-(-714493),28297788%152961,B_[i_(S_(-905177-(458040+-1353147)),53523+13914849419833)],U)u(A[B_[i_(S_(641266-651387),22201838680172-(-465679))]],B_[i_(S_(-447998+2533759405%((4515009725-(-440809+949573))%19154787)),(3650990799385-(758446+(978403+-1348790)))-136303)],113713-(-356648+5442166)%552425,568535697%2596053,(296927+1458907104)%11863447,B_[i_(S_(-641933+632430),((-879664+2276004)-(-318199-(-981091)))+(31141165374261-476053))],o)u(A[B_[i_(S_(273429-283128),-976904+1671979581242)]],B_[i_(S_(43632-53783),3921394259%16203835+7820627530732)],878949114%((79943420972%((860700405-141946)-864879))%6562927),(-616462-311093)-(-927625),289775+-289740,B_[i_(S_(682873-693127),29749298809175-(-556325))],K)u(A[B_[i_(S_(848585-(349675-(267326+-775451))),20509312037131-(-749238))]],B_[i_(S_(273177-282449),(285328+-913122)+17813186482625)],8499010%(124345+27423),(-1613429-(-1044194))+569241,-679018+679021,B_[i_(S_(-240974-(-231218)),-313315+(-1008517+12210715992035))],f)u(A[B_[i_(S_(((911081+-1187544)+765763)-499735),(25550091574576-(1433937-969939))-((690928+((1182023-715352)+-676552))+(-2030365-(-866329))))]],B_[i_(S_(-152648-(-141918)),-936071+30293064247331)],(981296+776709530)%(180831+3291003),(-774707-(-107744))-(-667003),(-720030+(572071933-634889))%9839948,B_[i_(S_(-1031595+1022195),9928774170740-26864)],l)u(A[B_[i_(S_(349479+-359049),6302205483046-327551)]],B_[i_(S_(-653543+643604),147725+9880785823170)],-707652+707672,1047523774%11386127,316627004%15077474,B_[i_(S_(-888639-(-877990)),6020948090111-(-846249))],j)u(A[B_[i_(S_(-104642+95952),84724348%14028286+5492283253881)]],B_[i_(S_((-906880+(-833873-(-1033265)))-(-698628)),10762009963008-457223)],926141-926131,-121111-(-1011374-(-890193)),-1004654-(-1004689),B_[i_(S_(670586+-681295),-10803+21955131935631)],K)u(A[B_[i_(S_((604725+-799803)-(-185846)),((601990382%((5545017-668595)-609524)+-52455)+-608561)+26499163539812)]],B_[i_(S_(-234432+(-265888+490251)),2304592104382-839222)],-687119-(-687121),-445616-(-445622),1556886669%16050378,B_[i_(S_(-849592-(-839268)),34666642047276-(-325983))],f)u(A[B_[i_(S_(259655+-270512),12571501120787-141383)]],B_[i_(S_(1004974+-1014126),(566284-(-354968-(-333469)))+8309795112566)],(-367515-(-243455))-(-124060),1898138886%11434571,2886247012%11498992,B_[i_(S_(((-980521+(-626434-(-520283)))-(-807761))-(-269431)),24428873370984-145459)],O)u(A[B_[i_(S_((((-368474+911658)+116507)-625741)-43491),1197494162959-590493)]],B_[i_(S_(-255883-(-245254)),-91135+20758923685954)],(592283+138925)+-731198,715539932%11540966,167453+(-467635-(-300212)),B_[i_(S_(850352+-859768),684545+7245656236849)],l)u(A[B_[i_(S_(208006+((-1329089-((765596+(877137+-1540714))+-941556))+272070)),29287377133362-(113545+-1078074))]],B_[i_(S_(613954-624513),((-493629+-461835)+4635792613764)-(-186508))],(26580+264972079379%1977423742)%8511846,959240+-959235,446584423%2164506-696182,B_[i_(S_(899991-910745),32774+(3466753990583-(-575384)))],U)u(A[B_[i_(S_(2867515585%((70738200208%803985478)%30995695)+-700582),-294965+(4769199121646-21339))]],B_[i_(S_(182939+-192367),((-659854+306475979000)%(143107480274%2602039833))%13687210+12129391138893)],1185516263%14636003,140800-(-633410-(-774120)),1065214790%(1830338764%(1942967633%19917382))-97140,B_[i_(S_(-1033830+1024479),711560+(677068+30886222467422))],j)u(A[B_[i_(S_((43237071854%172315780)%14356200+-218161),-614768+8949653675192)]],B_[i_(S_(-781023-(-771467)),-40091+22638886739318)],(-634331+1245193)+-610852,39695198%9923782,295799627%6722718,B_[i_(S_(-42700-((-204863+-271565)-(-442472))),1161105810780-(-334468))],K)u(A[B_[i_(S_(-118470+((-447492+1099344)+-542452)),19659184527800-(395979-547135))]],B_[i_(S_(761786-771421),171559+15709186664181)],952908000%9723551,-742529+742535,543702+-543699,B_[i_(S_((-562713-(-501859))-(-50135)),12999450511365-(-362532))],f)u(A[B_[i_(S_(27817-37461),304379+(16345545522412-872952))]],B_[i_(S_(298546+-308050),30495667789879-(-815689))],-140714+140724,(392878-(-523346))+-916184,-963614-(-963644),B_[i_(S_(108026-117247),88558+28866768176610)],l)u(A[B_[i_(S_((620701-(-696240-(-704210)))-622495),597400+34406760540153)]],B_[i_(S_(997733+-1007104),18817705437336-774386)],745267+(-270398-1365902041%16651551),494001-493931,-779962-(-779997),B_[i_(S_(481266+((-243881+-48569)-199134)),4.9378705339059e+15%35020358479199)],K)u(A[B_[i_(S_(303702-313775),(-365951+32507823512223)-(67775-(124121+-555412)))]],B_[i_(S_(652258+-661685),-762520+26717816999275)],154821+-154819,2474667301%13672195,112429926%6189355+-1021533,B_[i_(S_(((-877195+-649895)-(-600541))-(881162+-1797773)),17993859864691-972193)],f)u(A[B_[i_(S_(267467-((-413682+762760)+-72540)),32567883507122-159076)]],B_[i_(S_(149694676%2623295-176074),-703351+87712830055564%3508513819143)],-86224+86224,133594-133534,2245338401%(15550705-(-150962)),B_[i_(S_(-14995-(-5274)),(((8335334813634-835632)-356248)-109637)-(-574370))],O)u(A[B_[i_(S_((-231453-(-202781))+((-126459-352293)-(12859-510076))),477571+20448907096932)]],B_[i_(S_(489887-(-270565+769672)),(621691-(-4139))+7979561856749)],2702802983%15992917,521785170%4537262,-685109+685139,B_[i_(S_(-716556-(-707019)),(422344+28492573495121)-398320)],l)u(A[B_[i_(S_(-152762+143158),26263162889038-255246)]],B_[i_(S_(34484311%8406610-868501),54645740022353%2483897726490-692328076%8873147)],1718909720%10167337+-629747,-124519-(-124609),-623041+(1129477-506391),B_[i_(S_(-507606+497144),86569+6942889020446)],j)u(A[B_[i_(S_(-806825+1596653220%13410547),271741+1454916695847)]],B_[i_(S_(657121+-667001),21664221403073-(-907011))],178093960%((768768458-494826)%3951903),(-1005236+811407306)%(4148559-96549),(-39277+-12914)+52226,B_[i_(S_(-731658+720802),35161231462806-(-239917))],K)u(A[B_[i_(S_(-396766-(-386700)),92280806772628%846612963883)]],B_[i_(S_(-99459-(-89359)),165095+15220321356884)],(794553+1635863565%(-140651+11421775))-((400831-554102)-(-1470692-(-422285))),((260994223%3617885+-722273)-(-376333+457319))-(-571681-(-274919)),-428748-(-428751),B_[i_(S_(-862366+853574),361515+5539083288205)],f)u(A[B_[i_(S_(-895948+1463866311%14342946),(6690764202480-642573)-(-775528+795798))]],B_[i_(S_(337390+-347731),16690904198712-(-194520))],952633+-952613,(2193294266-(-751249))%11251515,-313245+313295,B_[i_(S_((-1775829-(-812250))+953878),26525461913949-(-855802))],o)u(A[B_[i_(S_(-729281-(-718721)),28332659074098-(-167231))]],B_[i_(S_(830564+(-1375294-(-534319))),20840129950356-(-178819))],-1019243-(-1019243),617927626%9966573,-603443-((-350098-(1003829-(-208033+557616)))-(-400881)),B_[i_(S_(107874+-116582),-853977+25518672758185)],O)u(A[B_[i_(S_(693253+-703829),34792970351375-477921)]],B_[i_(S_(502840-512168),(29436261942263-(-690098))-(-417497))],238263+-238262,766249+(661252+-1427496),2371997211%((-130329+13406855)-(-49301)),B_[i_(S_(-513063+(-196346+699907)),(-1028921+108427714%5956790)+5240943820375)],U)u(A[B_[i_(S_((-1031374+400624)-(-621152)),-28877+(695966+8856407165813))]],B_[i_(S_(((377749+(554216+-880478))-(-628999))+-691070),-494043+31938127722633)],-232610-(-239895+7275),-692003-(-692043),-446390+446420,B_[i_(S_(138949+-148056),21488175939762-(-228130+(985532+-1274070)))],l)u(A[B_[i_(S_(-197982-(557536+-746235)),2438944719594-885087)]],B_[i_(S_(-636077+625562),13541318795144-(((-348789-608724)-(-782737))+(96464-11621)))],-582664+582684,(392996105307%1553347481-((158382+-418804)-(-544874)))%(3264627675%21155621),746667951%(851074+2827093),B_[i_(S_(136152-145712),(696082+32961266476529)-(-749053))],j)u(A[B_[i_(S_((153843-(1031033+-1188370))+-321626),-667864+28392115345204)]],B_[i_(S_((-85287+-80727)+156556),-634884+3037942650211)],2658715531%10508757,430026+-429956,215388128%6948003,B_[i_(S_(964826+-973711),95503+13834753249324)],K)u(A[B_[i_(S_(((698298+-994429)+1193245)-906565),20988800625202-(-722592))]],B_[i_(S_(386744-397248),778657+9066115575558)],(1323972343-(-613819))%9198515,371713962%1477611-833595,(((2960185269-(-332697-(109675+207760)))-831685)-780040063%6186582)%13829313,B_[i_(S_(207470-218019),(-879094+5038979008054)-(-1298703-(-572187)))],f)local d={[B_[i_(S_(247211+-256830),(-1004533+307942046%(-4034+1433140))+34089049516273)]]=core[B_[i_(S_(568000+-576680),(2873516590193-407528)-(717769-665172))]][B_[i_(S_(-182924+172482),((-510032+795590)+428777)+12755074978453)]](-509925+510921,false,B_[i_(S_(899391+-910171),17033540849172-797178)]),[B_[i_(S_(-110833+100412),(19544977261150-((1118028-1985126727%14384079)-192588))-474157)]]=core[B_[i_(S_(189311+-199186),31295603705949-(-136948))]][B_[i_(S_((593972+-514522)-89053),((21127196353438-(-135069))-(-698696))-521657)]](41869-40872,false,B_[i_(S_(587371-596558),626676327%3539896+25643063686563)]),[B_[i_(S_(717161-725845),563309+(176115+19329635390826))]]=core[B_[i_(S_(277159-286023),619987280961-340163)]][B_[i_(S_(-588488-(-578108)),1013843+7515569465938)]](265919+-264921,false,B_[i_(S_(210116+-220816),6706250752370-(((-673506+(389276+606145))+-1094988)+595201))])}local R={[B_[i_(S_((-370805-(988488-820275))+530327),(-27464+-106225)+15385430538437)]]=B_[i_(S_(-496268+486714),186222+18267631459840)];[B_[i_(S_((545436-10660)-545646),41458+3863745934316)]]=B_[i_(S_(767846-776815),396625+31414717718900)],[B_[i_(S_(-276555+(674105-408275)),32745505379215-(-912878))]]=B_[i_(S_(-623146+614397),15856001045766-(-303550))];[B_[i_(S_(73700+(-407558-(-325029))),-988335+28860025553460)]]=B_[i_(S_(755580+-764463),17751927114480-421381)],[B_[i_(S_(-883064-(-873015)),(112639-(-252680))+28318335339568)]]=B_[i_(S_(198899-209325),-46018+30879261239758)];[B_[i_(S_(-752496+(1148447-405727)),(631502731%16187199-489949)+34294113184244)]]=B_[i_(S_(661164-670686),-320457+34261758660062)];[B_[i_(S_(-603810-(-594794)),31879486348089-(-917429))]]=B_[i_(S_(-549403+539926),638722+26487991814516)],[B_[i_(S_(-13488+2886),5047257402499-864062)]]=B_[i_(S_(-143410-(-133317)),-536999+25909817085412)];[B_[i_(S_(922726+-931766),(-259350+(-952885-(-1039057-(-204521))))+29682238402846)]]=B_[i_(S_(743592+-753399),20396785501961-(988768+-1874290))],[B_[i_(S_(((829717182%((1868233791-(-623181))%8995212)-952196)+165511)+-321260),3047479413624-((-744257-162008)+1022804))]]=B_[i_(S_(-401373+(-819892+602510089%3198393)),(-1246054-(-588288))+11603588544700)],[B_[i_(S_(981241-991346),31745630520202-1018923)]]=B_[i_(S_(742400-752206),17053009740952-556329)],[B_[i_(S_(362262+(-370843+((357548+-939190)+579645))),-662457+24493931013390)]]=B_[i_(S_(-196367-((-350584+-572093)-(-570560-400395938%(3309931807%19674592)))),-198110+33357337770654)];[B_[i_(S_((3192+-415300)-(-401924)),-215772+11334743967458)]]=B_[i_(S_(-313357-(-303547)),2455209768462%153451519513)];[B_[i_(S_(407918+(-889882-(-472727))),43356+(5769646106726-403302))]]=B_[i_(S_(994168-1004554),427558+10061615864963)];[B_[i_(S_(25829-36088),558158478144-492363)]]=B_[i_(S_(-934518+925137),639620+13098820109042)],[B_[i_(S_((-661792+42594)-(-609975)),8528936063085-(-86207))]]=B_[i_(S_(-346947+337949),(32885253554893-(-556650))-(-1030217))],[B_[i_(S_((881120+-1643814)-(-752155)),855589+2754235262444)]]=B_[i_(S_(-363714-(163368-((726626-(-279861+1037209))-((-147103+142434)+-542400)))),363632+14660666663490)];[B_[i_(S_(-902593-(-892651)),-643896+25621486863621)]]=B_[i_(S_(903441-913033),5455751301003-315064)];[B_[i_(S_(109883+-119872),(402684-800578)+5199984798115)]]=B_[i_(S_(-868927-(696428+-1556554)),865776+(31985825468879-(-928571)))],[B_[i_(S_(242379+-251240),421796+(-80973+14613063563405))]]=B_[i_(S_(-730756+721470),569938+1235953996452)];[B_[i_(S_(1040241+-1050475),(21962465467571-237655)-382824)]]=B_[i_(S_(-841734-(500465+(-439479-892400))),2951696061519-(-45549))];[B_[i_(S_(1015949-1026088),3.2275171603322e+14%2735184117754)]]=B_[i_(S_(-514735-(-504262)),19798632309776-(-545209))],[B_[i_(S_(865267-874112),360007+2013869364196)]]=B_[i_(S_(-901475-(-892513)),-367441+67962064407046%11327010851236)];[B_[i_(S_(403385237%3950681-(911576-486784)),27529010517435-(-429330+(-1310684-(-1017897))))]]=B_[i_(S_(-821828-(-812128)),1192643005765-(686942+-1181208))];[B_[i_(S_((-541483-190132)+722474),-857665+18981319825423)]]=B_[i_(S_(214642411%3149927-457368),31952988738805-(-48082-610372))],[B_[i_(S_(-573699+564370),16547208484987%4136805763407)]]=B_[i_(S_(-739670-(-1709232-(-978235))),-204998+12120963922561)],[B_[i_(S_(907104-917809),295893+(-185579+359648721082))]]=B_[i_(S_(-520145-(-511032)),2202510788737-(-813788))];[B_[i_(S_(-652111+(((-212701+2330537668)-(-326579))%11309979+(-829825-(60410-(1045-(-735889)))))),-387911+20766710041751)]]=B_[i_(S_(-902942+893970),775944+27909760679818)],[B_[i_(S_(-186817-(-177952)),13499983150909-(-264856))]]=B_[i_(S_((-27811+71486)+(-404288-(-350045))),6928028107508-(-214338))];[B_[i_(S_((1079116-85561)-1004168),-174060+9771422327712)]]=B_[i_(S_(-1047943+1037244),12012292442997-508384)],[B_[i_(S_(-180729-(124729-295094)),4.593019752207e+14%3645253825598-438058)]]=B_[i_(S_(776866-787740),17089898077084-(-530287))];[B_[i_(S_(1042893+-1052912),22639222946664-632388)]]=B_[i_(S_(-290701-(-282019)),-391999+26213724255611)];[B_[i_(S_(958928+(-374265+(-280886-314576))),1786720247448-(-596090))]]=B_[i_(S_(283556+(-1218567-(-925464))),375587+(-230727+23699648943872))],[B_[i_(S_((-1112621-(-882859+134542))-(-354168)),-7351+9475130899042)]]=B_[i_(S_(333085+-341884),(11273819772309-(-1023237))-830336)];[B_[i_(S_((701539+-1659170)+(1025473-78069)),(-43250+5782350316060)-577342)]]=B_[i_(S_(953187+-963991),-552593+9392053162019)],[B_[i_(S_(-880734-(-870845)),-865615+(31815052587535-1573138158%11393835))]]=B_[i_(S_(729171+-739492),(-1298277-(-696119))+10731962194918)];[B_[i_(S_(807295-818052),25743865309739-656084)]]=B_[i_(S_(-432196-(983693+-1406022)),-367667+13762050980762)],[B_[i_(S_(228318-238108),32045876263019-232486)]]=B_[i_(S_(811830+-821459),1914876737875-264793)],[B_[i_(S_(-450858+440912),30161062919426-159783)]]=B_[i_(S_(-908643-(-425585+-473445)),74716955533798%335053628350)],[B_[i_(S_(248176-256885),(765211-28746)+15423167824876)]]=B_[i_(S_(112824-121972),-213049+15868733197072)],[B_[i_(S_(-996151+986634),1042407+20256697996041)]]=B_[i_(S_(893194-902078),404267+(-858526+9924212129919))];[B_[i_(S_(-573577-(-562985)),63137663735980%3507648715556)]]=B_[i_(S_(-788485-(-779458)),856429+2193695039175)];[B_[i_(S_(-675715-(-664988)),4205901131396-2239764376%10222796)]]=B_[i_(S_(-1021754-(-1012902)),27628206089490-752595)];[B_[i_(S_(-182531-(-706184-(-534243))),(266671+9765599736016)-382055)]]=B_[i_(S_(997995+-1006947),(-666332-(-36735))+(21419+6750779486255))];[B_[i_(S_(-1018538+1008734),-466543+2035968203804)]]=B_[i_(S_(803929-813840),25017400515721-919857)],[B_[i_(S_(268925+(3010626799%15515335-930638)),11948923178801-820743)]]=B_[i_(S_(310144-320832),-399519+23593458745634)];[B_[i_(S_(785036+-795731),-564892+12836459952993)]]=B_[i_(S_(779652-(310341-(-478297))),25001021430692-269504)],[B_[i_(S_(370599-381258),9.7932259737139e+14%18477785091036)]]=B_[i_(S_(346106+-356268),-974734+15623049049650)];[B_[i_(S_(-603793-((427476+-1500413)-(447404-((-669048+352050)+1243135)))),(786282+-1685205)+7788603055386)]]=B_[i_(S_(-37060+27916),11260803203801-(-793380))];[B_[i_(S_(1030336+-1039087),(136622+25717418459620)-(-1044447))]]=B_[i_(S_(126154+-135143),10396923116984-299080)],[B_[i_(S_(808998-819843),634957+9335744077080)]]=B_[i_(S_(496661+(-82303-(-172497+597481))),22944309462717-1682775968%15434043)],[B_[i_(S_(-1046193+1036523),32533444362179-(-213824))]]=B_[i_(S_(-774922-(-765377)),-62044+21373923073738)];[B_[i_(S_((512635+-1465501)-(-230911+-712878)),211961+21485495051967)]]=B_[i_(S_(609582+-618724),8627461692139-(66820-(-487186)))];[B_[i_(S_(-342753+333311),8959617350358-((231318+(-1294784-(-1022400)))-(-32539)))]]=B_[i_(S_(-110711-(-100305)),-190176+10974945421312)];[B_[i_(S_(119764+-129591),(26429485604805-970879)-839650)]]=B_[i_(S_(855006+-863888),-154250+3451560130617)],[B_[i_(S_(-905089+894837),7915638480713-(-370134))]]=B_[i_(S_((538598-896476)+(818294455%15148585+161563305)%984675),((1598262-261229)-937269)+32965133919802)],[B_[i_(S_(-808929-(-799634)),79530+15957258598940)]]=B_[i_(S_(381930-392623),(935545+-1081413)+(368451+22190260034935))],[B_[i_(S_(904833+-914506),2168776986848-(-459685))]]=B_[i_(S_(521304+-531713),181307+31974941672434)];[B_[i_(S_(-964581-(-954793)),1762673779%11225199+9381070299797)]]=B_[i_(S_(-710229-(-601807+-98751)),-890847+(18389863750983-(-567144)))],[B_[i_(S_(-214967+205217),(32682301335066-771524)-114404)]]=B_[i_(S_(-1796+-8512),-829920+18874042585531)];[B_[i_(S_(-46218+36829),837369+19770277650921)]]=B_[i_(S_(809993-819349),248522+12390958787733)];[B_[i_(S_(-378589+520867020%(5680732-((-514958-(370302+-1349613))+-766359))),(17848851563065-(-890499))-87653)]]=B_[i_(S_(129055-(2817518300%(-13687+11193745)-4482)),721084+14032377428389)],[B_[i_(S_(((-537211+156598)+-445657)+815722),-438388+29667244761415)]]=B_[i_(S_(-423364+414058),1022953+20806610365499)],[B_[i_(S_(832370+-842324),30953689007061-234434)]]=B_[i_(S_(-189422-(-179344)),813523+18689648002073)],[B_[i_(S_((405336-937972)-(-523896)),32347722536274-(-312490))]]=B_[i_(S_(-833656-(-824098)),285390+13331160998433)];[B_[i_(S_(((717868-1396924067%5607247)-736632)-(-728034)),31496877244817-(691676+-995608))]]=B_[i_(S_((-728245-(-246785))-(-472627)),28422702919732-642888)],[B_[i_(S_(216508-225565),128108+924293475514)]]=B_[i_(S_((265711+-584964)+269647766%1313840),110246+16993877949156)],[B_[i_(S_((9935+-137282)+118219),21836534879142-(-541871))]]=B_[i_(S_(563029+(-73697+-500193)),14622391045053-(856486+-853976))],[B_[i_(S_(-1040363-(-1030096)),8971556735626-((-371348-(-884800-(-536402)))-(-805879)))]]=B_[i_(S_(310765-320868),23793878216453-(-608614))],[B_[i_(S_(-653989+645145),35119284792470-(-195843))]]=B_[i_(S_(560558-571014),-766677+(2095096191451-(-788688)))],[B_[i_(S_(418906+-427991),26764520578196-(1016585+-1319634))]]=B_[i_(S_(-863659-(-854038)),((-573696-(-570398))+-473434)+(1292723601270-(-649223)))],[B_[i_(S_(387505382%11724516+-605500),574527+30084862340362)]]=B_[i_(S_(227790+-238540),12690+1197134446643)];[B_[i_(S_(895818-428926071%17120847),20879285111157-(-610200))]]=B_[i_(S_(607590-617031),((-948033+1182381)+29894204412740)-(-1035676))],[B_[i_(S_((-915182+312377)-(-592366)),24933269568843-760827)]]=B_[i_(S_(-181290+172175),396734+31601240418415)],[B_[i_(S_(-1011359+1001279),33154591209938-947812)]]=B_[i_(S_(964811-974719),13073792615432-(-617590))],[B_[i_(S_(-57125+47272),11626418311765-554501)]]=B_[i_(S_(-167200-((-177771+824376)+-804491)),8096577492579-411274)];[B_[i_(S_((-1037573-(-760044))+267789),3.956296985e+14%(19781484616837-(-932879)))]]=B_[i_(S_((-687985-(-528876))-(-149252)),8637521787605-586598)];[B_[i_(S_(-808774+799166),-658220+33363596793173)]]=B_[i_(S_(-908041+897540),34765872299225-456043)];[B_[i_(S_(258375+(-322180-(-54648))),30303220972064-(-631889))]]=B_[i_(S_(-581157-(-571045)),874412+(69802+25223935400187))],[B_[i_(S_(823948+-833970),(34415727756068-(-280549))-384886)]]=B_[i_(S_(-681568-(-671328)),30322385667512-(-883142))];[B_[i_(S_((40196770648%515491166)%(2002898-(-807048))-979662),-503005+9211551308801)]]=B_[i_(S_(-1006928+370615905%4297886),17726324760111-863548)],[B_[i_(S_(711840+-721403),2609889913935-((-111266+-355995)-190163))]]=B_[i_(S_((-707240-(-413718))-((1281956-991519)+-575140)),(-395212+1404944)+10092523609432)];[B_[i_(S_(370968-379949),6191055481535-(35369-(-667560)))]]=B_[i_(S_(-377483+366708),50369230335714%226888449281)];[B_[i_(S_(972552+-983385),(8525+476819)+5800689723422)]]=B_[i_(S_(381248+-390910),-434935+22690980079938)];[B_[i_(S_((-495617-221586)-(-708389)),217980+26873299918316)]]=B_[i_(S_(519821+-530017),(-1020993+1949812)+10670817201191)];[B_[i_(S_(1008809-1018892),23668978524817-507291)]]=B_[i_(S_(858979+-868098),867657+18230000942630)];[B_[i_(S_(65580-74536),375303+4347049040549)]]=B_[i_(S_(-588351+(-68770+(25058+621482))),34954567208135-(-634317))];[B_[i_(S_(605830-616155),32854518019242-791970)]]=B_[i_(S_((-70364+1002898138%16979499)-1046633),-918005+29056981779074)],[B_[i_(S_(-602614+592837),20864432925157-(-102054))]]=B_[i_(S_(-43704-(-34459)),24344786934467-981998)],[B_[i_(S_(-612149-(-602465)),16388981179352-242856)]]=B_[i_(S_(-719455-(-709173)),407763+19565429597809)],[B_[i_(S_(-1001051+3127491844%14888101),34817+(18557390809853-(-285067)))]]=B_[i_(S_(863405-872604),2032040451704-(-213661))];[B_[i_(S_(381603-391605),(-47933+34213181281218)-575474)]]=B_[i_(S_((431462+-349981)+-90710),8581067308445-165021)],[B_[i_(S_(-117115-(-106509)),-354775+((-276076+1181083)+17107440937792))]]=B_[i_(S_(33914-((-586295-(-20996))-(-607961))),32168915640089-(-800434))],[B_[i_(S_(-447261+438095),29470583585160-(-1037354))]]=B_[i_(S_(-871834+861145),29374534568575-930581)],[B_[i_(S_(1708204256%9813654+-638344),25519744852747-7628)]]=B_[i_(S_(((-580447+251648)-675688)+994416),17071451459819-(-553941))],[B_[i_(S_(-490634+480339),27318044072622-(-831168))]]=B_[i_(S_(462010-471864),-588497+8559072433712)],[B_[i_(S_(-337231-(-660893-(-334514))),32067697175256-(-500201))]]=B_[i_(S_(632185+(-332856-308939)),26582248899699-447147)],[B_[i_(S_((936974+-879910)+-66865),-986854+15281178576436)]]=B_[i_(S_(-777372-(-767755)),5115829480564-(-814155))];[B_[i_(S_(-80783-(-71663)),1640+19535698326600)]]=B_[i_(S_((445176+(-595350-(-672910)))+-532199),6670+20787622196196)];[B_[i_(S_(293914-((-148217+(-555101+152229437%4471933))+822353)),-697101+24573875122687)]]=B_[i_(S_((-649889-161104)+(-16774-(-817722))),329311+9424551589437)];[B_[i_(S_((-366860+2151000857)%9640080+-905971),-85423+4984258030199)]]=B_[i_(S_(-181727+(-744746-(-916037))),9845508398285-943711)];[B_[i_(S_(500750+-510531),-1044776+5170248105068)]]=B_[i_(S_((-1722783-(-857994))-(-853970)),10516000044474-(-498343))];[B_[i_(S_(-261574+252905),19760153785089-1027322)]]=B_[i_(S_(-632134-(-621974)),-686234+26099126009291)];[B_[i_(S_(506776+((-337922-(-87890))-266894)),12175341974519-882392)]]=B_[i_(S_(((1449551-634411)-((413595-(-20241))-624899))-1015472),((277795+480297)+(239828+25041279781802))-(-743897))];[B_[i_(S_(-46741-(292277-1663542435%14215505)),333160377%1374001+34045634538754)]]=B_[i_(S_(624481-117178485%1253163),-132745+4287401756894)];[B_[i_(S_(-190679+181913),18956711432512-((-301233-160721)-(-783729)))]]=B_[i_(S_(164626+-174760),23491004250386-(-276150))];[B_[i_(S_(-375031+(879482-515129)),((-269194+-771346)+3030949772706)-543598)]]=B_[i_(S_(203992+-214367),-321689+719002318794)],[B_[i_(S_(-501423+491729),(-684798-44749)+28343364629679)]]=B_[i_(S_(586702-597003),29151351044207-910887)];[B_[i_(S_(-497239+(1114300-627714)),-581587+24960229883883)]]=B_[i_(S_(935749+-946550),((1280207-832239)-(-416005))+12259515046760)],[B_[i_(S_(-366783-(-357742)),-98371+9529018273723)]]=B_[i_(S_(1033707-1042860),16568320079163-((1443249-4172287160%17167583)+-720993))];[B_[i_(S_(49757372%((((-822863+787053)+-758745)+1313227254)%9438459)-1642820179%9663034),2162895929623-(-867107))]]=B_[i_(S_(-879601+1359368902%6931122),-297265+(384895+23045561080385))],[B_[i_(S_(-678954-(-668344)),(-408511+11293645115597)-1745232112%6951405)]]=B_[i_(S_(79583+-89551),-742250+30054355669812)];[B_[i_(S_(1042186+-1050960),12307040602235-484194)]]=B_[i_(S_(188972-199007),571492+561340351767)];[B_[i_(S_(-1005120-(-279301+-716219)),(-400206+9768773622981)-(564316+-1111490))]]=B_[i_(S_(280163-(733305+619073185)%(501889263%18155665-817589)),1029698+6870230276697)];[B_[i_(S_(376296-(-108376+495388)),10312056239909-907914)]]=B_[i_(S_(299572+-310351),27129441525239-((-921194+1199606960)%9904633-959482))];[B_[i_(S_(-185110-(-174533)),-699561+22737417422622)]]=B_[i_(S_(-829308-(845950+-1664715)),409952+14586476378191)];[B_[i_(S_(814433-824726),-519417+(654805+18933339034188))]]=B_[i_(S_(-926149+916270),22877335758201-43356)],[B_[i_(S_(1778452636%12432377-(143152+489311)),(580708-409043)+537589332150)]]=B_[i_(S_(-561395-(-878629+326926)),-139732+1861475856944)],[B_[i_(S_((875581+-431642)+-454570),-1010090+26866551839458)]]=B_[i_(S_(-333561+324139),32621099378104-276141)];[B_[i_(S_(434847-(-988585+3097996960%(((-15191+(-371470+526073405141))%4739439349-1040862)%19264593))),143460+20977805202127)]]=B_[i_(S_(-67255-(-57737)),(-981272+1177736)+31570147356175)],[B_[i_(S_(454550+(-651721-(-187137))),16824656787484-(145031+-1142197))]]=B_[i_(S_(644057-652878),-702454+(17318258699777-674446))];[B_[i_(S_(34474585%16740381+-1003861),25799902716863-2771445822%14660470)]]=B_[i_(S_(414583+-424697),23197535276690-474898)];[B_[i_(S_(-646938-(-637934)),476212+(6598611364014-391291))]]=B_[i_(S_((-371161+-551511)+912642),67065+29034235455459)];[B_[i_(S_((391533-109887)+-290574),-288921+28129128885015)]]=B_[i_(S_(281007+-289723),790738+10875845671008)];[B_[i_(S_(1023682-1034001),6416269820278-(-247482))]]=B_[i_(S_(204478-214827),21962692841163-291137)];[B_[i_(S_((-1313299-(-481875))-(-314807-505846)),(501553864493-(275096+-1284788))-47316)]]=B_[i_(S_(747237+-756510),(477099+-885422)+17273168505149)],[B_[i_(S_(773766+-783909),19429742894784-347055)]]=B_[i_(S_(((51703-(3186286387%(22590264077%370596345))%(1627299-(-629327-(-452210))))+565704)-(-237063-(-502505))),18879490951275-(-227717))];[B_[i_(S_(-883117-(-873785)),-1032669+11540192516823)]]=B_[i_(S_(-22961+13075),((-78638+1788144)-((-721705-(-565626))+1183058))+8718726110281%1089841382099)],[B_[i_(S_(-656382-(-137422-263978505%(3320933-547564))),-830007+16414864820824)]]=B_[i_(S_(102115+-111379),(6913985311512-(-36612))-363715)],[B_[i_(S_(((-1291453-(-363605))-(920808+-1836189))-(-2424)),-1036142+16620194961246)]]=B_[i_(S_(-687456+678560),656143+33103005971831)],[B_[i_(S_(-288804+279633),((155807+22711304022662)-(((-54693+-996668)-(-217096))+1737765))-(((27467-714563)+(-664862+392522))+1037568))]]=B_[i_(S_(-824027+815338),-44997+13045837627734)];[B_[i_(S_(-307484-(-298039)),(466223+23955173167938)-(-389045))]]=B_[i_(S_(-322160-(-311885)),(330067+32730762641111)-(-842213))],[B_[i_(S_(-618397-(-609474)),23613064038112-(-60962))]]=B_[i_(S_(-157029-(-147839)),14643379991772-752053)];[B_[i_(S_(741239+-751891),(893352+31571955135769)-(-596540))]]=B_[i_(S_(-441867+431618),5104492646337-(-106197))];[B_[i_(S_(114934932%(79338152%5241908)-1359927824%5372406),417758+24308900660044)]]=B_[i_(S_((-583617-(100204+-60384))+613755),9885378978583-(-486246))];[B_[i_(S_(-719432-(-709078)),-612842+8188580713577)]]=B_[i_(S_(-33673+((1278562-1030655)+-223088)),713382+14332169357373)],[B_[i_(S_((688410-(-191388))-888915),(170113-451547)+(-907534+34742012586809))]]=B_[i_(S_(-695085-(-580739-591377604%(77940858%18153518))),117414517%1192155+32031422673386)],[B_[i_(S_(133156+-142090),24960490291884-815172)]]=B_[i_(S_(263507063%1613745+-475629),17019663506896-((-698628-(-947015))-996067))],[B_[i_(S_(-756990+823616011%7413242),-625643+32953391012750)]]=B_[i_(S_(821473+-831260),736205836341-((-570955-((598728-634149)+(-616354+-343494)))+-685641))],[B_[i_(S_(-967355-(-957686)),(20358008377933-(-993433))-(-723306-(-579002)))]]=B_[i_(S_(-714786+704735),-857583+32408772502958)];[B_[i_(S_(172220+-181151),(5534768696967-(-456417))-320846)]]=B_[i_(S_(-815740+806185),34728158886895%609266156085)],[B_[i_(S_(709139+-717957),14369287693236-(-327191))]]=B_[i_(S_(((-776731+1175282)-579463)+170294),-1000707+26027198481786)];[B_[i_(S_(-10079-(-1301)),17069364487611-(-918289))]]=B_[i_(S_((595329+-1443774)-(-838554)),-101855+33322226074205)],[B_[i_(S_((885362-309139)-586354),608223+14851502194457)]]=B_[i_(S_(780398-789490),(-877936+16255442261082)-(-1102257-(-936949)))],[B_[i_(S_(-453824-(-1046131-(-601094))),(17249830396303-(-468141))-54888)]]=B_[i_(S_(-455873+446863),33272455504554-(-407075))];[B_[i_(S_(-272289+263188),-708149+(27161656975109-(-615846)))]]=B_[i_(S_(571814-582641),-266407+(22448899063040-796589))],[B_[i_(S_(665481-674323),17376597040137-(-312284))]]=B_[i_(S_(547467+-557874),-425771+(-468476+28118765177053))],[B_[i_(S_(-386113-(-375403)),7.532440053315e+14%16738755836116)]]=B_[i_(S_(726547-735917),((((-421555-(-406029))-(-754501))+-1688709)-(-548725))+20223515293807)];[B_[i_(S_((800582038%12505669-102821)+(-323290-(((((-1294070-461914)-(-978650))+-41245)+85634)+1381337198%6904011))),(-583075+34338581270670)-946488)]]=B_[i_(S_(-584324+574228),11612612521898-753057)],[B_[i_(S_(662633+-671590),(340520+14471824968372)-(-394182))]]=B_[i_(S_(-749303+738658),73284+31912630921685)];[B_[i_(S_(840429-849498),736820+75841773462661%10834541441542)]]=B_[i_(S_(((-73045+571997)-200976)+-307302),(33210+9329490905662)-(-614052))];[B_[i_(S_(472074-482863),-100124+22299349602088)]]=B_[i_(S_(654592-663487),(659274+(-618179+(-841123+244807)))+9202499972104)],[B_[i_(S_(712211-721208),13948423882807-758853)]]=B_[i_(S_(-327346-(-316632)),(-855586+1133160)+16640575862877)];[B_[i_(S_((((((733195+208228)+(-753844-575095))+((-1017851+1734179)-(-547927+950239)))-974593)+161328)+878062),9387425902634-(-614891))]]=B_[i_(S_(-75517-(-65394)),1015342+33945077883600)];[B_[i_(S_(724636-733700),-30177+(-459429+20212655699183))]]=B_[i_(S_(-836905-(-826042)),3906622151581-(-194413))],[B_[i_(S_(-412472-(-402156)),-8105+(-644311+8146471506260))]]=B_[i_(S_(94978+-105157),(-954103-49517)+20128219271035)];[B_[i_(S_(766429619%(7536611-(-626741-(((-1523009-(-36061))-(-664623))+552286)))+(1027458+-1815066)),471328+19383816606780)]]=B_[i_(S_(-718621-(-709656)),26165529068670-1047658)],[B_[i_(S_(-810907+800913),311843+6497847299074)]]=B_[i_(S_((-646725-(-427288))+209514),(-418379-311365)+3958943002136)];[B_[i_(S_((-471432-(-346589))-(351942034%6636352+-329957)),12407504328325-(-4117))]]=B_[i_(S_(-1013806+1003821),(-892208-(-597405))+750792099540)]}local e={[B_[i_(S_(-703032-(-693139)),5126346040889-560724)]]=B_[i_(S_(-206534-(-197763)),20647800295684-806732)],[B_[i_(S_(-163879+488198304%(5330976-1011998)),113487+(585330+(23996637138088-(-649553))))]]=B_[i_(S_(35147-(-777261-(-821108))),677452+9969127072219)];[B_[i_(S_((1339592-458913)-890537),-520732+33796914966029)]]=B_[i_(S_(899137+-908077),875856+31339818153622)],[B_[i_(S_(-967167-(-957216)),8087505963653-1028312)]]=B_[i_(S_(795667-805636),-912355+24561354417714)],[B_[i_(S_(921611+-931882),((-90332-856127)-(-626352))+10421227502280)]]=B_[i_(S_(198691-209286),-1021975+(22464058853852-1022473))],[B_[i_(S_(-841850+831130),21811220266792-(-725877-(-302550)))]]=B_[i_(S_((922890-924514)+(-251507-(-242604))),615020+10883167440958)],[B_[i_(S_(-88271-(-78095)),-613505+853691316678)]]=B_[i_(S_((-983700+1614640)-641034),636918+32439323641814)],[B_[i_(S_(537771+(2630+-551179)),14442859050475-(975337-832408))]]=B_[i_(S_(333848-343201),165691248%1717346+34694844856922)],[B_[i_(S_((-1288452-(-249422))+1029087),-80635+30713741169639)]]=B_[i_(S_(582684-592585),758446+31462365799030)],[B_[i_(S_(-33408+24535),352696+32379743690706)]]=B_[i_(S_(342587-351375),21766568963008-(-702403))],[B_[i_(S_(171242-182007),7105787632655-319100)]]=B_[i_(S_((62232-655686)-(-583661)),(11115514864250-639042)-795321)],[B_[i_(S_(994438-1004892),13965384698988-49366)]]=B_[i_(S_(905364-914379),91692219674-68601)],[B_[i_(S_(-382782+372832),26664458836658-499532)]]=B_[i_(S_(-523522+514436),23913720824999-693274)];[B_[i_(S_(699676-709263),-411477+22068651710498)]]=B_[i_(S_(-179432+170248),-548063+18777362967750)];[B_[i_(S_(-437971+(824680+-397007)),(((-1097039-(-90326))+1271438)+-1049804)+30220499493491)]]=B_[i_(S_(537763+((347711+579180)+-1473895)),-720343+19023063365280)];[B_[i_(S_(-664519+655500),97922317636594%12240291238041)]]=B_[i_(S_(511222+-520511),33977356131403-(-828706))],[B_[i_(S_(-623811+613885),28282976096012-273654)]]=B_[i_(S_(-960561+950021),-916380+5668143122234)];[B_[i_(S_(899224+-909910),9991121150824-484573222%2408161)]]=B_[i_(S_(808043-818225),-566131+12193408680814)];[B_[i_(S_(1001210+(-762154+-249584)),(713456+17020686571331)-(-217850))]]=B_[i_(S_(892071-901173),898422+20078259439429)];[B_[i_(S_(505484-514642),-324490+19706191392306)]]=B_[i_(S_((1122675-(1652445-723322))+-203324),-877609+5021987913939)],[B_[i_(S_(222332+-232313),77858+12803833056051)]]=B_[i_(S_(-183845+173809),((((7791805450338-(-48244))-988653)-(-234733-406824))-364941)-(-1350372-(-325549)))];[B_[i_(S_(660518+-669275),29341681740038-133637)]]=B_[i_(S_(-694313+685422),10305196336348-384416282%2819094)];[B_[i_(S_(-340122-(-330861)),15691884522294-(-884536))]]=B_[i_(S_(839869170%(15197005-420666440%(1900558719%(11922551-504653)))-387342803%((25353321126%6339237063)%26126888)),(280729-502190)+25427610853883)],[B_[i_(S_(-583920+573243),-529780+3873360880327)]]=B_[i_(S_(239938-250810),-146157+(15063328481305-867978))],[B_[i_(S_(-269029+259850),-253292+11745938923135)]]=B_[i_(S_((-501091-(-722948))+-231870),(-1022278+38892327044662)%2046965353578)];[B_[i_(S_(-943452-(-932740)),26650337060817-(-732761+599160))]]=B_[i_(S_(-483445-(-1515506-(-1041331))),485352+(-329980+(17682851858542-(-597023))))];[B_[i_(S_(807101+-815832),25761150655355-833939)]]=B_[i_(S_(((291573-36635)+-1196086)-((-585093-(-913597))+-1259240)),516531+28890518506240)];[B_[i_(S_((-678568+(703585+(-417691-(-453741))))-70172),30829161729025-471482)]]=B_[i_(S_((840094-925)+-849530),-182586+(908600+20413527639020))];[B_[i_(S_(415768-426028),251352+10079471999240)]]=B_[i_(S_(-292520+282362),-141822+8454860237963)],[B_[i_(S_(-548840-(-538514)),714478+4872831886569)]]=B_[i_(S_(-621002+610366),543351+31684079873399)]}local M={[B_[i_(S_((43516+-380482)-(-326910)),14575965876820-143368)]]=B_[i_(S_((-232223+-301074)+((757106-351089)+116938)),15637690108370-(-535798-360752))];[B_[i_(S_(-609353+251002924%2019388),27252+18993735775811)]]=B_[i_(S_(-206196-(-196713)),18804562904974-(-1040291))];[B_[i_(S_(43294-52355),(27286216796846-829658)-(-1454707-(-665086)))]]=B_[i_(S_(-840348+829846),5656127486173-(326953+(-948512-(-429447))))],[B_[i_(S_(-1021963+(2048150-1036475)),2756331800856-(-857034))]]=B_[i_(S_(-162073+152258),4757781863241-843462)]}local function r(E)local N=R[E]or E return Z:element(N)end local function L(E)if not E then return nil end local N,T=pcall(function()return a:is_toggle_enabled(E)end)if N and type(T)==B_[i_(S_(500614-510087),975970+11913032503432)]then return T end N,T=pcall(function()return E:get_state()end)if N and type(T)==B_[i_(S_(-982119+971253),10319967400327-(-333783))]then return T end return nil end local p={}local function t(E)local N=p[E]if N~=nil then return N~=false and N or nil end local T=nil pcall(function()local N=Z and Z[B_[i_(S_(121340+-132217),-990440+20271578168889)]]if type(N)==B_[i_(S_(929563-940441),19370561931261-((725997+-1227852)+-144349))]then T=N[E]end end)local b=(type(T)==B_[i_(S_((96997+-137470)+29689),23638447727313-400104)])and T[B_[i_(S_((((-977463+1143318)-986434)+((-948890+2146163)-(-552809+1087617)))-(-148500)),2799923161533-(-497065))]]or nil if type(b)==B_[i_(S_(-41291+30659),-897554+28648056514230)]and b[(-275852+55251940539%(502699598-338849))%3716865]~=nil then b=b[243540837%7856156]end if not b then p[E]=false return nil end local F=nil pcall(function()F=b:id()end)if type(F)~=B_[i_(S_(933149+-942938),(-1199805-((1705443-894110813%8119320)+-1140835))+10601157488147)]or F<=211446976%4066288 then p[E]=false return nil end local m=nil if type(X[B_[i_(S_(375217+-385083),-739550+14459371212036)]])==B_[i_(S_((1222548-(984189-506308))+-754918),17161284454584-(-322453))]then pcall(function()m=X[B_[i_(S_(-227590+216982),4681063714996-((757681-330428)+(743265-394129)))]](F)end)end if type(m)~=B_[i_(S_((-1343430-(-776521))-(-557129)),-724655+19661514743778)]or m==B_[i_(S_(514316-523122),2070431546398-(1520996-932716))]then p[E]=false return nil end p[E]=m return m end function v.reset_pick_names()p={}end local n=nil local function E1()if n then return n end local E,N=pcall(require,B_[i_(S_(-405861-(-397002)),9728060112468-422395)])if E and type(N)==B_[i_(S_(93762-102677),31386385637270-(1088191-156614))]then n=N end return n end local N1=false local function T1(E)local N=R[E]or E if N==B_[i_(S_(-47298-(-38091)),6.9236501609341e+14%16484881640292)]or N==B_[i_(S_(788959-799054),13700974507590-(-78679))]or N==B_[i_(S_(-1012221+1003373),(30261228010786-839079)-987688)]or N==B_[i_(S_(479064+-489557),(-432060+881912)+15536160179149)]then return false end if N==B_[i_(S_(-698042+687513),(9765079969971-376157)-(-935520))]or N==B_[i_(S_(-264138+253805),(-63089+-253934)+19385985088659)]or(type(N)==B_[i_(S_(-760252-(-751258)),(13033110870178-80448)-357043)]and N:match(B_[i_(S_(-309813+300782),(-749522-259601)+7993585591061)]))then return Z:get(B_[i_(S_(453123-463659),33123060165738-(-158055))])~=false end if((E==B_[i_(S_(-507314-(21252-518659)),528005+8464876122240)]or E==B_[i_(S_((-847325-(-266208))+(317898+254319)),412012+10141722027428)]))and not N1 then return false end if E==B_[i_(S_(-604078+593239),34894331843270-(-340382))]then return true end local T=R[E]or E local b=E1()if b and type(b[B_[i_(S_(-55473+44832),-308825+19501391400195)]])==B_[i_(S_((647254+-1151242)-(-494125)),267384+9426463600651)]then local E=t(T)if E then local N=b[B_[i_(S_(-841687+832275),1686026789%7459380+6773563863995)]](E)if type(N)==B_[i_(S_(-600650-(-159856-430849)),31998884710223-(-278017-(-1003555)))]then return N end end end local F=Z:get(T)if type(F)==B_[i_(S_(-167392+157747),10024707704237-(-832421))]then return F end local m=r(E)if m then local E,N=pcall(function()return m:get_state()end)if E and type(N)==B_[i_(S_((934061+-1187298)-(492943+-736180)),-168915+31148926040155)]then return N end E,N=pcall(function()return m:get()end)if E and type(N)==B_[i_(S_(-790044-(-780357)),24014967858902-327880)]then return N end end local a=d[E]if a then local E=L(a)if type(E)==B_[i_(S_((907061-675520)+(493648-734236)),(8461928199537-(-77438))%2115485924619)]then return E end end if E==B_[i_(S_(-123000+114211),8807750974043-435296)]then return true end return false end local function b1(E,N)local T=N==true local b=r(E)if b then pcall(function()b:set(T)end)end if d[E]then pcall(function()d[E]:set_toggle_state(T)end)end end v[B_[i_(S_((-509478+539829)+-41174),644266+20268827117509)]]=T1 v[B_[i_(S_(-279428+268932),474060+(22969799524698-((785479+(568175+-1433926))-918202)))]]=b1 local F1={[B_[i_(S_(851431+(-376914-485332)),65309+(28290919620602-72951))]]=B_[i_(S_(-662364-(-652869)),27823152143821-(-482613))];[B_[i_(S_((-357978-(-903943))+-554661),-474946+30439001844391)]]=B_[i_(S_(-305804-(-296604)),7433013086177-885744)];[B_[i_(S_(-425866+415720),(-881956+15706969705666)-(-853678))]]=B_[i_(S_((-694923+918393)-233700),114488+29576204335138)]}local m1=B_[i_(S_(-813830-(-804022)),3615467706511-528631)]local function a1(E)if E~=B_[i_(S_(-205400-(-195343)),(-104802-404788)+21721108759531)]and(E~=B_[i_(S_(259130-(1014964+-745158)),655209+22388605294953)]and E~=B_[i_(S_(-834475+825599),23017273370310-(-386561))])then E=B_[i_(S_(-899050+(1251265-362259)),1033031472860-(-44780))]end m1=E Z:set(F1[B_[i_(S_(-98945+(829189+-739375)),1037101+25232607114518)]],E==B_[i_(S_(-896518+887619),30202124565777-575805)])Z:set(F1[B_[i_(S_(367501-377011),24330399663914-412115)]],E==B_[i_(S_(1411563702%(-569633+11337439)+-990164),114735+25396565396362)])Z:set(F1[B_[i_(S_(-67653-(-76190-(-19340))),-607405+5384543366824)]],E==B_[i_(S_(539024+-548756),903701+22010254879795)])end function v.sync_attack_level()local E=Z:get(F1[B_[i_(S_((((-1604506-(-267788))-72599)-(-717115))-(-682243)),830770+32586792269286)]])==true local N=Z:get(F1[B_[i_(S_(180452+-189813),4804729969625-817590)]])==true local T=Z:get(F1[B_[i_(S_(1473582460%10990622-848424),-683263+18083477022469)]])==true local b=(((E and 1458145961%8523664+-599416 or-876160-(612288+-1488448)))+((N and 744502233%4113272 or-89099-(-89099))))+((T and 152028307%1767771 or-1005708-(-1005708)))if b==(212715-985267)-(-772553)then if E then m1=B_[i_(S_(52742+-62588),-654777+30495152020406)]elseif N then m1=B_[i_(S_(728360-737350),-267339+((-710422-(-622930))+2117604883554))]else m1=B_[i_(S_(-802307+791876),312555+21781223136175)]end return end if b==573562-573562 then a1(m1)return end if E and m1~=B_[i_(S_(1838714155%9624892-369474),-772652+9579628873419)]then a1(B_[i_(S_(-366238-(-357459)),758877+26678398974678)])elseif N and m1~=B_[i_(S_(332374-341691),7972581237613-(-509075))]then a1(B_[i_(S_(208964-217772),26498245989610-((1153258013%15162216+-1101723)-330114))])elseif T and m1~=B_[i_(S_((-1687414-(-1242339-(-506522)))+(148479-(-793194))),(12773178089886-1037322988%5131445)-612398)]then a1(B_[i_(S_(413166595%9812601-313891755%2870134),1044574+31149792110900)])else a1(m1)end end function v.attack_level_band()v[B_[i_(S_(921323+-931146),33300644332975-(-573993))]]()if Z:get(F1[B_[i_(S_(979708-989492),(983995061243-571562)-(-978352))]])==true then return nil end if Z:get(F1[B_[i_(S_(124638-135063),-518117+(623955+(-26415+24050335163883)))]])==true then return 3663738365%16429320 end return(636808+-1642883)-(-1006078)end function v.slider(E,N)local T=Z:player_class()local b=T and s[T]local F=(b and b[E])or e[E]or E local m=Z:get(F)if type(m)==B_[i_(S_(-973283+963769),-146104+14474054316072)]then return m end return N end function v.combo(E,N)local T=M[E]or E local b=Z:get(T)if type(b)==B_[i_(S_(149513+-158944),199871+20155053612908)]then return b end return N end function v.get_menu()return Z end v[B_[i_(S_(-754717-(-743984)),26188473697950-(((-554094+-22277)-(-320174))-(-587585)))]]=W function v.mode()return W[B_[i_(S_(-977043+967016),7393448264092-1920613845%(-973004+(332205339280%(2373487251-492716))%(5144182004%20017978)))]]end local C1=B_[i_(S_(-526773+516339),19687581368426-(-19767))]local w1=nil local W1=false local c1=nil local X1=B_[i_(S_(147149-155955),2772940968%(11094006-(-87051))+9938422821733)]local G1={}local v1=B_[i_(S_(-158668-(-149862)),11946471712530-(-704650))]local i1=false function v.faction_key()local E=Z:get(B_[i_(S_(-826279+815907),297837+2556434466956)])if type(E)~=B_[i_(S_((-280805+391417)-120502),-498741+9671845942564)]or E<-304245+304246 or E>#V[B_[i_(S_(-444793-(-435516)),(28504681929135-368082)-169844)]]then E=644337643%8260739 end return V[B_[i_(S_(527485+-538155),249614+29979907449661)]](E),E end function v.sync_faction(E)if i1 or not E then return end local N,T=V[B_[i_(S_((4769+301585)+-315700),21488982390720-98439758%3482842)]](E)if not N then return end i1=true core[B_[i_(S_(325186+(296656+(-629815-990))),17949390488661-161722)]](string[B_[i_(S_(88697+-98107),(1904603892473-(-250891))-(-291940))]](B_[i_(S_(1035401+-1045536),(-332567+30519854199047)-948387)],N,tostring(T)))local b=V[B_[i_(S_((-955171+722353)+223528),21454071476785-(-523135))]](N)if Z:get(B_[i_(S_((((-897534-(-673790))-(-282125))+-657933)-(-590517)),396605+(29929694783228-(251347+-811832)))])~=b then Z:set(B_[i_(S_(962365-((140560+48810)-(-781885))),-444711+17180412035062)],b)v1=B_[i_(S_(568107-576913),-553990+10847725041692)]X1=B_[i_(S_(906772+-915578),10012027662547-(553038-970198))]end end local function B1(E,N)if type(E)~=B_[i_(S_(25648-35022),26578753364104-(-812610))]or E<-348678-(-348679)then E=(-957697+(-973791-(-901250)))-(-1030239)end if N<41925521%(266490022%1454874)then return((((-291747-(-98990))-(-161915))+883632)-868364)+((((67092-(2126482539%13898460+-857169))-(214052-94355))+-1085134)+794404921)%(13495313-36150)end if E>N then return N end return E end function v.picker_entries()local E,N=v[B_[i_(S_(-707258-(-697200)),993942+3703798355890)]]()return{{[B_[i_(S_(904617+-915206),(7538303972126-820930)-(-673015))]]=B_[i_(S_(-499839+1598735235%(7370714-(-502419))),-767405+20046593147295)];[B_[i_(S_(-940735-(-930978)),20502515096809%706983715443)]]=B_[i_(S_(884864+-893670),-291213+22921161208393)],[B_[i_(S_((-414501-(-506794))-101280),29578883698232-(-902799))]]=521289+-521289;[B_[i_(S_(865978-876528),375916+3154530552627)]]=nil,[B_[i_(S_(-304677-(-294721)),8821350628264-92224)]]=k,[B_[i_(S_(934143+(844286+-1787847)),12598037332374-395037)]]=k}},E,N end function v.combo_labels()local E=v[B_[i_(S_(-505615+26512891%4336156),19305658552852-237107)]]()local N={}for T=-643480-(-643481),#E,-982431+982432 do N[T]=E[T][B_[i_(S_(-430970-(-421805)),30329524871498-(-668295+-222081))]]end return N end function v.travel_labels()return v[B_[i_(S_(919819082%14360807-(-446716+1184026)),8336528332522-726127)]]()end function v.leveling_labels()return v[B_[i_(S_(20645+-29624),29275365869563-393412)]]()end local z1=-484167+484168 local function S1()local E=v[B_[i_(S_(-56160+45766),31110226929586-329612)]]()local N=#E if N==442636273%(11336843-(-12805))and E[935639+(-1489661-(-554023))]==k then N=42037944%5254743 end return N,E end function v.path_index()local E=S1()return B1(z1,E)end function v.selected_route_id()local E=v[B_[i_(S_(-627547-((-572248+1230199)+-1276597)),22018166596657-(71995+((67698+-647450)+403618)))]]()local N=E[v[B_[i_(S_(-894032-(-884482)),151701+28438476709983)]]()]return(N and N[B_[i_(S_(-923257+913015),369131+(-396357+15394722241299))]])or nil end function v.select_route_id(E)if type(E)~=B_[i_(S_(520458-531166),(-287375+63595721237956)%1589893326118-558528)]or E==B_[i_(S_(-398692+389886),((258458+-1016954)+27389009622790)-225566)]then return false end local N=v[B_[i_(S_(-101009-(-91641)),-747373+5977436011958)]]()for T=-640089-(-640090),#N,320867+-320866 do if N[T][B_[i_(S_(-9232+(-193422-(-192949))),15217496306305-(-365319))]]==E then v[B_[i_(S_(-124286-(-115028)),8663574159090-(-251032))]](T)return true end end return false end function v.set_path_index(E)local N,T=S1()local b=z1 z1=B1(E,N)if z1~=b then local E,N=pcall(require,B_[i_(S_(((((16737650975424%65127074218)%775390821)%3948960-447644182%5196115)+(959081-127393))-452320),11389351726002-(-260254))])if E and(N and type(N[B_[i_(S_(-877669-(-867721)),13720705805080-53629)]])==B_[i_(S_(-932019+921154),6918967747495-(-418683))])then N[B_[i_(S_(706525-717012),5846606886350-(-15670))]]()end end pcall(function()Z:set_combobox_items(B_[i_(S_(1443059218%6615632+-860938),-199279+33361926402228)],T)Z:set(B_[i_(S_(835485+-845589),12157894493888-(-960792))],z1)end)return z1 end function v.level_index()return v[B_[i_(S_((-322182+193506)+(818689-699724)),(1087095997%7012786+-166030)+18611045075613)]]()end function v.selected_picker()local E=v[B_[i_(S_(975414-985651),-290206+(3836752839647-(-935355)))]]()local N=v[B_[i_(S_(-202353-(-792078+598397)),(-164550-304496)+15732684522777)]]()return E[N]end function v.profile_file()local E=v[B_[i_(S_(115723-125265),852883+34007583312132)]]()if not E or E[B_[i_(S_(265902+(-1003804+728999)),-375590+2038639506659)]]~=B_[i_(S_(-26788-(-17884)),32840155469109-(-102892))]then return nil end return E[B_[i_(S_(81845-92321),915255+32381473495289)]]end function v.load_selected_path()return nil,B_[i_(S_(-660713+845467689%9084062),9455240252767-(-26642-452351))]end function v.route_key()if type(w1)==B_[i_(S_(812752+(-82781-739545)),908531+(-161225+16675327197327))]and type(w1[B_[i_(S_(-626445-(-616058)),8183926373517-(-466203))]])==B_[i_(S_(206653-217275),2348656361545-618174)]then return w1[B_[i_(S_(450708-461572),21528500547528-644361)]]end return nil end function v.run_deferred()Z:run_deferred()end function v.ready_path()if type(w1)==B_[i_(S_(-615498+606791),3.7081198943335e+14%(1507366580431-711605))]then return w1 end return v[B_[i_(S_(405178+-415355),11438186596690-862541)]]()end function v.sync_profile_list(E)v1=B_[i_(S_(63841+-72647),15521308549364-(-61993))]X1=B_[i_(S_((-917291+(225931491%4677898-169908))-313994),(-10302+21397992101692)-(-448795))]Z:set_combobox_items(B_[i_(S_(-783378-(-425070+(686856716%13731688-621226))),-582901+((((17195717520890-979064)-302734)-(-118027))-453252))],{k})v[B_[i_(S_((449474+-1285621)+826708),2.2827434209868e+14%(12681907616131-(-842530-(-538349)))-(-259239+161486))]](331486-(157913-(-173572)))end function v.class_id()local E=Z:get(B_[i_(S_(277710+(711815-1000197)),(150037+-1167339)+(70822734473934-(-971377))%1336278280507)])if type(E)~=B_[i_(S_((295548-(-645426-(-235775)))-714022),26242423076509-(-133493))]then E=1847359912%11918451 end return z[E]or F[B_[i_(S_(512355+-522917),-752816+11264539931536)]][B_[i_(S_(6292-16283),42083041198511%495094710061)]]end local y1=-164218-(-164219)local h1={[B_[i_(S_(531311+(-1528916-(-988517))),133530+8864240113786)]]=(3107015772%16013778-(-955516+1986346))+-999312010,[B_[i_(S_(-299570+(118875+2044507008)%10874128),-841582+2779157521167)]]=nil;[B_[i_(S_(-222058+213091),-270909+5405713758698)]]=nil,[B_[i_(S_(564425+-573296),-49297+1437394079807)]]=nil}function v.sync_player(E)if not E then return end local N=m[B_[i_(S_(-632223-(-621737)),-369405+(-499735+27252934203399))]]()if type(N)~=B_[i_(S_(21800+-31855),16253778900232-67910)]or(N-h1[B_[i_(S_(-743868+734119),28082092348713-726673)]])>=y1 or N<h1[B_[i_(S_(-81918-(-72179)),(479908+8769715969458)-676018)]]then h1[B_[i_(S_(((-1034231+1865909824%10135287)-(-701459))-694899),789642+27962584516997)]]=type(N)==B_[i_(S_((-586549+2298780590)%10636852+-644880),23259862194563-588325)]and N or h1[B_[i_(S_(421315+-431943),21982021624990-722969)]]local T=nil pcall(function()T=E:get_class()end)local b=nil pcall(function()b=E:get_race_id()end)if type(b)==B_[i_(S_(385844-395509),-474501+34437407987841)]and b~=h1[B_[i_(S_(907642+(284645+-1203138)),23032011654024-38187)]]then h1[B_[i_(S_(-362478+(-173953+526096)),(-640329+26611356486538)-(-592333))]]=b Z:set_player_race(b)end v[B_[i_(S_(-538812-(-528347)),29528519106396-212243)]](E)if T and T~=h1[B_[i_(S_(-540914-(-531736)),33197364420510-(-251752))]]then h1[B_[i_(S_(182213-191919),14261824875574-836522)]]=T h1[B_[i_(S_(97812076%4422718-(2229546743%9362698-702834)),839068+17588442309540)]]=nil Z:set_player_class(T)for E=2711909661%13164610,#z,913668-1688042043%6802937 do if z[E]==T then h1[B_[i_(S_(558961-569209),27551866972361-(-332518-(-235574)))]]=E break end end end end if h1[B_[i_(S_((-244864-213262)+448110),-418704+23014292942810)]]and Z:get(B_[i_(S_(413573+-423746),723857+27095365049517)])~=h1[B_[i_(S_(-101273+(10570223041%(64420733-259770))%(-549242+12482449)),(5860953563583-616446)-552284)]]then Z:set(B_[i_(S_(802736-812315),-612969+(2737950612109-(-990109)))],h1[B_[i_(S_(-899398-(-889537)),29477097528442-(-829128))]])end end function v.has_quest_profile()if not T1(B_[i_(S_(850996-860150),(193614-626424)+(342124+30672077259026))])then return false end local E,N=pcall(require,B_[i_(S_(-602518-(-592213)),360195+(26267880340741-1039325))])return E and(type(N)==B_[i_(S_((739907+-970925)+220560),122750+(-946299+23593600105211))]and N[B_[i_(S_(((193421-(-159389))+-1310920)+948883),6885288681732-551031)]]()==true)end local V1=-247692-(685496-933203)local H1={[B_[i_(S_(-461255+451038),4539750685065-(-690839))]]=nil,[B_[i_(S_((1014006-576270)+(1663471810%(11981833-((-370046+-645852)+795027805)%3497014)+-1232087)),81898199310764%7445291949701)]]=false}local function Y1(E,N,T,b,F)if not T then E[B_[i_(S_(-312458-(-301719)),(-873483+5067958661344)-904366)]]=false end if not T or b or E[B_[i_(S_((((-1197034-(-240549))+2207684)-217107472%8312337)+-273361),(11231987313767-137139)-1041735)]]then E[B_[i_(S_(-548927-(-538965)),-396587+25984790923554)]]=nil return false end if type(N)~=B_[i_(S_(-920089+910532),-15970+(-1026954+6926656509190))]then return false end if E[B_[i_(S_(460071-(429096-(-271627-(-231436)))),-974428+970843530508)]]==nil then E[B_[i_(S_(791222-801447),5058957262099-1003142)]]=N+V1 return false end if N<E[B_[i_(S_(312244-(966520+-644056)),530867+28066480982304)]]then return false end E[B_[i_(S_(618248-627588),34385887730327-510875)]]=N+V1 local m,a,C=pcall(F)if not m or a==false then E[B_[i_(S_(636599-646880),48104163564312%((64530402665646-750128)%391093359976))]]=tostring(not m and a or C or B_[i_(S_(3192879966%(17392+16964051)-377480),34136359873926-(-427943+672172))])local N,T=pcall(require,B_[i_(S_(-41478-(710438+-741576)),((1042537+-663833)-629865)+16429001724419)])if N and type(T[B_[i_(S_(-91898+82275),24366019128536-(-17023+-233217))]])==B_[i_(S_(-952694+942075),487491+(21697315398113-(-711762)))]then pcall(T[B_[i_(S_((1384013-760919)-633659),-209025+23071341225813)]],B_[i_(S_(976479-(327294+658967)),(6892339487292-873837)-((448445-819386)-522488))],E[B_[i_(S_(563563+-573399),25984751593892-1075969654%14145350)]])end else E[B_[i_(S_(-619983+610928),624475+22675618934768)]]=nil end return true end local function J1(E,N,T,b)if E[B_[i_(S_((1409932-845562)-574845),7820505653080-(-118624))]]then return B_[i_(S_(-280597-(348294-618828)),32452106471254-676462)]..E[B_[i_(S_(309958+-319613),12496255599788-(-747442))]]end if not T then return B_[i_(S_(-756920+746650),-514265+11721020575238)]end if b then return B_[i_(S_(499383+-509668),27399349623841-(-480960-267823))]end if E[B_[i_(S_(340476-349862),(-849831-161091)+22022470901329)]]then return E[B_[i_(S_(-230913-(-221940)),33897661359219-161759959%12421587)]]or B_[i_(S_(493490+(343891+-846172)),(-677296+34905374011656)-485216)]end if E[B_[i_(S_(-240728-(-232054)),-398336+27167293543582)]]==nil or type(N)~=B_[i_(S_(235915-245434),(350240+590041)+(25241844579744-966081))]then return string[B_[i_(S_(((1193168-673476)-334039)-195650),15434371056058-(-349871))]](B_[i_(S_(16583-27284),(-787470+1737226)+14529971380377)],V1)end if E[B_[i_(S_(811178-820223),1341383235196-775582)]]then return B_[i_(S_(-274602+264183),21791862884849-(-106640))]..E[B_[i_(S_(-82925-(-73959)),(-372683+21829327913110)-(-382985))]]end return string[B_[i_(S_((140197+357219)-507769),714082+(7513091381029-852003))]](B_[i_(S_(544399+-553965),-908330+24378363683236)],math[B_[i_(S_((190792+-521893)+320811),-366388+20516978532086)]](100804-100804,math[B_[i_(S_(-387814+378203),(385620-(-590502))+(985365+30343206944866))]](E[B_[i_(S_(40379353%5008287-323041),7229373330099-(-710212))]]-N)))end local function k1()local E=rawget(_G,B_[i_(S_(359693+(-585285-(-215533))),33415137202984-656682)])local N=nil if type(E)==B_[i_(S_(716253+-726788),18472691708513-(-991829))]then local T=E[B_[i_(S_(477309-(1497258-1011080)),-606498+4450034860210)]]if type(T)==B_[i_(S_(-927579-(-916883)),-441468+30255090394144)]then local E,b=pcall(T)if E and type(b)==B_[i_(S_(-383897-(-584663+211024)),80413488658044%(74120599153070%699250965113))]then N=b end end end if N==nil then return B_[i_(S_(-787209+777335),-801774+21439592875090)]end local T=math[B_[i_(S_(345263+-354795),7685033838211-893584)]](1564332231%((335049+2159692498)%24963743),math[B_[i_(S_(850325+-859750),(-867752+19976064984545)-(-668364))]](N))return string[B_[i_(S_((111584-402787)-(-281716)),-182368+18369078061342)]](B_[i_(S_((-213211-502131)+(531800-(-174486))),22711672314993-(-489192))],math[B_[i_(S_(-363380+352920),-461815+(-936746+17228659425209))]](T/(1104701314%(9200239-767405))),T%(1017560-1017500))end local function Q1()local E,N=pcall(core[B_[i_(S_(-18082-(-9056)),5117238435587-(-117332))]])return E and tonumber(N)or nil end function v.auto_load_tick()local E,N=T1(B_[i_(S_((240230-157837)-93151),126866+24602353552362)]),v[B_[i_(S_(-421851-(611469-(662518+361875))),889350+7538040324002)]]()local T=tostring(E)..(B_[i_(S_((-5423-183097)-(-178342)),15411078140458-(-327106))]..(tostring(N)..(B_[i_(S_(888290-(438311+459728)),(-781373+2582141908)%11320591+3522112668193)]..tostring(H1[B_[i_(S_(-139874-(-130801)),((805518-980433)-356122)+5025234485389)]]))))if H1[B_[i_(S_(228787+(304423+(457915-999910))),133238+12410129487102)]]~=T then H1[B_[i_(S_((-353232+1345952)+-1001641),995492+7046046862459)]]=T local b,F=pcall(require,B_[i_(S_(-902085+891842),10788249104233-1436583615%5632325)])if b and type(F[B_[i_(S_((867343-1024466)+147761),479049+(4249894149549-65923))]])==B_[i_(S_(275643-285110),-74983+(528080+6355167839959))]then pcall(F[B_[i_(S_(601828-611947),(-976964+9271684090169)-((801339-815833)-(193091+122975)))]],B_[i_(S_((-1169807-(-892642))+266725),2439096410527-669948)],B_[i_(S_(-637079+832360721%(1296633603%6720729)),15567422389525-(-474802))],tostring(E),tostring(N),tostring(H1[B_[i_(S_(-439726-(-193000+(-906923+670094))),487429+16036997308394)]]))end end Y1(H1,Q1(),E,N,v[B_[i_(S_(((3398+524329)+-738923)+201287),-437146+17829571408856)]])end v[B_[i_(S_(554295+-564551),538470+22659666941329)]]={[B_[i_(S_(112696-122864),8224365916262-(-876839))]]=Y1;[B_[i_(S_(592727+-601676),231153+7930593834950)]]=J1,[B_[i_(S_((263921+-75832)+-198659),1032028+12733647076304)]]=k1;[B_[i_(S_(-618749-(-610039)),34793170893794-(-452364))]]=V1}local x1={[B_[i_(S_(-104818-(-94810)),31000417284668-(-168958+-746565))]]=nil,[B_[i_(S_((-508162-(830913-3307934255%14013795))-(-650946)),(-509897-(-933595))+19078871231151)]]=nil,[B_[i_(S_(-626870-(-617796)),5642536115585-281976)]]=B_[i_(S_((-274591+100176)-(-165642)),-5742+(-730109+12433370280580))],[B_[i_(S_(-104631-(-94280)),65246074414370%534804025998)]]=nil;[B_[i_(S_(-385011+(540763-166089)),5134507175449-(-964792))]]=nil,[B_[i_(S_(-128797+(-486593+606297)),-205132+18289962726109)]]=false,[B_[i_(S_(594647+-604999),(22896743392556-577980)-935930)]]=false;[B_[i_(S_(-718850+709268),994203+(4668611376533-1038566))]]=-704371-(-704371),[B_[i_(S_((352010+(-946821+-346578))-(-931198)),-68112+(18314+11280817838813))]]=nil,[B_[i_(S_((-111493-1577247057%8386392)+(221828+485853)),34210070892364-835533)]]=nil,[B_[i_(S_((309362+155051768%3509106)+-970711),21133229482919-(1745035-912471))]]=792483+-1000792483,[B_[i_(S_(739338+-748723),133417+7176493160707)]]=-1000222716-(-222716)}local P1,q1=(314132+-820898.75)-(-506767),650725165%4016822 function v.refresh_view(E)local N,T=pcall(v[B_[i_(S_(-420346-(-410638)),((-104939+902852)+-1309092)+6144354802958)]])if not N and H1[B_[i_(S_(478955-489702),-121017+9909356265933)]]~=tostring(T)then H1[B_[i_(S_(165992-2820510036%13179131),19754926420358-(((-811560-(-31255))-167468)-93910))]]=tostring(T)local E,N=pcall(require,B_[i_(S_(9632-(596644+-576841)),(8339145532702-(-941962))-212579)])if E and type(N[B_[i_(S_(-569236-(-558937)),-151040+9022403256879)]])==B_[i_(S_(-380306+371247),34770941737112-39091)]then pcall(N[B_[i_(S_(-84766-(-75112)),12553457178802-(-1900021-(-982205)))]],B_[i_(S_(951000-960728),9131112713036-260482)],H1[B_[i_(S_(-523146+513379),2923621983%13409317+(-101452+(3263893522020-500780)))]])end elseif N then H1[B_[i_(S_(699657+-709411),82357899954345%8235790920697)]]=nil end local b=m[B_[i_(S_(208873+-218062),9435529444412-(741912+130358))]]()if type(b)~=B_[i_(S_(-933302-(305911+-1230466)),709796+30466881631238)]or(b-x1[B_[i_(S_(308804+-318006),19158650997766-(862407+-539296))]])<P1 then return end x1[B_[i_(S_(212166+(-1018769+797323)),117631315%5299366+15824034630391)]]=b if not E then return end local F,a=pcall(E[B_[i_(S_(818293+(-170108-657399)),915504+16425287514970)]],E)if F and type(a)==B_[i_(S_(-4090-(-419913+424830)),16322672499871-752521)]then x1[B_[i_(S_(346348+((-995688+1484859)-844249)),31951072421732-(-939862+1751093))]]=a end local C,w=pcall(E[B_[i_(S_((-82998-(-938220))+-866009),(-179308+11108214665085)-(-450095))]],E)if C and type(w)==B_[i_(S_(601196+-610458),28554023531069-813466)]then x1[B_[i_(S_(-434216+423385),((446075+20267403785519)-421671)-(-359483))]]=w end do local E,N=pcall(require,B_[i_(S_(44229-53363),32490904416449-65383)])if E and type(N)==B_[i_(S_(180048-190277),21522714054635-(-676751))]then x1[B_[i_(S_(795531+-804868),67240+3228143958187)]]=N[B_[i_(S_((((844197+(760884+-2101382))+318885)+40262)+126572),774642+16987537638185)]]()x1[B_[i_(S_((-271836-(-880490+649841))-(-31253)),4.1752095436658e+14%(267078+21974787037875))]]=N[B_[i_(S_(389335+-398998),845267+34954830440504)]]()end end local W=type(c[B_[i_(S_(3011120765%13145130-896175),12952378979119-981403)]])==B_[i_(S_(168890+-179427),18894979423862-66700)]and(c[B_[i_(S_(-346738-(-336650)),30356488567377-(-207406))]]~=B_[i_(S_(293519+-302325),18662206216322-(-351424))]and c[B_[i_(S_((174626+177774)-361446),2904266845798-((-82482-556222)-(-577252-(-290451))))]])or B_[i_(S_(222162+-231198),12954805153284-(-74671))]pcall(function()local N=(T1(B_[i_(S_(237990+-248269),5006750784343-(-106615))])and E:get_target())or(c[B_[i_(S_(-601961+593228),(2944455057%12525576+18567088132765)-(-571836))]]and c[B_[i_(S_(409011-419110),20991026605744-114046)]][B_[i_(S_(319004-328388),-647633+21411928193677)]])if N and(N:is_valid()and not N:is_dead_or_ghost())then local T=E:distance_to(N)W=string[B_[i_(S_((394797+637389303)%8167118-759128),-12829+26878497610033)]](B_[i_(S_(496693+-505861),((-907228+(-276407+(11172090950646-396433451%9894733)))-(-485604))-856218)],tostring(N:get_name()),type(T)==B_[i_(S_(1027184-1036217),13446832678418-(-416738))]and string[B_[i_(S_(-985844-(-975633)),511668+(3651607827%15804167+20639967422308))]](B_[i_(S_(325190+-334887),259780+21092256279768)],T)or B_[i_(S_(932871-942359),813106+(-794951+26472134873797))])end end)x1[B_[i_(S_((-119933+-95099)-(-204224)),434621+31858576372425)]]=W pcall(v[B_[i_(S_((1627770-333572555%3292361)+(427773+-1021419)),223880670%(711932102%11093899)+4732357345248)]],E)if(b-x1[B_[i_(S_(970280-979619),897696+(842151+2658651064453))]])>=q1 then x1[B_[i_(S_(-635473+625477),370027+15479230460802)]]=b pcall(function()x1[B_[i_(S_(-980416+970773),880358+26369924258486)]]=core[B_[i_(S_(-183668-(-173458)),18133540871418-(-394087+-620657))]][B_[i_(S_(121784-130564),-994651+(34239476562918-(-988623)))]]()end)local N,T=pcall(require,B_[i_(S_(411063+-420017),(-583306+1528087)+11947763439340)])if N and(type(T)==B_[i_(S_((1250781-676795)-584301),-66077+2455695980530)]and type(T[B_[i_(S_(61706+-71790),683574+225590734128)]])==B_[i_(S_(103069-(-644458+756622)),33346546729123-(-249798))])then local N,b=pcall(T[B_[i_(S_(1042127+-1052457),-3368+12732844780293)]],E)x1[B_[i_(S_(384357-395112),28144197234638-(-35497-365632))]]=N and b or nil end local F,m=pcall(require,B_[i_(S_(-710943-(-700389)),9778168455075-511562)])if F and type(m)==B_[i_(S_((465001-329046)-(-817526-(-963229))),125200+17781641904747)]then local E=T1(B_[i_(S_(689750-699330),864647+(851142593078-506255))])and T1(B_[i_(S_(581394+-591415),3.0383871188868e+15%21702765249761)])if E and not m[B_[i_(S_((-253170-(507651+-733962))-(-17655)),23054149707704-(-1450232-(-838404)))]]()then m[B_[i_(S_(-638227+628818),4413457603427-(-336403))]]()elseif not E and m[B_[i_(S_(-131129+607381792%3969028),(298305-710757)+26454552610678)]]()then m[B_[i_(S_(-613258-(-602424)),20320031364137-(-1001261))]]()end end end end function v.is_started()if not T1(B_[i_(S_(376639+((((-640094+-265570)+(-66527+1343299))+-381195)-((-900203+1913868)-(991681+-354248)))),-92309+21429546886765)])then return false end if not v[B_[i_(S_(-1003666+993405),((((155129222-741938)%2434944-2110510962%11049586)-669805)+(13807990637038-392327))-(-907053))]]()then return false end local E,N=pcall(require,B_[i_(S_(-441527+1453291453%7606597),547392+12058879759299)])if not E or type(N)~=B_[i_(S_(875983+(861158+-1747905)),123433+19505134199677)]then return false end local T=x1[B_[i_(S_(-699056+688259),-204502+6725851635407)]]or v[B_[i_(S_(-248014-(-237545)),81017+14070396317536)]]()return N[B_[i_(S_(441277+-450319),(82467+29441157071848)%346366566589)]](T)==true end Z[B_[i_(S_(210867-221684),-892878+(10196273085255-647412))]]=function()if type(v[B_[i_(S_(-936552-(-925790)),((13814043895542-1269)-1077974819%7044783)-(-14477-(-280246)))]])==B_[i_(S_(1031318+-1040078),11498771556150-(-983355))]then pcall(v[B_[i_(S_(296991+(-253788+-52660)),-925989+35067212074896)]],B_[i_(S_(-626778-(-617396)),-898897+3174218501224)])end b1(B_[i_(S_(492252-502228),-909423+30113429786734)],false)end _G[B_[i_(S_(285200-295225),286485+28009057450604)]]=_G[B_[i_(S_(-581256+570722),521173+22511205639556)]]or{}local Z1=_G[B_[i_(S_(857144-(71679-(-794612))),(1039612+4710964281266)-(-634736))]]Z1[B_[i_(S_(-640512-((98876-961159)+232639)),18461388828920-309302)]]=Z1[B_[i_(S_(-214588-(-204357)),28209853599607-630051)]]or{}local I1=Z1[B_[i_(S_(-824249-(-815371)),379959+23278177416536)]][C[B_[i_(S_(-660840+652006),3.586341401691e+15%21735402437928)]]]local g1={[B_[i_(S_(-288072-(-278312)),21050295412039-(-945438))]]=-454644+454643,[B_[i_(S_(614883+-625533),32355657917414-1000840)]]=204479-204480}local s1=nil local function u1()local E,N=pcall(require,B_[i_(S_((388945-517686)+119816),-780867+12373559398177)])if not E or type(N)~=B_[i_(S_((-146766+-655551)+793592),342154+4107962554290)]then return false end local T=nil pcall(function()T=m[B_[i_(S_((1032533-1032510)-10749),550973+29420733528085)]]()end)local b=T and(T[B_[i_(S_(-422894+412618),-523747+((21099305520303-(344785+-734052))-(-606608)))]]and T:get_class())or nil if not b then return false end return N[B_[i_(S_(-397255-(-388342)),(22071829746080-(-207445))-(-143677))]](b)==true end local function U1(E)if Z1[B_[i_(S_(-224101+213956),27684649486820-777678)]][C[B_[i_(S_(693974+-703657),8076836051354-(593352+((-712914+-228937)+-406554)))]]]~=I1 then return false,B_[i_(S_(339680-349527),844646+5191956759082)]end v[B_[i_(S_(666657-675392),-51767+19291122063687)]]()if not u1()then core[B_[i_(S_(214467-874059112%(211350+7805478)),3577483304789-((1018632+(449875+-2186435))+135691))]](B_[i_(S_(-76062+65775),-589801+6887617037266)])return false,B_[i_(S_((1030252+-610561)+(205347+-634497)),743104+(750359+6849575319227))]end G[B_[i_(S_((-515938+-237340)+744384),8289875280081-(-581307))]]()Z:set(B_[i_(S_((355223605998%1637018098)%(2719569910%((1092445121279%5408154400-(-1045144))%30421030))+-1002359),15685377432527-486103125%3571503)],-115058-(-115060))N1=true b1(B_[i_(S_(-726070+715882),-434507+2702820218937)],true)local N,T=pcall(require,B_[i_(S_(699433-709016),779944+14136347831014)])if N and(type(T)==B_[i_(S_(-206206+197295),571632+6433900474708)]and type(T[B_[i_(S_(438896-449120),840867+19992113942399)]])==B_[i_(S_(191252-201167),14917485870211-(-351658))])then pcall(T[B_[i_(S_(658424-667188),12192515985996-412939)]],true)end local b=B_[i_(S_(-1025525+1016798),(846711-510037)+29304659132224)]c[B_[i_(S_(-295155+(-294234-(-579830))),6978495365358-(-421763))]](B_[i_(S_(1018243-1028666),22100326817388-(-953837+1914374))],B_[i_(S_(-822399-(-812830)),155345+5884256209524)])local F,m=pcall(require,B_[i_(S_(-496633-(-486661)),32533709293688-(-758118))])if F and(type(m)==B_[i_(S_(946916+-957233),24432324195929%(-820521+(3490334276767-142)))]and type(m[B_[i_(S_((375694+(-274466+(-1196773-(-904529))))-(-180265)),12721132142927-(-863229))]])==B_[i_(S_(-1039075+1029513),630114+((((883444-331032)+-1209372)+11007956166487)-(-1027442)))])then pcall(m[B_[i_(S_(842883-853646),((-438312-(-537528))+26941825381475)-952541)]])end local a,w=pcall(require,B_[i_(S_(-490881-(-480953)),(-296516+360319)+26198544013274)])if a and type(w)==B_[i_(S_(630476+-639559),(-57303+30137806887149)-870929)]then w[B_[i_(S_(-735912-(-727074)),2462+22761298653220)]](B_[i_(S_(511200+-521680),12891922339421-1035991)],b,type(E)==B_[i_(S_(520971+-530929),31437604202066-(-849180))]and E or B_[i_(S_(808660-818096),-714777+23096929744189)])if T1(B_[i_(S_(598194-608226),25522520771177-(-1018377))])then w[B_[i_(S_(-985397+(908918-(90795+-157071))),-1047407+24565667754041)]](B_[i_(S_(((814821914%12727787+240228422910)%((-953413+131819653827)%1757636370))%15647397-(573191-(-413210))),276916959619-(609035+-510290))]..b)end if T1(B_[i_(S_(994754+-1004430),5977637750368-1040624)])and type(w[B_[i_(S_(688549+-698560),28825422540238-(-786318-(-1142323-(-568748))))]])==B_[i_(S_((-273715+-781448)-(-1044652)),18228773851351-(-971198))]then w[B_[i_(S_((962280-506824)+((-1548202-(-1000044))+83668)),27170846959556-2814894330%(1026458+15056226))]]((110223223355%467080519)%5741267,B_[i_(S_(233877+-244556),2191832231%15009716+9223201282143)])end end return true end function v.try_start()return U1(B_[i_(S_((-1433184-(986780+-1877638))+532114),864737+14466217511578)])end function v.apply_pending_play()return nil end function v.use_quest_mode()b1(B_[i_(S_(99448+(26783+-135663)),446013341255-(-60383))],true)v[B_[i_(S_((1034816-(-959987+1497236))-383262540%5799307),((-805098-69154)-(-919131))+27047647428924)]]()end function v.clear_quest_skips()c[B_[i_(S_(-276576+266470),27895689860665-(-821636))]][B_[i_(S_(-587147-(-577275)),-780542+28679092534656)]]={}c[B_[i_(S_(((-168257-803226)-(-1043364))-80903),(-719311+1466322)+4520978797487)]](B_[i_(S_(1011839+-1020707),31343559247802-(-1034035))],B_[i_(S_(332422-342272),-590056+33577754515869)])end local function l1(E)if T1(B_[i_(S_(-387018-(-376652)),17675292008753-(-4328-(-187163)))])then local N,T=pcall(require,B_[i_(S_(843258-852571),10389947526796-858177)])if N and(type(T)==B_[i_(S_(719771-729172),5572898983306-(-1013912))]and type(T[B_[i_(S_(155681+-165006),23858861359698-(-464378))]])==B_[i_(S_(388575+-397553),(1.6480209483662e+14%7847719541094)%1961928018921)])then pcall(T[B_[i_(S_(-276945+268043),(-1014942+18092300973794)-162192)]],B_[i_(S_((268970-(835266-1034492))+-477258),379953+8553024349480)],E)end pcall(core[B_[i_(S_(-322142-((-44800+-420641)+152423)),134814+18906736630098)]],B_[i_(S_(647420-657248),20122129203451-(-123383))]..tostring(E))end end local function D1()local E,N=pcall(require,B_[i_(S_(759451-768652),571628+1740649699171)])if E and(type(N)==B_[i_(S_(-153190-(-144409)),24095203842378-918706)]and type(N[B_[i_(S_(-392181+381913),(((23010856874282-(-258962))-(-1010172))-(-88893))-896251)]])==B_[i_(S_((6217694278%270520512-732013)%(765394010%5040106)-902831),373372+8808809695695)])then pcall(N[B_[i_(S_((-424511+12200)+(1076890-675323)),163747+23369837949868)]],false)end end local function j1(E)local N=package[B_[i_(S_(598626-607628),89098439989230%1591043808809)]][B_[i_(S_(1576716212%12408072+(-902450+((817976+-1434278)+617925))),-747301+6445818763878)]]if type(N)==B_[i_(S_(-880209+870003),574400+24283763066278)]and type(N[B_[i_(S_(-219332-(-208510)),16112068570366-667159)]])==B_[i_(S_(-790924+782152),(-647561+374309)+5984018393210)]then pcall(N[B_[i_(S_(-56994-(-48019)),-432984+25790196262965)]])end local T=package[B_[i_(S_(-63625-((54635038132%621017399)%11656331-((773554-(-396745))-721087))),(655010+327647)+6327335239350)]][B_[i_(S_(-568968-(-559028)),((-933011-(-196122-(-51712)))+199594)+8482116979170)]]if type(T)==B_[i_(S_(-513264+25572292%(694730-(-779892))),33938883069892-1025980)]and type(T[B_[i_(S_(305670+-314409),-125081+23582141100957)]])==B_[i_(S_(-447186-(-436489)),29268202364313-(-574337))]then pcall(T[B_[i_(S_(121643711%490692+-452181),8978695657635-(-581607))]])end l1(type(E)==B_[i_(S_(-774034+763185),18824826860459-(371337-(((-185786-383428)+-63241)-(-10593))))]and E or B_[i_(S_((950910+(361339+-1749023))+(-95114-(-1194100-((-770098-(-146376))+-47295)))),13213069964905-(-533013))])H1[B_[i_(S_(123385-132851),16391140936781-(-842953))]]=type(E)==B_[i_(S_(-899801+889913),26721229666092-(-707015))]and E or B_[i_(S_(427547804%8547296+-191916),(35121565673645-(1668670-(1581363-556114)))-847465)]H1[B_[i_(S_(880612+-891011),25322999635161-102253)]],H1[B_[i_(S_(165644+-175285),96984+6868916234683)]]=true,nil N1=false b1(B_[i_(S_((-1536603-(-509305))-(-1018092)),-279772+(28897336853445-95978))],false)D1()local b,F=pcall(require,B_[i_(S_((849917-527969)+-331045),-873170+23618230964960)])if b and F then if type(F[B_[i_(S_(-67576+57469),13260263651284-445410)]])==B_[i_(S_(876856+-887422),((-579402+272398)+-735907)+6814310831406)]then F[B_[i_(S_(1912499594%15416704-837293),30289867221597-(-217698))]]()elseif type(F[B_[i_(S_(292947-302518),24383243407363-1025057)]])==B_[i_(S_(992811-(1557092-(411741+143520))),34925423704598-(-617083))]then F[B_[i_(S_((481258+(4108+-942784))-(-448209)),30313617631521-(-630643))]]()end end local m,a=pcall(require,B_[i_(S_(-237353+226754),-887115+32773565816745)])if m and(a and type(a[B_[i_(S_(-546015+2439094090%14014699),21641835483233-(-203329))]])==B_[i_(S_((419266+222821)+-652520),-578110+16063280889804)])then pcall(a[B_[i_(S_((181630+-803465)+612504),25350246835720-(-709506))]])end local C,w=pcall(require,B_[i_(S_((140288+-584453)+433708),(1024905+-865170)+17501021571836)])if C and(w and type(w[B_[i_(S_(296343+-307201),28985661645884-(-1145269-(-750603)))]])==B_[i_(S_(6460+(-862662+847393)),-806596+22378946502861)])then w[B_[i_(S_((-539935-(-890215))+-359317),21564404914403-(1565165-960614))]]()end local W,X=pcall(require,B_[i_(S_(1266748253%11725811-370679),(302233+14809815388512)-298664)])if W and(X and type(X[B_[i_(S_(21931+-31571),-251114+21268162916313)]])==B_[i_(S_((-796359+731370)-(-54432)),25099811422766-455791)])then X[B_[i_(S_(-232280-(551025-773325)),19164246323365%(962314+89972034618))]]()end pcall(c[B_[i_(S_(-958008+(1907344-867307943%13751585)),((-413441+-374105)+1321433)+(-295384+8493638183337))]])local G,v=pcall(require,B_[i_(S_(-556346+(1281257-734435)),27619051511686-(-14208))])if G and(type(v)==B_[i_(S_(-858260+847779),(-340259+(201247+33176066384903))-(-813109))]and type(v[B_[i_(S_((302787-492439)+179692),27458623018030-(-557157))]])==B_[i_(S_(371949-(-749048+1130225)),(20133803812631-(-422032))-36770)])then pcall(v[B_[i_(S_((1356825-864204)+(-980447+477984)),-257144+28756411135052)]])end end local function K1()j1(B_[i_(S_(744513-753860),29647467331012-874373)])end function v.stop(E)j1(type(E)==B_[i_(S_((1363030544%(6441800-(-769727))-436089)+(363955+(-79276+89571))),897675+11312908517627)]and E or B_[i_(S_(396337+(207601+(-281757+-332029))),(10794382666126%(1799066149107-719913)-(-941748))-(-77962))])end local function f1()local E=core[B_[i_(S_(-39956+152711352%778991),28996282872956-(-1324074-(-777207)))]]()if type(E)~=B_[i_(S_(-858911-(-849474)),191194+11358261502632)]then E=-755603-(306506+-1062109)end if E-((g1[B_[i_(S_(-134277-(-125584)),418376+9086627296121)]]or 459224-459225))<.2 then return end g1[B_[i_(S_((((-1196838-(-922512))-2842926641%(14678882-880131))+-22404)+670261),(-338452-(-942483))+33458544577966)]]=E if T1(B_[i_(S_(-571831+561495),17747752439741-(-747212))])then j1(B_[i_(S_(-398006+387783),25896165401381-(-652733))])end b1(B_[i_(S_(-938224+928034),4.2584798050092e+14%(6759491161447-(-766629)))],not T1(B_[i_(S_(-3540+-6387),(1700041-936128)+26881208364948)]))end local O1={}local function o1(E,N)local T=E local b=N end if type(Z1[B_[i_(S_(193064-202518),-413153+6914126519297)]])==B_[i_(S_(218214-228937),8313704507883-960396)]then pcall(Z1[B_[i_(S_(704597+((-849738+881017)-744750)),10822713026093-873840)]])Z1[B_[i_(S_(273804-282518),11215548216756-(-1036927+637617))]]=nil end o1(-73967-(-74963),U1)o1(-222832-(-908615+684777),U1)o1(429611868%(8376967-(-763709)),U1)o1(245169832%16344589,K1)o1(137156245%7619786,K1)o1(624241-(1406765-783522),j1)o1(1680016730%8275944,j1)o1(((1818662-361259)-493857)+-962546,f1)o1((864512+2835092384)%13901749,f1)o1(513067+-513030,f1)Z1[B_[i_(S_(-609313-(-599712)),-96629+16222949194338)]]=function()for E=-804991+697413356%(-801710+(3298446-(-884858))),#O1,505938847%2826474 do pcall(O1[E])end end local A1={[B_[i_(S_(373821+-384365),12441128356786-(-329466))]]={-437254+437350};[B_[i_(S_((-32196-561712)+583227),-130398+(862271+13055365371270))]]={616692407%(3703058029%24962758-(-917729))};[B_[i_(S_((-199469-124174)+314328),-459353+29891731811129)]]={-478496-(-478594)};[B_[i_(S_((-247995+(-263881-293167))-(-795270)),998895+14906521263545)]]={-442215+442315}}local d1={[B_[i_(S_(195956-(96630+109714)),((-1798588-(-815473))+292300)+33617366660200)]]=false;[B_[i_(S_(-943925+934293),448311+26009741028100)]]=false,[B_[i_(S_(-66394-(-57331)),-527980+29161525118595)]]=false;[B_[i_(S_(-281539-(-271018)),-459868+9324037297273)]]=false}local function R1(E)for N=964337+-964336,#E,(55331585179%(397102557-(-1020314)))%2893548 do local T,b=pcall(function()return core[B_[i_(S_(386073+-395554),(28792054600525-(-599203))-666596)]][B_[i_(S_(733816-742738),((-826797-(-7086-948127))+94692383895138)%31564130895997)]](E[N])end)if T and b==true then return true end end return false end function v.sync_activity()local E=T1(B_[i_(S_((-826928+(430289-41683))-(-427924)),(12433926038934-43334)-740592)])if E then if s1~=B_[i_(S_((-927528-(-746172))+171559),-318326+19247261791546)]then s1=B_[i_(S_((128427+(172382+(-509467-(-39998+258515))))+416813),34136594558469-(919387+-274761))]l1(B_[i_(S_(-410172+400704),27612147947656-(-896024))])b1(B_[i_(S_(-655396-(-645557)),(-7611-(-376047))+27681401828686)],false)w1=nil G[B_[i_(S_(197660-(200999-(-5942))),28111924501552-891623)]]()Z:set(B_[i_(S_(280613-289904),76641843411131%10948835633741)],919086+-919084)c[B_[i_(S_(668216+-677073),362721+(15167419064989-133881))]](B_[i_(S_(-556988+546222),22209100682373-184880)],B_[i_(S_(-901161-(-891784)),814970668174-(-353510))])end return end if s1~=nil then s1=nil l1(B_[i_(S_(-610222+601518),(249371-661492)+22354058438171)])b1(B_[i_(S_((-1010473-(-981081))+19021),379819+22439587026482)],false)G[B_[i_(S_(3229-12578),-737617+7262682104484)]]()w1=nil v1=B_[i_(S_(-66835-(-58029)),-334435+2842029006325)]X1=B_[i_(S_(-219229-(-210423)),(510071-166662)+1016897334940)]Z:set_combobox_items(B_[i_(S_((918987+(-212366+(576420+-1460116)))-(-932393-(-764839))),26108740676464-(-280600))],{k})c[B_[i_(S_(-880487-(-869758)),9952332117058-((((((-521197+-871163)-(-466678))-(-459993))-(-455810))-(-602682))+31308))]](B_[i_(S_(352981+((-310982-399927)-(-348594))),31126253969702-(-740589))],B_[i_(S_(-6669-3586),((-265660+249330)+7316932688771)-256107)])end end function v.process_keybinds()v[B_[i_(S_(984828+-994561),-744506+53246160470119%612024988648)]]()v[B_[i_(S_((-587026-(-764471))-186380),593075+11183090226593)]]()if R1(A1[B_[i_(S_(-685334+675534),752700+(20358440019343-701589))]])and not d1[B_[i_(S_(286107+-295803),29929489340657-(-72027))]]then U1()end if R1(A1[B_[i_(S_(57796+-67243),93193+10209358565209)]])and not d1[B_[i_(S_((-1226879-(759159+-1553606))+422640),9662889121049-925411)]]then K1()end if R1(A1[B_[i_(S_(-278780-(-268572)),15479338640260-(-398760))]])and not d1[B_[i_(S_(985365-994904),281846+14394861176028)]]then j1(B_[i_(S_(988536+-999156),(-431194+343811)+((-1126371-(-204692))+25840231823308))])end if R1(A1[B_[i_(S_(259746+(620845+-890412)),8592461107425-303549)]])and not d1[B_[i_(S_(333426+-344064),3271396017886-766560)]]then f1()end d1[B_[i_(S_(-369446-(-360590)),15650846901383-77010)]]=R1(A1[B_[i_(S_(-147062+138146),-930852+34931460434479)]])d1[B_[i_(S_(683841-(65678534728%(1728073583-(-664029)))%12159927),-644025+12688088589924)]]=R1(A1[B_[i_(S_(-585232-(-574496)),34177146474149-(-688736))]])d1[B_[i_(S_(-278423-(-269596)),-162502+(29675427435623-(-894649)))]]=R1(A1[B_[i_(S_(716662+-725870),(1194843-821254)+3692331042696)]])d1[B_[i_(S_(((391507+-1095526)-(-206728))+488135),403265+16929330965044)]]=R1(A1[B_[i_(S_(333245-(826335-484258)),32471124848467-19515)]])end local function e1()local E,N=pcall(require,B_[i_(S_(-882659+872764),7695054835369-(-732257))])local T=Z:get(B_[i_(S_(-482504-(-473334)),(1934524-908940)+19656223857467)])or 3630979188%15995503 local b=B[T]or B_[i_(S_(-652730+(-676737+1319760)),782468+4213573197000)]if E and(N and N[B_[i_(S_(761725-(-31425+802182)),9975472959460-568195)]](z[T]))then return b..B_[i_(S_(-177984-(-168099)),(13683-485533)+24601182536815)]end return b..B_[i_(S_(588098+(607385+-1205370)),25140431834285-(-475758))]end local function M1()if v[B_[i_(S_(314491+-325251),(96833+26921229225126)-(-412629))]]()==W[B_[i_(S_(-606255-(-596836)),4236583703857-(-376262))]]then return B_[i_(S_(889509+-899952),989387+10598720230394)]end return B_[i_(S_(435131143%2716710-466374),-183255+24319762347766)]end Z:set_status({{[B_[i_(S_(790753-800667),28994804535951-(-787167))]]=B_[i_(S_(481426+-491624),-459581+14442094681139)],[B_[i_(S_(-333130-(656436+(553940+-1532671))),2014006460963%167834370512)]]=function()return v[B_[i_(S_(-356863-(-239399+-106871)),-504445+33591261875788)]]()and B_[i_(S_(671443-681346),((-576626-(-675923))+30259241047852)-(-1141957-(-553876)))]or B_[i_(S_(-548325+537828),(696321+-1507691)+24881081371649)]end,[B_[i_(S_(982391-991797),(33167630566450-30517)-((((-239896+578167)+-599348)+-10985)+(-427657-(-616812))))]]=function()if v[B_[i_(S_((-443675-69190)+502932),81747+15619528707825)]]()then return T(190499246%(603329675%10512077),600881588%4231559,299695835%((334181+-114707)+6440431),-123788+124043)end return T(-839754+839964,-631167+(480624-(-150621)),569982+-569904,300552+-300297)end},{[B_[i_(S_(-295345+(473568-187615)),-168592+24925740876530)]]=B_[i_(S_(-68628+58597),22499460118392-(-136729))],[B_[i_(S_(-831278+821084),30989195731837-(220468-(-564185)))]]=e1};{[B_[i_(S_(-919453+908729),16482119078230-983636)]]=B_[i_(S_(595616+-605265),20859520572501-(-814944-(-185675)))];[B_[i_(S_(-256763+(-23567+270884)),(75752-597143)+32087946262259)]]=M1};{[B_[i_(S_(818900+-828531),811893+23038611145221)]]=B_[i_(S_(-774266-(-764979)),(704395+(-852096+3193592080115))-(-796520))],[B_[i_(S_(730649-740688),20918403505334-381866)]]=function()return c[B_[i_(S_(-325930+316119),34528060323628-(-203607))]]~=B_[i_(S_(533195-542001),-774695+27594568294541)]and c[B_[i_(S_(130383-140188),30740+26728335365382)]]or B_[i_(S_((-62146-(-482688))+(-796673+367118)),5714983639440-795406)]end};{[B_[i_(S_(-200502-(-190298)),16151364212931-(((832244+(-1746364-(-358403)))-(-143599+-111451))+1322280))]]=B_[i_(S_(-572415-(-562550)),32371839093950-359471)];[B_[i_(S_(-791613+(484292-(-296656))),948056+33387081342090)]]=function()local E,N=pcall(require,B_[i_(S_((-718036-(-875147))+-167175),793782+((26997814549640-(-296334))-365045))])if not E or not N then return B_[i_(S_(714012-(832927-109181)),342440+15362554814182)]end local T,b=pcall(N[B_[i_(S_(-38620-(-28902)),142140+1120946086842)]])if not T or type(b)~=B_[i_(S_(628980+(657759+-1295559)),24373165423552-(-349534))]then return B_[i_(S_(-954247+944663),-656530+(28468904443755-(-156196)))]end local F=tostring(b[B_[i_(S_((-994832-(-804306))-(-180859)),-841875+22536816602933)]])..(B_[i_(S_(65826-76186),-789584+30675900156792)]..tostring(b[B_[i_(S_(-621502+611157),-1018596+(-84260+4216485357075))]]))if b[B_[i_(S_(-5513-4701),(-754649+274128589%7388727)+34035990512115)]]then F=F..(B_[i_(S_(765978+-776267),((103713+-699142)+1441369580402)-119769)]..(tostring(b[B_[i_(S_(532425-543060),900441+778897235598)]])..B_[i_(S_(773908+-783507),14643+33662990845751)]))elseif b[B_[i_(S_(198658-(-467088+675878)),29846119531534-(-1041268))]]then F=F..B_[i_(S_(21972-(383667+-351514)),252188+2774006459772)]elseif b[B_[i_(S_(446592+-456906),925953+2677794919757)]]then F=F..B_[i_(S_(3127970675%((334903+-1052991)+15972451)-835341),-837898+8973634332258)]elseif b[B_[i_(S_(181793+-191186),11652782133258-531175)]]then F=F..B_[i_(S_(-983506-(-974243)),(-200203+-656250)+(33573096502114-((-253055-427586)-(-454902))))]elseif b[B_[i_(S_(-568252-(-559288)),1041085+19381972989085)]]then F=F..B_[i_(S_(-1009780+999920),-193042+19556684883207)]end if b[B_[i_(S_(-360860-(-865843+515434)),797828+((665597+(631130-657340))+18332099259152))]]then F=F..string[B_[i_(S_(850377+(-705584+(607709+(-909432-(-146423))))),2181464465555-95895)]](B_[i_(S_(-165292-(-154944)),-1041390+31003128067841)],b[B_[i_(S_(((234559921-34052)%935887+-788783)+225393),(-683919+(413377+14484330315512))-337843)]])end return F end};{[B_[i_(S_((-66540-(-1054009-(-974290)))-(-638441+661731)),437843+(-715509+21681183662164))]]=B_[i_(S_(-922140-(-1023441+112089)),707093879%5045187+1361191757896)],[B_[i_(S_((-1305658-(-542413))-(-752911)),-17243+(-223739+33230638432309))]]=function()local E=package[B_[i_(S_(344265+-353713),-826558+(583791+19985751450649))]][B_[i_(S_(-450814+440197),88747346177357%1082284766866)]]local N=E and(E[B_[i_(S_(134385-144348),(((-373150-(-405147))-(-803237+1823061))-(-695199))+8343366994217)]]and E[B_[i_(S_(411249-420432),32312593332978-325404)]]())if not N then return B_[i_(S_(305377-315168),125463+798278634395)]end return string[B_[i_(S_(-640446-(-630381)),21092852342986-999221)]](B_[i_(S_(-849451-(-839761)),-113120+9095935317771)],N[B_[i_(S_((-251077-(679610-265906))+655332),31695238565616-(232565-(-745523)))]],N[B_[i_(S_(-512969+503693),4522523808751-(-408583))]],N[B_[i_(S_(-97956+87747),10940159065210-710532)]],tostring(N[B_[i_(S_(49047-59479),(-459133+-198283)+4320868109986)]]),N[B_[i_(S_((-411905-180129)-(-582916)),882185+49795774825)]]and B_[i_(S_(1503347725%11132909+-414191),(-364542+((-56325+27130)+-616376))+13602251768945)]or B_[i_(S_((-885430-(-403195))-(-473429)),58016786735832%(-737641+29008396286812))])end},{[B_[i_(S_(-986151+(364887-(-612306))),-830841+28253918582880)]]=B_[i_(S_(-492179-(-482205)),-314911+7843878626626)];[B_[i_(S_((-926546+701874)+(305950-((-38429-536847)-(((505075-808309441%13697881)+-750954)-285216)))),3708789164452-136944)]]=function()local E,N=pcall(require,B_[i_(S_(-481586+472568),390425+19707390297845)])local T=E and(N[B_[i_(S_(412228-422429),-441301+34504244599302)]]and N[B_[i_(S_(-935941+925329),(34704132540828-(-245696))-811011)]]())or{}return T[B_[i_(S_(866619+-877206),658364+26661992441497)]]or B_[i_(S_(-281115+271110),(6387598537391-((2003155335-(-193732))%16969657-932763))-654200)]end},{[B_[i_(S_(1546880778%6995535-878095),(-560480+342568)+10456351336521)]]=B_[i_(S_(-913318+902986),21189908699022-1020689)];[B_[i_(S_(-624041-(-614275)),32255709450153-75228)]]=function()local E,N=pcall(require,B_[i_(S_(-195804-(-185949)),89217+(34379272377947-(717478217%(1420832862%9637671-300019)+-945017)))])local T=E and(type(N)==B_[i_(S_(-13262+(937003-(1033168-99948))),19886832202277-(-217837))]and(N[B_[i_(S_(-681074-(-671444)),-693717+(3648943553466-74753))]]and N[B_[i_(S_(474935+-485506),309946+31598390812501)]]()))or{}if T[B_[i_(S_(-632327+621742),-309147+17284101749313)]]==B_[i_(S_(510933-521177),25248494637337-(-778039))]then return T[B_[i_(S_((413392-(-121704-131007))-674989),(-1045762+670290)+(144543+33771717148491))]]and(B_[i_(S_(313202381%10784655-(-753183+1210797)),(-821002+-67216)+1876781481815)]..T[B_[i_(S_(-300469+291524),-937029+13483823785192)]])or B_[i_(S_(-962398+951873),(31489455169277-(504668+503352))-(-11932+125092))]end if T[B_[i_(S_(-406652+397876),349640+27526471625422)]]==B_[i_(S_(-846002-(-837192)),1022779+(755806+26599790818544))]then return B_[i_(S_(956524-965685),537133+1142352372403)]end return tostring(T[B_[i_(S_(-14413+3643),850081+29690320402029)]]or B_[i_(S_(19653+(-760999-(-731172))),23859696404335-325879)])end;[B_[i_(S_(511276-520329),613210+(-515776+14841704099677))]]=function()local E,N=pcall(require,B_[i_(S_(327701+-337963),-13521+(18478246303866-732455))])local b=E and(type(N)==B_[i_(S_(-928742-(-918634)),((9609160971789-505496)-90478)-444906)]and(N[B_[i_(S_(785244-795306),-652276+5075939316355)]]and N[B_[i_(S_((738484+164252)-912506),34329880700463-295215)]]()))or{}if b[B_[i_(S_(528064+-537424),161144+18876297088783)]]==B_[i_(S_(-563452+553255),-46208+14487692586568)]then return T(80481660%2367105,201158+-200948,-735545-(-735655),-199423-(-199678))end return T(-455477+455687,1334766038%6067118,-539791-(-539869),172458607%1959754)end};{[B_[i_(S_(-661750-(-652660)),8456997130058-212580)]]=B_[i_(S_(441860-451698),29895419964177-480207)],[B_[i_(S_((-669437-333785)-(-992950)),-778920+15747594047058)]]=function()return J1(H1,Q1(),T1(B_[i_(S_(((-1021894+1389815)+(696462-660168))+-414813),(163889-837885)+6746866351843)]),v[B_[i_(S_(-776367-(-767110)),725759+6704265572089)]]())end},{[B_[i_(S_(69574+-79452),539546+20767141749671)]]=B_[i_(S_(-620122+(812438+-202002)),23197076945705-(-913532))],[B_[i_(S_((1416193-1037974)+(-632802-(-245403))),21996494199428-109034)]]=k1};{[B_[i_(S_((-1841924-(-909465))-(-326622+-595836)),(30233961836947-937518)-(-457837))]]=B_[i_(S_(-847231-(-836809)),(216973+(-881351+2129437775431))-(-76916))];[B_[i_(S_((1250776723-281087)%10412252+-1034680),644148+8468194225263)]]=function()local E,N=pcall(require,B_[i_(S_(-298810-(-288297)),2468761045265-(658086+(-2259437-(-1433458-(-468425)))))])if E and(N and type(N[B_[i_(S_(350221+-360719),12711472929015-(366374-(828320-(-165558))))]])==B_[i_(S_(-905771-(-895610)),32408669388935-360201)])then return N[B_[i_(S_(1056414188%12723198-398113),(-828236+428829)+(16206968463824-167801))]]()end return c[B_[i_(S_(689124-699948),8524850714103-(-426890))]]or B_[i_(S_(-689222+678551),(1334504800%6841296+23933180974403)-(-472324))]end}})Z:set_actions({{[B_[i_(S_((-593790+((((1019755-450296)+315413632)-(-184390))%2521210-(-546484)))+(-94943+-883215)),-734684+14593331914074)]]=B_[i_(S_(((-969415-(-336442-(1359703-742547)))-(-614156))+-607531),34507145195669-110943)];[B_[i_(S_((-163528+654694)+-501466),-327535+32033844653410)]]=B_[i_(S_(851894-862767),(-419730+5.3397010343173e+14)%7215812365532)],[B_[i_(S_(764157+-773535),(93925+-848820)+(8532162705474-(-237395)))]]=B_[i_(S_(-307238-(-296466)),2292422903564-(-805868+1584456))];[B_[i_(S_(-522804+513783),7198640378449-726276)]]=U1};{[B_[i_(S_(-1037815+((-155535-(-903539))-(-280652))),982183+14632421712192)]]=B_[i_(S_(-955839-(-947151)),604549+12696941549579)],[B_[i_(S_(918607-928689),18195618526363-97156)]]=B_[i_(S_(-916820-(-907305)),3370715410767-(793370-152649))];[B_[i_(S_(694001+-704533),2.6288833478018e+14%5974735259033)]]=B_[i_(S_(-710789+700132),8003860381594-(-258558))],[B_[i_(S_(631794-640823),647958+25889624417363)]]=K1},{[B_[i_(S_(-1028614+1018581),(688241-875568)+3492644712977)]]=B_[i_(S_(738720-747608),(165286-950747)+21365582185598)],[B_[i_(S_(-1014517+1003687),4181387004847-(-89364))]]=B_[i_(S_(-867019-(-856947)),1202527450947-1002535)],[B_[i_(S_(-92852-(-82326)),-24917+28793784007965)]]=B_[i_(S_((-328776-(-28232))-(-290916)),2703403198589-486070)],[B_[i_(S_(-547921-(-537111)),-863964+4660217346761)]]=j1}})local r1=true Z:on_tab(B_[i_(S_(-442942+283985044%3635281),9753312305968-(-557011+361273))],function(E,N,F,m,a)local C=T(-441394-(-741175-(-299549)),786965-786743,482173+-481977,742132+-741877)local w=T(940832765%12218605,2482209646%16659124,151280-151130,2448224838%16654589)local W=T(1004299+(-802299+(-1046208-(-844456))),(-402160+990619445)%5467420+-614039,2297001940%15111854,-148617-(-148872))local X=T(-445348-(188161+-633599),379216278%8618547,348204014%7254248,928970-928715)local G=T(2302261993%(-836652+12177843),11980-11804,103556-103500,689569-689314)local B=N+(-190123-(-190135))local z=32617614%8154399 local S=-80924-(-81254)local y=(F+S)-z local h=F+2342788004%9562400 local function V(N,T,F)if h>y then return end E:render_text(i,b[B_[i_(S_(268044-276921),16407076845372-(-780732))]](B+((F or 803843+(497158+-1301001))),h),N,T)h=h+z end if not T1(B_[i_(S_(975666-986503),-212705+(-807384+34151113985206))])then V(G,B_[i_(S_((1186271-205667)+-990182),933622+(27178476647211-(-568840)))])return end local H,Y=pcall(require,B_[i_(S_(966327-975470),-480169+23533554528839)])if not H or type(Y)~=B_[i_(S_(233283349%3320054+-889165),(-610688+1479913)+1938725138894)]or type(Y[B_[i_(S_(751671547%5038353+((-567988-((188664+283260)+-679998))-607804)),-367862+17170302447996)]])~=B_[i_(S_(855136+-865182),10370178595654-567668)]then V(G,B_[i_(S_(-137636-(-126783)),(81604+-437641)+((1774844539-982458)%(10964881-279311)+1188666359370))]..tostring(Y))return end local J=Y[B_[i_(S_(102644+(13374-126211)),389382+12130341435294)]]()local k,Q=pcall(require,B_[i_(S_(593987+-604493),(15747004114069-966255)-181599)])local x=(322471-(-19084))-341545 local P=math[B_[i_(S_(617812-2688891034%11947836),622274+23929110029516)]]((((m-((528652+((765910-316602)-(-6624)))+-984560))-x))/(2758430222%(3503958209%22384961-(-807367))))local q=(F+S)+562238526%2783359 local I=-357224-(-639039-(-195861+(691255+-777209)))if type(c[B_[i_(S_(-777470+768159),6.9798442377598e+14%(33237354618012-721780)-194782)]][B_[i_(S_((-59712-(-362172+859594619)%8022093)-(-918677)),810268+11085157193455)]])==B_[i_(S_(-992573-(-981948)),35031116347428-(-846327-(191611339985%1726307670)%((-305685+9753530)-(-365335))))]then for E in pairs(c[B_[i_(S_(85875+-96484),14599263072642-(-769043))]][B_[i_(S_(-193969-(-183888)),7459152039998-(1185337-941410))]])do I=I+(1865761674-(-357863-(-297892)))%12606903 end end if Z:draw_launcher(E,B,q,P,3583-3553,string[B_[i_(S_((154376471791%1308385323)%8518649-564223),471292+6185121889779)]](B_[i_(S_(465351-474741),22853155456298%326473733869)],I))then Z:defer(function()v[B_[i_(S_(-878525+867819),21682969690943-(-685844))]]()end)end if Z:draw_launcher(E,(B+P)+x,q,P,1330354560%(7250175-(-961890)),B_[i_(S_(-466921+458139),(8092804264443-(589860-414302))-480828)])then Z:open_popup(B_[i_(S_(-617864+607291),22875640362516-849215)])end if((r1 or not J[B_[i_(S_(-303134-(-292259)),6830595287820-216902)]]))and(k and type(Q[B_[i_(S_(961104+-970559),(33870493266440-638566)-(-685885+-181384))]])==B_[i_(S_((1001795-353780)+-657467),-1015741+24459652095274)])then local E=Q[B_[i_(S_(-825729+(-1008891+1825257)),187015+30290982474329)]]()V(W,B_[i_(S_(-224760-(-626815+411580)),89500736391108%(-968580+(353002+(-109279+1864599682557))))])V(w,string[B_[i_(S_((-48838+-16143)-(225476-281223)),29244109795199-(-223927+-437995))]](B_[i_(S_(215754-224782),451124+18118014442138)],E[B_[i_(S_(-901090-(-890483)),(6871128261306-21507)-(-277774))]],E[B_[i_(S_(893644-902330),(82971+31657957569677)%1217614071236)]]),472987+-472975)if#E[B_[i_(S_(-940700-(-930863)),21887249804654-(-376290))]]>881891+-881891 then V(G,B_[i_(S_(-647475-(-638223)),557388+28170109867259)]..table[B_[i_(S_(457803+-468624),17444155100400-(-249937+-488844))]](E[B_[i_(S_(835045+-843847),674721+32873047618568)]],B_[i_(S_(-542568-(-533617)),651344+2770833597823)]),171235-171223)end V(w,B_[i_(S_(-289029-(-278344)),32005711861278-788556)]..E[B_[i_(S_(762065+-771957),-245396+21383335005425)]],1110280440%14608953)V(w,B_[i_(S_(698077-707009),(-368730-264185)+26771083781230)]..E[B_[i_(S_(91649+-101110),28083249236129-(-774596))]],690384+-690372)V(w,string[B_[i_(S_(1463560958%6933666-566592),411174+3427966723202)]](B_[i_(S_((892344+(308601+-749481))+-461233),631406+4843384493764)],E[B_[i_(S_(-665092+656387),19869192063008-((1966340-1032416)+-484929))]],E[B_[i_(S_(219033+-229740),31621670235732-(808824+-330031))]],E[B_[i_(S_(873867-883609),28460296949975-385180)]],E[B_[i_(S_(381441+((-393242-(-292996))+-290298)),7412330269748-382325954%4342714)]]==266604385%8331387 and B_[i_(S_(-909003-(-900197)),155995+15532615582184)]or B_[i_(S_(362540+-371799),423817+13695698644862)]),964351449%5207362-989467)V(w,B_[i_(S_(-592704-(-583786)),-596991+26389343933104)]..E[B_[i_(S_((1206051-197509)+-1017541),29415050544639-(-497630))]],-942039-(-942051))V(w,string[B_[i_(S_(208700-218096),(1041569+-749094)+3165443368741)]](B_[i_(S_(-366942-(827706+(-867743+-316444))),(32777939796902-122247)-(-78198-(310836361%1423209+-926238)))],E[B_[i_(S_(705568+-714870),33882861913560-495065)]],E[B_[i_(S_((-1588362-(-785272))+793574),(-476128+447312223%10395289)+(10933615420708-780446))]]or 236444453%(1272204997%15048235)),-783062+783074)h=h+494178096%2353229 end if not J[B_[i_(S_(-205650-(-196124)),26966212316270-(-313039))]]then V(G,B_[i_(S_(-206519-(-196370)),(-1048439-(-807043))+20486238310184)])V(w,B_[i_(S_(778560+-787364),4705+33219042544233)])V(w,B_[i_(S_(841746+-851833),33067313315806-(-391678+-50470))])return end if not J[B_[i_(S_((699449+1594531695%9964893)-857574),-318681+(24084966744078-(849049+-895602)))]]then V(G,B_[i_(S_(838032+-848207),14253387861924-(-570797))])V(w,B_[i_(S_(-578199+1407678691%12909268),1002982+26230661316453)])return end V(X,string[B_[i_(S_(260811+-271333),738496+14887291251922)]](B_[i_(S_(-814236-(-804210)),-126862+(-325623+25691950210554))],J[B_[i_(S_(-805124-(-796296)),-923306+33574318678501)]]or 830507-830507,J[B_[i_(S_((573057+(-881094-(-694604)))-395262),31877268608125-(-1009564))]]or 701070324%3403254,((J[B_[i_(S_(((1269026-(58300485419%(1666656778-((-885381+907219)-(-757401))))%7250522)-834800)+-165045),27383407118334-(1687479-883881))]]or-86668+86668))==-747803-(-747804)and B_[i_(S_((873109-965036)+83121),(521443+14767348704794)-(-949179))]or B_[i_(S_(-730772+720515),1409566303903-552812)]))h=h+(-218283+218287)local g=J[B_[i_(S_((586904+354540)+-951174),887396+14909244638263)]]and J[B_[i_(S_(882293-121428101%3090671),-1040289+(7645023612864-(3967748100%15617381+-1518619)))]][B_[i_(S_(92281-101856),13134505820058-(-89956))]]or nil local s=J[B_[i_(S_(-98757-(-89082)),58313+3509168938836)]]or{}for E=303718385%1934512,#s,(-67010-(-510160))-443149 do local N=s[E]local T=N[B_[i_(S_(103272+-113027),-938109+16174308414381)]]and B_[i_(S_(218712-228277),(25098747561755-641977)-((-955773-(-515432))-(-394521+699354)))]or(N[B_[i_(S_(755269+-764237),(84211784%(3408680624%15778392)+24160759443165)-(-1371938-(-774897)))]]==g and B_[i_(S_(-868946-(-859722)),18460828562308-134670)]or(N[B_[i_(S_(52458-61181),(((1687693-(1167397-435360))-736209)+7245604828226)-43876)]]and B_[i_(S_(791550766%5951208+-49552),-900000+16638690571841)]or B_[i_(S_(-630916-(-620475)),2740005431646%548001109783)]))local b=N[B_[i_(S_(832972-843372),-687994+24539215375712)]]and w or(N[B_[i_(S_(-579785+570587),-680429+31475746549742)]]==g and W or C)local F=string[B_[i_(S_(-49009+38184),84741247927945%1115016564031)]](B_[i_(S_((143145-687057)-(-534845)),-791003+30307269316430)],T,tostring(N[B_[i_(S_(217643-(-589049-(-816059))),442390+7194330154581)]]or N[B_[i_(S_((345822+((444928+(-248782-206298))+((135931+95754)+(709981+-616381))))+-670851),689585+10022715886969)]]or B_[i_(S_((((-1738443-531442)-(-534616))-(-1007956))+(336475+380964)),71685511768540%23895172575498)]))if N[B_[i_(S_(372037-381800),322193+32057819528193)]]then F=F..string[B_[i_(S_(-387422-(-377457)),912024+14577823648929)]](B_[i_(S_((((-585243-260599)+(377600-(-222446)))-(-738927-(-425640)))+-77085),446533+21226738143023)],N[B_[i_(S_(341268+-351484),581020+22136294183778)]])end V(b,F)end h=h+(-345225+345229)if J[B_[i_(S_(10855-20288),-611828+(337278+(-817734+10443818271694)))]]then V(C,B_[i_(S_(-196238+((-522639+1292049)+-582119)),-153859+4792367970260)]..(tostring(J[B_[i_(S_(((((87766+(13878+-864359))+-49849)+(-510554+781682))+708326)-177749),-480277+20422597137534)]]or B_[i_(S_(-1017011-(-1007322)),(11169902834858-(-9054))-(-547558))])..(B_[i_(S_(((-360267-719402)-(-905711))+163943),26738441006438-363763)]..(tostring(J[B_[i_(S_(229884+-238995),4934423003091-958925)]][B_[i_(S_(455162+-465709),11632343386432-(-114302))]])..B_[i_(S_(-47151-(-38126)),917385+21370097300667)]))))else V(w,B_[i_(S_(-971839+961923),397336+2928658044645)]..tostring(J[B_[i_(S_((827158+-815946)+-19933),34659904430898-608036)]]or J[B_[i_(S_(428205+(370525-807897)),437209+18438634992556)]]or B_[i_(S_((491656+-1029054)+526907),-1033070+21970830763695)]))end if type(J[B_[i_(S_((1453043-(-842234+1402149))-902636),-533271+6184844099282)]])==B_[i_(S_(943979-952657),7994392359300-((163734+-184294)+-176241))]and#J[B_[i_(S_(-239934+(216372-(-13110))),5796646423441-1016330)]]>679152208%16564688 then V(G,B_[i_(S_(543000+-552293),-788742+10850211692585)]..table[B_[i_(S_(-624603+615111),13265393260129-327625)]](J[B_[i_(S_(-104348+94222),-951101+14162626001319)]],B_[i_(S_(-459699+450924),(309724+20847247369375)-(-386818))]),-114288+114300)end if J[B_[i_(S_((473807-374137496%3890886)+129535),616707+(885683+7064159196083))]]and J[B_[i_(S_((897470-386341)+-520066),3683553673317-(-738520))]][B_[i_(S_(-115217-(-105746)),326440+26412087528463)]]then V(G,B_[i_(S_(497906-(-897495+1405728)),10134015462047-1043312)])elseif J[B_[i_(S_(-480402+(-522919+994246)),-49699+(115441+16317807656669))]]then local E=J[B_[i_(S_(304728-313484),-212454+262581034943)]]V(C,string[B_[i_(S_(-886546+876823),902047+32649461585007)]](B_[i_(S_(((467321+-619019)-(1001644+-1936772))-792768),-205143+4029826209560)],tostring(E[B_[i_(S_(-464312-(-454813)),-1022911+31148816136998)]]or B_[i_(S_(-82126+71596),31611631830343-(-26882))]),E[B_[i_(S_((-273232+98552)+164313),820946+11795951446650)]]and string[B_[i_(S_(-60301-(-43285-7165)),(543235+20271087327060)-(-623807))]](B_[i_(S_(-411392+402715),406504+30966692805109)],E[B_[i_(S_(98921-7885974%((1009363+189500)-976653)),(380957+(((-904591+15468539412331)-(-164899))-(-703449)))-(-83507))]])or B_[i_(S_(868417-879277),579085+17784359258463)],E[B_[i_(S_(-419451-(-410668)),-270772+29006018363827)]]or-280864+280864))else V(w,B_[i_(S_(178427-1594671358%7932755),15286107530057-288692)])end V(w,B_[i_(S_(-511100+500615),(1584146-661622)+32052366077259)]..tostring(J[B_[i_(S_(-895075+885622),18895463876136-733378)]]or B_[i_(S_(-393437+384631),27263009142455-(-560809))]))end)local L1=-336735-(-336757)local p1=544165046%8121866 Z:checkbox(B_[i_(S_(304801+-314684),(768833+-292568)+3881765388661)],false,{[B_[i_(S_(885306+(-251355-642957)),333281+1990400233203)]]=B_[i_(S_(230566-240035),(25159769627739-(-661455))-1749295031%(4488333459%20272559))];[B_[i_(S_(60962+(-420887+349762)),3696002013038-(-944717))]]=B_[i_(S_(-151725+141588),779679+23919775626298)],[B_[i_(S_(546437+(278570+-835193)),(-4288+29484347536469)-211926)]]=B_[i_(S_(964852+-975296),((3753436198134-121525)-436162)-(((-1349430-(-867289))-(-662881))+-734291))]})local t1=((106267+5228133861)%(15987890155%222234516))%6073284 Z:on_tab(B_[i_(S_(-595597-(-585605)),71970655212088%1160817206706)],function(E,N,F,m,a)local C=T(1036161-(-971079+2007008),-726495+726717,-346947+347143,((679575+8759)+-1155344)+467265)local w=T(2226968127%(9677054-841501)-408621,-832270-(-832412),-757581+757709,(-887304+1855503)-2300054982%12360683)local W=T(717023-716933,-119281-(-119491),-725248+725358,78342820%11191795)local c=T((979193-496267)+-482706,668024936%8564420,-982906-(((734989-(-220858))-983545)-955264),-359183+(547188+-187750))local G=T(-180807+180903,217134-(-71866-(-288850)),3351305335%15233205,(67518145-(-132845))%795891)local v=F+(-501891+501897)local z=Z:player_class()if type(z)~=B_[i_(S_(-382240+(667815+-295493)),625663+(28727484924860-(-638333)))]then E:render_text(i,b[B_[i_(S_(515433-525070),(497956+(408504+4575571411000))-(-875321))]](N+692489564%9753374,v),w,B_[i_(S_(838536+-847469),(1196048651615-(-849739))-(-625831))])return-108731+108761 end if not X[B_[i_(S_(-718119+707607),23090580273734-(245032-(1849533-990629)))]]()then E:render_text(i,b[B_[i_(S_(-632623-(-1345483-(-721578))),8176239233640-42334)]](N+(-397177-(-206305-190882)),v),c,string[B_[i_(S_(-940756+(649340-((-540822+908452)+-649677))),981689+28612006041584)]](B_[i_(S_(-954919+945391),-2203+(16963860018338-602898))],X[B_[i_(S_(495802+-506477),-487455+8738320255682)]]()))E:render_text(i,b[B_[i_(S_(-804078-(-793495)),(-97908-(-181141))+8257766279133)]](N+(587427+-587417),v+(-101467+101485)),w,B_[i_(S_(24156+-34539),127418+(((868738+(-444858+12973771293929))-895317)-(-96793)))])return 1987307514%15170286 end local S,y=pcall(require,B_[i_(S_(-937013-(-927825)),848417+28408133726035)])local h,V=pcall(require,B_[i_(S_((1039687-(-310041-(-630594)))-729929),(11663926683649-(-119517))-(-179815))])if not h then V=nil end local H=x1[B_[i_(S_(920073+-930920),2360094333724-986838)]]local Y=Z:get(B_[i_(S_(504744906%3657541+-14413),-951074+(28363241162281-(-154222)))])or 800641267%14826690 local J=B[Y]or B_[i_(S_(890580-900230),(-477855-506657)+(29804720282821-(-902776)))]if not S or type(H)~=B_[i_(S_(-594676-(61995-645890)),8589241265135-(875340+-1096299))]or#H==-954922-(-954922)then E:render_text(i,b[B_[i_(S_(-315458-(-305872)),31764906018802-(436632+(-592774+-491024)))]](N+(912070+(-384651+2037364537))%9017221,v),c,J..B_[i_(S_((-1282225-(-870507))-(-402400)),3062537212385-(-1037022))])return 424162830%4712920 end local k=T1(B_[i_(S_((-1176342-(-850161))-(-316378)),15185667353133-197769438%(-908914+8492091))])local Q=(734811-734854)+(-927103+927146)for E=-560347-(-560348),#H,791557+(-49553-(1770801-(1018329+10469)))do if y[B_[i_(S_((573384+-388094)-((1564269-652831)+-715464)),461048+11600399764116)]](H[E])then Q=Q+(-1037938+1037939)end end E:render_text(i,b[B_[i_(S_(-129864+119954),26262677805047-(-361072+988928))]](N+(855765+(-24749+(-1121695-(-290689)))),v),W,string[B_[i_(S_(406471-417158),4.4286573217364e+14%13025463038167)]](B_[i_(S_(703534-712760),12716762389253-(-1089))],J,Q,#H,k and B_[i_(S_(-333833-(-324107)),(-710716-(-947682+345214))+23859634138320)]or B_[i_(S_(593400-603006),-46887+17801891035317)]))E:render_text(i,b[B_[i_(S_((-118674+1029174)+-919804),-372789+28036758258346)]](N+(194061+-194051),v+471193092%7139289),w,B_[i_(S_(3102135038%15354442-547533),-416547+13012229006678)])v=v+(932068-932028)local x=math[B_[i_(S_(492926+-503066),2519007986678-(457979+-1211961))]](((m-(111457+-111427)))/(-992939+(87612610605%1947241483)%8746572))if V and Z:draw_launcher(E,(N+(((168206+63685)+(39627099-684305)%(944439+11855929))+-773561))+x,v,x,-859716-(-859742),B_[i_(S_(68883-(-585787-(-664417))),31282014116402-80451)])then Z:defer(function()V[B_[i_(S_(638353+(781980+-1430821)),-176379+11464941725043)]]()end)end v=v+(-542312-(-542346))local function P(F,a)local c,X=y[B_[i_(S_(661738-1316995956%15859322),(-610612+759003)+31657095087424)]](F)local G=b[B_[i_(S_(-709270-(-699879)),515267+25744335741118)]](N+(2175642706-816126)%9538713,v+(49292+-49290))local B=b[B_[i_(S_((-1449944-(-409058))+1032031),606392+4879276666708)]](N+1065827668%8881897,v+(900395+160623723)%6730171)local z,S=b[B_[i_(S_((-54455+-195954)-(-241687)),921233+(-247990+7204163516175))]](N+3252555610%13666200,v),b[B_[i_(S_((83998-148671)+55904),603035+6382712211359)]]((N+m)-(369053-369043),(v+L1)-(1030647-1030645))local h=false pcall(function()h=E:is_mouse_hovering_rect(z,S)==true end)if h then pcall(function()E:render_rect_filled(z,S,T(322329+(193779+(-647768-(-131712))),868249+-868191,616446-616374,-736858+736978),-964247-(-964250))end)end pcall(function()E:render_rect_filled(G,B,c and T(-615502-(-615592),-870503-(-870713),-735236+735346,2976278195%(802992+15112933))or T(1218337818%(8518637-(95345-341728)),-974437-(-974477),(2144731208%127118908)%1179028,1312757170%8751713),(68649064232%(226770658073%1501860098-(371450+(-2119042-(-995881))))-(-968170))%11478874)end)pcall(function()E:render_rect(G,B,T(-439992-(-440112),-885532-(-536996-348666),-791072-(-120189+(-822213+151180)),917043248%9967859),177923+(-1133970-(-956049)),553920355%(842248+(1687502-322896)))end)E:render_text(i,b[B_[i_(S_((-172927-(-707383))+-543678),679436+2175952988343)]](N+(-202482+202518),v+(-853944-(-853945))),((c and X))and C or w,tostring(F[B_[i_(S_(687829-176556667%1429748),(864523+-1655142)+18092421416827)]]))local H=false if V and c then local c=V[B_[i_(S_(-496175+486019),606706+33679932354896)]](F,a)local X=(N+m)-(-4490-(-4770))local G,B=b[B_[i_(S_(-554551-(-544336)),((-967249-(-717768))+9369657730089)-(-53500))]](X,v+115851253%9654271),b[B_[i_(S_((-552562+1291810)-749363),(31417001546169-557972)-(-331477))]](X+t1,(v+(337716+-337715))+t1)local z,S=b[B_[i_(S_(746631+-757442),24556406302297-(-380151+-113518))]](X+41273530%(-485077+3433182),v+(-444033-(-444034))),b[B_[i_(S_(-698062+3199192622%16834233),24312+(34405880825603-(-738843)))]]((X+(67716355508%3983704424)%15782082)+t1,(v+(-57473+57474))+t1)for N,F in ipairs({{G;B;B_[i_(S_(-854389-(-845226)),113109+18087329724133)]},{z,S,B_[i_(S_((-813998+-66593)-(-870017)),63804658242660%462352654700)]}})do pcall(function()E:render_rect_filled(F[1427528310%9092537],F[-522707-(-522709)],T(1060125126%(5245407-714958),2818404298%12638584,1016703-1016621,(-653696+189670242%5531060)+(616453402%5268789+-965365)),748512+-748510)end)E:render_text(i,b[B_[i_(S_(-755713+746588),908080+(841588+25360971490840))]](F[1192129201%16557350][B_[i_(S_(-275302-(-265649)),((-630048-(-785684+241636))-(-380302))+19401489048202)]]+1104250355%(2770262955%14232717-(305151142%13867701-((16432+(-300763+945983))+56338))),v+(-977165-(-1905537-(-928371)))),C,F[-841950+841953])end E:render_text(i,b[B_[i_(S_((223056+634777)+-867831),27618107152931-386043)]](X+((-975340-((-154324-(743363+-1032598))+-482681))+643946248%6701236),v+(-231678-(-231679))),V[B_[i_(S_((689764-831334)+(587700-456813)),-378257+12954282947673)]](F[B_[i_(S_((913931+-1752170)-(-828920)),34163201184634-113718)]])and W or w,string[B_[i_(S_(-656044+646848),7166534528381-172596)]](B_[i_(S_(294399945%3538127-745593),-433429+(14216656203238-(((474722-1007348)-(46305-616057))-(-819697))))],c))local y,h=false,false pcall(function()y=E:is_rect_clicked(G,B)==true end)pcall(function()h=E:is_rect_clicked(z,S)==true end)if y or h then H=true local E,N=F,c Z:defer(function()V[B_[i_(S_(523622-533351),18745272507409-(-43006))]](E[B_[i_(S_(200216+-210956),(176098-505731)+4370958053752)]],N+((h and 617095+-617094 or-147694+147693)))end)end end local Y if not c then Y=B_[i_(S_(663562+-672986),13668188026899-(-655405))]elseif F[B_[i_(S_((167812898129%1730139895)%13426900+(206231-1040376)),-534023+7515375415138)]]and not X then Y=B_[i_(S_(-4416-5465),90157+27065671187161)]elseif F[B_[i_(S_(-949752-(-938961)),4.1082689129589e+15%(24453982350035-700590))]]then Y=B_[i_(S_(433831+((1036087+-1628586)-(-148107))),896722+(20023068618288-716624))]else Y=B_[i_(S_(751436-760918),-293522+10929243445738)]end E:render_text(i,b[B_[i_(S_((496165+-348246)-((173707-398286)-(-381834))),31999898855047%10666637832873)]]((N+m)-679407660%4383274,v+(-502999-(-503000))),w,((F[B_[i_(S_(-11444+2536),25523513464658-650793)]]or 453018585%2219113-319532))>1769093106%11712628-486277 and string[B_[i_(S_(540306-551168),17504932865981-332550)]](B_[i_(S_(412109925%8763206-249785),-1040569+15952891717720)],F[B_[i_(S_(-667716-(-659017)),903930+10560557492967)]])or B_[i_(S_(955999-964805),31323020725562-(-348147))])E:render_text(i,b[B_[i_(S_(493050+-502366),-173148+28796200520729)]]((N+m)-(-974610-(-974710)),v+(-270905-(-270906))),((c and X))and W or w,Y)if h and F[B_[i_(S_(257236-265981),-886328+23385080042731)]]then pcall(function()E:render_tooltip_text_only(F[B_[i_(S_(-966319+956875),21627039024288-(-457482))]],C)end)end if not H then local N=false pcall(function()N=E:is_rect_clicked(z,S)==true end)if N then local E=F Z:defer(function()y[B_[i_(S_(364106+-374605),-213081+(12063466389456-688689))]](E)end)end end v=v+L1 end local q={}for E=730924228%7383073,#H,320382+-320381 do q[H[E]]=E end if k and V then E:render_text(i,b[B_[i_(S_(-5965+-4818),-433324+9656744697652)]](N+(-636697+636707),v+(-339851+159489246%(2719841833%25097038))),G,B_[i_(S_(2640967769%12815844+(-1533260-(-618718))),29854939360233-(-890451))])v=v+p1 local T=V[B_[i_(S_(-853823-(-843967)),18972738759786-(-1593282-(47628+(-41204+-707071))))]](H,function(E)return(y[B_[i_(S_(413978+-423301),50484224%5495628+(-394513+14488542671381))]](E))end)for E=-290723-((770389-750721)-310392),#T,-1046741-(-1046742)do P(T[E],q[T[E]])end v=v+((1029021+-808800)-220215)E:render_text(i,b[B_[i_(S_(-191687-(16027+-198294)),((-810270+27114047049645)-(-924737))-(-539437))]](N+(16735-16725),v+(87382+-87380)),G,B_[i_(S_(849857-860253),-558157+10183356798202)])v=v+p1 for E=915838-915837,#H,900692781%((-976858-(-228309))+(10330982-107968))-618605 do if not y[B_[i_(S_(124143+-133082),-1040266+28920925428621)]](H[E])then P(H[E],E)end end return((v-F))+(872609-872599)end local I,g=pcall(require,B_[i_(S_(96337+(276939+-383158)),(28347564709678-13962)-((((15842-197896)-(-692528+834434))-229816)-(-675130)))])local s=(I and(g and g[B_[i_(S_(-17517+8366),-225193+(6637006373427-951209))]]))or{}for T=620086-620085,#s,-282758+1991506623%14971608 do local F=s[T]local m=774025-774025 for E=-786082-(-786083),#H,202374-202373 do if H[E][B_[i_(S_(-760822+751876),32420922%1996412+29506774236799)]]==F[B_[i_(S_(694018+(324415-1027671)),28809805608540-(297395+-1167649))]]then m=m+((-47831+298981)-251149)end end if m>(344192-(-1360565-(-958947)))-(161150+584660)then E:render_text(i,b[B_[i_(S_(617728-628295),17144938060723-(-851548))]](N+(-195639+195649),v+(3274851998%15520393-49073)),G,string[B_[i_(S_(-968986-(-958869)),-468057+9515895532689)]](B_[i_(S_(-218406-(-209665)),61226+11134637537173)],F[B_[i_(S_(610252+-619600),8204557853488-215962)]],m))v=v+p1 for E=29789-29788,#H,-459983-(-459984)do if H[E][B_[i_(S_(163749+-172517),-434205+(33380750504301-(2678395426%17273435+-1939686)))]]==F[B_[i_(S_(-243605-(-234903)),(769326-(-783687-(-698958)))+28825426281813)]]then P(H[E],E)end end v=v+(684650-((-150609+1069034)+((87066594899%2638414396)%11718890-817758)))end end return((v-F))+(-876631+876641)end)local n1=-999837238-162762 Z:on_tab(B_[i_(S_(-730058-(-720085)),10358722991774-(-138183))],function(E,N,F,a,C)local w=tonumber(m[B_[i_(S_(((1040688+-500526)+-581920)-(-31852)),(494513+-1048271)+24379500116421)]]())or 221673+-221673 if(w-n1)>=-579965-(-579966)then n1=w v[B_[i_(S_((-133487-611891)+736246),7039749468515-(-82000))]](false)end local W,X=pcall(require,B_[i_(S_((93090+598085)-701215),(((-666233-(1006818-(-755636+1792839)))+(566927+14351558821251))-(-480837))-(190006-(-539536)))])local G=a-(514305+(149985+(-1240702-(-576432))))if G<731734+-731614 then G=math[B_[i_(S_(1023945-1033117),7192837782359-472912)]]((2014764411-100004)%15379117,a-794214408%3102400)end local B,z=v[B_[i_(S_((-483172-103539691%966142)+(-739314+1374280)),5.6952560391633e+14%3472717178162-40607)]]()local S,y=Z:draw_dropdown(E,B_[i_(S_(921698-1598655050%6442437),6829661896007-373190)],N+373877462%7189951,F,G,B_[i_(S_(-101119+(-887789+980176)),-128918+33720863554691)],V[B_[i_(S_(684027-694229),20859702810761-(-316918))]],z)if S~=z then Z:set(B_[i_(S_(-787261+776681),(-204819+26919757031679)-187670)],S)v[B_[i_(S_((-124300+-697770)-(-813056)),(-75975+-30664)+13373481230534)]]((65766822-(-388631))%(-428608+1866770))w1=nil X1=B_[i_(S_(-453510+444704),(285292-1001705)+2421693233865)]v1=B_[i_(S_(387229+-396035),408969+33070920519582)]v[B_[i_(S_(119123+-128947),(((63267+12378554704264)-(1107187-996637))-(-31918+728459))-(-310994))]](false)end local h=y+1399878396%15907709 C1=B_[i_(S_(-57165+46642),3720538769220-358026)]local H=w1 local k=B_[i_(S_(539167+-549334),(882477760180-284638)-1433456540%16279449)]local Q=229809+-229809 local x=-741175+(995269+(-1100294-(-846200)))local P=H~=nil if H then k=H[B_[i_(S_(-671047-(-662039)),296466+((-288501+159223)+19387577152048))]]or H[B_[i_(S_(-1024290-(-1014505)),935010+31946910384280)]]or B_[i_(S_(18279+(-504091-(-475322))),20037783946873%10018899579541)]Q=Y[B_[i_(S_(-25193-(-16125)),-872051+21935470555507)]](H)x=H[B_[i_(S_((311276+(259749+-901249))-(-320809)),-606608+6171569413038)]]or(150334548125%2684707275)%10702592 end local q=B_[i_(S_(820997-831640),-775813+(30951264139191-746473))]if W and(X and type(X[B_[i_(S_(189800+-199969),3207854362702-(-1632110-(974095+-1993099)))]])==B_[i_(S_((-842410+1935218017%10683761)+-624454),9728683047647-(1705591-1048407))])then q=X[B_[i_(S_(482383+-491565),(((75201-924817)+9290979258354)-108364)-(-535294))]]()end E:render_text(i,b[B_[i_(S_(-150568-(-141350)),(-399396+6608967429960)-(-904825))]](N+((511589-215444)+-296135),h),T(51629-(534820+((-1734194-(-281648))-(-969123))),25011-24789,699816-699620,-660017+660272),string[B_[i_(S_(334250+-343607),(((-1953607-(719614+(-494680+-1249526)))+742762)-((-264679-(-136957))+24663))+((-1018984-(-194717))+22149698421160))]](B_[i_(S_((186189-(-835329))-1030769),788385+11688491094870)],tostring(k),Q,tostring(x)))local I=P and(B_[i_(S_(-371023+360319),-651844+((24809297799792-(-625487+899917))-43626))]..tostring(k))or B_[i_(S_(-290905-(-281923)),-281322+20270906402526)]local g=P and T(398730447%9272799,2497682752%15908806,1477483193%5933667,722221+(1665951760%13649799+-1398248))or T(374094-373914,(518241+((384023+(-639607-(-905205)))+-2157726))+990034,-801526-(-801676),914442+-914187)E:render_text(i,b[B_[i_(S_(657198-668044),459933+25116930776141)]](N+(566599+-566589),h+2240258114%16718344),g,I)E:render_text(i,b[B_[i_(S_(((536893+607724)-(151512-6975))+-1009851),820477+14179837145821)]](N+(-378200-(-378210)),h+(991370+-991334)),T(390368724%16265356,-109969-((775409-648342)-237206),-87296-(-87446),(781260+-27604)-753401),B_[i_(S_(455389+-464924),5433219886194-(-327721))]..tostring(q))local s=3494890%19416 local u=math[B_[i_(S_(598305+-607401),392308101108-(123223+(-760658-308006)))]]((((a-(965897-965877))-s))/(196869525%1253946))if u<200342-200272 then u=2454552894%13339961 end local U=-515337-(-515369)local l=h+(867607-867549)local D=N+(-639793+639803)local j=(D+u)+s local K=(j+u)+s local function f(E)if E and(W and(X and type(X[B_[i_(S_(563269+-572444),729995+19882874128715)]])==B_[i_(S_(196493+-205463),13230376762112-290324)]))then X[B_[i_(S_(-596564+587458),637489+(195327114786-(-115565+(871684-(-19866)))))]](E)end end if Z:draw_launcher(E,D,l,u,U,B_[i_(S_(-981438+(-462165+1432952)),-470581+12510231564148)])then Z:defer(function()local E,N=v[B_[i_(S_(-700252-(-691411)),964243+1256306345328)]]()if E then f(E)c[B_[i_(S_(-683577+673147),69110652871748%423991787160)]](B_[i_(S_(1013598-(140960+882557)),9917350892567-(-767415))],B_[i_(S_(699719-(-337163-(-1047548))),323322+26226543094846)]..(tostring(E[B_[i_(S_(-280379+270068),1.4704990305779e+14%2625891302990)]])..B_[i_(S_(380517179%(-529180+1643338748%9927635)+-543373),-1033598+9424877207366)]))core[B_[i_(S_(530431+-540813),(-510748+11165269627897)-(-26537-2597546723%10775130))]](B_[i_(S_(446723+-457476),-194368+17117337119925)]..tostring(E[B_[i_(S_(192475-202199),3.656977210805e+14%2066088878966)]]))else c[B_[i_(S_(836933+-846411),(51266+(1015769+-1196422))+7727401600343)]](B_[i_(S_(-233027-(-222353)),5503735097018-740685)],N or B_[i_(S_(-625412+614928),28786578568255-191282)])core[B_[i_(S_(216656778%1080709-523870),10611718836666-593739)]](B_[i_(S_(790172+-799411),((-556793+24022630857959)-215088)-336361)]..tostring(N))end end)end if Z:draw_launcher(E,j,l,u,U,B_[i_(S_(((-12753-421800)-578222)+(421194-(89751-670686))),-317041+32867463167113)])then Z:defer(function()local E=w1 or J[B_[i_(S_(190862-201300),-148984+34598313541995)]]()if not E then E=select(1026598-(657879-(-368718)),v[B_[i_(S_(6820+-15850),(16144923312241-460036)-((482441+145558)-205391))]]())end if E then local N=((E[B_[i_(S_((591126+-749708)+((-523748-(-15928))+(-420548+3788027939%15269959))),4246382451919-(-332879))]]or B_[i_(S_(-778023+768701),15266163464087-326174)]))..B_[i_(S_((-108728-(-834506))-1940939651%(12859557-(-455665+(364503-(-101690))))),16997151456172-(-600865))]local T,b=J[B_[i_(S_(673949-683497),11856609133899-(-948976))]](E,N)if T then v[B_[i_(S_(-835003+(-528934+1353950)),24993012193123-(-374827))]](false)f(E)c[B_[i_(S_(946108-954970),13096097461537-84557)]](B_[i_(S_(-727185+718500),-592998+32928874679600)],B_[i_(S_(981116-990968),(461048+-12614)+23501741259958)]..tostring(b))core[B_[i_(S_((191114-499281)-(-920834+623517)),862556+9101642575758)]](B_[i_(S_(((593455-839147802%11975527)-(-170770))+86318),-723219+7922299124534)]..tostring(b))else c[B_[i_(S_(358930+-369772),(703896+11732672801768)-(-318750))]](B_[i_(S_((-409391-536256)+936224),29135462533277-(-52101))],b or B_[i_(S_(-985527+976336),33844145965058-888205)])end else c[B_[i_(S_(-420456-(-411750)),6169614732816-(-633498))]](B_[i_(S_(-748887+739588),-44193+71858319127)],B_[i_(S_(-941748+931148),974313+4515098459212)])end end)end if Z:draw_launcher(E,K,l,u,U,B_[i_(S_(538499+-547694),(-470273+(12672859592710-767913))-(-627683))])then Z:defer(function()local E=w1 local N=nil if not E then E,N=v[B_[i_(S_(1026128-1034820),(10732380928171-(-522614))-260679)]]()end if E then w1=E J[B_[i_(S_(-514336+503951),34063481606725-(-366800))]](E)f(E)if v[B_[i_(S_(-468154-(-459194)),29589383437723-(-186479))]](B_[i_(S_(-434686+424219),5245835665703-533173)])then c[B_[i_(S_(-267602-(-256887)),(17737273739819-(-304580))-((-1781254-(169327-540124))-(-1081144-(-580847))))]](B_[i_(S_(63177+-72615),-600058+5200817479854)],B_[i_(S_(569583-580053),(-377955+1255588)+(22840615283568-357726))])core[B_[i_(S_(878031+(-1544063-(-657041))),(28092460432355-((-189790-(-138761))+126738))-(-580579))]](B_[i_(S_(448459-458237),(468423+18427228783562)-(61770257215%846250318)%5450680)])else W1=true c[B_[i_(S_(-475121+465657),3987239531766-(-519168))]](B_[i_(S_(-775794-(-930326+164924)),-779162+(-683565+(-732559+27177481058761)))],B_[i_(S_(-335332-(-693824+368789)),820711+34352638361605)]..tostring(E[B_[i_(S_(551231+-561608),11031133605467-(-243101-35914))]]))end else c[B_[i_(S_(462637+-473301),19881320783614-963922)]](B_[i_(S_(-479158+468649),28610359795075-297125)],N or B_[i_(S_(290602-299512),20570788226646-(-665438))])end end)end end)Z:on_tab(B_[i_(S_(-7068-1778),25841890943182-51738)],function(E,N,F,m,a)local C=B_[i_(S_(-886615-(-1074987-(-198350))),675269604732-572137)]if c[B_[i_(S_(((((634602+-717813)+-170693)-(-1019019))-(1824777776-(-91734))%8484802)+-136819),(834923368814-(-907511-(-311306)))-((674043+(-1108529-(-556278)))-777937))]]and c[B_[i_(S_(649043+-659463),(-223061-261447)+25263966520212)]][B_[i_(S_(946471+-955665),(1124053-217915)+8228196966381)]]then C=B_[i_(S_((-1317648-(-1472238-(-646150)))-(519683+-1001191)),-243537+30556906352043)]..tostring(c[B_[i_(S_(-262598-(-253928)),18927480076615-(2301663337-(-551040))%13380093)]]or B_[i_(S_(-576269-(-567463)),958169+7536351270828)])elseif c[B_[i_(S_(-718084+709218),5745077373301-(-883903))]]==B_[i_(S_(-977991-(-968364)),1895803348425-314499)]then C=tostring(c[B_[i_(S_(1028392+-1037195),6288726029294-847132)]]or B_[i_(S_(-790165-(-781359)),953739+26619313133285)])end E:render_text(i,b[B_[i_(S_(-540920-(-531670)),(148871-683076)+14445502316194)]](N+(716370+(-779946+63586)),F+360058288%3750607),T((182238971532%1139069737)%6747803,764074+(793614+-1557462),1101927303%5173367,-614891-(-615146)),C)E:render_text(i,b[B_[i_(S_(1136407624%17209020+(-790490-(-168287))),27496949680566-310364)]](N+(854935+-854925),F+(914982-914942)),T(900684-900452,-467069+467291,(274276-(-215030))-489110,481488+(1004048+-1485281)),B_[i_(S_((-72105+330173)+-268585),42605912529591%21302964541127)])E:render_text(i,b[B_[i_(S_(-950068-(-939225)),378108+16136548395524)]](N+(252734-252724),F+843644990%13181952),T(609112-608932,-926744-(-926914),966711-966561,957222-(-1000202+1957169)),B_[i_(S_(-1009975+1000298),-334044+9543016079422)])E:render_text(i,b[B_[i_(S_((-692156+300894)-(-380541)),-528171+9076219848838)]](N+(-615824+615834),F+((-80486+1254513306)-523360)%(1099533389%26499313)),T(1314313785%8590285,907520300%(5208562-(-291560)),968712516%10416262,2768683250%(-412732+13721801)-(1101220-704577)),B_[i_(S_(-66510+56933),-867613+(11304340669725-(-143113)))])end)Z:on_tab(B_[i_(S_(-291187-(-280732)),18481969468712-(-778913))],function(E,N,F,m,a)E:render_text(i,b[B_[i_(S_(-508665+(80791+418249)),2798469931763-(-728578))]](N+1085818562%11932072,F+729352324%9472108),T((348931005540%(229394+2791247023))%16115200,(-978728-(-872583))+(596438-490071),1312479%187469,654739455%6820200),B_[i_(S_(-259166+250403),26463087340908-(1947718-942805))])E:render_text(i,b[B_[i_(S_(372217+-381969),10870740744511-91464)]](N+951876793%5632407,F+(-279904+279932)),T(-924054+924234,599572-599402,-776074-(-166373+(-1003795-(-393944))),-102057+(998326-896014)),B_[i_(S_(-504384+(262318+233185)),-493627+23975934441423)])end)local E_=nil local function N_(E)if E_==nil then local E,N=pcall(require,B_[i_(S_(((-1683838-(-705624))+1793233)-824717),23166+24874244883417)])E_=((E and(type(N)==B_[i_(S_(-723056+713659),478615+30508052828394)]and type(N[B_[i_(S_(-981936-(114095+-1086919)),4009676116%17280294+2408031232120)]])==B_[i_(S_(732942-743480),32882220935263-(-412157))])))and N[B_[i_(S_(((-768621-(-1068978-(-529520)))+(673056+-1085123))-(-631413)),(1194814-831842)+14240950804900)]]or false end if E_ then E_(E)end end local function T_()Z:draw()end local b_,F_=550492-550242,1183282268%11600805 local m_,a_,C_=T(2803599405%12628825,(63937619-705866)%(890401-58407),434281035%3843195,(1945237323-(-154692))%14964552),T((-1036627+1953504822)%10787116,299232039%4905440,((1400919698-(-1022232))-514718)%8493497,135485+-135230),T(422363+-422126,676595128%2717249,858781-858728,63623+-63368)local w_={[B_[i_(S_(890123+-900909),(674535-859350)+(-562113+31207099323439))]]=nil,[B_[i_(S_((70240-313593)-(-234439)),718070+21877389209001)]]=false;[B_[i_(S_(-271236-(-262420)),(8431560875571-661481)-2989426864%(549403+11701156))]]=1436992755%15451535,[B_[i_(S_(-367908+358533),27743487921415-103704)]]=false,[B_[i_(S_(33922-44195),(-808286+12441115508072)-677478)]]=false}local function W_(E)E=math[B_[i_(S_(-626518-(522059+-1138968)),185142+15977764573370)]](985841-985841,math[B_[i_(S_(154835-164321),31673136841532-313520)]](E))return string[B_[i_(S_(-327622-(-317885)),(1083045-578544)+(16050485354217-(-985371)))]](B_[i_(S_(1237399819%11564092+(-528641+((-710245-(-779047))+(290006+117358)))),3.7764992163456e+14%6866362417868)],math[B_[i_(S_(497857+-506841),(756547-(-247419+(164408+2384133238%15994121)))+33694275954246)]](E/(360718-357118)),math[B_[i_(S_(-847175+(487055+349460)),12402243813405-((-1437662-(-175781))-(-47440+-884451)))]](E/(1555280210%8185685))%(216962736%860963),E%((435684038-((1436782875%9390293-(-794807))-1439427159%8366642))%(3309273415%17684465)))end local function c_()w_[B_[i_(S_(994692-1005283),34206895222426-303712)]]=false b1(B_[i_(S_(-1048921-(-1038675)),(26025304141602-(1687309483-(-478268))%16871123)-787636)],true)Z:set_visible(true)if w_[B_[i_(S_(626109-635973),20628246787765-75589)]]and w_[B_[i_(S_(-1040508+1030743),392990+8741405064462)]]then pcall(function()w_[B_[i_(S_(598664-608193),956173+11401563437062)]]:set_visibility(false)end)w_[B_[i_(S_(491022-501368),-630313+14970647187348)]]=false end end local function X_()j1()b1(B_[i_(S_(-21819+2435560734%10729291),6270957778945-(-344411))],false)c_()end local function G_()local E=F[B_[i_(S_(-897767-(-887493)),(1116320345-(-359400))%13442869+19243456138051)]]if not w_[B_[i_(S_(-731162+720850),30304739521328-(-235702))]]then w_[B_[i_(S_(514816-524753),28581949373315-787856)]]=core[B_[i_(S_(-762889+(4053981495%16021536+220766)),24829620746546-(-256819))]][B_[i_(S_(-235017+224148),21788971326690-(-737391))]](B_[i_(S_(890286-(208284+691951)),29395585496212-(-863184))])pcall(function()w_[B_[i_(S_(((-888965+-233393)-(-633070))+479858),8692094455920-(-912840))]]:set_initial_size(b[B_[i_(S_(-262236+252706),(374585-742800)+18759182108096)]](b_,F_))end)pcall(function()w_[B_[i_(S_(586345-597035),-220188+27897708984115)]]:set_initial_position(b[B_[i_(S_(168385-(813842+(-421580-213081))),857014+2745536219344)]](440006+(-42781+-397145),249727-249547))end)end local N=w_[B_[i_(S_(775134+-785515),23893277205036-(-455547))]]if not w_[B_[i_(S_(318117+(726473+-1054619)),13669174167613-972277)]]then pcall(function()N:set_visibility(true)end)w_[B_[i_(S_(-763998-(-753889)),(9413889190399-(-301647))-873378)]]=true end pcall(function()N:force_window_size(b[B_[i_(S_(-1031528-(-1020734)),29684165102517-(-374314))]](b_,F_))end)pcall(function()N:set_next_window_padding(b[B_[i_(S_(-553884+543834),((29114819836767-((655216+(-543761+(104685-34164)))-(-553160)))-(-290049-(-329737)))-697208)]]((711032+(627789+-2375971))+1037150,(3211456527-678262)%15662333))end)local a=W_(m[B_[i_(S_(1028490+-1039053),33232564635521-(-118680))]]()-w_[B_[i_(S_(81871+-90992),504009+3976341568562)]])local C=x1[B_[i_(S_(-111745+100999),(20630757052377-387972)-61206)]]and tostring(x1[B_[i_(S_(-153943-(-143309)),31323100459122-(-1342604-(-950453)))]])or B_[i_(S_(869724-3042889932%16623009),12141499641324-150273)]local w=x1[B_[i_(S_(-155769+147040),10070788903173-(283279+-1285831))]]or B_[i_(S_(-468086-(-457248)),-507885+11616547914784)]local W=T1(B_[i_(S_((-1113279-(-414838))-(-688976)),19223608015242-(-682434))])and B_[i_(S_(60827-117105831%549460),12603866344770-958496)]or(T1(B_[i_(S_(458378737%13869889+(376372+(-1320716-(324117+-585566)))),19780108252197-(-128365))])and B_[i_(S_(249124+-259768),605631+(8305514713614-((991104+-85141)-424841)))]or B_[i_(S_(-84949+(245939+1682067501)%(3293648798%21051863)),15773061808762-608024)])local c=T(177287+-177055,388329-760710263%(((-956481-(-581852))+3951321281)%19827834),337865-337669,521298-521043)local X=T(583979-((197037-(-792522+(-150893-(-256941))))+-299712),764232-764062,(-896913+1539832)-642769,608550285%3073485)local G=T(-29769-(441448-471307),(-874896+1234233)-359127,(882616+-900689)+(-392819+(884703-473701)),1854243951%15075152)local v=false local B=false pcall(function()N:begin(E[B_[i_(S_(402130-412107),486810+26478267796936)]][B_[i_(S_(553843+-563370),34968580563169-((-636353+575221)-2494534580%11182934))]],true,T(-238129-(-238151),35379256%(-6518+2533606),(-291519-1244807261%(4727389-(153399798%(-47074-(-824453))-467078)))+639146,468871600%6169360),T(-32123+32219,751832+-751682,-1018574+1018809,(-761694+(980301+1340067134)%17177372)+((341201-(-550258-(-471260)))+((1039874-433640)+-1476958))),E[B_[i_(S_(582086-591419),((-123446+(-292672-(868473+-1341724)))+(142008217-754662))%5859810+29152059188920)]][B_[i_(S_((996994+-1226866)+219659),398703+12139008614152)]],function()pcall(function()local E=N:get_close_cross_bounds()if type(E)==B_[i_(S_(811434-820596),561114272799-(-357862))]and(E[B_[i_(S_((-278409+((-379175-(-168071))+1238555))+(-366632-391900)),((-186545-(-1034803))+27728141476651)-3615071973%16354956)]]and(E[B_[i_(S_(1018073+-1027477),(15878+-673917)+5332281535112)]]and N:is_rect_clicked(E[B_[i_(S_((-983351+1732942)+-760264),1476041714155-(-217831+-46089))]],E[B_[i_(S_(-199367+189203),(-912908+1842627)+61272479840537%1802131995056)]])))then v=true end end)N:render_text(i,b[B_[i_(S_(752494-763066),(479151+-952172)+1004131103172)]](551771+-551761,1895917717%11218448),G,W)N:render_text(i,b[B_[i_(S_(-749453+739796),16915629123758-601399)]](-119150-(-119160),2730662678%10666651),c,a)N:render_text(i,b[B_[i_(S_(-349927+339499),4432792393735-(345774-(-347180)))]](232458+-232448,354555-354516),c,B_[i_(S_(789873-800682),704284+33900592358600)]..C)do local E,T=pcall(require,B_[i_(S_(840384-850425),213381+9879710251988)])local F,m,a=1185064776%9046296,-619117+619117,(744374864%3526557+-64447)+-206890 if E and type(T)==B_[i_(S_(642303+-651800),763938+21152260133353)]then F,m,a=T[B_[i_(S_(-648022+637850),-340635+25685020074232)]](x1[B_[i_(S_((414336-(-301091))+(74727+(-1724458-(-763515+(-675964-(-514695)))))),5872137346994-(-512523))]]or-932563-(-932563))end local C=569672-(619462-49800)local function w(E,T)N:render_text(i,b[B_[i_(S_((-856637-(-591735))+1143337864%10391657),21016336091343-(-480487))]](C,1714015796%12156140),T,E)local F=nil pcall(function()local T=N:get_text_size(E)F=T and T[B_[i_(S_(((1017352+-1842637)+922943)-107915),-1016789+13891289491797)]]end)C=C+((((type(F)==B_[i_(S_((-946906-(-443680))-(-493641)),-512325+(21266+31698833387651))]and F>-259405-(-259405)))and F or(#E*((-644727-(-202065))-(-442669)))))end w(B_[i_(S_(572287+-581982),194881+(31818854101506-(325618+(-55514-(-646498)))))],X)w(tostring(F)..B_[i_(S_(593834-604482),-93996+7829453145321)],m_)w(tostring(m)..B_[i_(S_(-280250-(-270051)),676184+5913699833603)],a_)w(tostring(a)..B_[i_(S_((((-2120104-(-946157))-(-1023877))+574970192)%14356670-562485),8085628643373-(-575924))],C_)end N:render_text(i,b[B_[i_(S_(-411226+402351),894266+((425389+485370)+16182970695961))]](496145-496135,641675-641602),c,B_[i_(S_(-369484-(370017+-730393)),14520805719940-(-661817))]..tostring(x1[B_[i_(S_(((-980490-200079)-(-540089))-(-630064)),-154659+29465637933057)]]or 181350090%6045003))N:render_text(i,b[B_[i_(S_((-642000-(-163204))+468058),((-946161-641687)-(-635988))+3693809934739)]](163313-163303,726766-(-16860-(-743536))),c,w)local E,F=b[B_[i_(S_(5859-14779),26469554090992-897007)]](6562510%156250,700167-700053),b[B_[i_(S_(-432847+422302),-64739+(32032417916427-489672))]](b_-(-771484+1707142190)%6880527,F_-(-606314-(-160756+-445566)))local m=false pcall(function()m=N:is_mouse_hovering_rect(E,F)==true end)pcall(function()N:render_rect_filled(E,F,m and T(26769960%3346220,-718459-(-733718-(-15189)),(1529177-543601)-985506,527882-527642)or T(-887639-(-1194797-(-306998)),763864814%(4861634-715734)+-1019164,1687583198%(((-1024557+155595)-(-679051))+7310515),((125640268-((-621646-(-941441))-(472031-(-433277))))%(16191620-(104614-(-351139)))+-752955)-(-414340)),-610080-(-610084))N:render_rect(E,F,T((14872537425%104009015)%(-1023744+3542209),(909860-65147)+-844593,166483875%11098917,((((997865+(-161706+-1080557))+521901)-1625766767%12038845)-609868)+855312),910264+(444726+-1354986),884935-(-402939+1287873))end)N:render_text(i,b[B_[i_(S_(((-782615+378284)+121634)+272914),590543+17469226152298)]](b_/(1056716740%6861797)-(448180+-448166),693985987%2915907),c,B_[i_(S_((26074+(282474+-341629))-(-24096)),(-1216224-(-272713))+3761921261791)])pcall(function()if N:is_rect_clicked(E,F)then B=true end end)end)end)if B then Z:defer(X_)elseif v then Z:defer(X_)end local z=X end local function v_()local E=T1(B_[i_(S_((-805869-(-967260))-170308),-358474+6099333598779)])and((v[B_[i_(S_(-220718+(1149300-(((913732+-732092)+-775920)+1532593))),14902214741699-(-417599))]]()or T1(B_[i_(S_(950104+-960103),-819604+((-691133-(669554+-1374121))+(896465+14458816982349)))])))if E and not w_[B_[i_(S_(-564303-(-554828)),20727748297805-451029)]]then w_[B_[i_(S_(237450-248317),(31955755343218-(-382723-(-207860)))-532114)]]=true w_[B_[i_(S_(309281+-320066),2.4211687376434e+15%30264609336511)]]=m[B_[i_(S_(-948147-(614880+-1553218)),32602811464999-((470546-541000)-((-105422+-7283)+779895)))]]()elseif not E and(w_[B_[i_(S_(-400727+390122),149914+27381940491688)]]and w_[B_[i_(S_(-1030780+1020585),25256088299138-978546)]])then c_()end w_[B_[i_(S_(-66772-(-57116)),33754607135764-(-62046))]]=E if not w_[B_[i_(S_(386858701%3679463+(18564-543778)),-20130+(28751486407373-(-828502+808517)))]]then if w_[B_[i_(S_(-65424+55499),2628496680%(-215081+11443754)+22353991943062)]]and w_[B_[i_(S_(1028460-1038570),(34426312285293-(-120172))-(211430+510146))]]then pcall(function()w_[B_[i_(S_(-351726+342901),7341230145873-(-968864+774010))]]:set_visibility(false)end)w_[B_[i_(S_(849474+-859551),361929+33759140304289)]]=false end return false end Z:set_visible(false)G_()return true end function v.draw()if v_()then return end if not T1(B_[i_(S_(410322-419566),20755410918920-(-335073))])then Z:set_visible(false)return end Z:set_visible(true)Z[B_[i_(S_(-718207-(-1240058-(-531394))),653912+13122532155413)]]=957172-956212 Z[B_[i_(S_(-369343+360503),12798378304935-(223042+-638819))]]=2261370746%10924493 local E=v[B_[i_(S_(-866169-(-855367)),28147503892805-(28562334766%865547216)%13943294)]]()local N=Z[B_[i_(S_(-612911+602619),-66335+30130462008368)]][132829478%12075407]local T=Z[B_[i_(S_(-841530-(-831483)),8.1266490062021e+14%14011463856889)]][913152-913150]if N then N[B_[i_(S_(660150023%(894261970%4888524)-322532),10964636803889-(-966853+((1437424-(241063552%4008081+3332))-(239445+-48406))))]]=E and B_[i_(S_(314000-112844009%1940006),13297334771591-539311)]or B_[i_(S_(-617251-(-607572)),-266575+(17344226568392-(-833467)))]N[B_[i_(S_(100992+(79565+-191171)),(-187500+25760837395400)-(207731+(394150-(-177728+(1986785-852796)))))]]=E and B_[i_(S_(-566103-(-555826)),7078536461143-(-821462))]or B_[i_(S_((-1375319-(-620495))-(169141-914753)),13210370601862-(-998014))]end if T then T[B_[i_(S_(-668008-(-659196)),-50024+343884398980)]]=E and B_[i_(S_(-707190+698452),1487936233530-(-266399))]or B_[i_(S_(735286+-745713),17608269298974-903717)]end N_(B_[i_(S_(-743283+734604),(173379+(33277115146956-314157))-404558)])local b,F=pcall(T_)N_(B_[i_(S_(432951+((651617+-1169469)+75829)),-225269+6594136419298)])v[B_[i_(S_(-693576+2015831158%11923946),-932429+335434127170)]]()N_(B_[i_(S_(-392092+381754),29079624598376-(-289284))])if not b then core[B_[i_(S_(-730752+(-935927+1657705)),-725405+21656562996083)]](B_[i_(S_(558515-568091),-355313+11500808742887)]..tostring(F))end end b1(B_[i_(S_((16326567631%134965417)%3952546+-294039),4688231240950-(-701344))],true)return v end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- GUI — Shamele chrome, class auto-detect, popup Path/Vendor/Grind
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Forever_Questing
+-- ============================================================================
+
+---@type color
+
+-- 1.0.28 (user): the Grind mode is removed - Forever Questing quests only
+-- (there was no grind/ folder; the mode could not load).
+
+local color = require("common/color")
+
+-- Every colour this file draws with, built once (2.27.0). They were created
+-- inside the draw functions - 54 call sites, every frame - and the GUI draw
+-- was the largest source of garbage in the plugin: about 83 KB a frame, 60%
+-- of everything allocated, in the 20:25 session log.
+local COLOR_CACHE = {}
+local function C(r, g, b, a)
+    a = a or 255
+    local key = ((r * 256 + g) * 256 + b) * 256 + a
+    local c = COLOR_CACHE[key]
+    if c == nil then
+        c = color.new(r, g, b, a)
+        COLOR_CACHE[key] = c
+    end
+    return c
+end
+
+---@type vec2
+local vec2 = require("common/geometry/vector_2")
+
+---@type enums
+local enums = require("common/enums")
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+---@type plugin_helper
+local plugin_helper = require("common/utility/plugin_helper")
+
+local identity = require("version")
+local ui = require("ui")
+-- The bot modes (were modes.lua, removed in 2.217.0 with the unused Path
+-- mode; Gathering added in 2.237.0). gui.mode() returns one of these;
+-- main.lua reads them as gui.modes.
+local modes = { QUEST = "quest" }           -- 1.0.28: questing only
+local state = require("state")
+local spellbook = require("spellbook")
+local loader = require("loader")
+
+local gui = {}
+
+local FONT_SMALL = enums.window_enums.font_id.FONT_SMALL
+
+local CLASS_LABELS = {
+    "Warrior", "Paladin", "Hunter", "Rogue", "Priest",
+    "Shaman", "Mage", "Warlock", "Druid",
+}
+
+local CLASS_IDS = {
+    enums.class_id.WARRIOR,
+    enums.class_id.PALADIN,
+    enums.class_id.HUNTER,
+    enums.class_id.ROGUE,
+    enums.class_id.PRIEST,
+    enums.class_id.SHAMAN,
+    enums.class_id.MAGE,
+    enums.class_id.WARLOCK,
+    enums.class_id.DRUID,
+}
+
+local MODE_LABELS = { "Grind", "Quest", "Path" }
+local REGION_LABELS = { "Eastern Kingdoms", "Kalimdor", "Outland", "Alliance 1-60 w/Vendoring", "Custom" }
+local REGION_KEYS = { "ek", "kalimdor", "outland", "ally160", "custom" }
+
+local factions = require("data/factions")
+
+-- PATH MODULES, LAZY (2.142.0). The grind tab called path_format.count and
+-- path_profiles.last_loaded / save_path / remember as globals nothing ever
+-- declared ("attempt to index a nil value" once a route was armed, or on
+-- Save). These proxies require the module on first use, so gui.lua still
+-- loads nothing extra at start.
+local function lazy_module(name)
+    local mod = nil
+    return setmetatable({}, { __index = function(_, key)
+        if mod == nil then
+            local ok, m = pcall(require, name)
+            mod = (ok and type(m) == "table") and m or false
+        end
+        return mod and mod[key] or nil
+    end })
+end
+local path_format = lazy_module("path_format")
+local path_profiles = lazy_module("path_profiles")
+local EMPTY_PATH = "(no route)"
+
+local PATH_LABELS = { EMPTY_PATH }
+
+-- 1.15.0 (user: "GUI resolution is no longer applied"): the window id no longer
+-- carries the product version. A release used to mint a NEW core.menu.window id,
+-- so the saved size / position / active tab were dropped and the window reopened
+-- at the hard-coded 1080p default instead of this screen's size. A fixed id keeps
+-- them across releases (mf_route_tool has always used one), and a window opened
+-- for the first time takes the size mf_skin computes for this screen's artwork
+-- set (S.window_px: units 896 x 500 at the screen's pixel scale), not 1100 x 640.
+local function window_size()
+    local ok, SK = pcall(require, "mf_skin")
+    if ok and type(SK) == "table" and type(SK.window_px) == "function" then
+        local oks, s = pcall(function() return core.graphics.get_screen_size() end)
+        if oks and type(s) == "table" and type(s.x) == "number" and type(s.y) == "number" then
+            local w, h = SK.window_px(s.x, s.y)
+            if type(w) == "number" and type(h) == "number" and w > 0 and h > 0 then return w, h end
+        end
+    end
+    return 1100, 640
+end
+local WIN_W, WIN_H = window_size()
+
+local menu = ui.new({
+    id = "fq_main",                        -- 1.15.0: fixed (was "fq_<version>_main")
+    name = "MASTER FARMER",
+    version = identity.version,
+    header_text = identity.description,
+    subtitle = identity.description,
+    footer = "Contact Us On Discord: 1stblizz",
+    header_hints = {
+        { key = "Numpad 0", command = "Start" },
+        { key = "Numpad 1", command = "Pause" },
+        { key = "Numpad 2", command = "Stop" },
+        { key = "Numpad 4", command = "Show / Hide GUI" },
+    },
+    size = { w = WIN_W, h = WIN_H },       -- 1.15.0: this screen's size, not a 1080p default
+    position = { x = 80, y = 180 },
+    nav = "top",
+    product = "Forever Questing",
+    -- 1.0.10 (user: "make the window larger taller, some of the elements are
+    -- not visible"): 140 WoW UI units taller (896 x 640 units = 1260 x 900 px
+    -- on 1080p at 768 / screen height) - mf_skin.lua stretches a band inside
+    -- the panels and moves the buttons / footer down
+    skin_extra_h = 140,
+    -- 3.6.0: the 5-tab window; Spells + Resting share a tab (sub-tabs in the panel).
+    -- 4.0.0: Gathering moved to the Herbing & Mining product (launcher card 4).
+    tab_groups = {
+        { label = "Spells", tabs = { "class", "healing" } },
+    },
+    tabs = {
+        { id = "general", label = "General" },
+        { id = "questing", label = "Questing" },
+        { id = "class", label = "Spells" },
+        { id = "healing", label = "Resting" },   -- id kept: saved settings and code refer to it
+        { id = "settings", label = "Settings" },
+    },
+})
+
+menu:checkbox("fq_enable", false, {
+    label = "Start Bot",
+    tab = "general",
+    skip_draw = true,
+    tooltip = "Internal run flag. Set by Start.",
+})
+-- One switch for all looting, on the always-visible General tab: grinding,
+-- questing and path mode all loot through loot.lua.
+menu:checkbox("fq_mount", true, {
+    label = "Use Mount",
+    tab = "general",
+    tooltip = "Questing and grinding: mount (or Travel Form) before every walk of 30 yards or more - a class mount spell, a mount in the bags or the mount list, from level 30, outdoors and out of combat. Dismounts for a fight.",
+})
+menu:checkbox("fq_loot", true, {
+    label = "Auto Loot Corpses",
+    tab = "general",
+    tooltip = "After each kill, walk to the corpse and auto loot at 2 yards (core.input.loot_object). Anything attacking you is fought first. Turn off to leave corpses alone.",
+})
+menu:checkbox("fq_astar", true, {
+    label = "Local A* Fallback",
+    tab = "general",
+    tooltip = "When Sentinel cannot reach a spot within 15 yards (off its navmesh), search a short local path with game raycasts and walk it through Sentinel. Budgeted per frame; on by default.",
+})
+menu:checkbox("fq_rotation_only", false, {
+    label = "Enable Rotation Only",
+    tab = "general",
+    tooltip = "Run the Class tab rotation on your current target with no bot movement. Leave Play off and steer the character yourself. Uncheck this, load a path, then Play to automate travel.",
+})
+-- 1.0.19: Auto Load - 15 s after the box is on (and the bot is not running)
+-- the update tick presses Start (gui.try_start). A blocked Start tries again
+-- 15 s later; the box stays on.
+menu:checkbox("fq_auto_load", false, {
+    label = "Auto Load",
+    tab = "general",
+    tooltip = "Start after 15 seconds. Stop or Pause cancels auto-start for this session; toggle Auto Load off and on to re-arm it.",
+})
+
+menu:combobox("fq_class", 7, CLASS_LABELS, {
+    label = "Class Rotation",
+    tooltip = "Hidden selector. Synced to the loaded player class.",
+})
+
+menu:combobox("fq_mode", 1, MODE_LABELS, {
+    label = "Bot Mode",
+    skip_draw = true,
+    tooltip = "Legacy mode index (2 = Quest).",
+})
+
+-- These sit at the top of their own tab. A normal tab draws its registered
+-- controls first and its custom content underneath, so the enable is always
+-- the first thing on the page.
+menu:checkbox("fq_use_quest", true, {
+    skip_draw = true,            -- Forever Questing: questing is the only mode
+    label = "Enable Questing",
+    tab = "questing",
+    tooltip = "Turn questing on. The RestedXP Guides addon supplies every step, waypoint and mob to kill - load a guide in it, then Start.",
+})
+
+
+-- Which side's routes to list. Defaults to the character's own faction the
+-- first time a player object is available, so the common case needs no click.
+menu:combobox("fq_faction", 1, factions.labels, {
+    label = "Faction",
+    tab = "path",
+    skip_draw = true,
+    tooltip = "Alliance or Horde. The route list below shows only that side's profiles.",
+})
+menu:combobox("fq_path", 1, PATH_LABELS, {
+    label = "Route",
+    tab = "path",
+    skip_draw = true,
+    tooltip = "All grind loops and travel routes for the selected continent. Load arms the profile; Play starts it.",
+})
+
+menu:checkbox("fq_path_loop", false, {
+    label = "Loop Path",
+    tab = "path",
+    tooltip = "Grind paths always loop until the bot is paused or stopped (2.233.0): a closed loop starts over, an open path turns round at its ends.",
+})
+menu:checkbox("fq_path_reverse", false, {
+    label = "Reverse Path",
+    tab = "path",
+    tooltip = "Play the loaded path last-to-first. Works on travel routes and grind loops. Loop still repeats that reversed order.",
+})
+menu:checkbox("fq_path_combat", true, {
+    label = "Attack Along Path",
+    tab = "path",
+    tooltip = "Auto-target the closest PvE mob in rotation range and fight from the loaded path (10-yard leash). Starts melee auto-attack so any class swings when the mob is in melee.",
+})
+menu:checkbox("fq_draw_path", true, {
+    label = "Draw Loaded Path",
+    tab = "path",
+    tooltip = "Draw the loaded travel path in the world.",
+})
+
+-- 3.2.0: movement/pivot.lua
+menu:checkbox("fq_sharp_turn_stop", true, {
+    label = "Stop and Turn on Sharp Turns",
+    tab = "path",
+    tooltip = "When the next waypoint is more than 70 degrees off the way you face, stop running, turn in place to face it, then walk on - sharp corners are not taken as wide arcs into walls and mobs. Applies to every walk (questing, grinding, routes, NPC runs).",
+})
+
+
+menu:checkbox("fq_eat_drink", true, {
+    label = "Eat / Drink",
+    tab = "healing",
+    tooltip = "Out of combat: when health or mana falls to the percentages set below, stop and eat / drink until that resource is full. Uses the highest-ranked food and water in the bags. Untick to turn eating and drinking off.",
+})
+-- Shown only while Eat / Drink is ticked (ui.lua visible_if). 10-90%: the
+-- old 20-35% range was too narrow to be worth a slider.
+local function eat_drink_on()
+    local v = menu:get("fq_eat_drink")
+    return v == true
+end
+menu:slider_int("fq_eat_hp", 10, 90, 50, {        -- 1.7.8: default 50 (the rest starts at 50 % or lower)
+    label = "Eat when Health below %",
+    tab = "healing",
+    visible_if = eat_drink_on,
+    tooltip = "Out of combat, sit and eat when health falls to this percentage or lower, and keep eating until health is full.",
+})
+menu:slider_int("fq_drink_mana", 10, 90, 50, {    -- 1.7.8: default 50
+    label = "Drink when Mana below %",
+    tab = "healing",
+    visible_if = eat_drink_on,
+    tooltip = "Out of combat, sit and drink when mana falls to this percentage or lower, and keep drinking until mana is full. Classes without mana never drink.",
+})
+menu:checkbox("fq_potions", true, {
+    label = "Use Potions",
+    tab = "healing",
+})
+menu:slider_int("fq_hp_pot", 10, 60, 35, {
+    label = "Health Potion %",
+    tab = "healing",
+})
+menu:slider_int("fq_mp_pot", 5, 50, 20, {
+    label = "Mana Potion %",
+    tab = "healing",
+})
+
+menu:checkbox("fq_random_path", false, {
+    label = "Random Patrol Skip",
+    tab = "settings",
+    skip_draw = true,   -- 1.0.28: questing reads it; only the removed Grind popup showed it
+})
+menu:slider_int("fq_max_kill", 15, 180, 60, {
+    label = "Max Kill Time (s)",
+    tab = "settings",
+    skip_draw = true,   -- 1.0.28: questing reads it; only the removed Grind popup showed it
+})
+menu:checkbox("fq_fight_back", true, {
+    label = "Fight Back",
+    tab = "settings",
+    skip_draw = true,   -- 1.0.28: questing reads it; only the removed Grind popup showed it
+})
+menu:slider_int("fq_fight_back_hp", 20, 90, 70, {
+    label = "Fight Back HP %",
+    tab = "settings",
+    skip_draw = true,   -- 1.0.28: questing reads it; only the removed Grind popup showed it
+})
+-- 3.0.3: enemies are searched for within this many yards of the player
+-- (grinding, and Zygor "grind to N xp" steps)
+menu:slider_int("fq_pull_radius", 10, 60, 20, {
+    label = "Pull Radius (yd)",
+    tab = "settings",
+    skip_draw = true,   -- 1.0.28: questing reads it; only the removed Grind popup showed it
+    tooltip = "Enemies within this many yards of the player are pulled: the bot walks into melee or casting range, then attacks.",
+})
+menu:slider_int("fq_fight_back_yards", 10, 80, 30, {
+    label = "Fight Back Range",
+    tab = "settings",
+    skip_draw = true,   -- 1.0.28: questing reads it; only the removed Grind popup showed it
+})
+menu:checkbox("fq_atk_any", false, {
+    label = "Attack Any Level",
+    tab = "settings",
+    skip_draw = true,   -- 1.0.28: questing reads it; only the removed Grind popup showed it
+    tooltip = "Attack every valid enemy in range, regardless of level. Only one level option can be on.",
+})
+menu:checkbox("fq_atk_5", false, {
+    label = "Attack within 5 levels",
+    tab = "settings",
+    skip_draw = true,   -- 1.0.28: questing reads it; only the removed Grind popup showed it
+    tooltip = "Attack enemies 5 levels below, the same level, or 5 levels above you. Only one level option can be on.",
+})
+menu:checkbox("fq_atk_3", true, {
+    label = "Attack within 3 levels",
+    tab = "settings",
+    skip_draw = true,   -- 1.0.28: questing reads it; only the removed Grind popup showed it
+    tooltip = "Attack enemies 3 levels below, the same level, or 3 levels above you. Only one level option can be on.",
+})
+menu:checkbox("fq_untapped", true, {
+    label = "Skip Tapped Mobs",
+    tab = "settings",
+    skip_draw = true,   -- 1.0.28: questing reads it; only the removed Grind popup showed it
+})
+-- 2.273.0: travel steers around the aggro range of hostile mobs at or below
+-- the player's level (targeting.scan_enemies -> movement danger map).
+
+-- Every questing setting lives on the Questing tab, under Enable Questing.
+-- There is no quest list to pick from: Zygor decides what comes next.
+menu:checkbox("fq_skip_trivial", true, {
+    label = "Skip Grey Quests",
+    tab = "questing",
+    tooltip = "Skip a quest the NPC reports as trivial (grey). The bot moves on to the step's next goal; advance the RestedXP guide yourself if the whole step was that quest.",
+})
+menu:checkbox("fq_logging", true, {
+    label = "Enable diagnostic logging",
+    tab = "general",
+    tooltip = "Write one structured session log with errors, decisions, player/target context and navigation state to scripts_log/MASTER_FARMER_ERRORS. Enabled by default; repeated messages and heartbeats are limited automatically.",
+})
+
+menu:checkbox("fq_vendor_sell", true, {
+    label = "Sell at Vendor",
+    tab = "vendor",
+    tooltip = "Walk to the zone merchant when free bag slots drop to the trigger.",
+})
+menu:checkbox("fq_repair", true, {
+    label = "Repair at Vendor",
+    tab = "vendor",
+    tooltip = "Walk to the zone merchant when equipped durability is at or below the trigger.",
+})
+menu:checkbox("fq_sell_grey", true, {
+    label = "Sell Grey",
+    tab = "vendor",
+})
+menu:checkbox("fq_sell_white", true, {
+    label = "Sell White",
+    tab = "vendor",
+})
+menu:checkbox("fq_sell_green", false, {
+    label = "Sell Green",
+    tab = "vendor",
+    tooltip = "Off by default. Greens can be upgrades.",
+})
+menu:checkbox("fq_sell_blue", false, {
+    label = "Sell Blue",
+    tab = "vendor",
+    tooltip = "Sell rare items only when enabled. Armor and weapon upgrades stay protected.",
+})
+menu:checkbox("fq_delete_junk", true, {
+    label = "Delete Junk When Full",
+    tab = "vendor",
+    tooltip = "When the bags are full and loot is left on a corpse, delete the cheapest grey item so the loot fits (a nearly full cheap stack goes first). Greys only - never food, drink, consumables, ammo or quest items. Deleting cannot be undone.",
+})
+menu:slider_int("fq_max_shards", 0, 40, 0, {
+    label = "Max Soul Shards",
+    tab = "vendor",
+    tooltip = "Warlock: keep at most this many Soul Shards and delete the rest (out of combat). 0 = no cap.",
+})
+menu:slider_int("fq_bag_free", 1, 10, 1, {
+    label = "Vendor at Free Slots",
+    tab = "vendor",
+    tooltip = "At this many free bag slots or fewer, walk to the closest vendor (any vendor NPC in sight, else the zone merchant, else the nearest inn), sell / buy / repair with the settings on this tab, then go back to the quest step or route.",
+})
+menu:checkbox("fq_vendor_each_lap", true, {
+    label = "Vendor Every Lap",
+    tab = "vendor",
+    tooltip = "On an Alliance 1-60 w/Vendoring loop that names a merchant, sell and repair once per completed lap. Those routes begin and end at their vendor, so the stop costs no extra travel. Routes with no vendor in their notes are unaffected.",
+})
+menu:slider_int("fq_repair_pct", 5, 50, 25, {      -- 1.7.10: default 25 (a trip below 25 % at most)
+    label = "Repair at Durability %",
+    tab = "vendor",
+})
+-- 3.0.0: the NPC a route sells / repairs at. The click is only recorded here
+-- (render pass); merchants.tick saves the current target on the update tick.
+menu:button("fq_save_route_vendor", {
+    label = "Save Target as Route Vendor",
+    tab = "vendor",
+    tooltip = "Target a vendor or repair NPC and press this: the loaded (or selected) grind route sells and repairs there whenever the bags are full or the gear is worn, and walks back to the nearest waypoint afterwards.",
+    on_click = function()
+        local okm, mer = pcall(function() return package.loaded["merchants"] end)
+        if okm and type(mer) == "table" and type(mer.request) == "function" then mer.request("save") end
+    end,
+})
+menu:button("fq_clear_route_vendor", {
+    label = "Clear Route Vendor",
+    tab = "vendor",
+    tooltip = "Forget the vendor saved for the loaded (or selected) route.",
+    on_click = function()
+        local okm, mer = pcall(function() return package.loaded["merchants"] end)
+        if okm and type(mer) == "table" and type(mer.request) == "function" then mer.request("clear") end
+    end,
+})
+
+menu:checkbox("fq_show_gui", true, {
+    label = "Show GUI",
+    tab = "settings",
+})
+
+menu:add_popup({
+    id = "path",
+    title = "Load Profile",
+    tab = "path",
+    w = 460,
+    h = 720,
+    x = 870,
+    y = 36,
+    on_open = function()
+        gui.sync_profile_list(true)
+    end,
+})
+menu:add_popup({
+    id = "vendor",
+    title = "Vendor",
+    tab = "vendor",
+    w = 440,
+    h = 480,
+    x = 870,
+    y = 76,
+})
+-- SPELLS TAB SETTINGS (2.64.0). The tab lists the known class spells and
+-- racials; these four tune how smart.lua uses them.
+-- ENGAGE DISTANCE (2.90.0): how close the bot gets before the rotation starts
+-- on a target. Melee classes (and a Cat / Bear druid, a Stormstrike shaman)
+-- use the melee distance; casters and hunters the ranged one, capped just
+-- inside the longest ticked damage spell's own range.
+-- BUFF RANDOMS (2.91.0): mages only.
+local function is_mage()
+    local ok, cid = pcall(function() return menu:player_class() end)
+    return ok and cid == enums.class_id.MAGE
+end
+menu:checkbox("fq_buff_randoms", false, {
+    label = "Buff Randoms",
+    tab = "class",
+    visible_if = is_mage,
+    tooltip = "Out of combat, cast Arcane Intellect (Rank 1, spell 1459) on friendly players within 30 yards who do not have it (or Arcane Brilliance). Not in a fight, while resting or under 50% mana; one player every 4 s, each player at most once per 10 minutes.",
+})
+-- STRAFE COMBAT (2.212.0): rogues only. class_id is the same per-class gate
+-- the Spells-tab sliders use, so no other class ever sees the row. strafe.lua
+-- checks the class again at run time, because a menu element is saved per
+-- account and a tick made on a rogue is still set when a mage logs in.
+-- 2.284.0: Hunter - the pet takes the aggro first, back-jump at 5 yd
+-- (smart.lua HUNTER PET AGGRO). Hunters only, off by default.
+-- 1.7.12 (user): on-use trinkets (trinkets.lua) - each slot's "Use:" effect
+-- decides when: a heal / mana / defensive one when low, an escape one under a
+-- stun / fear, an attack one at the target, a burst buff at a fresh target.
+-- 1.7.13 (user): minimap click to walk (mapwalk.lua), with the bot stopped
+menu:checkbox("fq_minimap_walk", true, {
+    label = "Minimap Click to Walk",
+    tab = "general",
+    tooltip = "With the bot stopped: left-click a spot on the minimap and the character walks there with Sentinel Navigation (stops within 3 yards, or after 15 seconds without progress). A new click replaces the goal; Start hands over to the guide.",
+})
+menu:checkbox("fq_use_trinkets", true, {
+    label = "Use Trinkets",
+    tab = "class",
+    tooltip = "Use equipped on-use trinkets in combat. Each trinket's Use: effect decides when: a heal below 45% health, mana below 35% mana, a damage shield / armor below 60% health, a stun / fear breaker when you lose control, a damage trinket on your target, a stat buff at the start of a fight. Passive trinkets are left alone.",
+})
+-- 1.7.15 (user): Mage Blink Away (rotations/mage.lua escape, movement/locks.lua)
+menu:checkbox("fq_blink_away", true, {
+    label = "Blink Away",
+    tab = "class",
+    class_id = enums.class_id.MAGE,
+    tooltip = "Mage: when an enemy fighting you comes within 5 yards and Blink is ready - turn away from it, run, Blink after 0.25 s, stop after 1.5 s, face the enemy again and go on with the rotation (at most once every 3 s).",
+})
+menu:checkbox("fq_hunter_pet_aggro", false, {
+    label = "Pet Takes Aggro",
+    tab = "class",
+    class_id = enums.class_id.HUNTER,
+    tooltip = "With a pet out: the pet is sent in and you hold your own attacks (Auto Shot too) until the mob is on the pet "
+        .. "(or attacks you, or 6 s pass). If the mob gets within 5 yd of you, you walk backward for 2.5 s with a jump "
+        .. "0.5 s in, then stop (at most once every 4 s).",
+})
+-- 2.294.0: the same for Warriors, in their own box (a menu element is saved
+-- per account: one shared box ticked on a rogue would switch warriors on).
+menu:checkbox("fq_strafe_combat_warrior", false, {
+    label = "Strafe in Combat",
+    tab = "class",
+    class_id = enums.class_id.WARRIOR,
+    tooltip = "In combat, once in melee range of the target, tap strafe right and left (0.2-0.5 s each, random) so the warrior does not stand still. Stops the moment the target leaves melee range, so the bot can chase it.",
+})
+menu:checkbox("fq_strafe_combat", false, {
+    label = "Strafe Combat",
+    tab = "class",
+    class_id = enums.class_id.ROGUE,
+    tooltip = "In combat, once in melee range of the target, tap strafe right and left (0.2-0.5 s each, random) so the rogue does not stand still. Stops the moment the target leaves melee range, so the bot can chase it.",
+})
+-- Spells-tab sliders, one saved element per class (2.129.0). The menu
+-- stores a slider by its id for the whole account, so a single fq_sp_heal
+-- was the mage's value on a hunter. class_id hides every other class's row.
+local class_slider_ids = {}
+
+-- 2.249.0: rotation casts through the Sylvanas spell queue (castq.lua)
+menu:checkbox("fq_spell_queue", true, {
+    label = "Spell Queue Casting",
+    tab = "class",
+    tooltip = "Cast the rotation through the spell queue (priority 1): the next spell is queued in the last 0.35 s of a cast so it goes out the moment the cast ends, and off-GCD spells use the fast queue. Untick to cast through izi directly.",
+})
+
+-- 2.274.0: adaptive rotation (adapt.lua)
+menu:checkbox("fq_adaptive", true, {
+    label = "Adaptive Rotation",
+    tab = "class",
+    tooltip = "Learns, per character, what kills fastest and casts that: reads every spell you cast and the damage it does, "
+        .. "orders the ticked damage spells by damage per second of casting (by damage per mana when low on mana), "
+        .. "casts a spell that kills the target now first, skips DoTs and cooldowns in fights too short for them, "
+        .. "and in melee waits for the swing instead of clipping it. Saved per character (scripts_data/fq/adapt_<guid>.txt) "
+        .. "and updated when new spells or ranks are learned. Untick for the plain Spells-tab order.",
+})
+
+local function add_class_slider(class_id, key, min_v, max_v, default, label, tip)
+    local id = string.format("fq_%s_%d", key, class_id)
+    menu:slider_int(id, min_v, max_v, default, {
+        label = label,
+        tab = "class",
+        class_id = class_id,
+        tooltip = tip,
+    })
+    local map = class_slider_ids[class_id]
+    if not map then
+        map = {}
+        class_slider_ids[class_id] = map
+    end
+    map[key] = id
+end
+
+local TIP_MELEE = "How close this class walks before it starts swinging."
+local TIP_RANGED = "How close this class walks before it starts casting. Never farther than the longest ticked damage spell."
+local TIP_SHOOT = "The Hunter closes to this distance, then uses the ranged weapon (13-40 yd, never past the weapon's real reach). Default 25. A mob at 11 yd or closer is fought in melee at 3 yd."
+local TIP_HEAL = "Ticked healing spells are cast on yourself below this health."
+local TIP_DEF = "Ticked defensive spells are used below this health."
+local TIP_AOE = "Ticked area spells are used when at least this many enemies are in reach."
+local TIP_WAND = "With a wand equipped, Shoot once mana drops below this. 0 never wands; 100 wands whenever no heal, DoT or other spell is due."
+local TIP_PET = "Mend Pet is cast when the pet's health drops below this."
+
+-- Not named C: that upvalue is the colour helper, and a second local C here
+-- shadowed it for the rest of the file. The Spells list and the mini window
+-- then called the class-id table (gui.draw: attempt to call upvalue 'C').
+local class_ids = enums.class_id
+-- Melee classes.
+add_class_slider(class_ids.WARRIOR, "melee_yards", 1, 5, 5, "Melee attack distance (yd)", TIP_MELEE)
+add_class_slider(class_ids.WARRIOR, "sp_def", 10, 70, 35, "Defensives below %", TIP_DEF)
+add_class_slider(class_ids.WARRIOR, "sp_aoe", 2, 6, 3, "Area of effect at enemies", TIP_AOE)
+
+add_class_slider(class_ids.PALADIN, "melee_yards", 1, 5, 5, "Melee attack distance (yd)", TIP_MELEE)
+add_class_slider(class_ids.PALADIN, "sp_heal", 20, 90, 50, "Self-heal below %", TIP_HEAL)
+add_class_slider(class_ids.PALADIN, "sp_def", 10, 70, 35, "Defensives below %", TIP_DEF)
+add_class_slider(class_ids.PALADIN, "sp_aoe", 2, 6, 3, "Area of effect at enemies", TIP_AOE)
+
+add_class_slider(class_ids.ROGUE, "melee_yards", 1, 5, 5, "Melee attack distance (yd)", TIP_MELEE)
+add_class_slider(class_ids.ROGUE, "sp_def", 10, 70, 35, "Defensives below %", TIP_DEF)
+add_class_slider(class_ids.ROGUE, "sp_aoe", 2, 6, 3, "Area of effect at enemies", TIP_AOE)
+
+-- Hunter: shooting distance, then melee only after the mob closes. No wand.
+add_class_slider(class_ids.HUNTER, "ranged_yards", 13, 40, 25, "Shooting distance (yd)", TIP_SHOOT)
+add_class_slider(class_ids.HUNTER, "melee_yards", 1, 3, 3, "Melee distance (yd)", TIP_MELEE)
+add_class_slider(class_ids.HUNTER, "pet_heal_pct", 20, 90, 50, "Mend Pet below %", TIP_PET)
+add_class_slider(class_ids.HUNTER, "sp_def", 10, 70, 35, "Defensives below %", TIP_DEF)
+add_class_slider(class_ids.HUNTER, "sp_aoe", 2, 6, 3, "Area of effect at enemies", TIP_AOE)
+
+-- Casters.
+add_class_slider(class_ids.PRIEST, "ranged_yards", 10, 40, 30, "Ranged attack distance (yd)", TIP_RANGED)
+add_class_slider(class_ids.PRIEST, "sp_heal", 20, 90, 50, "Self-heal below %", TIP_HEAL)
+add_class_slider(class_ids.PRIEST, "sp_def", 10, 70, 35, "Defensives below %", TIP_DEF)
+add_class_slider(class_ids.PRIEST, "sp_aoe", 2, 6, 3, "Area of effect at enemies", TIP_AOE)
+add_class_slider(class_ids.PRIEST, "sp_wand", 0, 100, 20, "Wand below mana %", TIP_WAND)
+
+add_class_slider(class_ids.SHAMAN, "ranged_yards", 10, 40, 30, "Ranged attack distance (yd)", TIP_RANGED)
+add_class_slider(class_ids.SHAMAN, "melee_yards", 1, 5, 5, "Melee distance (yd)", TIP_MELEE)
+add_class_slider(class_ids.SHAMAN, "sp_heal", 20, 90, 50, "Self-heal below %", TIP_HEAL)
+add_class_slider(class_ids.SHAMAN, "sp_def", 10, 70, 35, "Defensives below %", TIP_DEF)
+add_class_slider(class_ids.SHAMAN, "sp_aoe", 2, 6, 3, "Area of effect at enemies", TIP_AOE)
+
+add_class_slider(class_ids.MAGE, "ranged_yards", 10, 40, 30, "Ranged attack distance (yd)", TIP_RANGED)
+add_class_slider(class_ids.MAGE, "sp_def", 10, 70, 35, "Defensives below %", TIP_DEF)
+add_class_slider(class_ids.MAGE, "sp_aoe", 2, 6, 3, "Area of effect at enemies", TIP_AOE)
+add_class_slider(class_ids.MAGE, "sp_wand", 0, 60, 20, "Wand below mana %", TIP_WAND)
+
+add_class_slider(class_ids.WARLOCK, "ranged_yards", 10, 40, 30, "Ranged attack distance (yd)", TIP_RANGED)
+add_class_slider(class_ids.WARLOCK, "sp_heal", 20, 90, 45, "Drain Life below %", TIP_HEAL)
+add_class_slider(class_ids.WARLOCK, "sp_def", 10, 70, 35, "Defensives below %", TIP_DEF)
+add_class_slider(class_ids.WARLOCK, "sp_aoe", 2, 6, 3, "Area of effect at enemies", TIP_AOE)
+add_class_slider(class_ids.WARLOCK, "pet_heal_pct", 20, 90, 50, "Health Funnel below %", TIP_PET)
+add_class_slider(class_ids.WARLOCK, "sp_wand", 0, 100, 20, "Wand below mana %", TIP_WAND)
+
+-- Druid stands at range until Cat or Bear, so both distances are kept.
+add_class_slider(class_ids.DRUID, "melee_yards", 1, 5, 5, "Melee attack distance (yd)", TIP_MELEE)
+add_class_slider(class_ids.DRUID, "ranged_yards", 10, 40, 30, "Ranged attack distance (yd)", TIP_RANGED)
+add_class_slider(class_ids.DRUID, "sp_heal", 20, 90, 50, "Self-heal below %", TIP_HEAL)
+add_class_slider(class_ids.DRUID, "sp_def", 10, 70, 35, "Defensives below %", TIP_DEF)
+add_class_slider(class_ids.DRUID, "sp_aoe", 2, 6, 3, "Area of effect at enemies", TIP_AOE)
+
+
+local keybinds = {
+    enable = core.menu.keybind(996, false, "fq_kb_start"),
+    pause = core.menu.keybind(997, false, "fq_kb_pause"),
+    stop = core.menu.keybind(998, false, "fq_kb_stop"),
+}
+
+local aliases = {
+    enable = "fq_enable",
+    eat_drink = "fq_eat_drink",
+    potions = "fq_potions",
+    rest_debug = "fq_rest_debug",
+    crash_recorder = "fq_crash_recorder",
+    crash_capture = "fq_crash_capture",
+    session_detail = "fq_session_detail",
+    print_action = "fq_print_action",
+    buff_randoms = "fq_buff_randoms",
+    strafe_combat = "fq_strafe_combat",
+    strafe_combat_warrior = "fq_strafe_combat_warrior",   -- 2.294.0
+    skip_trivial = "fq_skip_trivial",
+    train = "fq_train",
+    vendor_each_lap = "fq_vendor_each_lap",
+    random_path = "fq_random_path",
+    fight_back = "fq_fight_back",
+    untapped = "fq_untapped",
+    loot = "fq_loot",
+    sell = "fq_vendor_sell",
+    repair = "fq_repair",
+    sell_grey = "fq_sell_grey",
+    sell_white = "fq_sell_white",
+    sell_green = "fq_sell_green",
+    sell_blue = "fq_sell_blue",
+    delete_junk = "fq_delete_junk",
+    spell_queue = "fq_spell_queue",
+    hunter_pet_aggro = "fq_hunter_pet_aggro",  -- 2.284.0
+    use_trinkets = "fq_use_trinkets",          -- 1.7.12
+    minimap_walk = "fq_minimap_walk",          -- 1.7.13
+    blink_away = "fq_blink_away",              -- 1.7.15
+    adaptive = "fq_adaptive",                 -- 2.274.0
+    path_loop = "fq_path_loop",
+    path_reverse = "fq_path_reverse",
+    path_combat = "fq_path_combat",
+    draw_path = "fq_draw_path",
+    move_debug = "fq_move_debug",
+    sharp_turn_stop = "fq_sharp_turn_stop",   -- 3.2.0
+    rotation_only = "fq_rotation_only",
+    use_quest = "fq_use_quest",
+    show_gui = "fq_show_gui",
+    -- Hunter / Warlock / Shaman / Rogue rotations
+    aspect_hawk = "fq_aspect_hawk",
+    trueshot = "fq_trueshot",
+    hunter_pet = "fq_hunter_pet",
+    mend_pet = "fq_mend_pet",
+    hunters_mark = "fq_hunters_mark",
+    serpent_sting = "fq_serpent_sting",
+    arcane_shot = "fq_arcane_shot",
+    steady_shot = "fq_steady_shot",
+    multi_shot = "fq_multi_shot",
+    concussive = "fq_concussive",
+    hunter_debug = "fq_hunter_debug",
+    warlock_armour = "fq_warlock_armour",
+    health_funnel = "fq_health_funnel",
+    corruption = "fq_corruption",
+    curse_agony = "fq_curse_agony",
+    immolate = "fq_immolate",
+    shadow_bolt = "fq_shadow_bolt",
+    drain_life = "fq_drain_life",
+    life_tap = "fq_life_tap",
+    warlock_debug = "fq_warlock_debug",
+    enhancement = "fq_enhancement",
+    lightning_shield = "fq_lightning_shield",
+    flame_shock = "fq_flame_shock",
+    earth_shock = "fq_earth_shock",
+    frost_shock = "fq_frost_shock",
+    lightning_bolt = "fq_lightning_bolt",
+    healing_wave = "fq_healing_wave",
+    shaman_debug = "fq_shaman_debug",
+    sinister_strike = "fq_sinister_strike",
+    backstab = "fq_backstab",
+    slice_dice = "fq_slice_dice",
+    rupture = "fq_rupture",
+    eviscerate = "fq_eviscerate",
+    evasion = "fq_evasion",
+    kick = "fq_kick",
+    rogue_debug = "fq_rogue_debug",
+    -- Warrior (rotations/warrior.lua)
+    battle_shout = "fq_battle_shout",
+    battle_stance = "fq_battle_stance",
+    bloodrage = "fq_bloodrage",
+    berserker_rage = "fq_berserker_rage",
+    victory_rush = "fq_victory_rush",
+    execute = "fq_execute",
+    mortal_strike = "fq_mortal_strike",
+    bloodthirst = "fq_bloodthirst",
+    whirlwind = "fq_whirlwind",
+    overpower = "fq_overpower",
+    rend = "fq_rend",
+    thunder_clap = "fq_thunder_clap",
+    cleave = "fq_cleave",
+    heroic_strike = "fq_heroic_strike",
+    sunder_armor = "fq_sunder_armor",
+    demo_shout = "fq_demo_shout",
+    hamstring = "fq_hamstring",
+    pummel = "fq_pummel",
+    shield_bash = "fq_shield_bash",
+    warrior_debug = "fq_warrior_debug",
+    -- Supplies (supplies.lua)
+    buy_supplies = "fq_buy_supplies",
+    vendor_debug = "fq_vendor_debug",
+    -- Auto-equip (equip.lua)
+    auto_equip = "fq_auto_equip",
+    equip_weapons = "fq_equip_weapons",
+    equip_debug = "fq_equip_debug",
+    -- Druid (rotations/druid.lua)
+    mark_of_wild = "fq_mark_of_wild",
+    thorns = "fq_thorns",
+    moonfire = "fq_moonfire",
+    wrath = "fq_wrath",
+    faerie_fire = "fq_faerie_fire",
+    entangling = "fq_entangling",
+    rejuvenation = "fq_rejuvenation",
+    regrowth = "fq_regrowth",
+    healing_touch = "fq_healing_touch",
+    druid_debug = "fq_druid_debug",
+    -- Paladin (rotations/paladin.lua)
+    blessing = "fq_blessing",
+    seal = "fq_seal",
+    judgement = "fq_judgement",
+    crusader_strike = "fq_crusader_strike",
+    hammer_wrath = "fq_hammer_wrath",
+    consecration = "fq_consecration",
+    flash_light = "fq_flash_light",
+    holy_light = "fq_holy_light",
+    paladin_debug = "fq_paladin_debug",
+    -- Priest (rotations/priest.lua)
+    pw_fortitude = "fq_pw_fortitude",
+    inner_fire = "fq_inner_fire",
+    shadowform = "fq_shadowform",
+    pw_shield = "fq_pw_shield",
+    swp = "fq_swp",
+    mind_blast = "fq_mind_blast",
+    mind_flay = "fq_mind_flay",
+    smite = "fq_smite",
+    renew = "fq_renew",
+    flash_heal = "fq_flash_heal",
+    priest_debug = "fq_priest_debug",
+    ice_armor = "fq_ice_armor",
+    mage_armor = "fq_mage_armor",
+    molten_armor = "fq_molten_armor",
+    ice_barrier = "fq_ice_barrier",
+    mana_shield = "fq_mana_shield",
+    icy_veins = "fq_icy_veins",
+    presence_of_mind = "fq_presence_of_mind",
+    combustion = "fq_combustion",
+    arcane_power = "fq_arcane_power",
+    frostbolt = "fq_frostbolt",
+    fireball = "fq_fireball",
+    scorch = "fq_scorch",
+    arcane_missiles = "fq_arcane_missiles",
+    pyroblast = "fq_pyroblast",
+    fire_blast = "fq_fire_blast",
+    frost_nova = "fq_frost_nova",
+    ice_lance = "fq_ice_lance",
+    cone = "fq_cone",
+    flamestrike = "fq_flamestrike",
+    blizzard = "fq_blizzard",
+    blast_wave = "fq_blast_wave",
+    dragons_breath = "fq_dragons_breath",
+    water_ele = "fq_water_ele",
+    counterspell = "fq_counterspell",
+    mage_wand = "fq_mage_wand",
+    atk_any = "fq_atk_any",
+    atk_5 = "fq_atk_5",
+    atk_3 = "fq_atk_3",
+}
+
+local slider_aliases = {
+    sp_heal = "fq_sp_heal",
+    melee_yards = "fq_melee_yards",
+    ranged_yards = "fq_ranged_yards",
+    sp_def = "fq_sp_def",
+    sp_aoe = "fq_sp_aoe",
+    sp_wand = "fq_sp_wand",
+    eat_hp = "fq_eat_hp",
+    drink_mana = "fq_drink_mana",
+    hp_pot = "fq_hp_pot",
+    mp_pot = "fq_mp_pot",
+    max_kill = "fq_max_kill",
+    fight_back_hp = "fq_fight_back_hp",
+    fight_back_yards = "fq_fight_back_yards",
+    pull_radius = "fq_pull_radius",
+    bag_free = "fq_bag_free",
+    max_shards = "fq_max_shards",
+    repair_pct = "fq_repair_pct",
+    -- class self-heal thresholds (rotations/*.lua read these via gui.slider)
+    pet_heal_pct = "fq_pet_heal_pct",
+    warlock_heal_pct = "fq_warlock_heal_pct",
+    shaman_heal_pct = "fq_shaman_heal_pct",
+    combo_finish = "fq_combo_finish",
+    evasion_pct = "fq_evasion_pct",
+    food_target = "fq_food_target",
+    drink_target = "fq_drink_target",
+    priest_heal_pct = "fq_priest_heal_pct",
+    druid_heal_pct = "fq_druid_heal_pct",
+    paladin_heal_pct = "fq_paladin_heal_pct",
+    heroic_rage = "fq_heroic_rage",
+    bloodrage_hp = "fq_bloodrage_hp",
+    execute_pct = "fq_execute_pct",
+}
+
+-- Combobox ids read via gui.combo(). Kept separate from checkbox and slider
+-- aliases because gui.slider() only accepts numbers and gui.is_on() only
+-- booleans, so a dropdown routed through either silently returns the fallback.
+local combo_aliases = {
+    class = "fq_class",
+    paladin_aura = "fq_paladin_aura",
+    warlock_pet = "fq_warlock_pet",
+    shaman_imbue = "fq_shaman_imbue",
+}
+
+local function checkbox_element(key)
+    local id = aliases[key] or key
+    return menu:element(id)
+end
+
+local function keybind_enabled(element)
+    if not element then
+        return nil
+    end
+    local ok, st = pcall(function()
+        return plugin_helper:is_toggle_enabled(element)
+    end)
+    if ok and type(st) == "boolean" then
+        return st
+    end
+    ok, st = pcall(function()
+        return element:get_state()
+    end)
+    if ok and type(st) == "boolean" then
+        return st
+    end
+    return nil
+end
+
+-- ============================================================================
+-- THE SPELLS TAB IS THE ROTATION
+-- ============================================================================
+-- A checkbox registered with a `spell` names a rotation ability. The Spells
+-- tab lists those same abilities by name, so a tick there has to win over the
+-- class checkbox - otherwise the tab is a display that lies about what the
+-- bot will cast.
+--
+-- picks answers three ways, and the third is what makes this safe: nil means
+-- the user has not touched that spell, and the class checkbox keeps deciding.
+-- Adding the tab therefore re-armed and disarmed nothing.
+--
+-- The name is resolved through the spellbook family, because the registry
+-- holds a spell OBJECT while picks is keyed by name. A key whose spell is not
+-- in the book yet simply has no override.
+
+local pick_name_cache = {}
+
+local function pick_name_for(id)
+    local cached = pick_name_cache[id]
+    if cached ~= nil then
+        return cached ~= false and cached or nil
+    end
+
+    -- Everything here is guarded: is_on is the hottest function in the
+    -- project, called many times per frame from every rotation, and a menu
+    -- whose `elements` is not a plain table must cost a nil rather than an
+    -- error thrown up through the whole combat tick.
+    local rec = nil
+    pcall(function()
+        local els = menu and menu.elements
+        if type(els) == "table" then
+            rec = els[id]
+        end
+    end)
+    local sp = (type(rec) == "table") and rec.spell or nil
+    if type(sp) == "table" and sp[1] ~= nil then
+        sp = sp[1]           -- "Ice / Frost Armor" registers a list
+    end
+    if not sp then
+        pick_name_cache[id] = false
+        return nil
+    end
+
+    local sid = nil
+    pcall(function() sid = sp:id() end)
+    if type(sid) ~= "number" or sid <= 0 then
+        pick_name_cache[id] = false
+        return nil
+    end
+
+    local name = nil
+    if type(spellbook.name_of_id) == "function" then
+        pcall(function() name = spellbook.name_of_id(sid) end)
+    end
+    if type(name) ~= "string" or name == "" then
+        pick_name_cache[id] = false
+        return nil
+    end
+    pick_name_cache[id] = name
+    return name
+end
+
+--- Forget the resolved names. The scan replaces the book, so a name that did
+--- not resolve before the scan must be retried after it.
+function gui.reset_pick_names()
+    pick_name_cache = {}
+end
+
+-- picks is required lazily because it loads after this file. The require stays
+-- lazy; only the LOOKUP is remembered.
+--
+-- is_on is the hottest function in the project - see the note above
+-- pick_name_for - and it was paying a pcall and a package.loaded lookup on
+-- every single call, of which there are roughly twenty per frame from the
+-- rotations alone. Resolved once, on the first call that succeeds.
+--
+-- Cached on success only. A call that lands before picks is loadable must
+-- leave the slot empty and retry, not remember the failure for the session.
+local picks_mod = nil
+
+local function get_picks()
+    if picks_mod then return picks_mod end
+    local ok, mod = pcall(require, "picks")
+    if ok and type(mod) == "table" then picks_mod = mod end
+    return picks_mod
+end
+
+local run_authorized = false -- Session-only; persisted checkboxes never start automation.
+
+local function is_on(key)
+    -- One fresh persistence key replaces all former logging preferences.
+    local log_key = aliases[key] or key
+    if log_key == "fq_crash_capture" or log_key == "fq_crash_recorder"
+        or log_key == "fq_spell_debug" or log_key == "fq_print_action" then return false end
+    if log_key == "fq_logging" or log_key == "fq_session_detail"
+        or (type(log_key)=="string" and log_key:match("_debug$")) then
+        return menu:get("fq_logging") ~= false
+    end
+    if (key == "enable" or key == "fq_enable") and not run_authorized then return false end
+    -- ZYGOR QUESTING (1.0.0): questing is the only mode of this product
+    if key == "use_quest" then return true end
+    local id = aliases[key] or key
+
+    -- A Spells tab choice outranks the class checkbox, but only when one was
+    -- actually made.
+    local picks = get_picks()
+    if picks and type(picks.state) == "function" then
+        local name = pick_name_for(id)
+        if name then
+            local st = picks.state(name)
+            if type(st) == "boolean" then
+                return st
+            end
+        end
+    end
+
+    local via_menu = menu:get(id)
+    if type(via_menu) == "boolean" then
+        return via_menu
+    end
+    local element = checkbox_element(key)
+    if element then
+        local ok, st = pcall(function()
+            return element:get_state()
+        end)
+        if ok and type(st) == "boolean" then
+            return st
+        end
+        ok, st = pcall(function()
+            return element:get()
+        end)
+        if ok and type(st) == "boolean" then
+            return st
+        end
+    end
+    local kb = keybinds[key]
+    if kb then
+        local kb_state = keybind_enabled(kb)
+        if type(kb_state) == "boolean" then
+            return kb_state
+        end
+    end
+    if key == "path_combat" then
+        return true
+    end
+    return false
+end
+
+local function set_on(key, value)
+    local on = value == true
+    local element = checkbox_element(key)
+    if element then
+        pcall(function()
+            element:set(on)
+        end)
+    end
+    if keybinds[key] then
+        pcall(function()
+            keybinds[key]:set_toggle_state(on)
+        end)
+    end
+end
+
+gui.is_on = is_on
+gui.set_on = set_on
+
+local ATK_IDS = {
+    any = "fq_atk_any",
+    five = "fq_atk_5",
+    three = "fq_atk_3",
+}
+local last_atk_mode = "three"
+
+local function apply_atk_mode(mode)
+    if mode ~= "any" and mode ~= "five" and mode ~= "three" then
+        mode = "three"
+    end
+    last_atk_mode = mode
+    menu:set(ATK_IDS.any, mode == "any")
+    menu:set(ATK_IDS.five, mode == "five")
+    menu:set(ATK_IDS.three, mode == "three")
+end
+
+function gui.sync_attack_level()
+    local any = menu:get(ATK_IDS.any) == true
+    local five = menu:get(ATK_IDS.five) == true
+    local three = menu:get(ATK_IDS.three) == true
+    local n = (any and 1 or 0) + (five and 1 or 0) + (three and 1 or 0)
+    if n == 1 then
+        if any then
+            last_atk_mode = "any"
+        elseif five then
+            last_atk_mode = "five"
+        else
+            last_atk_mode = "three"
+        end
+        return
+    end
+    if n == 0 then
+        apply_atk_mode(last_atk_mode)
+        return
+    end
+    if any and last_atk_mode ~= "any" then
+        apply_atk_mode("any")
+    elseif five and last_atk_mode ~= "five" then
+        apply_atk_mode("five")
+    elseif three and last_atk_mode ~= "three" then
+        apply_atk_mode("three")
+    else
+        apply_atk_mode(last_atk_mode)
+    end
+end
+
+function gui.attack_level_band()
+    gui.sync_attack_level()
+    if menu:get(ATK_IDS.any) == true then
+        return nil
+    end
+    if menu:get(ATK_IDS.five) == true then
+        return 5
+    end
+    return 3
+end
+
+function gui.slider(key, fallback)
+    local cid = menu:player_class()
+    local map = cid and class_slider_ids[cid]
+    local id = (map and map[key]) or slider_aliases[key] or key
+    local value = menu:get(id)
+    if type(value) == "number" then
+        return value
+    end
+    return fallback
+end
+
+--- Read a combobox as a 1-based index. Returns `fallback` when the element is
+--- missing or has not been resolved yet, so a caller never has to guard nil.
+function gui.combo(key, fallback)
+    local id = combo_aliases[key] or key
+    local value = menu:get(id)
+    if type(value) == "number" then
+        return value
+    end
+    return fallback
+end
+
+function gui.get_menu()
+    return menu
+end
+
+gui.modes = modes
+
+function gui.mode()
+    return modes.QUEST           -- questing only (RestedXP)
+end
+
+local path_source = "travel"
+local armed_path = nil
+local play_pending = false
+local last_region_idx = nil
+local last_path_key = ""
+local picker_cache = {}
+local picker_cache_key = ""
+
+--- The faction whose routes the Grinding tab is listing, and its index.
+---
+--- Defaults to the character's own side the first time a player object is
+--- available, so an Alliance character opens on Alliance routes without
+--- touching anything. After that the player's choice sticks.
+local faction_synced = false
+
+function gui.faction_key()
+    local idx = menu:get("fq_faction")
+    if type(idx) ~= "number" or idx < 1 or idx > #factions.keys then
+        idx = 1
+    end
+    return factions.key_at(idx), idx
+end
+
+--- Point the selector at the character's own side, once.
+---
+--- It will NOT move you to a side that has no routes. Auto-selecting Horde on
+--- a Horde character is correct in principle and useless in practice while
+--- every shipped route is Alliance: the list goes empty and it looks as though
+--- the profiles have vanished. So a side with nothing in it is not selected,
+--- and the reason is logged once.
+function gui.sync_faction(player)
+    if faction_synced or not player then
+        return
+    end
+    local key, how = factions.of_player(player)
+    if not key then
+        return
+    end
+    faction_synced = true
+
+    core.log(string.format("[Master Farmer - Forever Questing] Faction: %s (from %s).", key, tostring(how)))
+
+    local want = factions.index_of(key)
+    if menu:get("fq_faction") ~= want then
+        menu:set("fq_faction", want)
+        picker_cache_key = ""
+        last_path_key = ""
+    end
+end
+
+
+local function clamp_index(idx, n)
+    if type(idx) ~= "number" or idx < 1 then
+        idx = 1
+    end
+    if n < 1 then
+        return 1
+    end
+    if idx > n then
+        return n
+    end
+    return idx
+end
+
+--- 1.0.28: no route catalog - the picker holds the empty row only.
+function gui.picker_entries()
+    local key, region = gui.faction_key()
+    return {
+        {
+            kind = "none",
+            source = "",
+            index = 0,
+            id = nil,
+            name = EMPTY_PATH,
+            label = EMPTY_PATH,
+        },
+    }, key, region
+end
+
+function gui.combo_labels()
+    local rows = gui.picker_entries()
+    local labels = {}
+    for i = 1, #rows do
+        labels[i] = rows[i].label
+    end
+    return labels
+end
+
+function gui.travel_labels()
+    return gui.combo_labels()
+end
+
+function gui.leveling_labels()
+    return gui.combo_labels()
+end
+
+-- The chosen route index.
+--
+-- This used to be read straight back out of the fq_path COMBOBOX ELEMENT,
+-- and that is what hid most of the list. That element is created with a single
+-- placeholder item and its item list is only refreshed by sync_profile_list,
+-- so a real combobox widget - which cannot select an index it has no item for
+-- - clamped every set() to whatever stale count it happened to be holding.
+-- The dropdown showed all 27 routes and picking anything past the clamp
+-- snapped straight back.
+--
+-- The index is ours, so we keep it. The element is still mirrored for the
+-- older popups, but nothing reads the selection back out of it.
+local selected_path = 1
+
+local function live_path_count()
+    local labels = gui.combo_labels()
+    local n = #labels
+    if n == 1 and labels[1] == EMPTY_PATH then
+        n = 0
+    end
+    return n, labels
+end
+
+function gui.path_index()
+    local n = live_path_count()
+    return clamp_index(selected_path, n)
+end
+
+--- The selected route as an id rather than an index, for settings.lua.
+--- An index is meaningless across sessions: the catalog can gain routes and
+--- the faction can differ, and index 14 would then be a different route.
+function gui.selected_route_id()
+    local rows = gui.picker_entries()
+    local row = rows[gui.path_index()]
+    return (row and row.id) or nil
+end
+
+--- Select a route by id. Silently does nothing when the id is not in the
+--- current list, which is the right answer for a route that was removed or
+--- belongs to the other faction.
+function gui.select_route_id(id)
+    if type(id) ~= "string" or id == "" then
+        return false
+    end
+    local rows = gui.picker_entries()
+    for i = 1, #rows do
+        if rows[i].id == id then
+            gui.set_path_index(i)
+            return true
+        end
+    end
+    return false
+end
+
+--- Choose a route. Clamped against the list as it is right now, never against
+--- whatever the widget last heard about.
+function gui.set_path_index(index)
+    local n, labels = live_path_count()
+    local before = selected_path
+    selected_path = clamp_index(index, n)
+    if selected_path ~= before then
+        local ok, settings = pcall(require, "settings")
+        if ok and settings and type(settings.mark_dirty) == "function" then
+            settings.mark_dirty()
+        end
+    end
+    -- Keep the element in step for the legacy popups: items FIRST, or the set
+    -- is clamped away again.
+    pcall(function()
+        menu:set_combobox_items("fq_path", labels)
+        menu:set("fq_path", selected_path)
+    end)
+    return selected_path
+end
+
+function gui.level_index()
+    return gui.path_index()
+end
+
+function gui.selected_picker()
+    local rows = gui.picker_entries()
+    local idx = gui.path_index()
+    return rows[idx]
+end
+
+function gui.profile_file()
+    local row = gui.selected_picker()
+    if not row or row.source ~= "custom" then
+        return nil
+    end
+    return row.id
+end
+
+-- gui.load_travel_path and gui.region_key were removed in 2.9.0.
+--
+-- They were the only readers of path_catalog, which indexed 26 Kalimdor
+-- travel routes that were never shipped - every module it named was missing
+-- from disk. Nothing could reach them either: picker_entries only ever
+-- produces rows of kind "grind" or "none", and load_selected_path routes
+-- "grind" to load_grind_path and returns early on "none", so the travel
+-- branch was unreachable regardless of what the catalog held.
+
+--- 1.0.28: no route catalog (the grind routes went with the Grind mode).
+function gui.load_selected_path()
+    return nil, "no path"
+end
+
+--- 3.0.0: the id of the loaded route, or nil.
+function gui.route_key()
+    if type(armed_path) == "table" and type(armed_path.id) == "string" then return armed_path.id end
+    return nil
+end
+
+--- 3.0.0: carry out the menu clicks queued during the render pass (main.lua
+--- calls this first on every update).
+function gui.run_deferred()
+    menu:run_deferred()
+end
+
+function gui.ready_path()
+    if type(armed_path) == "table" then
+        return armed_path
+    end
+    return gui.load_selected_path()
+end
+
+--- 1.0.28: the route list is empty (no catalog) - the combobox is reset.
+function gui.sync_profile_list(restore_selected)
+    picker_cache_key = ""
+    last_path_key = ""
+    menu:set_combobox_items("fq_path", { EMPTY_PATH })
+    gui.set_path_index(1)
+end
+
+function gui.class_id()
+    local idx = menu:get("fq_class")
+    if type(idx) ~= "number" then
+        idx = 7
+    end
+    return CLASS_IDS[idx] or enums.class_id.MAGE
+end
+
+-- ONLY WHEN IT CHANGES (2.193.0). This ran twice a frame (on_update and
+-- on_render) and pushed class, race and the class combo into the menu every
+-- time - the largest steady cost in the 2026-10-01 PERF lines (0.069 ms a
+-- frame). Class and race are read once a second and pushed only when they
+-- differ; the combo is put back only if something moved it.
+local SYNC_GAP = 1.0
+local sync = { t = -1e9, class = nil, race = nil, idx = nil }
+
+function gui.sync_player(player)
+    if not player then
+        return
+    end
+    local now = izi.now()
+    if type(now) ~= "number" or (now - sync.t) >= SYNC_GAP or now < sync.t then
+        sync.t = type(now) == "number" and now or sync.t
+        local class_id = nil
+        pcall(function()
+            class_id = player:get_class()
+        end)
+        -- The race drives which racial toggles appear on the Class tab.
+        local race_id = nil
+        pcall(function()
+            race_id = player:get_race_id()
+        end)
+        if type(race_id) == "number" and race_id ~= sync.race then
+            sync.race = race_id
+            menu:set_player_race(race_id)
+        end
+        gui.sync_faction(player)
+        if class_id and class_id ~= sync.class then
+            sync.class = class_id
+            sync.idx = nil
+            menu:set_player_class(class_id)
+            for i = 1, #CLASS_IDS do
+                if CLASS_IDS[i] == class_id then
+                    sync.idx = i
+                    break
+                end
+            end
+        end
+    end
+    if sync.idx and menu:get("fq_class") ~= sync.idx then
+        menu:set("fq_class", sync.idx)
+    end
+end
+
+--- Questing has no profile of its own: the Zygor guide is the profile, so
+--- questing is ready whenever the addon is loaded.
+function gui.has_quest_profile()
+    if not is_on("use_quest") then
+        return false
+    end
+    local ok, guide = pcall(require, "quest/guide")
+    return ok and type(guide) == "table" and guide.is_loaded() == true
+end
+
+-- ============================================================================
+-- AUTO LOAD (1.0.19)
+-- ============================================================================
+-- Update tick only (refresh_view, from main.lua's on_update), never the render
+-- pass. Timed with core.time(). gui.try_start() is the only way it starts.
+local LOAD_AFTER = 15
+local auto_load = { due = nil, suspended = false }
+
+--- 1.0.19: one step of the Auto Load countdown. st.due is the deadline; true
+--- when try_start was called. A blocked start sets the next deadline 15 s on.
+local function auto_load_step(st, now, on, started, try_start)
+    if not on then st.suspended = false end
+    if not on or started or st.suspended then
+        st.due = nil
+        return false
+    end
+    if type(now) ~= "number" then
+        return false
+    end
+    if st.due == nil then
+        st.due = now + LOAD_AFTER
+        return false
+    end
+    if now < st.due then
+        return false
+    end
+    st.due = now + LOAD_AFTER
+    local ok, started_ok, why = pcall(try_start)
+    if not ok or started_ok == false then
+        st.error = tostring(not ok and started_ok or why or "start declined")
+        local ok_log, log = pcall(require, "errorlog")
+        if ok_log and type(log.info) == "function" then
+            pcall(log.info, "Auto Load could not start: %s", st.error)
+        end
+    else
+        st.error = nil
+    end
+    return true
+end
+
+--- 1.0.19: whole seconds left ("12s"), or "-" while off or running.
+local function auto_load_text(st, now, on, started)
+    if st.tick_error then return "Error: " .. st.tick_error end
+    if not on then return "Disabled" end
+    if started then return "Running" end
+    if st.suspended then return st.stop_reason or "Stopped / paused" end
+    if st.due == nil or type(now) ~= "number" then
+        return string.format("%ds", LOAD_AFTER)
+    end
+    if st.error then return "Retry: " .. st.error end
+    return string.format("%ds", math.max(0, math.ceil(st.due - now)))
+end
+
+--- 1.0.19: the launcher's position-reload countdown as "m:ss", or "-".
+local function reload_text()
+    local mf = rawget(_G, "MF_CORE")
+    local left = nil
+    if type(mf) == "table" then local f = mf.reload_left if type(f) == "function" then local ok, v = pcall(f) if ok and type(v) == "number" then left = v end end end
+    if left == nil then
+        return "-"
+    end
+    local s = math.max(0, math.floor(left))
+    return string.format("%d:%02d", math.floor(s / 60), s % 60)
+end
+
+local function core_now()
+    local ok, now = pcall(core.time)
+    return ok and tonumber(now) or nil
+end
+
+function gui.auto_load_tick()
+    local on, started = is_on("fq_auto_load"), gui.is_started()
+    local status = tostring(on) .. "/" .. tostring(started) .. "/" .. tostring(auto_load.suspended)
+    if auto_load.last_status ~= status then
+        auto_load.last_status = status
+        local ok, log = pcall(require, "errorlog")
+        if ok and type(log.trail) == "function" then
+            pcall(log.trail, "autoload", "enabled=%s running=%s suspended=%s", tostring(on), tostring(started), tostring(auto_load.suspended))
+        end
+    end
+    auto_load_step(auto_load, core_now(), on, started, gui.try_start)
+end
+
+-- 1.0.19: the pure pieces, for tests/test_fq_autoload.lua
+gui._auto_load = { step = auto_load_step, text = auto_load_text, reload_text = reload_text, LOAD_AFTER = LOAD_AFTER }
+
+-- ============================================================================
+-- RENDER CACHE (3.0.0)
+-- ============================================================================
+-- The windows are drawn on the render pass, where no game call may run (a
+-- game call while drawing can take WoW Forever down). Everything they show
+-- from the game is read here, on the update tick (main.lua -> refresh_view),
+-- and the draw code reads only this table.
+local view = {
+    class_id = nil, level = nil, target_line = "Searching...",
+    herb = nil, mine = nil, has_herb = false, has_mine = false, prof_cap = 0, map = nil,
+    spell_rows = nil, t = -1e9, slow_t = -1e9,
+}
+local VIEW_EVERY, VIEW_SLOW = 0.25, 1.0
+
+--- Update tick only: read what the windows show.
+function gui.refresh_view(player)
+    local auto_ok, auto_error = pcall(gui.auto_load_tick)
+    if not auto_ok and auto_load.tick_error ~= tostring(auto_error) then
+        auto_load.tick_error = tostring(auto_error)
+        local ok, log = pcall(require, "errorlog")
+        if ok and type(log.info) == "function" then pcall(log.info, "Auto Load tick failed: %s", auto_load.tick_error) end
+    elseif auto_ok then auto_load.tick_error = nil end
+    local now = izi.now()
+    if type(now) ~= "number" or (now - view.t) < VIEW_EVERY then return end
+    view.t = now
+    if not player then return end
+    local okc, cid = pcall(player.get_class, player)
+    if okc and type(cid) == "number" then view.class_id = cid end
+    local okl, lvl = pcall(player.get_level, player)
+    if okl and type(lvl) == "number" then view.level = lvl end
+    -- 1.0.10: the running pop-up's currency looted / quests completed (session.lua)
+    do
+        local ok_s, ses = pcall(require, "session")
+        if ok_s and type(ses) == "table" then
+            view.looted = ses.looted_copper()
+            view.quests_done = ses.quests_completed()
+        end
+    end
+    -- the HUD target line: Rotation Only fights the player's own target
+    local line = type(state.note) == "string" and state.note ~= "" and state.note or "Searching..."
+    pcall(function()
+        local u = (is_on("rotation_only") and player:get_target()) or (state.target and state.target.unit)
+        if u and u:is_valid() and not u:is_dead_or_ghost() then
+            local d = player:distance_to(u)
+            line = string.format("%s  %s", tostring(u:get_name()),
+                type(d) == "number" and string.format("%.0f yd", d) or "?")
+        end
+    end)
+    view.target_line = line
+    pcall(gui.sync_faction, player)
+    if (now - view.slow_t) >= VIEW_SLOW then
+        view.slow_t = now
+        pcall(function() view.map = core.game_ui.get_current_map_id() end)
+        local oks, smart = pcall(require, "smart")
+        if oks and type(smart) == "table" and type(smart.rows) == "function" then
+            local okw, rows = pcall(smart.rows, player)
+            view.spell_rows = okw and rows or nil
+        end
+        -- 1.0.1: the spell sequence recorder follows its box (update tick)
+        local okp, prio = pcall(require, "priority")
+        if okp and type(prio) == "table" then
+            local want = is_on("fq_spell_debug") and is_on("fq_priority_mode")
+            if want and not prio.recording() then prio.start()
+            elseif not want and prio.recording() then prio.stop() end
+        end
+    end
+end
+
+function gui.is_started()
+    if not is_on("enable") then
+        return false
+    end
+    if not gui.has_quest_profile() then          -- 1.0.28: questing only
+        return false
+    end
+    local ok, rotation = pcall(require, "rotation")
+    if not ok or type(rotation) ~= "table" then
+        return false
+    end
+    -- 3.0.0: the class from the render cache (this runs on the render pass)
+    local class_id = view.class_id or gui.class_id()
+    return rotation.supported(class_id) == true
+end
+
+menu.on_close = function()
+    -- 1.24.0: closing the window stops the bot first (Sentinel, attack, keys).
+    if type(gui.stop) == "function" then pcall(gui.stop, "GUI closed") end
+    -- Keep the stopped session loaded: unloading would re-arm the launcher's Auto Load.
+    set_on("show_gui", false)
+end
+
+_G.ForeverQuesting = _G.ForeverQuesting or {}
+local NS = _G.ForeverQuesting
+NS._sessions = NS._sessions or {}
+local MY_SESSION = NS._sessions[identity.folder]
+
+local last_toggle_at = { enable = -1, show_gui = -1 }
+local last_activity = nil
+
+local function can_start()
+    local ok, rotation = pcall(require, "rotation")
+    if not ok or type(rotation) ~= "table" then
+        return false
+    end
+    local me = nil
+    pcall(function()
+        me = izi.me()
+    end)
+    local class_id = me and me.get_class and me:get_class() or nil
+    if not class_id then
+        return false
+    end
+    return rotation.supported(class_id) == true
+end
+
+local function start_bot(source)
+    if NS._sessions[identity.folder] ~= MY_SESSION then
+        return false, "session was replaced"
+    end
+    gui.sync_activity()
+    if not can_start() then
+        core.log("[Master Farmer - Forever Questing] Start blocked: no rotation for this class.")
+        return false, "player class or rotation is not ready"
+    end
+    loader.ensure_quest()
+    -- a missing RestedXP addon does not block Start: the engine waits for it
+    menu:set("fq_mode", 2)
+    run_authorized = true
+    set_on("enable", true)
+    -- 1.7.4: Sentinel travel while the bot runs (applied on the update tick)
+    local ok_mv, mv = pcall(require, "movement")
+    if ok_mv and type(mv) == "table" and type(mv.want_input_driver) == "function" then pcall(mv.want_input_driver, true) end
+    local what = "questing"
+    state.set_note("Start", "Quest")
+    -- 1.4.3: Start gives held goals (a stall recovery that gave up) a fresh try
+    local ok_qg, qg = pcall(require, "quest/guide")
+    if ok_qg and type(qg) == "table" and type(qg.forget_local_done) == "function" then pcall(qg.forget_local_done) end
+    local ok_e, errorlog = pcall(require, "errorlog")
+    if ok_e and type(errorlog) == "table" then
+        errorlog.info("Start: %s (%s)", what, type(source) == "string" and source or "Start control")
+        -- The recorder writes a line per stage per frame - ~2.7 ms of disk
+        -- each, 90+ ms a frame (2.28.0 log). Its own opt-in box only.
+        if is_on("crash_recorder") then
+            errorlog.arm("start " .. what)
+        end
+        -- The first 30 s after Start (2.88.0): most shutdowns came 4-45 s in.
+        if is_on("crash_capture") and type(errorlog.arm_light) == "function" then
+            errorlog.arm_light(30, "first 30 s after Start")
+        end
+    end
+    return true
+end
+
+function gui.try_start()
+    return start_bot("Auto Load timer")
+end
+
+function gui.apply_pending_play()
+    return nil
+end
+
+function gui.use_quest_mode()
+    set_on("use_quest", true)
+    gui.sync_activity()
+end
+
+function gui.clear_quest_skips()
+    state.quest.skipped = {}
+    state.set_note("Quest", "Cleared skipped quests")
+end
+
+local function off_log(why)
+    if is_on("enable") then
+        local ok_e, el = pcall(require, "errorlog")
+        if ok_e and type(el) == "table" and type(el.info) == "function" then pcall(el.info, "Stop: %s", why) end
+        pcall(core.log, "[Master Farmer - Forever Questing] Stopped: " .. tostring(why))
+    end
+end
+
+local function release_driver_wish()
+    local ok_mv, mv = pcall(require, "movement")
+    if ok_mv and type(mv) == "table" and type(mv.want_input_driver) == "function" then pcall(mv.want_input_driver, false) end
+end
+
+local function stop_bot(why)
+    local ls = package.loaded["longstuck"]
+    if type(ls) == "table" and type(ls.reset) == "function" then pcall(ls.reset) end
+    local pickup = package.loaded["quest/pickup"]
+    if type(pickup) == "table" and type(pickup.clear) == "function" then pcall(pickup.clear) end
+    off_log(type(why) == "string" and why or "Stop")
+    auto_load.stop_reason = type(why) == "string" and why or "Stop control"
+    auto_load.suspended, auto_load.due = true, nil
+    run_authorized = false
+    set_on("enable", false)
+    release_driver_wish()                                -- 1.7.4
+    local ok, movement = pcall(require, "movement")
+    if ok and movement then
+        if type(movement.halt) == "function" then
+            movement.halt()
+        elseif type(movement.nav_stop) == "function" then
+            movement.nav_stop()
+        end
+    end
+    local ok_st, strafe = pcall(require, "strafe")
+    if ok_st and strafe and type(strafe.stop) == "function" then pcall(strafe.stop) end
+    local ok_path, path_runner = pcall(require, "path_runner")
+    if ok_path and path_runner and type(path_runner.stop) == "function" then
+        path_runner.stop()
+    end
+    local ok_vendor, vendor = pcall(require, "vendor")
+    if ok_vendor and vendor and type(vendor.reset) == "function" then
+        vendor.reset()
+    end
+    -- A new Start selects fresh work rather than resuming stale units or loot bursts.
+    pcall(state.reset_target)
+    local ok_loot, loot = pcall(require, "loot")
+    if ok_loot and type(loot) == "table" and type(loot.reset) == "function" then pcall(loot.reset) end
+
+end
+
+local function pause_bot()
+    stop_bot("Pause")
+end
+
+--- Stop the bot, as the Stop button does. Used by the NPC-stuck watchdog.
+function gui.stop(why)
+    stop_bot(type(why) == "string" and why or "stopped by the bot (watchdog)")
+end
+
+local function toggle_gui()
+    local now = core.time()
+    if type(now) ~= "number" then
+        now = 0
+    end
+    if now - (last_toggle_at.show_gui or -1) < 0.20 then
+        return
+    end
+    last_toggle_at.show_gui = now
+    if is_on("show_gui") then stop_bot("GUI hidden") end
+    set_on("show_gui", not is_on("show_gui"))
+end
+
+-- 2.315.0: no izi.on_key_release (fired by izi.on_update, which is no longer
+-- called). Every hotkey is read with core.input.is_key_pressed in
+-- gui.process_keybinds (KEY_CODES below); earlier loads' IZI watchers are
+-- unbound once here.
+local unsubs = {}
+local function watch_key(code, fn)
+    local _ = code
+    local _ = fn
+end
+
+if type(NS.unbind_hotkeys) == "function" then
+    pcall(NS.unbind_hotkeys)
+    NS.unbind_hotkeys = nil
+end
+
+watch_key(996, start_bot)
+watch_key(1006, start_bot)
+watch_key(0x60, start_bot)
+watch_key(997, pause_bot)
+watch_key(0x61, pause_bot)
+watch_key(998, stop_bot)
+watch_key(0x62, stop_bot)
+watch_key(1000, toggle_gui)
+watch_key(0x64, toggle_gui)
+watch_key(0x25, toggle_gui)
+
+NS.unbind_hotkeys = function()
+    for i = 1, #unsubs do
+        pcall(unsubs[i])
+    end
+end
+
+local KEY_CODES = {
+    -- core.input takes Windows virtual-key codes, not IZI event IDs.
+    enable = { 0x60 },
+    pause = { 0x61 },
+    stop = { 0x62 },
+    show_gui = { 0x64 },
+}
+local key_was_down = { enable = false, pause = false, stop = false, show_gui = false }
+
+local function key_is_down(codes)
+    for i = 1, #codes do
+        local ok, pressed = pcall(function()
+            return core.input.is_key_pressed(codes[i])
+        end)
+        if ok and pressed == true then
+            return true
+        end
+    end
+    return false
+end
+
+function gui.sync_activity()
+    local q = is_on("use_quest")
+    if q then
+        if last_activity ~= "quest" then
+            last_activity = "quest"
+            off_log("mode changed to quest")
+            set_on("enable", false)
+            armed_path = nil
+            loader.ensure_quest()
+            menu:set("fq_mode", 2)
+            state.set_note("Mode", "Quest - load a RestedXP guide, then Start")
+        end
+        return
+    end
+    if last_activity ~= nil then
+        last_activity = nil
+        off_log("no mode selected (Quest off)")
+        set_on("enable", false)
+        loader.unload_quest()
+        armed_path = nil
+        picker_cache_key = ""
+        last_path_key = ""
+        menu:set_combobox_items("fq_path", { EMPTY_PATH })
+        state.set_note("Mode", "Select Quest")
+    end
+end
+
+function gui.process_keybinds()
+    gui.sync_attack_level()
+    gui.sync_activity()
+    if key_is_down(KEY_CODES.enable) and not key_was_down.enable then
+        start_bot()
+    end
+    if key_is_down(KEY_CODES.pause) and not key_was_down.pause then
+        pause_bot()
+    end
+    if key_is_down(KEY_CODES.stop) and not key_was_down.stop then
+        stop_bot("Numpad 2")
+    end
+    if key_is_down(KEY_CODES.show_gui) and not key_was_down.show_gui then
+        toggle_gui()
+    end
+    key_was_down.enable = key_is_down(KEY_CODES.enable)
+    key_was_down.pause = key_is_down(KEY_CODES.pause)
+    key_was_down.stop = key_is_down(KEY_CODES.stop)
+    key_was_down.show_gui = key_is_down(KEY_CODES.show_gui)
+end
+
+local function class_status()
+    local ok, rotation = pcall(require, "rotation")
+    local idx = menu:get("fq_class") or 7
+    local name = CLASS_LABELS[idx] or "?"
+    if ok and rotation and rotation.supported(CLASS_IDS[idx]) then
+        return name .. " - ready"
+    end
+    return name .. " - no rotation yet"
+end
+
+local function mode_status()
+    if gui.mode() == modes.QUEST then
+        return "Quest"
+    end
+    return "Idle"
+end
+
+menu:set_status({
+    {
+        label = "State",
+        value = function()
+            return gui.is_started() and "Running" or "Idle"
+        end,
+        color = function()
+            if gui.is_started() then
+                return C(90, 210, 110, 255)
+            end
+            return C(210, 78, 78, 255)
+        end,
+    },
+    { label = "Class", value = class_status },
+    { label = "Mode", value = mode_status },
+    {
+        label = "Note",
+        value = function()
+            return state.note ~= "" and state.note or "-"
+        end,
+    },
+    {
+        -- Movement state machine at a glance: which state, who owns the player,
+        -- and why it is not moving when it is not moving.
+        label = "Movement",
+        value = function()
+            local ok, movement = pcall(require, "movement")
+            if not ok or not movement then
+                return "-"
+            end
+            local okd, snap = pcall(movement.debug_snapshot)
+            if not okd or type(snap) ~= "table" then
+                return "-"
+            end
+            local text = tostring(snap.state) .. " / " .. tostring(snap.owner)
+            if snap.restriction then
+                text = text .. " (" .. tostring(snap.restriction) .. ")"
+            elseif snap.retreating then
+                text = text .. " (kiting)"
+            elseif snap.paused then
+                text = text .. " (paused)"
+            elseif snap.sentinel then
+                text = text .. " (nav)"
+            elseif snap.quiet then
+                text = text .. " (settling)"
+            end
+            if snap.target_dist then
+                text = text .. string.format("  %.0fyd", snap.target_dist)
+            end
+            return text
+        end,
+    },
+    {
+        label = "RXP / TomTom target",
+        value = function()
+            local g=package.loaded["quest/guide"]
+            local p=g and g.live_navigation and g.live_navigation()
+            if not p then return "No live guide waypoint" end
+            return string.format("Map %d: %.2f, %.2f | step %s%s",p.map_id,p.x_percent,p.y_percent,
+                tostring(p.step),p.wrong_continent and " (other continent)" or "")
+        end,
+    },
+    {
+        label = "Player / ground",
+        value = function()
+            local ok, mv = pcall(require, "movement")
+            local snap = ok and mv.debug_snapshot and mv.debug_snapshot() or {}
+            return snap.coordinates or "Waiting for position"
+        end,
+    },
+    {
+        -- Is out-of-combat travel going through Sentinel Navigation?
+        -- 1.7.2 (CLAUDE_MASTERARTHASNAV_RULES R2.4): no navigation call on the
+        -- draw path - the state comes from movement's update-tick snapshot.
+        label = "Navigation",
+        value = function()
+            local okm, mv = pcall(require, "movement")
+            local snap = okm and type(mv) == "table" and mv.debug_snapshot and mv.debug_snapshot() or {}
+            -- 1.1.0: Sentinel Navigation (movement/sentinel.lua, server set by the launcher)
+            -- 1.7.0: + the live status (progress, distance, zones, failed paths)
+            if snap.nav == "ready" then return snap.nav_status and ("Sentinel: " .. snap.nav_status) or "Sentinel ready" end
+            if snap.nav == "down" then return "Sentinel server not answering - retrying" end
+            return tostring(snap.nav_why or "Sentinel Navigation not loaded")
+        end,
+        color = function()
+            local okm, mv = pcall(require, "movement")
+            local snap = okm and type(mv) == "table" and mv.debug_snapshot and mv.debug_snapshot() or {}
+            if snap.nav == "ready" then return C(90, 210, 110, 255) end
+            return C(210, 78, 78, 255)
+        end,
+    },
+    {
+        -- 1.0.19: seconds until Auto Load presses Start
+        label = "Auto Load",
+        value = function()
+            return auto_load_text(auto_load, core_now(), is_on("fq_auto_load"), gui.is_started())
+        end,
+    },
+    {
+        -- 1.0.19: the launcher's position-reload countdown (MF_CORE.reload_left)
+        label = "Reload",
+        value = reload_text,
+    },
+    {
+        label = "Last Action",
+        value = function()
+            local ok, rotation = pcall(require, "rotation")
+            if ok and rotation and type(rotation.last_action) == "function" then
+                return rotation.last_action()
+            end
+            return state.last_action or "-"
+        end,
+    },
+})
+
+menu:set_actions({
+    {
+        id = "toggle_enable",
+        label = "Start",
+        style = "start",
+        on_click = start_bot,
+    },
+    {
+        id = "toggle_pause",
+        label = "Paused",
+        style = "pause",
+        on_click = pause_bot,
+    },
+    {
+        id = "toggle_stop",
+        label = "Stop",
+        style = "stop",
+        on_click = stop_bot,
+    },
+})
+
+-- ============================================================================
+-- QUESTING TAB
+-- ============================================================================
+-- Session-only: the detection panel is a diagnostic, not a setting.
+-- Zygor detection is always shown while questing (2.188.0); the toggle
+-- button is gone.
+
+local show_quest_diag = true
+
+menu:on_tab("questing", function(win, x, y, w, h)
+    local gold = C(232, 222, 196, 255)
+    local mute = C(180, 170, 150, 255)
+    local hi = C(248, 226, 132, 255)
+    local ok_col = C(90, 210, 110, 255)
+    local warn = C(220, 176, 56, 255)
+
+    -- ui.lua reserves eight control rows (~360px) under the registered
+    -- checkboxes for this content; h is the whole viewport, not what is left.
+    -- Text stops at BUDGET so a long step cannot run into the button.
+    local LEFT = x + 12
+    local LINE = 18
+    local BUDGET = 330
+    local bottom = y + BUDGET - LINE
+    local cy = y + 4
+
+    local function text(col, str, indent)
+        if cy > bottom then
+            return
+        end
+        win:render_text(FONT_SMALL, vec2.new(LEFT + (indent or 0), cy), col, str)
+        cy = cy + LINE
+    end
+
+    if not is_on("use_quest") then
+        text(warn, "Tick Enable Questing to follow the RestedXP guide.")
+        return
+    end
+
+    local ok, quest = pcall(require, "quest")
+    if not ok or type(quest) ~= "table" or type(quest.snapshot) ~= "function" then
+        text(warn, "Quest engine not loaded: " .. tostring(quest))
+        return
+    end
+    local info = quest.snapshot()
+    local ok_g, guide = pcall(require, "quest/guide")
+
+    -- Buttons first, at fixed places below the text budget, so an early
+    -- return in the status below never hides them.
+    local gap = 10
+    local btn_w = math.floor((w - 24 - gap) / 2)
+    local by = y + BUDGET + 8
+    local skipped = 0
+    if type(state.quest.skipped) == "table" then
+        for _ in pairs(state.quest.skipped) do
+            skipped = skipped + 1
+        end
+    end
+    if menu:draw_launcher(win, LEFT, by, btn_w, 30, string.format("Clear Skipped (%d)", skipped)) then
+        menu:defer(function()
+            gui.clear_quest_skips()
+        end)
+    end
+    if menu:draw_launcher(win, LEFT + btn_w + gap, by, btn_w, 30, "Vendor") then
+        menu:open_popup("vendor")
+    end
+
+    -- What the bot actually reads from core.addons.rested_xp, raw. Shown on
+    -- request, and always when the addon is not being read, because that is
+    -- exactly when the answer is needed.
+    if (show_quest_diag or not info.ready) and ok_g and type(guide.diagnose) == "function" then
+        local d = guide.diagnose()
+        text(hi, "RestedXP detection")
+        text(mute, string.format("core.addons: %s   rested_xp: %s", d.addons, d.namespace), 12)
+        if #d.missing > 0 then
+            text(warn, "missing: " .. table.concat(d.missing, ", "), 12)
+        end
+        text(mute, "is_loaded() = " .. d.is_loaded, 12)
+        text(mute, "has_current_step() = " .. d.has_step, 12)
+        text(mute, string.format("get_current_step(): %s  step %d  %d goal%s",
+            d.step_type, d.step_num, d.goal_count, d.goal_count == 1 and "" or "s"), 12)
+        text(mute, "waypoint: " .. d.waypoint, 12)
+        text(mute, string.format("step waypoints: %d   objectives: %d", d.step_waypoints, d.objectives or 0), 12)
+        cy = cy + 6
+    end
+
+    -- 1. is the addon there, and does it have something to say
+    if not info.loaded then
+        text(warn, "RestedXP Guides is not loaded - the bot waits.")
+        text(mute, "Install and enable the RestedXP Guides addon. It supplies every")
+        text(mute, "quest, NPC location, waypoint and mob to kill.")
+        return
+    end
+    if not info.ready then
+        text(warn, "RestedXP is loaded but has no current step.")
+        text(mute, "Open the RestedXP window and pick a guide for this character.")
+        return
+    end
+
+    text(ok_col, string.format("RestedXP step %d   -   %d sticky step%s",
+        info.step or 0, info.stickies or 0, (info.stickies or 0) == 1 and "" or "s"))
+    cy = cy + 4
+
+    -- 2. the step's goals, the one being worked on highlighted
+    local current = info.goal and info.goal.index or nil
+    local goals = info.goals or {}
+    for i = 1, #goals do
+        local g = goals[i]
+        local mark = g.is_complete and "[x]" or (g.index == current and "[>]" or (g.unhandled and "[?]" or "[ ]"))
+        local col = g.is_complete and mute or (g.index == current and hi or gold)
+        local line = string.format("%s %s", mark, tostring(g.text or g.action or "?"))
+        if g.quest_id then
+            line = line .. string.format("  (%d)", g.quest_id)
+        end
+        text(col, line)
+    end
+    cy = cy + 4
+
+    -- 3. what the bot makes of the current goal
+    if info.goal then
+        text(gold, "Doing: " .. tostring(info.kind or "?") .. "   (" .. tostring(info.goal.action) .. ")")
+    else
+        text(mute, "Guide: " .. tostring(info.describe or info.state or "-"))
+    end
+    if type(info.unhandled) == "table" and #info.unhandled > 0 then
+        text(warn, "No handler yet: " .. table.concat(info.unhandled, ", "), 12)
+    end
+
+    -- 4. where it is going
+    if info.waypoint and info.waypoint.wrong_continent then
+        text(warn, "Waypoint is on another continent - travel there yourself.")
+    elseif info.waypoint then
+        local wp = info.waypoint
+        text(gold, string.format("Waypoint: %s   %s   map %d",
+            tostring(wp.title or "-"),
+            wp.dist and string.format("%.0fy", wp.dist) or "-", wp.map_id or 0))
+    else
+        text(mute, "No waypoint for this step.")
+    end
+    text(mute, "Bot: " .. tostring(info.note or ""))
+end)
+
+-- ============================================================================
+-- SPELLS TAB (2.64.0)
+-- ============================================================================
+-- Every spell of the character's class that it knows - DPS, healing and
+-- tanking only, from data/class_spells.lua - and the race's castable
+-- racials, grouped by what they do. A tick means smart.lua uses it; the
+-- rotation for Rotation Only, grinding and questing is built from exactly
+-- these. Groups that cannot stack (aura, seal, armor, stance, pet...) use the
+-- first ticked spell and show the rest as "standby".
+local SPELL_ROW = 22
+local SPELL_HEAD = 24
+
+-- 1.0.1 ROTATION ORDER (user: "list the spells to Enable or Disable AND design
+-- Rotation Priority logic ... beside the enabled spells have an option to set
+-- the rotation order by numeric value"). The list is every CASTABLE spell the
+-- 5 s spellbook scan found (class spells, the race's racials, other castable
+-- spells - passives, professions and auto attacks left out, smart.lua build).
+-- A click on a row enables / disables it; "-" / "+" beside an enabled row set
+-- its order number (priority.lua; lower = earlier). With "Use My Rotation
+-- Order" ticked the fight tries the enabled rows in that order (smart.lua
+-- priority_combat) and the list is drawn in it; "Record Spell Sequence" keeps
+-- every decision for Export.
+menu:checkbox("fq_priority_mode", false, {
+    label = "Use My Rotation Order",
+    tab = "class",
+    tooltip = "Fight with the enabled spells in YOUR order (1 to 10): lowest number first, the first spell whose own checks pass (buff missing, range, resource, cooldown, its condition) is cast. Off: the bot's built-in role order (heals, defensives, interrupts, racials, buffs ... damage, filler).",
+})
+
+local ORDER_BTN = 16
+
+menu:on_tab("class", function(win, x, y, w, h)
+    local gold = C(232, 222, 196, 255)
+    local mute = C(150, 142, 128, 255)
+    local ok_col = C(90, 210, 110, 255)
+    local warn = C(220, 176, 56, 255)
+    local head = C(96, 150, 235, 255)
+    local yy = y + 6
+
+    local class_id = menu:player_class()
+    if type(class_id) ~= "number" then
+        win:render_text(FONT_SMALL, vec2.new(x + 10, yy), mute, "Waiting for player class...")
+        return 30
+    end
+    if not spellbook.ready() then
+        win:render_text(FONT_SMALL, vec2.new(x + 10, yy), warn,
+            string.format("Scanning the spellbook... %.1fs", spellbook.wait_left()))
+        win:render_text(FONT_SMALL, vec2.new(x + 10, yy + 18), mute,
+            "Your castable spells and racials appear here once the scan is done.")
+        return 48
+    end
+
+    local ok_s, smart = pcall(require, "smart")
+    local ok_p, prio = pcall(require, "priority")
+    if not ok_p then prio = nil end
+    local rows = view.spell_rows     -- 3.0.0: built on the update tick
+    local idx = menu:get("fq_class") or 7
+    local name = CLASS_LABELS[idx] or "Unknown"
+    if not ok_s or type(rows) ~= "table" or #rows == 0 then
+        win:render_text(FONT_SMALL, vec2.new(x + 10, yy), warn,
+            name .. ": no castable spells known yet.")
+        return 30
+    end
+    local ordered = is_on("fq_priority_mode")
+
+    local ticked = 0
+    for i = 1, #rows do
+        if smart.row_state(rows[i]) then ticked = ticked + 1 end
+    end
+    win:render_text(FONT_SMALL, vec2.new(x + 10, yy), ok_col,
+        string.format("%s - %d of %d castable spells enabled  (%s)", name, ticked, #rows,
+            ordered and "YOUR rotation order" or "built-in role order"))
+    win:render_text(FONT_SMALL, vec2.new(x + 10, yy + 18), mute,
+        "Click a spell to enable / disable it.  - / + set its order 1-10 (1 = cast first).")
+    yy = yy + 40
+
+    -- buttons: Export the recorded sequence, Reset the order numbers
+    local bw = math.floor((w - 30) / 2)
+    if prio and menu:draw_launcher(win, x + 20 + bw, yy, bw, 26, "Reset Order") then
+        menu:defer(function() prio.reset_all() end)
+    end
+    yy = yy + 34
+
+    -- one row: enable box, name, order controls (enabled rows), rank, tag
+    local function draw_row(row, index)
+        local on, active = smart.row_state(row)
+        local bmin = vec2.new(x + 16, yy + 2)
+        local bmax = vec2.new(x + 28, yy + 14)
+        local rmin, rmax = vec2.new(x + 10, yy), vec2.new(x + w - 10, yy + SPELL_ROW - 2)
+        local hover = false
+        pcall(function() hover = win:is_mouse_hovering_rect(rmin, rmax) == true end)
+        if hover then
+            pcall(function() win:render_rect_filled(rmin, rmax, C(52, 58, 72, 120), 3.0) end)
+        end
+        pcall(function()
+            win:render_rect_filled(bmin, bmax, on and C(90, 210, 110, 220) or C(38, 40, 48, 220), 2.0)
+        end)
+        pcall(function() win:render_rect(bmin, bmax, C(120, 130, 150, 220), 2.0, 1.0) end)
+        win:render_text(FONT_SMALL, vec2.new(x + 36, yy + 1), (on and active) and gold or mute, tostring(row.name))
+
+        local consumed = false
+        if prio and on then
+            local n = prio.number(row, index)
+            local ox = x + w - 280
+            local minus_min, minus_max = vec2.new(ox, yy + 1), vec2.new(ox + ORDER_BTN, yy + 1 + ORDER_BTN)
+            local plus_min, plus_max = vec2.new(ox + 60, yy + 1), vec2.new(ox + 60 + ORDER_BTN, yy + 1 + ORDER_BTN)
+            for _, b in ipairs({ { minus_min, minus_max, "-" }, { plus_min, plus_max, "+" } }) do
+                pcall(function() win:render_rect_filled(b[1], b[2], C(60, 66, 82, 230), 2.0) end)
+                win:render_text(FONT_SMALL, vec2.new(b[1].x + 4, yy + 1), gold, b[3])
+            end
+            win:render_text(FONT_SMALL, vec2.new(ox + 22, yy + 1), prio.is_custom(row.name) and ok_col or mute,
+                string.format("%2d", n))
+            local hit_m, hit_p = false, false
+            pcall(function() hit_m = win:is_rect_clicked(minus_min, minus_max) == true end)
+            pcall(function() hit_p = win:is_rect_clicked(plus_min, plus_max) == true end)
+            if hit_m or hit_p then
+                consumed = true
+                local r, cur = row, n
+                menu:defer(function() prio.set(r.name, cur + (hit_p and 1 or -1)) end)
+            end
+        end
+
+        local tag
+        if not on then
+            tag = "off"
+        elseif row.group and not active then
+            tag = "standby"
+        elseif row.group then
+            tag = "in use"
+        else
+            tag = "on"
+        end
+        win:render_text(FONT_SMALL, vec2.new(x + w - 190, yy + 1), mute,
+            (row.ranks or 1) > 1 and string.format("rank %d", row.ranks) or "")
+        win:render_text(FONT_SMALL, vec2.new(x + w - 100, yy + 1), (on and active) and ok_col or mute, tag)
+        if hover and row.tip then
+            pcall(function() win:render_tooltip_text_only(row.tip, gold) end)
+        end
+        if not consumed then
+            local hit = false
+            pcall(function() hit = win:is_rect_clicked(rmin, rmax) == true end)
+            if hit then
+                local r = row
+                menu:defer(function() smart.toggle(r) end)   -- 3.0.0: update tick
+            end
+        end
+        yy = yy + SPELL_ROW
+    end
+
+    local index_of = {}
+    for i = 1, #rows do index_of[rows[i]] = i end
+
+    if ordered and prio then
+        -- the rotation as it will run: enabled rows in order, then the rest
+        win:render_text(FONT_SMALL, vec2.new(x + 10, yy + 2), head, "Rotation order (enabled)")
+        yy = yy + SPELL_HEAD
+        local on_rows = prio.sorted(rows, function(r) return (smart.row_state(r)) end)
+        for i = 1, #on_rows do draw_row(on_rows[i], index_of[on_rows[i]]) end
+        yy = yy + 6
+        win:render_text(FONT_SMALL, vec2.new(x + 10, yy + 2), head, "Disabled")
+        yy = yy + SPELL_HEAD
+        for i = 1, #rows do
+            if not smart.row_state(rows[i]) then draw_row(rows[i], i) end
+        end
+        return (yy - y) + 10
+    end
+
+    local ok_c, cats = pcall(require, "data/class_spells")
+    local sections = (ok_c and cats and cats.sections) or {}
+    for si = 1, #sections do
+        local sec = sections[si]
+        local count = 0
+        for i = 1, #rows do
+            if rows[i].section == sec.key then count = count + 1 end
+        end
+        if count > 0 then
+            win:render_text(FONT_SMALL, vec2.new(x + 10, yy + 2), head, string.format("%s  (%d)", sec.label, count))
+            yy = yy + SPELL_HEAD
+            for i = 1, #rows do
+                if rows[i].section == sec.key then draw_row(rows[i], i) end
+            end
+            yy = yy + 6
+        end
+    end
+    return (yy - y) + 10
+end)
+
+-- 3.0.0: the list is rebuilt at most once a second while the tab is open
+-- (every frame it reset the picker cache and rebuilt every label)
+local path_tab_sync_t = -1e9
+menu:on_tab("path", function(win, x, y, w, h)
+    local clk = tonumber(izi.now()) or 0
+    if (clk - path_tab_sync_t) >= 1.0 then
+        path_tab_sync_t = clk
+        gui.sync_profile_list(false)
+    end
+    local ok_pr, path_runner = pcall(require, "path_runner")
+    local field_w = w - 20
+    if field_w < 120 then
+        field_w = math.max(80, w - 8)
+    end
+    local _, region_idx = gui.faction_key()
+    local new_region, y2 = menu:draw_dropdown(win, "fq_dd_faction", x + 10, y, field_w, "Faction", factions.labels, region_idx)
+    if new_region ~= region_idx then
+        menu:set("fq_faction", new_region)
+        gui.set_path_index(1)
+        armed_path = nil
+        last_path_key = ""
+        picker_cache_key = ""
+        gui.sync_profile_list(false)
+    end
+    local y3 = y2 + 4                            -- 1.0.28: no grind route button
+    path_source = "leveling"
+    local loaded = armed_path
+    local name = "-"
+    local count = 0
+    local map_id = 0
+    local ready = loaded ~= nil
+    if loaded then
+        name = loaded.name or loaded.id or "-"
+        count = path_format.count(loaded)
+        map_id = loaded.map_id or 0
+    end
+    local status = "Idle"
+    if ok_pr and path_runner and type(path_runner.status_text) == "function" then
+        status = path_runner.status_text()
+    end
+    win:render_text(FONT_SMALL, vec2.new(x + 10, y3), C(232, 222, 196, 255), string.format("%s   wp:%d   map:%s", tostring(name), count, tostring(map_id)))
+    local ready_text = ready and ("Ready for Play - " .. tostring(name)) or "Select a path, then press Load."
+    local ready_col = ready and C(90, 210, 110, 255) or C(180, 170, 150, 255)
+    win:render_text(FONT_SMALL, vec2.new(x + 10, y3 + 18), ready_col, ready_text)
+    win:render_text(FONT_SMALL, vec2.new(x + 10, y3 + 36), C(180, 170, 150, 255), "Status: " .. tostring(status))
+
+    local gap = 10
+    local btn_w = math.floor((w - 20 - gap) / 3)
+    if btn_w < 70 then
+        btn_w = 70
+    end
+    local btn_h = 32
+    local by = y3 + 58
+    local x1 = x + 10
+    local x2 = x1 + btn_w + gap
+    local x3 = x2 + btn_w + gap
+
+    local function preview_path(path)
+        if path and ok_pr and path_runner and type(path_runner.set_preview) == "function" then
+            path_runner.set_preview(path)
+        end
+    end
+
+    if menu:draw_launcher(win, x1, by, btn_w, btn_h, "Load") then
+        menu:defer(function()
+            local path, err = gui.load_selected_path()
+            if path then
+                preview_path(path)
+                state.set_note("Path", "Loaded " .. tostring(path.name) .. " - ready for Play")
+                core.log("[Master Farmer - Forever Questing] Loaded path: " .. tostring(path.name))
+            else
+                state.set_note("Path", err or "load failed")
+                core.log_warning("[Master Farmer - Forever Questing] Profile load failed: " .. tostring(err))
+            end
+        end)
+    end
+    if menu:draw_launcher(win, x2, by, btn_w, btn_h, "Save") then
+        menu:defer(function()
+            local path = armed_path or path_profiles.last_loaded()
+            if not path then
+                path = select(1, gui.load_selected_path())
+            end
+            if path then
+                local fname = (path.id or "path") .. ".json"
+                local ok_save, saved = path_profiles.save_path(path, fname)
+                if ok_save then
+                    gui.sync_profile_list(false)
+                    preview_path(path)
+                    state.set_note("Path", "Saved " .. tostring(saved))
+                    core.log("[Master Farmer - Forever Questing] Saved profile: " .. tostring(saved))
+                else
+                    state.set_note("Path", saved or "save failed")
+                end
+            else
+                state.set_note("Path", "Nothing to save")
+            end
+        end)
+    end
+    if menu:draw_launcher(win, x3, by, btn_w, btn_h, "Play") then
+        menu:defer(function()
+            local path = armed_path
+            local err = nil
+            if not path then
+                path, err = gui.load_selected_path()
+            end
+            if path then
+                armed_path = path
+                path_profiles.remember(path)
+                preview_path(path)
+                if gui.is_on("rotation_only") then
+                    state.set_note("Path", "Rotation Only - movement off")
+                    core.log("[Master Farmer - Forever Questing] Rotation Only is on; Play does not move.")
+                else
+                    play_pending = true
+                    state.set_note("Path", "Starting " .. tostring(path.name))
+                end
+            else
+                state.set_note("Path", err or "play failed - Load a path first")
+            end
+        end)
+    end
+end)
+
+menu:on_tab("vendor", function(win, x, y, w, h)
+    local line = "Idle"
+    if state.vendor and state.vendor.active then
+        line = "At vendor - " .. tostring(state.note or "")
+    elseif state.note_head == "Vendor" then
+        line = tostring(state.note or "")
+    end
+    win:render_text(FONT_SMALL, vec2.new(x + 10, y + 16), C(248, 226, 132, 255), line)
+    win:render_text(FONT_SMALL, vec2.new(x + 10, y + 40), C(232, 222, 196, 255), "Quest walks to the nearest RestedXP vendor, a remembered repairer or the inn.")
+    win:render_text(FONT_SMALL, vec2.new(x + 10, y + 62), C(180, 170, 150, 255), "Keeps hearthstone plus mage food and water. Path mode does not vendor.")
+    win:render_text(FONT_SMALL, vec2.new(x + 10, y + 84), C(180, 170, 150, 255), "Repair uses core.input.repair_all_items. Greys/whites sell via use_container_item.")
+end)
+
+menu:on_tab("settings", function(win, x, y, w, h)
+    win:render_text(FONT_SMALL, vec2.new(x + 10, y + 8), C(232, 222, 196, 255), "Show / hide GUI: Numpad 4.")
+    win:render_text(FONT_SMALL, vec2.new(x + 10, y + 28), C(180, 170, 150, 255), "Path combat stays on the loaded path (10 yards) and hits the closest enemy in rotation range.")
+end)
+
+local draw_probe = nil
+local function dprobe(tag)
+    if draw_probe == nil then
+        local ok, mod = pcall(require, "errorlog")
+        draw_probe = (ok and type(mod) == "table" and type(mod.probe) == "function") and mod.probe or false
+    end
+    if draw_probe then
+        draw_probe(tag)
+    end
+end
+
+local function draw_menu()
+    menu:draw()
+end
+
+-- ============================================================================
+-- MINI STATUS WINDOW (2.83.0)
+-- ============================================================================
+-- While grinding, questing or Rotation Only runs, the main window is hidden
+-- and this 200x100 window shows the time since the start and the player's
+-- level, with a Stop button: Stop ends the run (grinding / questing and
+-- Rotation Only), closes this window and brings the main window back. The
+-- main window also comes back by itself when the run ends any other way
+-- (Numpad 2, the NPC watchdog...). Its close cross stops the run and brings the main
+-- window back.
+-- 1.0.10 (user): also the currency looted this run (g / s / c in their coin
+-- colours), the player's level and the quests completed - 250 x 158.
+local MINI_W, MINI_H = 250, 158
+local COIN_G, COIN_S, COIN_C = C(255, 209, 0, 255), C(199, 199, 207, 255), C(237, 127, 53, 255)
+local mini = { win = nil, on = false, since = 0, was_running = false, shown = false }
+
+local function fmt_elapsed(sec)
+    sec = math.max(0, math.floor(sec))
+    return string.format("%02d:%02d:%02d", math.floor(sec / 3600), math.floor(sec / 60) % 60, sec % 60)
+end
+
+local function restore_main()
+    mini.on = false
+    set_on("show_gui", true)
+    menu:set_visible(true)
+    if mini.win and mini.shown then
+        pcall(function() mini.win:set_visibility(false) end)
+        mini.shown = false
+    end
+end
+
+local function mini_stop()
+    stop_bot()
+    set_on("rotation_only", false)
+    restore_main()
+end
+
+local function draw_mini()
+    local WE = enums.window_enums
+    if not mini.win then
+        mini.win = core.menu.window("fq_mini_status")
+        pcall(function() mini.win:set_initial_size(vec2.new(MINI_W, MINI_H)) end)
+        pcall(function() mini.win:set_initial_position(vec2.new(80, 180)) end)
+    end
+    local win = mini.win
+    if not mini.shown then
+        pcall(function() win:set_visibility(true) end)
+        mini.shown = true
+    end
+    pcall(function() win:force_window_size(vec2.new(MINI_W, MINI_H)) end)
+    pcall(function() win:set_next_window_padding(vec2.new(0, 0)) end)
+
+    local elapsed = fmt_elapsed(izi.now() - mini.since)
+    -- 3.0.0: level and target line from the render cache (refresh_view)
+    local level = view.level and tostring(view.level) or "?"
+    local target_line = view.target_line or "Searching..."
+    local mode = is_on("rotation_only") and "Rotation Only"
+        or (is_on("use_quest") and "Questing" or "Idle")
+
+    local gold = C(232, 222, 196, 255)
+    local mute = C(180, 170, 150, 255)
+    local ok_col = C(90, 210, 110, 255)
+    local restore = false
+    local stop = false
+    pcall(function()
+        win:begin(WE.window_resizing_flags.NO_RESIZE, true,
+            C(22, 24, 30, 240), C(96, 150, 235, 200), WE.window_cross_visuals.BLUE_THEME,
+            function()
+                pcall(function()
+                    local b = win:get_close_cross_bounds()
+                    if type(b) == "table" and b.min and b.max and win:is_rect_clicked(b.min, b.max) then
+                        restore = true
+                    end
+                end)
+                win:render_text(FONT_SMALL, vec2.new(10, 5), ok_col, mode)
+                win:render_text(FONT_SMALL, vec2.new(10, 22), gold, elapsed)
+                win:render_text(FONT_SMALL, vec2.new(10, 39), gold, "Level " .. level)
+                -- 1.0.10: currency looted this run - "0g 0s 0c", each in its coin colour
+                do
+                    local okses, ses = pcall(require, "session")
+                    local g_, s_, c_ = 0, 0, 0
+                    if okses and type(ses) == "table" then g_, s_, c_ = ses.split(view.looted or 0) end
+                    local x = 10
+                    local function piece(str, col)
+                        win:render_text(FONT_SMALL, vec2.new(x, 56), col, str)
+                        local w = nil
+                        pcall(function() local sz = win:get_text_size(str) w = sz and sz.x end)
+                        x = x + ((type(w) == "number" and w > 0) and w or (#str * 7))
+                    end
+                    piece("Looted  ", mute)
+                    piece(tostring(g_) .. "g ", COIN_G)
+                    piece(tostring(s_) .. "s ", COIN_S)
+                    piece(tostring(c_) .. "c", COIN_C)
+                end
+                win:render_text(FONT_SMALL, vec2.new(10, 73), gold,
+                    "Quests completed  " .. tostring(view.quests_done or 0))
+                -- HUD line (2.98.0): who the bot is on, and how far - or
+                -- "Searching..." while it has nobody.
+                win:render_text(FONT_SMALL, vec2.new(10, 90), gold, target_line)
+
+                local bmin, bmax = vec2.new(10, 114), vec2.new(MINI_W - 10, MINI_H - 8)
+                local hover = false
+                pcall(function() hover = win:is_mouse_hovering_rect(bmin, bmax) == true end)
+                pcall(function()
+                    win:render_rect_filled(bmin, bmax, hover and C(200, 70, 70, 240) or C(160, 50, 50, 230), 4.0)
+                    win:render_rect(bmin, bmax, C(230, 120, 120, 255), 4.0, 1.0)
+                end)
+                win:render_text(FONT_SMALL, vec2.new(MINI_W / 2 - 14, 121), gold, "Stop")
+                pcall(function()
+                    if win:is_rect_clicked(bmin, bmax) then
+                        stop = true
+                    end
+                end)
+            end)
+    end)
+    if stop then
+        menu:defer(mini_stop)                -- 3.0.0: the stop runs on the update tick
+    elseif restore then
+        menu:defer(mini_stop)
+    end
+    local _ = mute
+end
+
+--- Run the mini window; true when it has the screen (main window hidden).
+local function mini_tick()
+    local running = is_on("enable") and (gui.is_started() or is_on("rotation_only"))
+    if running and not mini.was_running then
+        mini.on = true
+        mini.since = izi.now()
+    elseif not running and mini.was_running and mini.on then
+        restore_main()
+    end
+    mini.was_running = running
+    if not mini.on then
+        if mini.win and mini.shown then
+            pcall(function() mini.win:set_visibility(false) end)
+            mini.shown = false
+        end
+        return false
+    end
+    menu:set_visible(false)
+    draw_mini()
+    return true
+end
+
+function gui.draw()
+    -- gui.sync_player runs from on_update (main.lua) - not again here (2.193.0).
+    if mini_tick() then
+        return
+    end
+    if not is_on("show_gui") then
+        menu:set_visible(false)
+        return
+    end
+    menu:set_visible(true)
+    menu.width = 960
+    menu.height = 695
+    -- Once per frame, not three times: is_started walks the quest guide, the
+    -- rotation registry and the player object.
+    local started = gui.is_started()
+    local start_btn = menu.actions[1]
+    local pause_btn = menu.actions[2]
+    if start_btn then
+        start_btn.label = started and "Running" or "Start"
+        start_btn.style = started and "neutral" or "start"
+    end
+    if pause_btn then
+        pause_btn.label = started and "Pause" or "Paused"
+    end
+    dprobe("gui:menu.draw")
+    local ok, err = pcall(draw_menu)
+    dprobe("gui:sync_attack_level")
+    gui.sync_attack_level()
+    dprobe("gui:done")
+    if not ok then
+        core.log_error("[Master Farmer - Forever Questing] GUI draw failed: " .. tostring(err))
+    end
+end
+
+set_on("show_gui", true)
+
+return gui

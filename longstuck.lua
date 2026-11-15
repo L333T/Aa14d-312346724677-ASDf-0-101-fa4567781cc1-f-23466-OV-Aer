@@ -1,1 +1,226 @@
-return(function(...)local I={"H(@qK,M4";"t4U7dC6mbMU==","tM9K=";"t5HmqC7xv0SW+HZk=";"tGRuvuEL=","tOorypHs=";"HVoa]s";"H\'<_RcM]:D/!0&A","HdqoPYUu,";"t8TzFjQTAPG==","txNBd1MCQ";"tHB==","trXVRjw1mdt==";"ttspaYB==","HmWJLS@J","H_hg3;BJ_,c";"H4n5]=W;cLl\'4Y(NE^H.qS2XQQ:eSP8T.-87&l(Eu)6","tBnsj1aK=","tnmWls7ES","HQ+>V65T4";"tLPcTbFwoITfLvmTrIal=";"HSY@lY";"HUE]3[M!F[U";"Ha_nC@_Y(";"tdfsV7U==","tvecPNN11DG==","twmrdJJ6A";"t0vWlifqPcG==";"H59B";"H3YU/Jlju]206k";"t3oetQDy=";"tAWCEXmB=","HGdVC!CB","Hl;6=?","tRUUCThUFqeG=";"H$eMVFGh4s*YZdR.";"tBU==","t9RHWCG==";"HlC&-t)%?(;K>`4@>I>A^.!N_?h`nH:[3ao\"\"NVcl=9e&q$?UF6OZQm>d,@F;M?H0?bHrRWQNXsYK\'g_K=Z]uP]apdc`$N_\"Zm";"tmiuax39jm6k=","tGS0gkqAYjYfhYU==";"tv0sb7U==","tB8h4SEY2";"tDPmNQ9ML";"t7W8BXaGz7Ti0";"tiX9Xjn2cb8kOZXg8Fsf9ib/L2o8E1SlzgohTsNUsC0Ex3B==";"H-\'&%$XeJ","t47xkyif4I3rh1qP+3mHDWtfCHqifEAsKzOPadkWNHW53ri+a71ij2Xag2DA5lJzKSvYyTDq=";"ttEvFSU==","HV@(2t_=H";"ttNyYvG==";"twJwSjSWV";"twd57xwMO";"H&d@s:)fEJo","tEt==";"HBquEIFVDtq\"?,V","Hs.>","H@W(p-91[%=<f","tbSG=";"tdEndKK0H";"H101F<\':","ts0Y+qEt=","HOb2VWMB%\'aZA*h$Ft6LN_>=\'qWNOlu9N)","tmsl=","H;]MpJD=T/b";"tOHb1rM56pWq=","H.$a%U]a.","tREeZGB==","HWP","twdYf";"tKsWxnfFVBsTFAVtXVB==","tFRbFW7k9","HJ\"/H0o9C*UE@","taxdh0U==";"tUfvaDXrBD93A","tCRCSWB==";"HA69";"tl/JbdU==","t+sNafdk=";"H","tCP11yG==","HU>2_Log]","t90nocgWzDU==","t2G3NVH/j","thGo4qt==";"t7a2wNZ6p","H-aAou44nH)";"tEJG=";"HU\'RHfY;]V[mD\\";"Hb0NeX","tv7l82j1VCv6ugt==";"tnaoR0rKmixpgOEy2","t0mz/rgTZYuigMZzLGG==";"tV9RwPPkP";"tLZGXziKPpmSjLuZKdA/q6bUb3vb/XvOb9R6xoYNxaRFa/Ey+2quUUKH=";"tqTl1+jK=";"HsT?$^2N3";"H@;IuZK!Oa/","t8Rho6G==","tpKVTIG==";"H;R8\"UE0!oA";"tYsLcoiU5";"t7gx8cMe=","tqSLMXt==";"tGFvOg9k=";"He\"4g=U2/jR*9Cs";"H>H\"Bcnr=Et";"H)Cej#$VU`Uh0";"t1JygwyJm";"tFoiHV29ppjH=";"tfk3TP3SlWs2yp4brWdS+ugJ1LCYHA7+74rEfuyHMkfs=";"Hl;X8O_)tCl","treoo","H>pAkW\"bi";"tEq4Ms1gal8U=";"HS.P+&","H/?GNPq$/B?3:","tSDv+qqWp","HPb\'W!]7VE#";"Hs<e4","tc0t8sNEiDSrCi7HUNx4Fo40hgvjIGHevBE1hbqGoNzl73s6DiYfzE0pu9Ty=";"H.Z\'","tzmc30EMN";"Hs<&f-[X_`r";"ttx0fwi6G";"HQQrMr\"J:Xbpa";"tVJC=","HDENHd8#\'";"t90nv79W16OXEcOK=","t+keq4U==";"H7YQ-kf$u","tC9xuHB==";"H`O=!Rm96n2\\X";"tbG==","tc9rr2wJs";"tHT+XYlAs";"H:(Lm7p71";"t134p26nv";"tI47/N6K=","tCqdavPk=","tDegAmte=";"tdU==";"H\"%!>","t1z91jb/S8ft=","twPlBzaGHheH=","H[IOcu^&U";"Hgcin=BH#D?\'J]:IB`>B@\\/l#](THJ*o<;MYd1K#Pf]eSfZTV7M0(_3";"tTXQ7MQNe";"Hr4pl&","t2fuxLxTU";"HfOdnR]X","H)]WF0";"H_bJ!d.L#bEHg+bT0@";"t7a36sR6gkQHmImzwyn2xCBBeVH7xZ99aI6Qy/gumAf39nsK=";"H\"DI,d","twi+c/OK=";"H0a-l#N;";"tOgU0tZTt";"tss3rGc0pjG==","H-I5aM";"HDil.7f\"o$V";"HVM";"HDbI/\":!&n-+gma";"HD\\=sP(6`";"tjX4Z";"H%$UZ):)*fX\\+","H.k\'*=oXLQ\\t>2","tiG==";"HN\'S;o\\f[Jm6=";"t1spnXt==","HdaeB<(V)";"tcO/9+fEsuGGcnQU=";"thdSBMAZv";"tKzGHPv/x","t9NN8us2Qt0B=","Hu9oIGJch";"ta7oBu7Fl";"H^\"lmaFnRe";"HO#BH@,G>";"H5S!6eFD";"HNn&ZX\\LoUc.0","tApWVjt==","HMBNA&*!7]>af6EA9JM#)9L(tO#r(i3#N","Ho^*k6brQi@a;","Hl(et=/\"","t5Cma3Me=";"H2eA`!9P","tr8k3w7DE","ttQmJ";"t+CK+gDB=","Hl:QdPo%WBn;pl","tpwS=";"tWCK=";"Hn`?e7F=","tEWk=","HOA@lpV@uO";"HsRrCTOk"}for D,h in ipairs({{(-153982+108705)+(533592-(3773+484541)),1511260100%15579999};{-460638+460639,248758-248683};{(6877970278%75612407)%387519,-311583+311780}})do while h[-897053-(-897054)]<h[1776995241%13257812-315723014%5343637]do I[h[224553817%(616339098%14526226)]],I[h[-741680+741682]],h[621704+(-519767-101936)],h[9255440%3085146]=I[h[-477687+477689]],I[h[608908-608907]],h[595148+-595147]+2510457831%14767399,h[-405243-(-405245)]-((119222392776%516178557-681866)-135633)%4906933 end end local function e(D)return I[D-(-439004-(-501789))]end do local D={S=1033458-1033398,["6"]=252544989%1729760;D=6908-(-11052+(12869094381%71583233-(391920-(-474004))))%391513,t=-92306+92354;["4"]=1666579953%7936095;z=(45911+(-940814+1166391))-271451,["2"]=((-2439586-(-1131669-(-53598+(-423644+283425))))-(-1038761))+462983;Y=382845+(-522458-(-139635)),y=2209628588%11629624;E=-507067-(962506+(359952+-1829559)),G=-872525-(-872557),["3"]=463996632%6925322,m=(46717898957%432704798)%7895954;Z=416544879%1707151,B=-972313-(-972329),T=-132971+132997,r=417748+(473840+-891577);j=873763295%3953680;["1"]=506754033%(276084789%10068957);J=272901-272851,C=(355725993-(116288-(-764389+1109237006%7808838)))%3517102;P=826281-826227;x=-1026693+(562157+464585);["9"]=648009+-647986,["0"]=-787022-(377360+-1164435);e=445778388%(811470+10919540);V=1271879%423940,M=919135001%9100346,L=(776416+1505921668)%11414379,d=637543-637500;["+"]=(-817418+299523)+517926;l=(134372-(781564+-1166427))+-519199,X=430980+-430975,c=898967-898940,K=163595-163575,I=296155+(618934-915050),b=((294846+-986904)+(55305+(1690208-28859)))-1024534;v=1155338325%12837092,["5"]=3911278798%15964403,["/"]=2187332479%9897432,g=480108134%9232848,N=311417151%10738521;i=-780088+780139,H=-106047+106099,p=1285273583%7885114;R=(914996+-710761)+-204178;q=-561913-(-561953);a=-539865+539878;W=2543260606%10128721-951618;A=641558-641540;["7"]=-187674-(-187699),o=(340748+641891181)%2528472,Q=(360459749%9719922+1168798353)%10537126,f=1032379030%4337727,s=87866+-87822;O=(-955389-58322)+1223986547%13588587,u=(-540324+-363103)+903441,w=405034-404988,["8"]=(82124654825%(154994194286%(-356633+(76409+1006760797))-1023989))%4237615;n=986953-986892;F=(901385-1030815)-(-129451);U=249687292%3726676;h=892725+-892706;k=1001116+(904315+(65249+-1970668))}local h=string.sub local u=string.len local x={q=-505453+505470;["5"]=991241+-991165;F=945121-945115,["*"]=1165984315%6701059;E=1012749+-1012684,M=316854534%2804022,a=-748955+748979,d=-374784+374794,D=450914+(-861632+410754);["!"]=297014700%3300163,["#"]=1606603669%((1621158552%(7033041-(-699969+(-857317+797172)))-31829)+8628772);["("]=389391+(-648424+259068),["^"]=848143934%(6258440-(-581430));[","]=-819380-(-819438),f=-419357+419423;["4"]=(528022+143002933%9510635)-871385,["8"]=(595930-614779)+18887;["@"]=-865041+865116,i=168202813%11213519;["0"]=561782234%(465894+7218567)-816570;["?"]=339769729%6292032;["\'"]=211620+-211586,["%"]=348458-348421;X=539680+-539657,A=-748845-(-748867);Y=(-133801-143606)-(587585+-865012),T=1026423327%(956989154%13177469),["-"]=-327899+327926;["["]=379737296%15189491,["&"]=359171+(860004+-1219163);["$"]=1452799862%7263999,["7"]=-1021721+1021794,c=292681+-292601;P=133035856%3244775,G=-643178-(-643191);b=-204561+204590;B=574476062%(301483+3826631)+(-928894+260692);["]"]=-97271+97326;N=20356-20341,["9"]=1763997251%(3151927876%((21229492-141879)-12138)),["\""]=1180397266%8616038,g=-599070-(-599121);_=151541%(701270779%3062306);[":"]=-796152-(-796157);U=1046892+-1046833,["`"]=155372327%6214893;["+"]=-708130+((((405657+-461287)-(-347548))+412783)-(-740796-(1299024134%9910272+-1515791))),["6"]=329236573%3502516;["2"]=716582+(689184+-1405759);[">"]=1686718633%((817835+8900248)-(458441+-1348651));Q=792144416%5177414,["/"]=381055+-381012;s=-603184-(841823+-1445079);C=1456368067%6141802+-760926,R=977643+(-1641768-((13703021%(2871100943%12990228)+593090)+(-648000-763459)));[")"]=-851936+414954561%3730654;o=-142208+142260,j=(-345536-(-238032))+107588,m=438995169%6362248;O=148235-(-569726-(-903675-(-185754)));S=1242395658%6437283,H=(45731+687396)-733118,["="]=275622+(-778284-(-502725)),h=(49077536998%892476738)%3910589,["3"]=184292812%3177462;["<"]=((-102469+124352520)-(-1016790))%(592408+2539262);k=-71734-(-71776);l=687372-687293;n=246229-246226,["\\"]=305916-305852,e=139910+-139842;["1"]=492141710%11185037;J=-261642+261686;u=185823250%4129404;V=-104383-(-104430);I=300046-435522937%(953100+11847574);r=(-519506+670690356)%((-1371239-(-1308756-(-299018+-117091)))+16063960),[";"]=317380+-317372;W=-950845+950863,t=2511383458%14030075,["."]=-694445+694495;L=971341+-971285,p=-248759-(-248778),K=407256495%4032242,Z=(1162963394-(-673977))%13852825}local N=math.floor local U=I local R=string.char local a=type local g=table.concat local l=table.insert for t=107452+-107451,#U,1930026801%9650134 do local v=U[t]if a(v)=="string"then local a=h(v,460393+-460392,-60621-(-60622))if a=="t"then v=h(v,767090237%15040985)local x=u(v)local a={}local H=(((((915969+-536455)+(-236551-692584))+1322098)+108696059831)%898448598)%(4078115-(-146768))local I=629493480%2997588 local e=336357704%(-385608+1867360)while H<=x do local u=h(v,H,H)local U=D[u]if U then I=I+U*((-922761-(-922825))^(((651735+-651732)-e)))e=e+(440902+(327130+-768031))if e==-911864-(-911868)then e=-130083-(-130083)local D=N(I/(-44862-(-110398)))local h=N((I%(178978+-113442))/(1078777692%8842438))local u=I%(487921+(-351693-135972))l(a,R(D,h,u))I=(((1192429-431590)+(745662+677181504)%15407351)+-1678985)-((-224516+(-403248+212785))+-499445)end elseif u=="="then l(a,R(N(I/(-911124+(2754694957%11283668-503305)))))if H>=x or h(v,H+890550721%15094080,H+668165750%6129961)~="="then l(a,R(N((I%(322164+-256628))/(((-299013-595814)+1446059)-550976))))end break end H=H+(-755955+(-454210+1210166))end U[t]=g(a)elseif a=="H"then v=h(v,-349226+349228)local D=u(v)local a={}local H=-855953+855954 while H<=D do local u=(D-H)+(((1317204-329885)+-1326922)-(-339604))local U=u>=501026+-501021 and 166063-166058 or u local g=-583776-(-583776)local t=U>-745870-(-745871)for D=(-521833-41377)+563210,1003774-1003770,755139005%((-407113+-313673)+(14172048-431624))do local u if D<U then local N=h(v,H+D,H+D)u=x[N]if not u then t=false break end else u=-301146-(-301230)end g=g*(574734925%9578914)+u end if t then local D=N(g/(16955923-(320042-141335)))%(811134+-810878)local h=N(g/(473122-407586))%(3406272944%16376311)local u=N(g/((267314-462822)-(-195764)))%(431895450%1902622)local x=g%(2318150156%15663175)if U==(410747+-1324918)+914176 then l(a,R(D,h,u,x))elseif U==2515280142%15622858 then l(a,R(D,h,u))elseif U==1105649889%16752271 then l(a,R(D,h))elseif U==-834546-(-834548)then l(a,R(D))end end H=H+U end U[t]=g(a)end end end end local H,v do local D=table[e(312934129%2674114)]local h=697951-697951 local u=math[e(673963+-611000)]local x=string[e(694414-631473)]local N={}local U=-10828-(-10830)local R={}local a=math[e(1131375023%11544002)]for D=1565204421%11680630,187319-187063,499390-499389 do N[D]=D end repeat local h=a(-657968-((-1125662-(1162912-798258))-(-832347)),#N)local u=D(N,h)R[u]=x(u-(180781+-180780))until#N==499716+-499716 local g={}local function l()if#g==-82053-(-82053)then h=((h*(-122324+122349)+(34941634007924-(-196461))))%((35184373931335-879564)-962939)repeat U=(U*(804894+-804682))%(1046010559%7067496+-20894)until U~=-52212+(-458548-(1618011687%10175461+(293017-917166)))local D=U%(447261406%2203258)local x=(-755178+755191)-((U-D))/(214139-214107)local N=(u(h/(462612+-462610)^x)%((4295315847-1026749)-(-678198)))/(836514086%9958501)^D local R=u((N%(-902546+502374269%2300329))*(624960+4294342336))+u(N)local a=R%(-901872+967408)local l=((R-a))/(500145-((981696-591343)-(-44256)))g={a%(475050690%(((-254243+-43902)+-672242)+4488156)+-151619);((a-a%(724543-724287)))/(27304+-27048);l%(1462303644%16069268),((l-l%(362167656%(8997881-(-56304)))))/((9582930388%81321721)%13657755)}end local D=#g local x=g[D]g[D]=nil return x end local t={}H=setmetatable({},{[e(3815128543%16230260+-954500)]=t;[e(641411-578619)]=nil})function v(D,u)local x=t if(x[u])then return u else g={}local N=R h=u%(201523+35184371887309)U=u%((-572376+1064861)-492230)+(-1037064-(-1037066))local a=#D x[u]=e(((-604602+918471)+(1024294-789831))-(((395222+214189350713)%1673392849)%10299451+(-196153+338495)))local t=273330+-273326 local v=e(172861+-109921)for h=1708434281%12203102,a,533769339%7517878 do t=(((string[e(115530347%(1962797-884650104%3761637))](D,h)+l())+t))%(797319952%16610827)v=v..N[t+(-279722+(282230-2507))]end x[u]=v end return u end end local D=require(H[v(e(952331-889450),969753+(1024854333%8904861+24532384894919))])local h={}h[H[v(e(313133-250247),21153802347669-273360)]]=514865-(25739+488826)h[H[v(e(962007+-899091),(7731816412971-1429973148%12879124)-893916)]]=564153+-564133 h[H[v(e(1203046618%14152750),(-393890-310719)+((((-685726+(26374391268670-346306))-((1259704-306614)-880237))-327361)-142108))]]=954037+-953977 h[H[v(e(220703784%7880032),4934050275475-(581298-1033034))]]=-592729+592829 h[H[v(e(175095529%(978276175%(30106305-(-972687))-241368)),384043+27646376218538)]]=735863613%3697807 h[H[v(e(-525122+587911),(-819770-31115)+5830079465871)]]=764133-757185 h[H[v(e(823332-760381),63293359816937%(407811+15823342413892))]]=-120179-(-120182)h[H[v(e(499875+-437059),341206+29933237320967)]]=1017408-1017396 local u={[H[v(e(655671+-592734),(-445704-599381)+(((353085-549031)+(173933494%(4113424-967270)+-1261772))+(32200408609172-(-85241))))]]=nil,[H[v(e((179713+112050490321%704799200)%4072550),9360995487934-698116)]]=nil,[H[v(e(790340+-727429),317725+(440394+16322267507707))]]=nil,[H[v(e(634456+-571574),-938072+18136441942428)]]=nil;[H[v(e((405218950252%1688451388)%9818746),16523387124560-(-811667))]]=nil,[H[v(e(-122484+185305),212579+23873531658770)]]=nil,[H[v(e((814773+-468733)+-283083),(19083950653416-605343)-782313)]]=nil,[H[v(e(1355924976%10271683),30914562523232-348445)]]=66914-66914,[H[v(e(617611-554813),(((157461+-298752)+436805)+30999454529196)-(-465605))]]=-999481261-518739;[H[v(e(937069+-874151),18819560509071-694773)]]=false}local function x(D)local h,u=pcall(D)if h then return u end return nil end local function N(D,...)local h,u=pcall(require,H[v(e((34059-(-932381))+((-521553+1234981)+-1617081)),7.3929375597149e+15%(805661+((2227162893%9682087+(199187+(-1012521-(382342501%4153502-(-445204+950662)))))+33152185840817)))])if h and(type(u)==H[v(e(678592-615699),(784766-715272)+3817787547595)]and type(u[H[v(e(148129-85208),(-639051+170399658%5310945)+13778977310302)]])==H[v(e(874146+-811220),2.7858536424965e+14%(-967863+4721786857052))])then pcall(u[H[v(e(265538+(703755+-906489)),-263061+30082029870797)]],H[v(e(1406537781%11434756),5184304603680-(-291155))],D,...)end end local function U(D)local h,u=pcall(require,H[v(e(1111360176%(15468071-(-184003))),-118068+((20343485322917-(923699-279644))-(-1702434-(-857643))))])if h and(type(u)==H[v(e(-627203+690052),10861073881341-(-675566))]and type(u[H[v(e(-719973-((((262402-872133)-((1323137511-(-852053+88177))%(7544322-(-149493))-504728))+-1130803)-(-812753-205308))),16000525480955-(316082-172820))]])==H[v(e(-169160+(857880-625882)),1010597+(-629119+1513745857242))])then pcall(u[H[v(e(739810104%(404333+4047852)+-684570),17911469339951-(-122356))]],H[v(e(892321-829473),-772159+23761969296895)],D)end end local function R(D,h)return math[H[v(e(-298965+361788),34911863955453-(-398626))]](((D[H[v(e(1087277-1024480),1488359480918-(-178789))]]-h[H[v(e(-211350+274222),29837697585762-((187780+642286)+-347348))]]))^(731447663%6146619)+((D[H[v(e(-82395-(681537-3856035185%((-652131-(-629444))+(408382+(14287035-(-386678)))))),(771216295%5104587+(-145848+32546825330120))-(-238725))]]-h[H[v(e(94272+-31343),81537+(-777491+26878619477091))]]))^((-328822-(868031+(-2431234-(-841024))))-393355))end local function a(D)u[H[v(e(1099264-1036408),(27820031-117760)%(770586+1503547)+27241633281712)]],u[H[v(e(1721263474%(8323455-967897)),17541187800675-(-583873))]],u[H[v(e((825914-433354)-329693),25305304566596-(1831258611-(-267583))%12713658)]],u[H[v(e(((149714895-315214)-(-900964))%13657973),5069318494589-956133971%11940760)]]=D,nil,nil,nil end function h.reset()u={[H[v(e(-181579+244393),818602+9529736428080)]]=1012188-1012188;[H[v(e(-237317-(-300220)),502621+8927181668945)]]=-1000976332-(-976332),[H[v(e((-652323+460418)+((-719398+304663)+669575)),33028995711851-830877)]]=false}end function h.stuck_for()if not u[H[v(e(784651-721669),-192891+10359145503142)]]or not u[H[v(e(-949496+1012424),(147178+157630)+34793366004447)]]then return 830752200%8744760 end return math[H[v(e(-575370-(-638198)),-814576+5052590568412)]](766204127%3466987,D[H[v(e(17916-(-44890)),27771506932835-(-985141))]]()-u[H[v(e(662749447%10354478),-1028413+17215366134890)]])end local function g(D)if x(function()return D:is_in_combat()end)==true then return true end if x(function()return D:is_casting_spell()==true or D:is_channelling_spell()==true end)==true then return true end if x(function()return D:is_flying()end)==true then return true end local h=package[H[v(e(1157522576%12183787),9692230624675%1211529017922)]][H[v(e(134048+-71117),964009+(550295+16574837692365))]]if type(h)==H[v(e((19977+302177)-259276),3046484160050-(981993-511689))]and h[H[v(e((-91745+-833459)-(-988066)),(497720-190224)+30052391473349)]]then return true end local u=package[H[v(e(-294040+356891),977780+56877020251)]][H[v(e((-30250+921753)-828644),(23400678457992-(200506-(-17908)))-(-648027))]]if type(u)==H[v(e(321194-258255),10736095542443-112412)]and(type(u[H[v(e((986618+1051676464)%9398216),20151783507249-172600)]])==H[v(e(33752407%1684473),59655+31908485939932)]and x(u[H[v(e(-745580-(-808434)),337910+6961354951980)]])==true)then return true end local N=package[H[v(e((-774538+822596)-(-14852)),538843+((34149596742255-(-577219))-(-415163)))]][H[v(e(-799568-(-862464)),-783929+15549473260402)]]if type(N)==H[v(e(-106415-(-169380)),-654772+20341557726234)]and(type(N[H[v(e(3044054886%16021011),-1004741+2410042802301)]])==H[v(e((-403078+1476461)-1010483),29102024193007-1025942)]and x(function()return N[H[v(e(-36282-(-99250)),3785679582106-(-108293))]](D)end)==true)then return true end return false end local function l(D)return x(function()return D:is_dead_or_ghost()end)==true or x(function()return D:is_ghost()end)==true end local function t(D)N(H[v(e(332388+-269482),((-1024335+1152589)+3335282324469)-(-37792))],h[H[v(e(279143224%4801030-620662),(366366-739830)+26478256124062)]]/(-472298+(-565741+1038099)),D and(H[v(e(-406539-(-469463)),-183879+10367067436466)]..(D..H[v(e(-989305+1052130),476871+29479252348821)]))or H[v(e(48443907%5375663),-842519+(11267730443021-162595))])pcall(function()local D=require(H[v(e(111373+(-263230+214832)),(-224812-(-806645))+30433026644922)])D[H[v(e((1411051006-97041)%13566260),1038743+(24219+28167139815013))]]()end)local x,U=pcall(require,H[v(e(63585+-733),(6519187301703-752656)-10943)])if x and(type(U)==H[v(e(1415110232%8899669),192746+35037948626223)]and type(U[H[v(e(-947765-(-1010729)),2831217494545-93541)]])==H[v(e(-721506-(-784382)),(((999301635%7394735-(439325-(-552045)))+3850223328)-872659)%16038695+21904862345107)])then pcall(U[H[v(e(1117497538%8271683+-757383),17877690384938-(-817640))]],H[v(e(498247+-435276),998963+31401597505253)])end local R,a=false,nil if type(core[H[v(e(-66489+129291),18225048384821-314787)]])==H[v(e((325976-79851)+-183234),98650+((30056750195941-664170)-(-444152)))]and type(core[H[v(e(1403833149%12997873),-922350+((1018892963310-(-101711-609765))-(-772205)))]][H[v(e(-824586-(-962410-(-75023))),208137+25025998632090)]])==H[v(e(-349198+412170),4355416028358-(-202802))]then R,a=pcall(core[H[v(e(7307-(-55568)),1138217876831-(-623511))]][H[v(e((415704+1219151236)%6037149),((569018-522543)-(-216248-(-191217)))+22983584150477)]])end if not((R and a~=false))and type(core[H[v(e(-508789-(-571655)),-917827+5735835922634)]][H[v(e(185542-122596),26618250693402-(941818262%4657743+(-276247-1028615)))]])==H[v(e((662633-(-200794))+-800460),(23396392651926-(729918-1046464))-2048415066%8064095)]then pcall(core[H[v(e(491059080%2028910),22531766665052-477057)]][H[v(e(397944808%2471316),16746862671790-965846)]])end u[H[v(e(153900428%6688587),23385382574192-193204)]]=H[v(e(((316951+-1929183)-(-1047423))-(-627722)),964924+34549343006839)]end function h.tick(I)if not I then return false end local m=D[H[v(e(-938169-(-1001099)),5837915925025-(-1719967-(-800250)))]]()local s,n=pcall(require,H[v(e(-100196-(-163169)),(295326+5394402456647)-737580)])if s and(type(n)==H[v(e(((6598615483981%47816070666)%1017319085)%6735510),(10785+365038)+(632108+18555324420987))]and(type(n[H[v(e(791928+-728979),13175395682734-21206)]])==H[v(e(-301018-(-363825)),19164263306559-(-236020))]and not n[H[v(e(436836+-374006),5154793738601-(-900728))]]()))then u[H[v(e(274838-(-858304+1070303)),-107946+4599156158920)]]=nil a(m)return false end local A=x(function()return I:get_position()end)if not A or type(A[H[v(e(-795075-(-857972)),301795+23700342110276)]])~=H[v(e(881639-818802),4353839825993-(-391453-508442))]then return false end if u[H[v(e(943751+(-603292+-277659)),(22361002980754-1040481)-(-968603))]]==H[v(e(-360842-(-423746)),413569+(10455451981770-(-374162)))]then if x(function()return I:is_casting_spell()end)==true then u[H[v(e(967596+(-1214079-(-309315))),24869842884363-(-427952))]]=true U(H[v(e(-908581-(-971458)),(79456+25409794938489)-(-462281-(-866193)))])return true end if u[H[v(e((6558578749%49807419)%5623987),276199+33640019166528)]]and R(u[H[v(e(638968+(-796201-(-220118))),-34050+18601923629634)]],A)>=h[H[v(e(-177903-(-240773)),31514233837437-(-950565))]]then N(H[v(e(((1022164795-(-909734))-(-707759))%4828865),(-275165-722499)+14915703693482)],R(u[H[v(e(303755+((-942046-(-555639))+145612)),825940+13697320764712)]],A))u[H[v(e(-903862+966742),409045+32123508268608)]]=nil a(m)u[H[v(e(-280085+342930),18086775634698-390791)]],u[H[v(e(472758-409949),797082+22588971044651)]]=A,m return false end if m-u[H[v(e(996945-933989),26571004265831-(-688080))]]>h[H[v(e((59662876642%(283594547-(-966589+447691)))%2320522),26599806183850-(-515547))]]+((u[H[v(e(((19416560405-(-1008756-(824057-680216558%4783674)))%647309484)%4008823),117604+28065566096119)]]and 3925636%(441353+3484283)or-978496-(-978499)))then t(H[v(e(496023+-433042),-272100+13626486190684)])return true end if m-u[H[v(e(-473423-(-827719+291352)),(-80312+13515797474404)-966128)]]>=h[H[v(e(-395929-(-458830)),1044722+(11078654839217-((-913378-(-275563))+570105)))]]and not u[H[v(e(1090409568%8198095),169905+4233357141274)]]then u[H[v(e(174197+(827429-938832)),11401233038159-(-935631-(-242865)))]]=m pcall(function()(require(H[v(e(1551186913%13849321),16231621359760-685648)]))[H[v(e(-786950+849864),23791407359975-(-685559))]]()end)local D,x=pcall(require,H[v(e((875882+-151308)+(-112494-549268)),445772+18055116770411)])if D and(type(x)==H[v(e(274545+(288118-499771)),-385593+7227917734750)]and type(x[H[v(e(406418+(-278379-376058395%7673332)),28605845047251-(-821406))]])==H[v(e((-446873-(-320616))+189140),-379915+25332956302945)])then pcall(x[H[v(e(309870005%1750323),(6047383893765-(-91333))-(-831010-77437))]],h[H[v(e(107451-44604),(-750523+108070279%5113894)+28772870151739)]])end end U(H[v(e(2677159499%(((577966+-1229806)+1389783662)%21506940)),-9331+30169090815419)])return true end if u[H[v(e(-727835-(-790809)),70517+7891958790573)]]==H[v(e(1066260316%8811549),643812+22282022473208)]then U(H[v(e(-373275+436121),103999+34766291058207)])return true end if u[H[v(e(509154329%9982184),27801185135345-(-838704))]]and R(u[H[v(e(3379053892%(17535646-(84933+(506001+217034)))),(-110833-596787)+16754588725936)]],A)>=h[H[v(e(-763540-(-826413)),29789068908911-978528)]]then a(m)end u[H[v(e((38138581184%482906640)%5122086-568393),634768+23295504996705)]],u[H[v(e(798440-735604),-300875+(-46605+(-196466+9686148034290)))]]=A,m local G,O=pcall(require,H[v(e(3727+59225),9602167254949-(-843017))])local y,K=nil,nil if G and(type(O)==H[v(e(904577238%3882036),-407292+16537684363804)]and type(O[H[v(e(1150246308%((-237258+((-1053748-6718)-(-690243)))+12843474)),(587516+15984158465979)-(-328480))]])==H[v(e(984686+-921716),12238009487680-539666)])then y,K=O[H[v(e(844542-(1326104-458559838%((2285258297-621103)%(1530320076%(993131+(23182369-115307)))))),-706808+5366433686514)]]()end if not y then u[H[v(e(-305461-(-368430)),(34539947957553-844066)-157813)]]=u[H[v(e(853220+-790300),437513+24398850511698)]]or m if m-u[H[v(e(176557-113771),6736719755982-758919)]]>=h[H[v(e(621147-558169),12903357712075-(-1001619))]]then a(m)end return false end u[H[v(e(1251788009%8289571),637499+28017265363154)]]=nil if g(I)then if u[H[v(e(990541-927683),1020094+2413495091563)]]then u[H[v(e(170528660%3551369),1.2932477706405e+14%677093105256)]]=u[H[v(e(683691+-620901),34937221781737-430018)]]+((m-((u[H[v(e(1022297-959484),605821+34976002935958)]]or m))))end u[H[v(e(3158110684%(15258489-((-26536-(-457745))-1042307))),10646872989648-(-577816))]]=m return false end u[H[v(e(7391-(-55449)),346122+30509322689883)]]=m local p={[H[v(e(-105036-(-167951)),25932+25116340448539)]]=y,[H[v(e(-551155-(-613986)),(-598756-337633)+20685882989800)]]=K}if not u[H[v(e(-540734-(846748+-1450391)),12900439398576-(-691615))]]or R(u[H[v(e(395115171%13622493),23577883498671-(-236303))]],p)>h[H[v(e(208822244%13917292),140903+((31317413835295-(-730802-(-214659)))-(-992959)))]]then u[H[v(e(-911463-(-974326)),124457+30277670805582)]],u[H[v(e(134241031%2439601),-136081+(16712599597825-(721571-47580)))]],u[H[v(e(509536-446642),4446659840357-(-1001850))]]=m,nil,p end local P=R(A,p)if not u[H[v(e(-931145+994043),-20807+27057287556019)]]or P<u[H[v(e(((-1306158-(-644035))+866608726)%5063648),22701931691411-(-640282))]]-h[H[v(e(188058419%5874862),(23145164380866-768714)-(-890268))]]then u[H[v(e(-108135+170953),37011874549638%370118789186)]],u[H[v(e(2902819605%16307622),205138+1393559728171)]]=P,m return false end if m-u[H[v(e(-976666+1039585),24319184409525-625951)]]<h[H[v(e(920656-857815),27763435913879-(((-252240-424263)+590419)+((883590+-1867080)+1954976)))]]then return false end if l(I)then t(H[v(e(411683+-348728),963494+(((-1144761-(-921987))+-126716)+877531177310))])return true end local r,Y=pcall(require,H[v(e(-854527+917360),(605171+4799764190448)%(5338556769188%23414727801))])local V=r and(type(Y)==H[v(e(899501543%14990645),8197986205675-(-791757))]and(type(Y[H[v(e((-862106+425783)-(-499176)),(1442562-891146)+27961033745587)]])==H[v(e(-300576+363384),-293529+(702871+30139551153727))]and Y[H[v(e(-950929-(-1013786)),477766+15769600649827)]](h[H[v(e(-979767+1042611),-785470+23391390775710)]])>3277951118%14832358))local T=x(function()return I:get_item_cooldown(h[H[v(e(594459-531482),(337432+184335)+30797253197782)]])end)if not V then t(H[v(e(298697-235774),755642+12589280646107)])return true end if type(T)==H[v(e(1191472266%12282571),10462033785124-(-30880))]and T>226224+-226224 then t(string[H[v(e(259196019%2911608),(12010277483287-346671)-(-946659))]](H[v(e((37346798409%(-772930+42848360388%199370903))%2869435),-88593+1235256154709)],T/(-145992+1675833512%6953060)))return true end N(H[v(e(296710-(-355533-(-1082937-(-493593)))),8805018637567-(-443260))],((m-u[H[v(e((70397346727%640006956)%13543098),11966458031506-(-145434))]]))/(1781771616%12038997),P)u[H[v(e(1885399897%9768586),-1020348+26670363809671)]],u[H[v(e(1398432385%13980699-299682),(-138529+-609640)+8596701505472)]],u[H[v(e(536112+-473150),(28220349455147-(-610662))-(-234722))]],u[H[v(e(161901-98996),-41938+30924880723144)]]=H[v(e(601084812%11558114),28697003265118-979980)],m,990156+-1000990156,false pcall(function()(require(H[v(e(242108244%2659839),335101+11011713166349)]))[H[v(e((618290+420633)-975965),(290076+((169881+14901)+(-585163+22806885225712)))-(-834052))]]()end)return true end h[H[v(e(-449859+683216425%12642659),33305644805664-(-550846))]]=u return h end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- longstuck.lua - stuck for 5 minutes: Hearthstone, or log out when dead
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Forever_Questing
+-- ============================================================================
+-- 1.7.33 (user: "if stuck for more than 5 mins use hearth stone, if player is
+-- dead then logout"). The stuck ladder in movement.lua (strafes, fresh paths,
+-- the detour fan, steep-free reroutes) keeps trying; this is the last resort
+-- above it.
+--
+-- STUCK = a walk is running (the nav client has a destination) and the
+-- player has come no closer than PROGRESS_YD to it for STUCK_S seconds.
+-- Fighting, eating / drinking, a cast and a flight do not count (the clock
+-- is held, not reset). The clock resets on real progress, on a new
+-- destination more than NEW_DEST_YD from the last one, on a jump of JUMP_YD
+-- in one tick (a flight, portal, hearth or resurrect), and after IDLE_S
+-- seconds with no walk at all.
+--
+-- THEN
+--   alive  Hearthstone (6948): the walk is stopped, the player stands still,
+--          out of combat, and core.input.use_item(6948) is sent every
+--          HEARTH_GAP s until the cast is under way; the bot holds while it
+--          casts. No Hearthstone in the bags, or on cooldown: log out (there
+--          is no other way out of a spot the bot cannot leave).
+--   dead   log out (a ghost cannot hearth): core.login.logout() (in the world
+--          only; 20 s countdown outside a rest area), else core.input.logout().
+--          The bot is stopped first so nothing walks or fights the countdown.
+-- core.login.logout / core.input.logout / core.input.use_item: Core_Api
+-- sylvanas_api docs (documented_only).
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+local M = {}
+
+M.STUCK_S = 300
+M.PROGRESS_YD = 20
+M.NEW_DEST_YD = 60
+M.JUMP_YD = 100
+M.IDLE_S = 20
+M.HEARTH_ID = 6948
+M.HEARTH_GAP = 3.0
+M.HEARTH_CAST_S = 12        -- 10 s cast + a little; after this a failed hearth logs out
+
+local st = { t0 = nil, best = nil, dest = nil, last = nil, last_t = nil, idle_t = nil,
+    acting = nil, act_t = 0, sent_t = -1e9, cast_seen = false }
+
+local function safe(fn)
+    local ok, v = pcall(fn)
+    if ok then return v end
+    return nil
+end
+
+local function trail(fmt, ...)
+    local ok, el = pcall(require, "errorlog")
+    if ok and type(el) == "table" and type(el.trail) == "function" then pcall(el.trail, "move", fmt, ...) end
+end
+
+local function note(text)
+    local ok, state = pcall(require, "state")
+    if ok and type(state) == "table" and type(state.set_note) == "function" then pcall(state.set_note, "Stuck", text) end
+end
+
+local function flat(a, b)
+    return math.sqrt((a.x - b.x) ^ 2 + (a.y - b.y) ^ 2)
+end
+
+local function reset(now)
+    st.t0, st.best, st.dest, st.idle_t = now, nil, nil, nil
+end
+
+function M.reset()
+    st = { act_t = 0, sent_t = -1e9, cast_seen = false }
+end
+
+--- Seconds the player has been stuck (0 when not).
+function M.stuck_for()
+    if not st.t0 or not st.best then return 0 end
+    return math.max(0, izi.now() - st.t0)
+end
+
+local function busy_elsewhere(player)
+    if safe(function() return player:is_in_combat() end) == true then return true end
+    if safe(function() return player:is_casting_spell() == true or player:is_channelling_spell() == true end) == true then
+        return true
+    end
+    if safe(function() return player:is_flying() end) == true then return true end
+    local R = package.loaded["movement/core"]
+    if type(R) == "table" and R.resting then return true end
+    local hl = package.loaded["healing"]
+    if type(hl) == "table" and type(hl.is_resting) == "function" and safe(hl.is_resting) == true then return true end
+    local qe = package.loaded["quest/engine"]
+    if type(qe) == "table" and type(qe.in_flight) == "function" and safe(function() return qe.in_flight(player) end) == true then
+        return true
+    end
+    return false
+end
+
+local function dead(player)
+    return safe(function() return player:is_dead_or_ghost() end) == true
+        or safe(function() return player:is_ghost() end) == true
+end
+
+local function log_out(why)
+    trail("stuck for %.0f min%s - logging out", M.STUCK_S / 60, why and (" (" .. why .. ")") or "")
+    pcall(function()
+        local mv = require("movement")
+        mv.nav_stop()
+    end)
+    local okg, gui = pcall(require, "gui")
+    if okg and type(gui) == "table" and type(gui.stop) == "function" then
+        pcall(gui.stop, "stuck for 5 minutes - logged out")
+    end
+    local ok_l, done = false, nil
+    if type(core.login) == "table" and type(core.login.logout) == "function" then
+        ok_l, done = pcall(core.login.logout)
+    end
+    if not (ok_l and done ~= false) and type(core.input.logout) == "function" then
+        pcall(core.input.logout)
+    end
+    st.acting = "logout"
+end
+
+--- One tick. True while it owns the tick (a hearth being cast, a logout).
+function M.tick(player)
+    if not player then return false end
+    local now = izi.now()
+    local okg, gui = pcall(require, "gui")
+    if okg and type(gui) == "table" and type(gui.is_started) == "function" and not gui.is_started() then
+        st.acting = nil
+        reset(now)
+        return false
+    end
+    local here = safe(function() return player:get_position() end)
+    if not here or type(here.x) ~= "number" then return false end
+
+    -- acting: the hearth cast under way
+    if st.acting == "hearth" then
+        if safe(function() return player:is_casting_spell() end) == true then
+            st.cast_seen = true
+            note("Stuck 5 min - casting Hearthstone")
+            return true
+        end
+        if st.last and flat(st.last, here) >= M.JUMP_YD then  -- landed at the inn
+            trail("stuck: Hearthstone done - %.0f yd from the stuck spot", flat(st.last, here))
+            st.acting = nil
+            reset(now)
+            st.last, st.last_t = here, now
+            return false
+        end
+        if now - st.act_t > M.HEARTH_CAST_S + (st.cast_seen and 0 or 3) then
+            log_out("the Hearthstone did not take the player away")
+            return true
+        end
+        if now - st.sent_t >= M.HEARTH_GAP and not st.cast_seen then
+            st.sent_t = now
+            pcall(function() require("movement").nav_stop() end)
+            local okb, bags = pcall(require, "bags")
+            if okb and type(bags) == "table" and type(bags.use_id) == "function" then pcall(bags.use_id, M.HEARTH_ID) end
+        end
+        note("Stuck 5 min - using the Hearthstone")
+        return true
+    end
+    if st.acting == "logout" then
+        note("Stuck 5 min - logging out")
+        return true
+    end
+
+    -- a jump (flight, portal, resurrect): a new start
+    if st.last and flat(st.last, here) >= M.JUMP_YD then reset(now) end
+    st.last, st.last_t = here, now
+
+    local okn, N = pcall(require, "movement/nav")
+    local dx, dy = nil, nil
+    if okn and type(N) == "table" and type(N.destination) == "function" then dx, dy = N.destination() end
+    if not dx then
+        st.idle_t = st.idle_t or now
+        if now - st.idle_t >= M.IDLE_S then reset(now) end
+        return false
+    end
+    st.idle_t = nil
+    if busy_elsewhere(player) then
+        if st.t0 then st.t0 = st.t0 + (now - (st.held_t or now)) end
+        st.held_t = now
+        return false
+    end
+    st.held_t = now
+    local dest = { x = dx, y = dy }
+    if not st.dest or flat(st.dest, dest) > M.NEW_DEST_YD then
+        st.t0, st.best, st.dest = now, nil, dest
+    end
+    local d = flat(here, dest)
+    if not st.best or d < st.best - M.PROGRESS_YD then
+        st.best, st.t0 = d, now
+        return false
+    end
+    if now - st.t0 < M.STUCK_S then return false end
+
+    -- STUCK FOR 5 MINUTES
+    if dead(player) then
+        log_out("dead - a ghost cannot use the Hearthstone")
+        return true
+    end
+    local okb, bags = pcall(require, "bags")
+    local have = okb and type(bags) == "table" and type(bags.count) == "function" and bags.count(M.HEARTH_ID) > 0
+    local cd = safe(function() return player:get_item_cooldown(M.HEARTH_ID) end)
+    if not have then
+        log_out("no Hearthstone in the bags")
+        return true
+    end
+    if type(cd) == "number" and cd > 0 then
+        log_out(string.format("the Hearthstone is on cooldown for %.0f min", cd / 60))
+        return true
+    end
+    trail("stuck for %.0f min (%.0f yd from the goal, no closer) - using the Hearthstone", (now - st.t0) / 60, d)
+    st.acting, st.act_t, st.sent_t, st.cast_seen = "hearth", now, -1e9, false
+    pcall(function() require("movement").nav_stop() end)
+    return true
+end
+
+M._st = st
+return M

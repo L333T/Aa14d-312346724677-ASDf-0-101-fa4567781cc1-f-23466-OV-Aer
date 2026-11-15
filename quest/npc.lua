@@ -1,1 +1,1561 @@
-return(function(...)local Lt={"mU1k4xb94yl0p/jmvSaCnqWxD","\1943Jpim";"mziS40rpI";"\194ID)aD";"mNZ2bhQE=","\194%4R1`Yh";"megB+IJe=","\1944^%m+taIl,G$SpoIqVpF^9";"\194d-J0@";"mbr47hn==";"mhq1xunCN";"\194$U<k2:d9P9%5ml0p([\"]1\'lN:T:^GU1qgrh:V,p";"\194MK0AKL,","m3COFly+=","\194qX_8\"qO^^\\5&uT)Sf";"\194.13br@c6","mHkIc5Gy0","maeKWg3p1cHVECkhlf/+4OGhsbCtouuRP","mQbiHHWeDlYm56+==","\194\\P/deWT";"\194oRrp#","mizWkKt/=";"\194hZ)`","\194Uu\"<gjf";"\194+-6i1[Y4&NJY209/QrdG\\cC=tN$=YqjZSJVJq4i>X4CWHe[*j3WIp";"\194s`?SHA##>;G5RN0o[E";"mgwYTASdBu+==";"\194;>C0;POD[#%d&","m3PNW","mAmDJSl6r";"mXuFYC+==";"\194-PM=5(k=";"\194ML";"\194f=7f","makFWXBw/RsgrfFSwa0tuTDoVsHsR1rGnI3zQ";"\194MJ3@R4mbTR\\`Z","\194?RR&>]G\"^q2a";"mnuTJD7o=";"mj+==","\194$T[k5lr","\194]Crb-";"m+Ab011J1hbeRyS7/IynmMZVrIqnmVqY4IUM=","\194IB0+4d.[8";"mfc5+","\194WSi:4Toq+E>&.";"\194O0Vo%DE#X*l(MC04Tu?n],eTn^?d_SMh=";"mAeOzR1ULGwja";"\1949ln5GGBV";"mmWTUy26gBvVSV+==","m07b1SHR9";"\194#R1^[]!p","\194Uo5,\'j8","mTPKV5/0G";"\194MpSj4W]&u";"mzo5i5BM=","\194DriESTG0";"mbkrHGQaHvo==";"\194?\'UU6Wp";"\194T=<AT(17^eC8;3q%p;RdT10eKk,cCu8\"(A8c<(<i;-Es9UVW\'ckPHFI.VpJ[cckl!o@q)M@0@l8%?","ma1LuKkjBMYqQ";"m3/M7spde","mfU/CD/MfuH/=","\194Ep<kc>7";"\194%&!.1^u^+l<p","\194=.VR@j@pqoL+%N9+BQQjSKHbAp#\'bL\\FU","\194BNUiL;CU\"M&9!O*jU-","m6z41ySh9V4hOt3e49oCN","\194-C*ue&A";"\194X8X=RdT","m0N2LyftUY4TbGtbOJ0n=","mR7o4sRIMNo8YmOkI";"\194\"oi2Z*?NF4SJ4:p_^+1UQ1T,";"mh93YOfYzXs9Xj3E=","mSPUU";"masHw9ZFYKQK=","\194!6VOgQme)lTsD^^4\"S!DSp\"=";"mtnzOnj1G","\194U[QEF:/(&,";"\194W(/.r]:trWj5/5/JfHGe5D`I4R#L+fN_SV;4!CW[dDa=8D]<$JNXQ+;#5V";"mv//DP+==";"\194!oF,g\"\\3&D!-","\1948(](ERd^","mn8EcnPAzlBSIpD8kx7V9u+==";"\194A!pYG&Q","mraY2OoAZKpmX5hoQiEXemz/AdS5Hce3gRcPa4sUw78yynJeFOySh5N86TmT1MRMZmQukiaGC8jgBc7jtXKk5gwB/qNDKx/MnEkJLxzNQbxmBWWsguheKbGVNyn==","m7sGYdmCtN0+A0ZCkyJ0B/X+hhHPLatq/F9gHAs/iNyRxCelAGmNwuSlK/e/3B+J6Xwdb";"moAB6dQi8";"mOvfJCGBin0EEzl+9";"\194equUg7.9\\?W!O766lPJ","mIHiVCTsGkQ6EkIoA";"m1o==";"\194DkO&)(0l";"muzQOEXo=","\194H$T*03D","\194D\',sm%8*";"m+HqSUKrX";"mNhZo+Mt5";"\194j#2UE.fZ2fCpT5(p[\\?tb6Qnu99C*i","mL615Ba2=","mSevOUpyv++==";"\194\\fKtPBA";"\194U$N4_jhf\"";"\194WI@c^96","m4FVMpM==","mV9WqDPy6VAHCGdEt","mP2guTuu7","mKoPmeme=","\194i7!R8";"\194eE@&+fWY!j)n/\\T5@:";"mW/dMWj9w","\194_4mEP/js";"m7JptQQXRw+==","mwlLMlmsm","m/HWN3qm/";"mbmk0CMHrBUyYX7+ZzM==";"mcEvKw4P0";"\1944;\\sWHD","\194Z^gTZ._U!O-Rb","\194PSSc;]b]Ln";"\194*/%tlU\'6e,=T&kdBa[g%%6G3\'Q-0Rn;gnC(T(?CW9HBtj^X/W8D=tb;DCnM)CU31JPp:SA5:Zju*u%pO:%<A\"V>@.N=gu\"","mlwSAb4b=","\1949+2B?-1@","\194WT","\194DE","\194\"HM\\;N-on$eJ08","\194FLcXf-\\@","m/w+50gIJt+v9qW/=","\1948ABI.8r";"\194\\G";"\194&;d,q","\194.:";"mkz5ZLO2=";"\194g2G`Y","mfLwAzGaKbsRz/RGr45NUZJTa0KCJ3fRR","m1x+tX2f8";"\194.1CYNs:","m011Hsma/";"miM==";"mJTCD+pItWUf/bW2B","\194q!HGYrSW";"\194#!%RbdT","mt9Ml/MvGeLRYJkiXlo==","mnphbdCE=";"msOB0GKHIJCo=";"mPz8h4fso";"\194PMUW](t","\194LZcMnrH","\194E[_$\"U]*g5Pal7","mZ+qf","m3jWrKAjrS6g1k+W+bcMGteW8vdXY+NH4ap2e83triHoVfX4IDDbzjN+iD45V7cFsGZP+RYQVU60e0QZ=","m5tB/ZFAqvKHpjf1xXymeyMZ+S7hBFlX9K+==";"\194_,";"mBXhAnbmaNZn=","\194Gj\')b\'%";"m9xaipdibqkvTYxjp","\194)Ij:>:4sFJGp","muCVfKA/=";"mQxJyRehW";"\194lTh9$%0/";"mrcGsltZc";"\194\'!mDk&m$\\Mlg%<_\\nDLTHj7,&?[NM6dT","m3JjQAFiAUw2=","\194(Je#HGW#$O#E\'+q5(A";"\194\'k`1N</4&rlR&au.El","\194&s;281a4","meRTZH/g/pjPIJo==";"mz+ljEFKawZb=","mc+07X5MOsyWnRBV8ySxdx+==";"\1946[i-X;B+e","m7YFKqN6DAohPB+==","mKPaeC/iN";"\194N]d:`h\"g\"\"0gRb!PrWSbHq";"m+Mr/jjoHwE2=";"\194d\"G7\'Oh\\","m7o3jBBzGPnE=";"\194H,/n;%l]l]j?#QKo*N!A@215_,+.O3^j9g&qGVT\\09AqRL_","my9YYKqwQLy1C","mHQI6ke1aM68=","mAMurK8ez38/=","mwbsO0kqwc5o=";"mUPEr";"\194GB_\"J\'MPU=qomG";"\194SK\'";"mXfmTmGinGTbCT22=";"mRdFJoWn=","mODk0GPuejr4QS+cHU9/=";"\194G>=fu?1=";"\194Tn8@(\"a";"\194RL!p","mN+lQDgjWbLrHhY9ox66XsbEToRyrrvoEd1V6B5LPKhK=";"\194scA>FnF]3","my8IkpNo=","\194;ZE1pu,";"mtyE806Ji";"\194ALeJAnoi";"m+guVFR8=","\194iD:>cMAAFe";"mhM==";"mUqE6r1pdR+==";"mVRn8/s83mpW/","mEB/QlBZw3c6tK6CA6CUjXVqGjM==","mT7G884Z=";"\194qGKq@\"q","mtsMTuOnhneO=";"\194s$::k","\194.*p-6=QD","mU1xyXH8=";"\194S)R#pWF5[n","mS0UvC9uwNqGSdo==","\194^a6,P!%";"\194.[PjmIN1","miU5hPaNFI+9pm8wwNOI2","mO7NrxRLB","mTIv0cM==";"\194b:D$u(ne","mcEDQmeE=";"\194(>hA3Oa^D?X!_","mmIDE8YrYIn==";"\194V1Pn\\Uk/";"m7nNNdpAO";"\194\"bBnF4\"[Q/<4njaLF8PBg,YeVN.5R&),lG)Y&#\\.MENF\".a,Bt[GQoCuPOO/_&tCfshCVGtJ?ji","mw+==","mhFZ/1eIaOaK=","\194bR&TklhXN";"mPRWUiGvJ/9bi","mxymXjS+=";"\194N902*u\'3_]JrKC","mDpynXF/o","m9mFIdm7tlj1nMn==";"m7cpyGqLaKhO3mpS=";"mL8ye2i8=";"\194>)4#F$:B+b]`kt","\194._7*q3a","mBCqJ+1hneMDR";"\1944\'d6","\194Y6knG::";"\194G=";"mUtdqhn==";"mVZgNQtM=","\194IIm0","\194&!#qmC(bYnUa`**/>2bdBb1W6dOn","mZuQxgeHqq08=";"\194rjtOETa","\194S(a$d8kSH[";"\194AFO\"u5%B(+5W4WQ##3JTI.:k?+Zn:J";"\1946$1ktSV^";"mRRgbOVeDen==";"\194R:XGu@HD(^2iG^!!/9G+eN-9:]26WV+t";"\194M>l7LJQ[NdhWK","\194V=&A7r5=Jl)`*R_Ar";"\194>0Z[M[Lath";"\194LZ@1Itc`";"mb7NjYpToHJx=","\194$>VT&o4^","me4pCxoJEylhcTLS=";"m0g4X7se=","\1941Kjf9tgAA[4ucjP\\tjYm,aknFU([-*p<Gf4T!+O$q7E]HTgofTgXeNM=&@o!","mQiR1Ca6hXce=","\194pMsKJ";"mbJtAQnQwNn==","\194-3F<","mu9S+Qsms";"\194!6+L^^:","\1944V88(UQ","\194nLO*gu,","miUnGbacb";"\194XA:H7c/qi@\\f[","\194All1c","\194`\"\"#Jilf";"\194*.5/I;!3","\194XEAAfRh","\194umsuEE%","\1944\\u\"5rH";"\194]F5UP]#V","\194HY6(<7gTGY4nmXU%2!G]j%KI(@7";"\194b^Ga$hH","mxJYZc+==","\194kN[ro5f&N8sj>%\',4d,3Dsh","m/3cP85Ol/v2=";"mKYb3l+==","meFel","\194Af-\"i/c4","\194+Ao=>[CZ-N:)J1U[ljr<03-b","\194P``s>ADt$%Y;K-";"\194tAS![0%n","mROaP+LFl5wCP+nO7pIgK","\194M]QhZn*o?@HU?mMNW?a%FG^s$*0jS=*8","\194;(4$7","mb7e=","mmfvrkA4UctLMAeqvOsm02avg80z1qmV6xEVe1/0D9ATBvPXrXywCvRPV","mwkveHFYq","mJrLPKIO=","mH+==";"\194ip_#l","\194>DJP";"\194Mu`6t93-Wpk;(";"m8/AOLZjSK0iW5zuZvKbSwzq2Io==";"mfvqd7RO=";"mV+1n65m2J1jZ36/=","\1946Z$Tb/C=fTX@$;nDCU$0ttg$2","\194$^i)33dQ","\194F*+#W6E/fk7H.CKVL:o=-+nf#(TpdK/0hC,;SNe,)l","\194OCqmVBCW";"\194jE96";"\1944Eg+KN$\\dPA,6","\194+JXHIs5G\\.","mHZYRRsR0emKBmM==";"\194M#rVl+,9C=6jn:";"\194A<MANkr)";"\1944NU4\',3Z","\194!eqf";"miG5xs46H","mH3wJ0Kb=";"mwupPMFE=";"mwsBAO7+=","m0hkhBg7S","\194-4\\o42ff";"mJKIo6u242sPXy6z3";"\194u&EL!^^";"\194lQuC";"\194!-","maZGE","\194qZT4%AnF@?\\[c\'=sDWWD3Trab:fj","\194cdLu(-qNlc","\194kS\';0EuQNd%9";"mQuq61wR6UjM=","mjn==","\194`d";"mdv9U178=","\1945A8^3";"mR+==","mO1kMrvZ=";"m1vmNLyKjqq8=","\194[.gG5","m7M+477Z=","mcGWgXL/=";"m7D196KE=";"\194H:nKnS0BbX\'dM3F$NbE";"mHrz2FjY5";"\194@5]jm%!1I","mAEqISuon","miB46diH3//8INn==";"\194V<^Up^eh<02cC@b&J5","\1944%`/gQTS<:jl(","mGX/xqh707rOOxQdECQQoBY1OWdpLKyzO2PaGOEejRo5TpePbCKGr";"\194PCHP","\194A5k<;T;V]gnm";"mgdfeyFRR";"md4mYQGLgF1IHKIGS1InfgVvDTkWr2vqmqCVpeuzbeQcVoHi=","mX8JD6XuGVxDpwLzu";"mPNrj5lFWYhQV8n==";"mDHH9C0h4bo==","m+wFWpiU7","mkyFiF2oj";"mF0yok+==";"mjPlM6qNFZtLR0+==","mJySzD5WOnn/b1pb=";"\194&sJ/HMt";"\1943\'*h`@JMtbfPZP","mmZS4EMx=","mC7HBkGCd","mTn33VTiesdu8UPx=","\194ETplQ\\d";"mqRMdD0HMLx9yjqKzWhl9i5FujAKC";"motl0jjGuRFkX";"mUudcl+==","\194pIbb92mQ";"\194k4@pT$f`_*eV8g*E?[","\194k^fdHpgb)WISS";"msipHMwZkTHDN/n==","mQBplQgipwlFb";"\194T-9ki]Go","\194=]i<Ehbl";"\194g+!CqB[65";"\194dV<TbUK,;(7OTL";"mcyJC9fOf","mwTV1iH8cRbnwul5lX7o=","\194n#7&i-SY4e?fa]","\194q!Jd9Cl$+g";"\194<>QrSSgH!q^$!KR8ieJT\\u_pP@(.J&,K3SQ?Kr!V@^9!9N\"j<V","\194mp;H!k<";"m2to6NvNn";"m3JjuvmF40M==","\194Q7%q_X9<";"\194UH#nHu(8egGnG/CE#<:EG8biN`C!:`!c,JEgOPX8Q,2EdPR_(ZT=cT#cFOc/0+QM>)Z6cX","m4G9Tqco=","\194`T:";"mqOgvbzyHHeh4EOoPA0nBwx5BCE1rwLJ/mJH/uApDN9+WTdVD5utNVRRAabSMkrYJit/SX81DZzEzTe9Ionul";"m8WZmeeZ9QlhD3eZ=";"mfZUqSn==","m6tYefOcEvj+eto==","mXiaWx1ydvr4oAo==";"\194*5Z-D7+_@";"mx8aSas8=";"mU7q953P3/RE=","\194XMQ(&H=\\J.Y)g-";"mn/tpp8I5","mWGfhWt1+afvvdze=","miMWjFDNW74vOSWS=","\1947<C>3","\194V,6#H3^`","m8n2JW0M=";"\194U7c$;^6";"mUfm8PQz5","\194m@2U`]gonkodo64>WZY<U\\^Ps";"\1942b<a\"sPD8(";"mItsMU7EdUXo=","mH8vV7fstziyQlXjsMOb=";"mh+==";"mvei7sQmw7huT3u4qeM==";"mcD7CrRaj","mAM==","mMfzdTPJrRF8=","mELE5cWAERRcy","m+JdzBwiPK2QzDy/RU+==","\194Z_2-Z>f","\19442p0s$-C","mY5tQyG2=";"\194V\"dS","m1x8=","\194n>GnuWmW";"mVNHgaeM=","\194RU/=\"1mDdRqY]u)R*8","mtptgu+1f","mYCA6gOZ=","mhqJKjeC5s/1FJnE=";"\194k-7@\"&rAbOViVH","\194W2%pOCG";"\194T5Y^c,%","m1jvNWgYZMwS=","\1947ZN","\194351!VJ?GA&O5O","mHtDRuo==";"\194cq)!KFG";"\194+;n3(653";"mhgBeLrWPmBJNvb4C1PFl";"mgb760C9fIGM8","\194HA/!jkH8<J%d(.B*OQ";"\1945%IhgLB%(3g5Ul";"\194cJ+#A!rf\'5IE!+!:(Ed","mc+XU0FP2oHScaWwsiU/sVnB9+xZ8gtJOXtQb";"\194Tc7358t";"\194imJ[)<ML3Bua7@W\\\'L<\"@%Z)A74o\\";"mZls5URgagM==";"\194,<DZ","\194\"<r5\"`mF@s*SX","muK41o7gOUvYNpRZx8LP2tbR7EPou9m26ybtyBzMOeW2v53n9evktpjO=";"\194_lL[$/WuI.","mvV13EDPu";"\1944M[Uf>Z<%\\34qqFC\":";"\194XeWd][I","\194H0\"L8!rLU","mvfB97xNwdBUjpOb=";"m/DiKR9UDJnsQ0Yt3Hte=","\194317th","\1942ZtgfMquR?jUkV","\194,<;b$q-";"\194J4i4cR,";"\194+5UTIAY]Ir@3U","\194qfEL^d0fDf";"mvADyfFLFZo==","\194;H)`-i+:/";"\194IEg7(pTpWC";"mys1Qsib6VUMV5o==","\194E4Mt0&i,";"m1hwD4Vg/9cS=","mKGLp47ZO","\1941a^FRrp,BlS*ScT\'h:?!PbU*-[d5dEdHb","\194","mfm0DbOE1","\194s8%&Uu5F";"m2tSeeJX1vw5WkAKL00SM";"\194tkMh4#5","myXYwT+==";"\194r5rjUTu@";"mB6/XeohvXBdwjd2=";"mD6QOiuO=";"mgEslhs2=","\194%r@u?_E","\1949UO\'k";"\194/NO.VeU.","\194\\Tl&%WTA(","mpz6sRUpb";"mj5SyK3g2a6asxBo=","mLRWF9Ne=","\194hr<ZO_FuR1Mb7Z";"\194Gc/bBD51356dJ";"\1944\'7IbS:)f(*XhPJ$EiYJ";"\194MK[]AW.","\194s`mF5","\194I\'Tb@D,";"mgNVxNZIU8Zw3";"\194PsE`F:9H(K^6";"\194\"_/.k","mH8YwKgzfQUcZOcmefpTlXwfmF2DP1quku8mne2vhJBWmMzTuBMhMeUrD9LaTEXphMo==","\194dM]>","mHjO2x8UuhTdv";"\194<=sHYFPo2","m4QysdjF1";"myuad37fk","\194(\\&4^mF4c;";"\194k)/)","mK2VOIQ/=","miI/85wqqeOE0evS=","mEDvBOZBUvIZT5ox=","mHuz+O6dzmHsynF4GPaV5qSRet+kah6wfZXi8P+==","\194Rf$S2k(%]e3@:]Y","mH8f1Lae=";"mC4L71L475kiebof9";"\194[9AV!16l[";"muriCYEe=","mJg5dur0N8M==","\194U4`";"mZ+ZkmpTB";"mou7xLCtOGM==";"mOZNdWnn=","mhFu5wNbmG4I7dzPxnTpEfNibt+==","mwTo=";"mVdXrgn==";"\194+/OQl?OmV","\194Cd7kj\"a";"m2xJM","\194DQfcF\\PQ9e>>0MRL<Mf_,_eN&4`Y[r$l5_NQetZ.B+M^k$\'R?";"\194fA9S196\'D&DmS";"mVOS39CK=","\1944SNM$1X\"_b;,W\\<fmM;J]:BYFAJU2`QJ\\VU$*)%k\"]l)>ENR67AYN^OSUdc#UXbn0","\194D)66\'t]uq>HL6t37[.lF3OfKRks\"3t2mC(2pc.X\'LKSC.3J\'.S^S\\tcE34%F.?.frgAd";"\194cX$.u@Zr&";"mLVLf";"mc1JmEg4a","\194O\\`5hY_","\194Qh8[=$/cT","\194Gk=g\'L\"9";"\194\"0W(@;?=WU\'g(0m9f4D&oQ_O";"\194r\\icK1Wk";"\194I^>X=52J";"\194\'\\%dNB\\],";"miNaBuxE=";"mLwEbaTEnwVfAfYwD6CK=","mWMJxtOp6";"mNeyACvVn8NPG4OuXAZ/=";"mpudeAFt6+izsVYng","m22VgC2/=";"m10ZfSKDb";"\194Uu!dj$R,7T$Q_[j7[]";"mYlIz","mf0g8Vqe=";"\194\'fof`8r";"mNvOuImveatxHhacnfe4ft+==";"mfgJI";"\194^!=IbO\\.";"mtps5So==";"\194E,4K#+#Lh/df:Or;3\\(r","mU0xuXkIw06TdmuKr5fhH0V71IddwoINBI1uRsSQzurL2QOWCWi3etKx=";"\194bJfp","\194h*k^P@f";"\1946,MR4sP89e","\194#gYJNMI^6","\194L+:Xf6$","maxH9qLO=";"mHTw0mQE=","mP86lL0D0cwLp/WI0tomC+rfI7oV/z+==","\1948fZV<=8q","\194&8)*6ggk=2X`-A<b*j2+H7k8E($W,jA1rkf.ZrX#?8JCdi2:H=d53.Dg4\"_^?5","\194W0a1/utsTsWlr,#PS3\'DrS(_";"mUay7vtaKHkvaW7ZWG7RkfO8N4M7p6ao=","\194i^&HPE+7_";"\194k9Gg!2/+";"\194A%P$!VtfID","mz76+FAO=","\194]X<^&!9DVO9e[\\objLq$ED&(^!B9\"_f*Uq)6\\J#jWV\\,_E[tuIEi.!C!,3j[L_";"\194#c*WZ^WF43[Q";"\194#qXe(mT[","mtStEYUGfBfqb21/X0o==","\194/kI;M!,.","\194iuouNA\'";"mtC3TIMs/VCNhWcyjV9CNbKn=";"mJMg7wPwidn==","m/nsn9CCrsOb=";"\194<b`FPWXj`N","mBjhX";"mxKotZyi=";"miMbB","\194WW\"X";"mZN51HHsZ";"\194u16Oq80QE","\194)6(<8E\":EgI2/E8_dOY,;d0I","\194ui.hOgLRu";"\194#H,bE","m1EdRTzsH";"m20jsZhjcYYbuI+==","\194`*uA:c-K";"\194u@g[62Kn","\194)GAN3WD*!icfM;=Q9\"q\\Bu)f+r<UB17T&@K/JlPAsV!lQ4%!,SEsL^%f30","\194Vm0%_@>)";"\194umb\'P<rM5\\RLP","maebYVx/kkUM=";"\194s:","mMsRyOIEXjb7K","\1948YJA:s>s42pKm","mfac4UpG9","\194A[;+Dsp!";"m7tu6osBpXM==","\194+Vo[`p6","mdM==";"mffe=";"\194MdF9:^^","\1940_N\')","mjBXhUhE=";"\1947m.Zn0oN7!bLp=Mb3pjXnj2a*p0+t]W.","mysj/Mhrg0gmH/M==";"\194kp.\\BeJc:<&AEOaVAE8ktA1!a>u451n(R%S#[-=9#,o)X_;ppS6,Vr9ShPT","ms/s7CVc5wM==";"\194cNJ\"r$Oum-gA","moLDra7i=";"meo7nYG6AslVP9YwIS8b=";"\194tp2^,OE1";"\194Dhi#","\194_Q=\'4.kS1J";"\194%+s\\/";"mDoUC/4PC+x5K0ljiPRRTvxdUtXKD6RkmN9tcLUS6uDdyjI+CpM==","myRNZK0TLvo==","m/lmE9xPl0Lj2czM2QFtniXFyx+==","mrZ2c2r/=";"\194CX\"0[B_F","muOJmuJO=","\194LHT):4_V\\n:%Mig22Ve_LCLt","\194,!]WJ`2>7Q&]`:6Q_1D?Qp","\194.SXP","m4J13VgBQO0bPq3bvlo==";"mN3Sc";"mvezIIwN98Mb=";"mLeOFFAdf";"\1941:=FmJG";"\194*#p.PYLjK#","\194X0671","\1942k__/)0:=n","mROqd0bKYoeMbS3Ts0o1n3VHXOM==","mrxBWbn==","mnUQLWcrlksYk47o=";"\194\"i91gkQ","m+dmp3oGB","\194%9]S<Ak9(gq$X&gru\\\"^F(Vlu","m9Ak7zK6Npn==","mt9lJtIJreAsQHFqBfy/631+z0j0upBa1SGKKXpqnLEhU1cJGFlPnfGqQVmP2/Ix=";"m1QI8xtb7","\194R`pkYHci","\1945g1H782\'s%g<";"m03tBWvAcXaYmKfNoucJkeM==","\194[Xj8mH;!k-2dNH","\194geh47MdsuIM\"k","\194\\\"_n`7n`&J";"\194QY1`l<G\'b7(=O";"ma4rq7Z8=";"mvck+a58=","mqFHtNEKzlGPhr4KRPM==";"\194?Z)gs)A","\194,bfUV*GZnq","\194W$e\\3-]ta","\194o+qb(eW","\194U6T>,jLHu\'N%C","mHHOAO6Klxyi=";"\194R9Y&kj)^6Y";"\194:@)[J!%","\194BSEKZuN\'>t","\1948TS1[Me;PZ";"m5J9QJUe=","\194R,(3FFm";"\194#1c*@fT";"mnOBZwob=","m52jnjZPinjjM+mLXIBbk/eGGAeS=","mdlIwr7m0c7twv+==","mYnkQszx=","mgkYgvTzljxO8Yn==","\194&mBJI,]t^e?[K%";"\194sC++c^P4";"\194p&\'8!A2j";"mONJ+Soe=";"mmtLOIQHlyJE+xAf/rjBSK16mN3MI5EJ7hqzco4x/lK51yqaoM168zQJkyzq6+M==","mT7gXiL14";"mEGTCXLcY";"\194-=MP&&V>Fb";"mpACTZRDW";"mzTnU9LpM","mShM8ZN88";"mAQQJEN3YJzlWkHcOOGhb1GEYln==","\194eKtJ$Y+lh=d1IfC","mRoT5VHlakldyoQ92cSxKJ2J+pKWJCPDbwohMXBwXP1B4XojdMtZQ2I5WtjCmEeLpn30CY57TAqN3oM==","\194(<-4m\"q";"\19413o*HJi/";"mstVCcsPf160uX68=","\194St*","\194?1M\"u,-","m9MHW68EtMNYA","m9YSgXgo=","mHWOPBqfZ1r0kePGnAHQmXM==","\194I`-_Q\"5";"m0mpt4g8=";"\194!;EHc4G&7VAfhe";"\194YA[lok<","mMV6PcRO=";"mX3HpWK7EWlOm8mEeC+vZ12DWTIsBdHDuh5NlaNjndbP6nPM=";"\194R$Y2+&\'XjP-^P\'\\]eX";"mDUabs1YZc1v71+==","mDi7wy8/=","m4pNhZne5","moSwX";"\194O#V-OEfk$?J[B2g9/sB?!&?8Qd3\\K*(H<uoWr]ps$?OCXRT\'h";"\194Hj@J$YAE\"]N)MEIA\\Z";"\194Fk\\s-&dsSf8^878Rqb1?>h5G";"\194G0%";"mLA7gkVJJ";"\1945atb@GoZX\\)K>O]lL;/$Nr7r(Qs&U!6]\"c?8j:+";"\194[OD$=2.P6,B@[]P","\194b]5G1m@qZgg^0einF]htJ8DJk\'Ri[D`YM";"\194kZ8+P%1V","mtzIEPgZ=","\194_GP0MHGT";"mJZQE8M==","\194Mj`TcTq","myvkA1cXoyQmLoCGTEi3ySzT8uo==";"mFmJ/9JiJXk8tEQc1EnseIW2=";"mQ+9eUQQYK5de9nyqrSM5TlFHuePK8K3BlurX","meCaH3n==";"mLp40K/ar","\194=s_\"6";"mVrXw/n==","mS+mWO/hUd582NJGo";"m5JFB3AUa";"\194R84P3iPuJ\\VMl$/Hh2n9qICmI-B8CqN^nOLHe+1<-bnoptRNV%HLZ`rf<DGs4so^,%&:\\I/&JNd6FJU6p,sZO8$q:%og\'ID`tbKQG7k(H21i`[:^U>?","mWHQZ","\19485\\stYh","mzES7Ibn=";"mTTfjSPb0","\194)ORu[0r";"\1947\',rO0Do<";"\194na<uLFLLB\'/D1f6Tp6;Ph)f(0";"\194AYM41njA(<","mGzuFiKBe0nWAQKpehUkM";"\194J,;U^Es";"m6WSbkACb","\194l\'UGU&l","mrby6gJ2=","\194#iK^B]gU]WhV)4Y\'a(","\194`*UQ<#8G","mIVYOu/Wf0kO=","\194JJ-eIeW","\194W+B(W^:","m8n16M9zABiAQ7M==","\194DA\\5*/8m36","mtAhJk0/HMIAkLcdazt+K5Q0i";"\194PYK]:h-";"\194_&Hi6<p";"\194)*rX$R11K[EC6^QSR8$J:36R","mMWmqNwb941xhXmSSVTY+drOKx+//0029sy+NtNKcwhi=";"mWvRZgHiD","mdHO6gYAs38AMuFVSIKfK+xWzZO+tdHtjT/KzoDPTnGuMB7mKnoiW2CqhktHDArXRv0X40xR6lPi=";"\194TBjJ4=a";"\194M4k@","mvjRA3BradXwCuv6l0DGZbSExDLQiif8=";"\194XQiG3;T]";"mA5H+oJgSAeIU","mFJtZCzLW","m1sp2Mp8=","\194;WGi12`=$","mqirqgKay1EMQB54Z6yfKv7IkKvMQ";"mnj+d7rCV";"mvTAKpsJX","mPiD7rNM=","\194(scG!)gJ","mVn==";"mdJHbVE4IqC/=";"\194FWE?-dV1";"\194k!g\'nb]T","\194?I?:i#5";"\194m65srnp=q@";"mWwyqGpvAOSr6u8tubKLG7mmqoBeDK42pLZiq1Nx=";"\194TFV&O,9j";"muUCssFWS";"mdkD0y3e=";"\194*HF6bJG1H?E\'#Ylr?TG0U^O;";"mmx+=";"\194r%","\194D1FBnb!m";"mDVnx1YMi";"mO4FIPqeQkwv8fBExozW0lEotnkG9JvD0BE4T+9q9jc0VO9o=","\19488e_HF7J","\194X0X7ddpM";"mnIsqS8kLNM==","\194^mS\'fIs9IpWR@8coWVJ;6aj#S";"mX04qcb2=";"\194$\'*Iq3a","ma/dY","mve1Zceb4";"msNGvL6Df+Rn=";"\194`u:=<tUk";"mdZTcF0YP","\194q@B\"R([Ga","\194D,1CG$XGPdR:L";"mhf89zNywxjGD7Q2/p0U9H1J2V+==";"m9Te3hOe=";"ms6/ip1N4","m2XAQzk7nXvHuZKfyLdtIkc5/mX4ZLJGP0SNWHFS3yGNcMFS2olERXBhKdS+A63OYZih8eo==","mLn==","mz/nAf6Z=";"mWNpJ";"mGl8nh2Pj";"mugFYDU52/JuER6/d9KkTrM==";"mIDfsmGPB2n==";"\194P;ocqg6PP8","\194&eVr&2LIJKqBQ","\194t1)SsOsH";"\194DgIgE!PHr-oPS@^i2O.\'LYTZf%U-gF\'!q*^D0bYZF2h_g`J`C@L\\7otYTZgV`!YXs<5&Dhc#iGG\\bWP=)m?eJdd)2!0koLW]+fq5+0[],@WK-;:sj=ppE]M9`8H0qq.YQSqJssc:5bP.-(sD2\\i";"\194e,8=0Uo#V"}for Z,s in ipairs({{299233+-299232;800016+-799202};{((113430358425-(-694358))%484758175)%5301077;(1577913757-368673)%7695339};{276800-1671061490%(10924150-40258241%13258833),331062128%1303391}})do while s[-1010727-((286157+-1015851)+-281034)]<s[895144+-895142]do Lt[s[-797285-(-797286)]],Lt[s[544612-544610]],s[58739-58738],s[((-177885+((420295+-1016906)-(-783962)))-545231)+205800855%9774528]=Lt[s[-146887+146889]],Lt[s[635173447%10244733]],s[(582140+(828791568-323707))%3454375]+(-100052+100053),s[1430419330%13754032]-(-424019+424020)end end local function ht(Z)return Lt[Z+(569795441%9490364+(-387729+72655))]end do local Z={l=1146795410%7078984;["/"]=290347+-290339;["5"]=(847817-(-31254))+-879013,W=-4621-(-4670);m=-679344-(-679398),t=803902217%6589362;Q=323384-323371,v=(13320637484%54217108)%2202706,w=689589+-689574,["8"]=1635326120%10902174;["+"]=(-1014376+209378)-(-805014);["0"]=-111099+111104,p=(846438780-(-103487))%12634959;n=-384273-(-384273);g=-1014334+1014381;S=(344379+(1188367800-491631))%5501021;P=906272-906255;j=(2380790863-(-498740))%11906448,s=(327904-(45162+-381068))+-663787;M=246244+-246212;C=654055+-654010,["1"]=-561981-(-562010);O=873592970%5020649,A=-478277-(-200627-277701);a=(-88276-729010)-(-1593557-(-776240));N=624310+-624292,u=-49778+49812,["2"]=(3774500762-630424)%16127651,D=101754624%1666509+-97534;T=-302872-(-302893);q=923426005%6368455,R=113840+-113831,E=((874617-(-167938))+845676989)%9203473;d=-575347-(-575406),c=-139977+140002;y=2156609793%11657350;X=(-299228-(-420433))-121178;["6"]=370783-370777,H=(356861-168728)-188091,V=-277003-(-277064),K=466864116%8978155;k=(290471-590917)-(-300456),o=193291-193243;i=((-15471+(-414065-912212))-(-523026))+818762,z=2647182067%10463170;L=418890-418835,Y=-200513-(-200550),J=133848+(-979526+845717),["4"]=694423556%3354703;b=558212508%11629426,e=1039794+(-10678-1029080);x=(-792110+689915801)%3462933,r=1473142123%7593516;I=-444562+444573;f=-389515+389548,["3"]=430376256%(648605665%10834740);F=25818981%117359;["9"]=1170648826%8361777;B=286463-286401,h=292546161%5736198;Z=-530519-(-530571),U=(313518-833540)-(-520029);G=2007465933%(-625471+11476638);["7"]=1980790155%(2844470905%17183896)}local s=table.insert local q=string.char local F=Lt local m=string.len local P=string.sub local x=math.floor local G={["-"]=-62860+62932;a=1026075+((-428232-(295235-419203))-721727),["5"]=-361093-(-361150),["7"]=1108+(881995+-883025),["8"]=(729068+-542438)+-186607,["?"]=(139836+-194931)+(-593640+648761),B=(951100+254976948)%10663667;Y=16041047%411307;["="]=(914975-1020169)+(824818-719589),R=346454-346389;n=3831441%(499126+(-519887+1936442)),["3"]=133140542%(1720275-(-360045));["\\"]=-640929+640936;["/"]=100945910%16813334-65863,W=(((622244+-935959)-(-991468))-756731)+(-100812+179814),["\'"]=(-1819751-(-1041095))+778668,k=-370502+370560;m=-789071-(-789076);["+"]=1128280055%((-573304+(7189666-(532401+-797743)))-(-793670));Q=856031-855962;J=-189935+189987,g=-291820+759181307%(-528127+9352423),T=-65337-(-65345),l=802161557%15426183;t=931827+-931816;H=1804810747%9971330;["("]=-188138+188170;E=-544627-(-622803-(783130-861285));["$"]=-552655-(-552708);L=35494-((-447821+1292364)+-809087),["."]=(-550936-(-72652))+478320;[":"]=774710-774683,p=611297+(-56059-447757165%9937822);["]"]=764644+-764641;I=-873728+873743;d=(27068600%13349641+-1096760)-(-727475);[";"]=344919133%6507908,o=-840439-(-840467),P=383367065%(2316339633%(-339032+3815941886%31149085)),A=-516906-(-516920),["&"]=-674797-(-674873);X=-91396-(-91466),K=(-857895+(1138541-(-30855)))-311418;b=488577-488527;q=-894445-(-894475),["4"]=(44439327790%1388891393)%9608990;["*"]=-980485+980549;f=(813720+-301338)-512331;s=(1435054-890703)+-544333,["!"]=343378396%1796877+-174850;M=-773417-(-773485);j=-584289-(-584326);h=335448+(261248-587724166%(-635964+3418559)),["%"]=123557265%6864290,_=197383809%5334697,["9"]=772637-772583;C=-813890-(-813951),["0"]=226398-((-928233+847044)-(-307528)),["6"]=(-642484+599189892)%2948509,["<"]=-482785-(-482827),D=(((-1373123-(-651503))-54721)+(542960+455981))+-222598;["^"]=(541798005-485100)%(2387701-(-1238720-(-568156)));U=-668423+259129236%4307680;[")"]=97385-97318;i=(-536606-(-154698))-(-381914);u=((57023-768475)-(-464964-157599))-(697881+-786826),["@"]=824653981%3246669,["1"]=-187932+2678425588%15131286;G=1044351732%10041843;c=48154+(482648-4626956%2048079),["#"]=653079-653008;[">"]=-7834+(-293935-(-301815));Z=((429686+249673)+-1282151)+602874,["\""]=2183668448%(2666651003%(10790034-(-55164)));["["]=24881062%138228,V=55075258%1668945;r=2629291911%14367715;e=(217353551862%928865506)%6723833,["2"]=-925305-(-925385);O=((385310+-845678)+(179599-(-240526+-297925)))+-257633,N=581454+-581453,["`"]=539292-539267,F=(480245-((871950750%7847416+-1179434)+706218))+-65871,S=-497799-(-497818);[","]=((-477344-227398)-(863021-(768646+-192041)))+991206}local p=type local A=table.concat for D=2979778836%(13946358-(-310957)),#F,539413+((987650+(995860+-3323137))-(-800215))do local M=F[D]if p(M)=="string"then local p=P(M,77084-3027081643%12612519,-765409+765410)if p=="m"then M=P(M,322256432%(-413199+11155080))local G=m(M)local p={}local X=-728969-(-728970)local b=129014784%2687808 local w=882012-882012 while X<=G do local F=P(M,X,X)local m=Z[F]if m then b=b+m*((-270518+270582)^(((((1252481491-(-436193))-826614)%9067809+-733425)-w)))w=w+1052617821%(466942124%21810554)if w==-894968-(-894972)then w=-58513-(-58513)local Z=x(b/((-565364+(-327809+831871))-(-126838)))local F=x((b%(123699-(1062075-1003912)))/(671409+-671153))local m=b%(-29802+30058)s(p,q(Z,F,m))b=413618-413618 end elseif F=="="then s(p,q(x(b/(740438+(-414547+-260355)))))if X>=G or P(M,X+(879519+-879518),X+(193855+(727957-921811)))~="="then s(p,q(x((b%(-1018603+1084139))/(656805+(-968263-(-311714))))))end break end X=X+(-830989+830990)end F[D]=A(p)elseif p=="\194"then M=P(M,401196-401194)local Z=m(M)local p={}local X=68187+(699199-(1027040+(-172866-86789)))while X<=Z do local F=(Z-X)+(520764-124676171%9550416)local m=F>=(-436000-292862)-(-448365-280502)and 1486622450%11524205 or F local A=-89560-(-89560)local D=m>24482+-24481 for Z=170950-170950,(1118070805-(872450+-1429630))%4584001-76468322%803543,(898724+1148901602)%6115454+(-1070574-(-1860326-(-884725)))do local s if Z<m then local q=P(M,X+Z,X+Z)s=G[q]if not s then D=false break end else s=521443509%6952579 end A=A*(818159+-818074)+s end if D then local Z=x(A/(-816684+(17330377-(-263523))))%(-653338-(-653594))local F=x(A/(420321-354785))%(1103917434%12262776-267338)local P=x(A/(755947-755691))%(111366+(-31306-79804))local G=A%(1821064743%(3598956772%31143082)-(1048137003-62789)%12320627)if m==((1816529160%15517979-2157936546%10730983)+-285234)-(-368585)then s(p,q(Z,F,P,G))elseif m==325813-325809 then s(p,q(Z,F,P))elseif m==1781402547%16494468 then s(p,q(Z,F))elseif m==-394246+394248 then s(p,q(Z))end end X=X+m end F[D]=A(p)end end end end local nt,St do local Z=-63673-(-63673)local s=math[ht(-293919-(-392157+155970))]local q=table[ht(-537772+479701)]local F={}local m={}local P=string[ht(557131-614936)]local x=-597035+597037 local G=math[ht(5876+-64292)]for Z=-785988+785989,(-214337+-663741)-(-878334),-209534-(-209535)do m[Z]=Z end repeat local Z=s(1029205-1029204,#m)local x=q(m,Z)F[x]=P(x-(639981-639980))until#m==2649883992%((-475381+-57782)+11761485)local p={}local function A()if#p==819775-819775 then Z=((Z*(293859+-293714)+(108239+(9384461176353-910933))))%((35184372615531-324252)-(-622677-(-825124)))repeat x=(x*((994415+-1609919)+615606))%((873629-735520)+-137852)until x~=1041716+-1041715 local s=x%(59047-59015)local q=(52203895737%1186575848)%6561857-((x-s))/(425657+(-1395101-(-969476)))local F=(G(Z/(-952124-(-952126))^q)%(4295803211-835915))/(((108212550-(-62280))-724198)%11950070)^s local m=G((F%(675070+((-587832+695436)+-782673)))*(4295439598-(272865+199437)))+G(F)local P=m%(483044+-417508)local A=((m-P))/(-110856-(-176392))p={P%(161392680%1068824);((P-P%((-366268-(755677+-529626))+1975254444%9270713)))/((-394041+1069640)+(-382518+-292825)),A%(436137976%2565516);((A-A%(996854-996598)))/(1042680+-1042424)}end local s=#p local q=p[s]p[s]=nil return q end local D={}nt=setmetatable({},{[ht(222061+((-1637862-(-392013))-(-965834)))]=D;[ht((202504+-707138)-(-446573))]=nil})function St(s,q)local m=D if(m[q])then return q else p={}local P=F Z=q%(35184372508564-(736021+(707263+-1023552)))x=q%(-551761+3403702%(3798222394%16297304))+1451716494%8110148 local G=#s m[q]=ht(-1035834-(-977551))local D=-10424+(892940+-882356)local M=ht(295456-(84581+269158))for Z=966636+-966635,G,380096+-380095 do D=(((string[ht((-878492+622814)-(-197203))](s,Z)+A())+D))%(-128167+128423)M=M..P[D+199088611%948041]end m[q]=M end return q end end local Z=require(nt[St(ht((398800217%6206584-703987)-932990),911599+(526082+(32187934870056-(-423211))))])local s=require(nt[St(ht(-1012305+954139),(-552144-110533)+15273634245802)])local q=require(nt[St(ht(80563158%449141+-224741),-639748+(12316729363125-657423))])local F=require(nt[St(ht(-681580+623378),133674+30223330582578)])local m=require(nt[St(ht(((223865+-1184380)+1634362)+-731723),15571902087803-626778)])local P=require(nt[St(ht((-354187-(-239309))+832911742%3652873),402841+34710636806735)])local x=require(nt[St(ht(-483103+424582),852253718707-691929)])local G={}local function p(Z)local s,q=pcall(Z)if s then return q end return nil end local A=3186243148%((1037556-380262)+14025854)local D=.8 local function M(Z)local s={}for q=-394230+394231,A,2491882585%(2584782212%14628708)do local F=p(function()return Z(q)end)if type(F)~=nt[St(ht(((-162609+-744996)-(-277194))-(-572252)),(7000344913782-(-559323+-428471))-148997)]or F==nt[St(ht(629602-687885),905+2393248364365)]then break end s[q]=F end return s end local function X(Z,s)local q=373905-373905 for Z in pairs(Z)do q=q+(765228-765227)end if q==1055606256%9774132 then return nil end if q==-421316-(-421317)then return(220946538-(-690040))%((2769-(658908+-1589439))+6216267)end if type(s)~=nt[St(ht(820494+(-19662-859160)),-233076+7598269507637)]or s==nt[St(ht((700833+(-1556145-(-205515)))-(-591514)),21216+26776396785565)]then return nil end for Z,q in pairs(Z)do if q==s then return Z end end local F=s:lower()for Z,s in pairs(Z)do if s:lower()==F then return Z end end return nil end local b={}local function w(Z,s,...)if b[Z]then return end b[Z]=true core[nt[St(ht(962331-1020784),89592+33816772265615)]](string[nt[St(ht((-281116+519163)+-296020),(-1175776-(-564403))+11338502318807)]](nt[St(ht(-168005-(-109955)),4508103278005-(-981485))]..s,...))end local function e()return q[nt[St(ht(-956314+898430),14686750251121-(988138+-1811641))]]()end local function S()if Z[nt[St(ht(395010+-452788),((176033+(-765936+90285297491070))%30095104226849)%10031697083361)]]and type(Z[nt[St(ht(-210238-(-152000)),379071+22837499801735)]][nt[St(ht(689835+-748351),24510158980752-534362)]])==nt[St(ht(-441775+383642),18324909911899-(-763667))]then pcall(function()Z[nt[St(ht(289961+-347846),17715350846306-(-214449))]][nt[St(ht(((-168476+1194068)+-1185293)+101649),-716251+176902523742)]]()end)end pcall(function()core[nt[St(ht(438048+-496379),8005991823197-(-154020))]][nt[St(ht(-377213+318968),797302+12839489471963)]]()end)end function G.name_of(Z,s)if not Z or not s then return nil end local q=P[nt[St(ht(-19327+(312565+-351748)),2525977673061-(-104748))]](Z,s,145989-145909)if not q then return nil end local F=p(function()return q:get_name()end)if type(F)==nt[St(ht(-553786+(((-820052+474530373%1908739)-(627944-243857))-(-536714))),((14507665075004-770079)-(-791696))-(-30038))]and F~=nt[St(ht(499860-558143),427303+19624591843884)]then return F end return nil end local function n(Z,...)if F[nt[St(ht(-1042528+984610),862597+11994653460701)]](nt[St(ht(842886-900638),287289+25315167986445)])~=true then return end local s=select(nt[St(ht(1039668+((-230362+(-908580+390489))+-349184)),32317234223395-(-653249))],...)>2855815210%(69311272%18171434)and string[nt[St(ht(283237+-341226),859605+24961622984039)]](Z,...)or tostring(Z)core[nt[St(ht(978184-1036614),206947+13093741730669)]](nt[St(ht(298246-356708),361511+6291622081681)]..s)local q,m=pcall(require,nt[St(ht(22132-80640),24629805306687-(-1025404))])if q and(m and type(m[nt[St(ht(-504939+446677),8001153575373-715631)]])==nt[St(ht(-89077+30785),476110+((396153+-906240)+3919345911595))])then m[nt[St(ht(-226847-(-168911)),11647879725620-(-1029526))]](nt[St(ht(((916168+-1765828)+340204)-(166590+(-748267+130198))),905932922404-679479)],nt[St(ht((-781435+1729631)-1006166),509362+7318499344981)],s)end end function G.find(Z,s,q,F,m)m=m or 470443329%16222181 if s then local q=P[nt[St(ht(987680-1045465),-707883+15974556149553)]](Z,s,m)if q then return q,nt[St(ht(-530873-(-472832)),(-434417-534004)+31030509666665)]end end if type(q)==nt[St(ht(149808+-207772),(-120523-(-521451))+((1625733-853272)+8166390845133))]or type(F)==nt[St(ht(-670060+907101074%(2483651942%22693393)),8145508628210-(-813894))]then local s=P[nt[St(ht(901650+-959938),6900211161139-(-667062+196305))]](Z,q,F,m)if s then return s,nt[St(ht(-347542+289509),-1035358+11369614248375)]end end return nil,nil end function G.talk(s,q,F,m,P)if not G[nt[St(ht((-912069+409936)+444193),436675+22491031583120)]](s,q,F,m,P)then return false end local p=Z[nt[St(ht(((-1574269-(-811579))-(-192180))-(-512078)),638754+(33860791257308-(-155654)))]]()if p<((x[nt[St(ht((278508+-748002)+411057),804842+29353973137667)]][nt[St(ht(((-189907+-322614)+(-945430+1550339))+-150686),4704336349882-(102967-259386))]]or 411488+(-576138-(-164650))))then return true end local A,M=G[nt[St(ht(-1032015+973629),22449977529881-(-713171))]](s,q,m,P,1798985450%(2794360304%12877363))if not A then n(nt[St(ht((877318+-1042371)+(113723-6522)),629936+15731768833583)],tostring(q),tostring(m),tostring(P))return true end n(nt[St(ht((325586-932379)+549045),28207128545766-(-937645))],tostring(M))x[nt[St(ht(222800-281254),1490507152078-(-737718))]][nt[St(ht(978645+-1036513),(-81325-676778)+11268680127564)]]=p+D pcall(function()(require(nt[St(ht(964100+-1022446),(516318193571-(-539340))-(-93378))]))[nt[St(ht((-868174+1863473)+(590322+-1643336)),(24822068252773-712888)-((731678+(-441135-650234))+1824006412%17870980))]](A)end)return true end function G.at_npc(Z,s,q,F,P)local x=G[nt[St(ht(1744532939%7178089-(-582283+897623)),269170+25104668054903)]](Z,s,F,P,144693830%1929250)if x then local s=p(function()return Z:distance_to(x)end)or 383980097%(175621+4138761)if s>-100771+100773.5 then local Z=p(function()return x:get_position()end)if Z then m[nt[St(ht(-937942-(-783302-96571)),2830205633496-(-481951))]](Z,true,nt[St(ht(-607873+549566),28367154147689-262898)])elseif q then m[nt[St(ht(-934446+876319),-499942+10659956459334)]](q)end return false end m[nt[St(ht(330545+-388635),855602+19111465504490)]]()return true end if q then if not m[nt[St(ht(222041-280311),16132825948664-(-547525))]](q,694495-(198415-(-496076)))then m[nt[St(ht(-970080-(-912113)),(-166914-(-551579+-150587))+12635772984336)]](q)end end return false end local function L(s,q,F)if F and((p(function()return F:is_valid()end)~=true or((p(function()return s:distance_to(F)end)or 673637-673538))>1443148370%8489108))then F=nil end F=F or P[nt[St(ht(121668013%3918953-238570),-720309+4869663848347)]](s,q,(-954159+485064)-(-469105))if not F then return false end local m,G=pcall(function()return(require(nt[St(ht(-698861-(-641090)),((34896093454702-910724)-396031)-939204)]))[nt[St(ht(818792-877265),(-1960018-(-972606))+6546414426647)]](F)end)if not m or G~=true then return false end x[nt[St(ht(411528500%(4138356282%18456098)+-934549),(30618795591951-(-1035593))-311326)]][nt[St(ht(-358800-(-300498)),33015563618189-72466)]]=Z[nt[St(ht(149387-207610),-576547+40358336892766%(242324+13452782172931))]]()+D return true end local h,k=pcall(require,nt[St(ht(138047-196364),-166552+32324272850236)])if not h or type(k)~=nt[St(ht(375573-433505),(238967+(-60308+29926681363817))-(-560614))]then k=nil end local B,H=pcall(require,nt[St(ht(534226+-592548),-335129+(2550773643410-367434))])if not B or type(H)~=nt[St(ht(-867127-(-809377)),957004+15718807529001)]then H=nil end local function z(Z,...)n(Z,...)if H and type(H[nt[St(ht(-1001769-(-944038)),(648446+(521542+26597631420637))-677531)]])==nt[St(ht(-282413+224319),12188886779052-(-524894))]then H[nt[St(ht(449753+-507837),4632389325823-(192447-(-587768+1084739)))]](nt[St(ht(1033837+-1091594),((-334975-(794967+-407302))-(-553262))+20523597727815)],Z,...)end end local function o()return k~=nil and(type(k[nt[St(ht(435133592%14469783+-1098036),(1200419-992806)+21987465732364)]])==nt[St(ht((-692350+1115305)+-480969),32773307014699-(-675245))]and k[nt[St(ht(-820715+762443),694677+7099436587671)]]()==true)end local function d(Z,s)return k~=nil and(type(k[nt[St(ht(368351957%7214968-(77865+368806)),1027242+18428701113062)]])==nt[St(ht(-773547-(-715430)),-183920+14372366622758)]and k[nt[St(ht(1038517+-1096314),5515634291927-(386255-(-571612)))]](Z,s)==true)end local function a(Z)if k~=nil and type(k[nt[St(ht(867357+(-271898+(983372+-1636855))),14437716886053-371112)]])==nt[St(ht(362342-420715),19507201465164-113621)]then return k[nt[St(ht(-1049107-(-990673)),-490123+(23195725870548-(-148633)))]](Z)end return nil end local function f()return s[nt[St(ht(13909-((-173083+1268147103%5684708)-211866)),9366134726494-412203)]]()end function G.gossip_ids_are_rows()local Z,s=pcall(require,nt[St(ht((-395102+775905)+-438639),713529+7063767154194)])if not Z or type(s)~=nt[St(ht(-529308-(-470950)),1024295+8478818069509)]then return false end local q=s[nt[St(ht((-391575-527682)+861436),501826+20660703289626)]]()if type(q)==nt[St(ht(-840500+782623),(-538792-(167503-267853))+35007828485)]and q:find(nt[St(ht(-279279-(-220838)),27430992846644-1239991156%12274598)],161105651%1083335-((-1011347+232826)+1550591),true)then return true end return s[nt[St(ht(748876-807196),8.1465633808478e+14%4476133731840-693885)]]()end function G.open_panel()if type(core[nt[St(ht(-747133+689178),16799124164504-(-326413))]][nt[St(ht(750247-808218),-997221+(344769+4115527502032))]])~=nt[St(ht((445757-(612032+-944767))-836226),(27557926009019-(-646355))-(-954530))]then return nil end local Z=p(function()return core[nt[St(ht(-411913+354134),13759802967648-421446)]][nt[St(ht(-1032578+974449),11921199760043-720673)]]()end)if type(Z)~=nt[St(ht(947024+-1005537),21597534925547-991216)]then return nil end return{[nt[St(ht(-1043775-(995545+-1981202)),22170139733359-127994)]]=Z[nt[St(ht(-318624-(-260677)),90580+(25961327819085-202685))]]or nt[St(ht(838383-896666),-380420+(16120098061647-(-396558)))];[nt[St(ht(3518-61863),253045+25709175699191)]]=tonumber(Z[nt[St(ht(355614+-413787),-684592+28955133924493)]])or-412686+412686}end local function K(Z,s,q)if type(Z)~=nt[St(ht(429812+-487692),-735290+34548749243271)]or not s then return false end if Z[nt[St(ht(328038-385798),27118117830509-39)]]==s then return true end if Z[nt[St(ht(1009782+-1067965),14734853156927-(-9110))]]==287651-287651 and(type(q)==nt[St(ht(288058-346471),(-377669+(-962399+1670183819)%(15692309-791254))+711262629783)]and(q~=nt[St(ht(-998881+940598),691330+(20982579280253-(-153839)))]and type(Z[nt[St(ht(78073+-136006),10204482755696-(-41957))]])==nt[St(ht(420857+(-1167326-(-688184))),(1221333-(-486103-(-982190)))+((30962547099829-(-689316+1347430))-(-193381)))]))then return string[nt[St(ht(-201510-(-143200)),17268114157711-34602)]](Z[nt[St(ht(673341+-731830),33755912385965-(-225141))]])==string[nt[St(ht(602599-660587),(20410907421302-(257904423%2205790-(1444079-437701)))-683999)]](q)end return false end G[nt[St(ht(-237762-(-179418)),-523815+1377939381201)]]=K function G.quest_ready(Z)if type(core[nt[St(ht(315275+-373266),(8965173920086-(-873465))-(-461607))]][nt[St(ht(-177976-(-119852)),-357717+19787652231401)]])~=nt[St(ht(-393314+335454),14986689071577-721569)]then return nil end local s=p(function()return core[nt[St(ht((1153629-(1040266-117286))+-288555),(396234-717768)+29507457180599)]][nt[St(ht(900470609%9088112+-805451),311701+30687381358151)]](Z)end)if type(s)==nt[St(ht(-883055+824686),34397613559309-434170)]then return s end return nil end function G.in_log(Z,s)Z=tonumber(Z)local q=p(function()return core[nt[St(ht((-523520+(499556+-647503))+613186),-443258+3094493569803)]][nt[St(ht(392115-450478),(56743+(-961796+(-867398+2287132)))+(-290898+((7957650241280-(-906551))-(-838694))))]](Z)end)if q==true then return true,nt[St(ht(3899811618%(16709181-857048)-((401892-(-484517))+957699263)%(7226071-1674737278%(-418980+1792617377%16174737))),(-241993+1216583)+(-77922+12077495949385))]end local F=q~=nil if type(core[nt[St(ht(-910468+852186),(1014209+1417302275203)-269847)]][nt[St(ht(-21953+-36233),5.5908215519879e+14%6011636224513)]])==nt[St(ht(851613+-909700),165737+30139331611632)]then local s=p(function()return core[nt[St(ht(227057+-285236),32247641784300-(-1569696-(-608979)))]][nt[St(ht(182171-240480),26994085968940-560961)]]()end)if type(s)==nt[St(ht(-759705+701959),(-156417+769031)+5864712029202)]then F=true for q=-599528+599529,#s,563963-563962 do if tonumber(s[q])==Z then return true,nt[St(ht((504571+-1559660)-(-911215-85537)),((-942388+9481208603447)-(-732677))-(-931789))]end end end end local m=type(s)==nt[St(ht(644054+-702307),-346308+(31213582961159-(-971684)))]and(s~=nt[St(ht(-174122+115839),1628515302490-(-393903))]and string[nt[St(ht(982607+-1040670),3.6047279977438e+14%4743063294765)]](s))or nil local P=tonumber(p(function()return core[nt[St(ht(671016+-729083),(((-1075624-(-714509))-24947624%1892295)+(602473+24441885351580))-(-192467))]][nt[St(ht(816797+-874584),(371077+141011)+18733024585468)]]()end))or((1016385669%11810706-(-732508))-368224)+-1029237 for s=544520+-544519,math[nt[St(ht(234388-(742810+(-879593+(1315261-886301)))),14811856486086-638235)]](P,992905+-992825),457193-457192 do local q=p(function()return core[nt[St(ht(290168-347886),12544654714479-(-967649))]][nt[St(ht(-440582-(-382584)),-403319+11487021518037)]](s)end)if type(q)==nt[St(ht((225929-(-1025881+((1586786-1009827)-(-14650))))-718213),1017059+16137439134950)]and q[nt[St(ht(159545-217860),5500704405399-(-233002))]]~=true then F=true if Z and tonumber(q[nt[St(ht(-260909+202754),33718+7070181363424)]])==Z then return true,nt[St(ht(710044+(748475+-1516831)),-558785+24627615574975)]end if m and(type(q[nt[St(ht(-358896-(-300436)),(28895574888784-(-496726))-(-298448))]])==nt[St(ht((49196-970041)+862822),-332473+7736647080452)]and string[nt[St(ht(1238-59189),32191732730754-143366)]](q[nt[St(ht(890402-948819),2.8656866279243e+14%(27835+10234595550017))]])==m)then return true,nt[St(ht(-367656+(1019147+-709807)),7387529802990-(-769778))]end end end if F then return false end return nil end function G.log_titles()local Z={}local s=tonumber(p(function()return core[nt[St(ht(456605-(671488+611941613)%(335432+2122794)),25861331739951-588026)]][nt[St(ht(-830004-((540932+(-1923283-(389210-(1510237-538785))))-(-27882))),(9262601389002-385980)-(-385584))]]()end))or-314649+314649 for s=279450-1620269058%12180373,math[nt[St(ht(-44411+-13922),769544+7992992577686)]](s,811527+-811447),2891783851%13576450 do local q=p(function()return core[nt[St(ht(-458842-(-400472)),8690101553040-(-68628))]][nt[St(ht(-1004098+946236),17964654145420-((198665-88120)-1376955577%7057355))]](s)end)if type(q)==nt[St(ht((993661+(((-1385967-26911)-(-118995))-(-372959-(-678700))))+547467),-682616+19822364554261)]and(q[nt[St(ht(520220-578479),(-669974+1633538)+14488891834081)]]~=true and type(q[nt[St(ht(669205+-727348),(6796876572852-801501)-(-4365))]])==nt[St(ht(-451770+393943),-722420+19999688369816)])then Z[#Z+(-502286+455702617)%2677649]=string[nt[St(ht(-485457+427245),-56609+1445360521126)]](nt[St(ht(-844396+786176),((647919+-846112)+-502932)+1553473582817)],q[nt[St(ht((823412+-1662662)+780927),30338402227733-(-190104))]],tostring(q[nt[St(ht(-111342-(-106816-(-53973))),16721521984249-(-831674))]]))end end return Z end local function j(Z,s)return(G[nt[St(ht((((760109-988303)+-78839)+-23706)+272959),1569407137564-225179)]](Z,s))end local function r(Z)return p(function()return core[nt[St(ht(401875+-459797),614086+666254147959)]][nt[St(ht(-648052-(-589768)),(-1541521-(-1046031))+27893713762122)]](Z)end)==true end local V=.1 local t=(-1417720-(-1000833))-(-416889)local N=(-261342+233576)-(-27768)local E=573334+-573331 local O=(785583+(-705204+1507434318%11413976))-869864 local W=31823+-31820 local I=-686672+686682 local u={[nt[St(ht(401301-(3040840333-761730)%(11980338-(-426270))),((-1182888-(-554798))-(-923125))+9555736361806)]]=true,[nt[St(ht(802161+-860563),18436702671773-(-193918+126628577)%1152076)]]=true,[nt[St(ht(-772429+714655),32264403583146-(-483347-(-244087)))]]=true}local function g(Z)if not Z then return false end local s=p(function()return Z:get_npc_flags()end)if type(s)~=nt[St(ht(-332147-(-274301)),9480109946799-595593)]then return true end return math[nt[St(ht(532424-296980883%14113823),21550090605855-395418)]](s/(890408+-890406))%((-1670255-(-1004896))+665361)==-943268-(-943269)end local function c()pcall(function()core[nt[St(ht(-723791-(-665293)),(-721189+-309268)+1958760810319)]][nt[St(ht(461569-519392),(284890-924151)+4829952554561)]]()end)pcall(function()core[nt[St(ht(((-891857-(-623048))-(-141969))+68599),35103225874967-571850)]][nt[St(ht(-362930+304546),418759+(186555+33567457691642))]]()end)pcall(function()core[nt[St(ht(-579395-(-521467)),458500+156305858486)]][nt[St(ht(((-1389530-(-798428))+-109119)+642170),12675285003678-211078)]]()end)end local i={[nt[St(ht(28187+-86358),12582143921784-457456)]]=nil;[nt[St(ht(-711257+652891),2598168325503-(1302162-456732))]]=nil;[nt[St(ht(-777006-(-719101)),(-168023+12492398980996)-(-213244+-465944))]]=-1000939455-(-1679059-(-739604));[nt[St(ht(424521+(-380347+-102088)),-372183+10450144209251)]]=275854-275854;[nt[St(ht(358292+-416354),(833356+(-594100+512995))+1639827035093)]]=nil;[nt[St(ht(-905582-(-847595)),-477068+(9538368906450-344105))]]=1224478074%(-772219+11803553),[nt[St(ht(-822526+764141),(-702199+32781037018593)-(-214197))]]=nil,[nt[St(ht(-98321-(-40428)),-592850+25062219079586)]]=284665-284665;[nt[St(ht(1016108+-1074317),22052093157845-108119)]]=nil,[nt[St(ht((-813145+180853)-(175393+((616444-795315)+-570676))),10373497003070-(-599884))]]=false;[nt[St(ht(-100623+2332749871%10367589),470012+18692952588329)]]=nil;[nt[St(ht((-294573+1069969)-833278),-755172+70614839385998%1283906333217)]]=nil,[nt[St(ht(((253185748%1497979+1364299960%(2290486385%23928712))-635977)+-308665),740621+21095577050952)]]=false,[nt[St(ht(-105929-(-48035)),78278771926114%1072311954187)]]=1509216480%8877744;[nt[St(ht((-443587-(-244773))-(-140939)),34744354450450-(-554748))]]=nt[St(ht(((379821-633780)-409981)-((-2205883-(-775091))-((597648-(-14888))+-1437671))),8505201691587-283275)]}local Q={}local function C(Z,s)i[nt[St(ht(848364+-906821),-526622+34882981692372)]],i[nt[St(ht(411398+-469190),13923215031688-(-244915))]],i[nt[St(ht(879765+-938189),11144169612426%67540516623)]],i[nt[St(ht(-396819+338492),7917256007368-(-443788))]],i[nt[St(ht(674181-(233876+((680108+-2573)-178752))),31423196276363-704064)]]=Z,nt[St(ht(-464818+406392),413023+26257215662621)],-811877+-999188123,-43363-(-43363),nil i[nt[St(ht((78414-293718)-(-157067)),3905684850681-(-771939))]],i[nt[St(ht(-920882-(-862914)),12788093136747-(-1002428))]]=492490+(-1310500-(-174798+-643212)),nil i[nt[St(ht(595451-653679),27850647637625%2320888169674)]],i[nt[St(ht(861106+-919089),5709478735472-803648)]],i[nt[St(ht(-2768-55385),(-743188+908471726%8731787)+(-271033+60351465644395%12070293815943))]],i[nt[St(ht(-249223-(-1169978-(-979225))),27197419710424-621857)]],i[nt[St(ht((-694535+515937)-(-120854)),((-163756+539556)-(-556260))+4257479650497)]]=-380754-(-380754),nil,false,nil,nil i[nt[St(ht(-115133+57252),((-241138+(745779+-1098642))+278708)+864872795271)]]=false i[nt[St(ht(-795116+737174),-558167+(469866+34808692602327))]]=833661-(58244-(-775417))i[nt[St(ht(-871648+(401964+(1110833-699630))),6268081090454-(-728630))]]=s or nt[St(ht(-315718-(618603+-876038)),(719856+30267156462027)-227599)]end local R={[nt[St(ht(250726-308587),983565+8062659925473)]]=true;[nt[St(ht(113474-171193),25637722986980-964882)]]=true,[nt[St(ht(428010-(993637-507230)),-625627+(14477691184914-(-293137)))]]=true,[nt[St(ht((-407271+1068393)-719311),(669993+12383508590919)-(-682860))]]=true,[nt[St(ht(-927917-(-870174)),27643287553888-(171683-(-524809)))]]=true;[nt[St(ht(-1015015-(-956639)),-621597+33853375082156)]]=true}local function U(Z,s)if i[nt[St(ht(((739663+-559643)-(-292268))+-530612),-23080+7731349104459)]]~=Z then if R[Z]then i[nt[St(ht(((-547065-(-715952))+34668)+-261761),17125692609193-(580210+-1277298))]]=i[nt[St(ht(-902657+844698),-209216+6075900735465)]]+(-975171+975172)end z(nt[St(ht(1042917+-1101021),691012+(-496491+33201068829747))],i[nt[St(ht(-122977+64932),97881+28333052364482)]]or nt[St(ht(368594-426394),16040982796413-(-385149))],i[nt[St(ht(-1005039+(259148+688081)),17645466109796-(169086-(1314995-(-81216-((616339+-1384156)-135475)))))]],Z)end i[nt[St(ht(1962491652%13439481+(315873-701318)),(30584812745788-(-454728))-(-484160-507598997%11528932))]],i[nt[St(ht(-732132+674285),857496+4596727279934)]]=Z,s end local l={[nt[St(ht(677191+-735184),-752664+13566833590853)]]=nil;[nt[St(ht(-969046-(-910625)),-21447+17951229607944)]]=((-259257+-644759)+-999880281)-(-784297),[nt[St(ht(-710899-(221171-873705)),(497562+11887673127799)-866791)]]=nil,[nt[St(ht(((-988019+414842)+(597738+(44022+(-1479806-(-701724)))))+651330),3.2047119127825e+14%8433452825038-(-411380))]]=nil}function G.quest_log_state(s)if type(s)~=nt[St(ht(2452484346%14860488-561902),24664880864649-((-903422+729345)+-470185))]then return nil end local q=Z[nt[St(ht(-941288+678360794%3985161),(1351811-423357)+29939845678466)]]()if l[nt[St(ht(72201-130718),(-988424+281866)+19903990055397)]]==s and(q-l[nt[St(ht((-50968-(-250780))+(-550803+293144)),1033391+4615746768573)]])<1411474132%16605578 then return l[nt[St(ht(-971073+913318),-201596+23467719142447)]],l[nt[St(ht(-147158-(-88667)),785067+10907700174607)]]end local F,m=G[nt[St(ht(-585087+527079),2193644570252-(-445799))]](s)l[nt[St(ht(-533590-((-769394-91258)-(-384977))),(173324+(167703+-1206947))+9528522593882)]],l[nt[St(ht(192223+-250009),24343408797645-82469)]],l[nt[St(ht(-371970-(-313649)),30602283613939-(-332770))]],l[nt[St(ht(-893501+835333),(24480834255997-139571)-(-703626))]]=s,q,F,m return F,m end function G.quest_log_scan(Z)pcall(function()core[nt[St(ht(-613743-(620879+-1176819)),-74957+6730892687574)]][nt[St(ht(-282241+224375),-467176+27598602122297)]](874840389%15348077)end)local s=p(function()return core[nt[St(ht(-133917+75952),25215008381497-303013949%5047578)]][nt[St(ht(511492-569996),2411028660722-(-104123-(569442+-1210522)))]]()end)or 861359+-861359 for s=-395407+395408,s,(16497-(-309007))-325503 do local q=p(function()return core[nt[St(ht(-794900+736915),24644304902459-291145)]][nt[St(ht(-590213-(-532171)),-509126+30746121729014)]](s)end)if type(q)==nt[St(ht(750273-808410),30341175000314%242729406463)]and(not q[nt[St(ht(-678107+619726),-513014+21887191746818)]]and q[nt[St(ht(249298-307304),419615+32972318224773)]]==Z)then if q[nt[St(ht(512347-570742),822890+23084479874339)]]==-32280+32279 then return nt[St(ht(1043674+-1102114),100561+13117589938572)],s end if q[nt[St(ht(706354+-764747),737707+15747193666407)]]==-46612+46613 then return nt[St(ht(475372+-533800),78291472997603%(-358714+320867059798))],s end return nt[St(ht(((337278+-942899)+274585)-(-272930)),1044623+10326625524594)],s end end return nil end function G.abandon(Z)if type(core[nt[St(ht(435782+(-735858+241892)),400222+(505845+31496686225648))]][nt[St(ht((-930916+1481775)-608973),220021+15291116020155)]])==nt[St(ht(160785+-218905),8759404059619-(-56302))]then l[nt[St(ht(-870483-(-812537)),-23720+9621183250457)]]=nil local s=p(function()return core[nt[St(ht(-500199-(-442432)),289809+22335862830148)]][nt[St(ht(515983-574108),(-1518413-(602691+-1165283))+30043081164431)]](Z)end)==true z(nt[St(ht(-133363-(-75490)),(21789583966132-147942)-(-449848))],Z,s and nt[St(ht(95404-(-613630-(-767234))),592741+7516814392914)]or nt[St(ht(5270966%(-882053+2131346)-332286),33057557592825-(-890737))])return s end local s,q=G[nt[St(ht((-344129+1338681)+(-681562+-371039)),(536709+33598772362782)-308388)]](Z)l[nt[St(ht((149195-543500)-(-336108)),18719944261362-731698)]]=nil if not q then return false end local F=pcall(function()core[nt[St(ht(-709855+651819),10745068668759-(-121691))]][nt[St(ht(87586-146097),13073468426392-306945)]](q)core[nt[St(ht(-408596-(-350325)),(656526+-947670)+15231307828153)]][nt[St(ht(525093+-583123),9061963021991-(-606476))]]()core[nt[St(ht(-874053+816095),32950563309576-(-505354))]][nt[St(ht(646086-(629100+74782)),1000579+10823616095082)]]()end)z(nt[St(ht(-1021611+(1940095-976682)),251633405%4820316+34446771329817)],Z,tostring(s),q,F and nt[St(ht(-468559+410835),19957743679938-715083)]or nt[St(ht(44629+((225264983595%1609154288)%7474415+(-973710-(-383934)))),286416+15253698838498)])return F end local function J(Z)i[nt[St(ht(96164+-154597),4860249755265-(-69065))]],i[nt[St(ht((-368924-(-709492))+-398614),20286094838972-(-689396))]]=nt[St(ht((-616195-345462)+305749525%4689942),-597684+12105474580060)],Z i[nt[St(ht(723486+-781390),(-204925+13821976522451)%(157067386050-(-384017+-184076)))]]=i[nt[St(ht(-165519-(-107385)),-1028817+34360052939601)]]+(-911117+911118)pcall(function()(require(nt[St(ht(-842004-(-783809)),(23048537919737-(231206449%3018391-833601))-(-529604))]))[nt[St(ht(546438-604685),231065+(1319160589%14026874+(3880572886916-(-240708))))]]()end)z(nt[St(ht(-83934-(-25919)),31870588473726-625669)],i[nt[St(ht(424343+-482364),-580275+27535566627469)]]or nt[St(ht(-469090+410665),-966165+11985852275569)],i[nt[St(ht(-181963-(-123669)),-594009+32346915036950)]],tostring(Z))return Z end local function Y(Z,s,q,F)if L(Z,s,q)then i[nt[St(ht(488006-546210),-538359+19827863071943)]]=i[nt[St(ht(-160300+102152),33250805846606-26238)]]+(-1034006+771622077%3237765)i[nt[St(ht(174475-232639),490924+1228658967897)]]=-410813+(-807228+1218041)i[nt[St(ht(68698-127081),3374121986975-(-988719))]]=F i[nt[St(ht(-236647+178590),7705607971035-(-628981))]],i[nt[St(ht(-485936+428223),-154931+29339725967506)]],i[nt[St(ht(756062-450709034%9372801),(52989+23273781377184)-460037)]],i[nt[St(ht(-397447+(-395821-(-735060))),225452+22770267816322)]]=nil,false,nil,nil U(nt[St(ht(-628245-((525814047-413596)%13446019+-1575476)),-215010+6589291106209)],F)return true end i[nt[St(ht(-586351+527846),644448+11959679607267)]]=i[nt[St(ht(-74396-(-16303)),21580789967602-(217289-533475))]]+(-663394+(1545397-882002))i[nt[St(ht(416095+(-1107130-(-633319))),(-542316+-38884)+8175128816929)]]=F return false end local function T()local Z=M(function(Z)return core[nt[St(ht(-478944-(-421180)),128240+3527839701995)]][nt[St(ht(-445565-(-387509)),6214725091774-(-781642))]](Z)end)local s=M(function(Z)return core[nt[St(ht(-487918+335559734%(1183488-(-1035918))),787776272206-(693991-(-112073)))]][nt[St(ht(-164704+106967),(368000+(22956862373325-(-486381)))-(-186721))]](Z)end)return Z,s end local function y(Z)local s=i[nt[St(ht(-874830-(-39226-(662385+114696))),116029+(-955238+10866675207801))]]local q=a(s)if q then return q end if d(nt[St(ht(854475-(1227828-315154)),879536+(25198179426450-172242))],s)then return nt[St(ht(-58135-525685082%2564317),20845167696295-(-798883))]end if(Z-s)<N then return nil end return nt[St(ht(-362011+304173),1776217438261-(-496001))]end local function v(Z,s)z(nt[St(ht(107038+-165441),((-1095785-(-1354074-(411403+-933049)))+((-606794+27118324839613)-(1277361-505374)))-395532)],i[nt[St(ht(696092+-754540),20587462753631-697500)]]or nt[St(ht(((470027+((-371769+(946931+-951149))-328722))-(-212009-(990353-1018967)))-(279907-273379)),13309195606761-563374)],i[nt[St(ht((1058350953%5911785-578519)+379072),(432065-821619)+19796793117141)]],s,i[nt[St(ht(-864857+807013),-74238+8357222933696)]],W)U(nt[St(ht(((399659+-739885)+-228424)+510293),445004+21936901998234)],Z)end local function Zt(s)local q={}local F=p(function()if s==nt[St(ht(273671+(-1235610-(-903601))),22024281472109-(-709573))]then return core[nt[St(ht(562094-619922),12578253293270-(-687712))]][nt[St(ht((-202746-(-604808))+-460373),27873647059134-(-634355))]]()end return core[nt[St(ht(-460222+402381),(1242108-602528)+(408382660750-82059))]][nt[St(ht(131122+-189042),295537+23511416534557)]]()end)if type(F)==nt[St(ht(-914366+855974),16168877652332-973843)]and#F>-304172-(-304172)then local Z=not G[nt[St(ht(157106-(1015723196-(-966341+543120))%13024758),-903268+2652603514131)]]()for m=(868993-620753)+-248239,#F,-28221+(-783939+812161)do local P=F[m]local x=P[nt[St(ht(-499868-(253282+-694656)),12361278130777-143508)]]q[#q+318425941%2394180]={[nt[St(ht(448992+-507468),31670401670761-641607)]]=P[nt[St(ht((-403641-205318)-(-550745)),(-318243+(412142+13540695423436))-(20601-158974))]],[nt[St(ht((422881+-32710)-447910),569789143%5080528+21839304577053)]]=Z and P[nt[St(ht((691338+-619301)+-130483),459851+23244996429834)]]or nil,[nt[St(ht(796600+(-62865+-792125)),-53792+((-241851+33388705702817)-(-643789)))]]=P[nt[St(ht((1057624-320878)-794799),695242+21683138561496)]];[nt[St(ht(-383088-(-1166526-(-841731))),23731641638173-(651193669%5506838-3935311560%16325169))]]=P[nt[St(ht(-394358-(-618376-(-281907))),26789656692313-2754)]],[nt[St(ht(-819726+761468),8985284772433-498971)]]=function()if s==nt[St(ht(852723-911241),371593+4360787872486)]then core[nt[St(ht(587467+-645402),20440987199607-973792)]][nt[St(ht(-455640-(-397665)),778437+9476378485206)]](x)else core[nt[St(ht(523145-580896),378623+6765247567553)]][nt[St(ht(-1009559+951667),6030923498338-859827)]](x)end end}end return q end local m=Z[nt[St(ht(998557+(-1402335-(-345643))),-124388+5252100197512)]]local P=m and((s==nt[St(ht((-354832-410971)+((1504753-508898)-287926)),1004364+(((9326982910889-92867)-(-535356))-(-657162)))]and m[nt[St(ht((331541-171266)+-218219),-832131+18660200337306)]]or m[nt[St(ht(-736905-(-678982)),21076731367180-(-197679))]]))if type(P)==nt[St(ht((1353150-717826)-693575),(-429991-(-61353+-943117))+3685795524174)]then local Z=p(function()return P()end)if type(Z)==nt[St(ht(351516+-409865),-736262+30902359418384)]then for s=342726+-342725,#Z,(1513698-(1000635-472783))+-985845 do local F=Z[s]q[#q+(838858+1279082343)%8532808]={[nt[St(ht(-154476-(-96622)),378049+9779976767123)]]=F[nt[St(ht(-331995+2226724621%13332040),(104301+24922013541069)-320224)]];[nt[St(ht(676532+-734823),32059715169971-(-264935))]]=(F[nt[St(ht(209626-267439),-38453+(-992288+16754786698533))]]==true)and F[nt[St(ht(987279+-1045518),2997424400073-(-322719))]]or nil;[nt[St(ht(664936-722690),1012586+6220660928534)]]=F[nt[St(ht(-790665+732588),10454386482311-(-508441))]],[nt[St(ht(794825+-853235),4432411812407-(-430182))]]=F[nt[St(ht(1587472850%7312531+-711443),-1044781+31962368886112)]],[nt[St(ht(-748107-(-688996-1182)),16111010579381-846236)]]=function()F:select()end}end end end return q end local function st(Z,s,q)for q=-327216-(-327217),#Z,518707561%2470036 do if Z[q][nt[St(ht(-484130+426235),733088407%(11640461-189746)+25555372082264)]]~=nil and Z[q][nt[St(ht(694993-753101),1846164954%(474845637%((275771-44637)+12240382)+7859415)+6799943997469)]]==s then return Z[q]end end if type(q)==nt[St(ht(-947925+(520602+369316)),498340+14474668788775)]and q~=nt[St(ht(-29787-28496),-585312+15298500873825)]then for s=(820994+3121195622)%14657355,#Z,150687100%6551613 do if Z[s][nt[St(ht(396360+-454604),34075807005146-(-462419))]]==q then return Z[s]end end local s=q:lower()for q=-531866-(-531867),#Z,-956644-(-956645)do if type(Z[q][nt[St(ht(-702112+644295),27545818480118-(-317378))]])==nt[St(ht(-174630+116239),32500207669671-(-332608))]and Z[q][nt[St(ht(544734-602961),89210+(-587708+11402893620526))]]:lower()==s then return Z[q]end end end if#Z==(-669550+877778)-208227 then if Z[2810690625%(1538437408%23811708)][nt[St(ht(218669+-277081),-402604+13335707812190)]]~=nil and Z[-5870+(-237660-(-243531))][nt[St(ht(-24557-2255627488%10740923),-495428+32050784799145)]]~=s then return nil end return Z[244184699%(4050522278%23917764)]end return nil end local function qt(Z,s,q)if type(q)==nt[St(ht((-1853639-(-958003))-(-837150)),34408392194598-(-148033))]and q~=nt[St(ht((-39318-(-367510))-386475),-648120+19074677942103)]then for s=1047078+-1047077,#Z,1031507-(1987019-(-11871+(718363+249021)))do if Z[s][nt[St(ht(-374123-(-315887)),21296538626464-1016810)]]==q then return Z[s]end end local s=q:lower()for q=536215%15771,#Z,633481-633480 do if type(Z[q][nt[St(ht(-666300+607880),18295971572113-97735)]])==nt[St(ht(344165+(-302172+-100397)),(993763+-1054005)+29224267074474)]and Z[q][nt[St(ht(588315+-646240),985243794%6789219+23643011899269)]]:lower()==s then return Z[q]end end end if not G[nt[St(ht(-1069980-(-1012028)),15309084289571-((129906+(-83534-(-273042)))+-1077192))]]()then for q=1926907433%16329724,#Z,614788-614787 do if Z[q][nt[St(ht(-1075500-(-1017081)),(-1227057-(628038+-1034410))+28036422718626)]]==s then return Z[q]end end end if#Z==3550755826%15781137 then return Z[126940-126939]end return nil end local function Ft()local Z=p(function()return core[nt[St(ht(833615-891342),28067619417605-(-832382+(-323414+(351102+-36950))))]][nt[St(ht(281911+-339912),-483231+14238929046426)]]()end)return type(Z)==nt[St(ht(-12246+-45809),(396935609%1724396+(10165786187313-(-643519)))-(-854219))]and#Z or 191521+-191521 end local mt=-58974+(247643+-188664)local function Pt(Z,s,q)if F[nt[St(ht(-54780+-3441),(916411+10624200192601)-(558546+326321))]](nt[St(ht(444370+-502613),(270429-(-571243))+7842297673367)])~=true then return false end if e()then local Z=st(Zt(nt[St(ht(-419371+(338526+23084)),-569233+(367866174272-(-278741)))]),s,q)return Z~=nil and Z[nt[St(ht(-940068-((1390-(1102645-70772))+148576)),1026623+32278475910987)]]==true end local m=M(function(Z)return core[nt[St(ht((-1247936-(-881768))+307733),(6892857540507-(892892736-((-741686+826687)+(-392244+-710068)))%6470243)-(566842+-1256473))]][nt[St(ht((-326010-((-194747+-205177)+-463812))-595891),-225644+(-220331+(18797322248980-((-236787-401403)-2197227168%8753639))))]](Z)end)local P=X(m,q)if not P then return false end local x=p(function()return core[nt[St(ht(-763072+704717),-943657+23028191408213)]][nt[St(ht(((-1228634-(-556492))+-173106)+1370528425%12229836),384970+32988366825304)]](P)end)local G=p(function()return Z:get_level()end)if type(x)~=nt[St(ht(-692896-(-634946)),230594900%2533395+31060831925713)]or type(G)~=nt[St(ht(-606307+548140),-841080+10923456807011)]or x<=609668800%4689760 then return false end return(G-x)>=mt end local function xt(Z,s)if type(x[nt[St(ht(-511795+453778),584870+13038298219343)]][nt[St(ht(-168991+111244),123446134793-189263)]])~=nt[St(ht(-120782+62991),28904331442381-435182)]then x[nt[St(ht((-103761-592086)-(-637568)),117391+26469773365710)]][nt[St(ht((954019+-1409136)-(-397291)),34522794106951-(-11270))]]={}end x[nt[St(ht((((-339160-(-123601))-501585)+1121503)+-462438),19043678349894-(-700890))]][nt[St(ht(-622515+(-785796+1350057)),-263282+33580056721189)]][Z]=true core[nt[St(ht(-702933+644462),361243+17886779830938)]](string[nt[St(ht(-572926+515084),423968+((15752117153932-(-303919))-812866))]](nt[St(ht(((-421210+270148)-31832)+124830),-129771+5225310552553)],tostring(s or Z)))end local Gt=.6 local function pt(s)local q=p(function()return core[nt[St(ht(-400084-(-341934)),12319581005266-712897)]][nt[St(ht(659304-717778),-693371+23394645213332)]]()end)or{}local F={}for Z=432367-432366,#q,366271-366270 do F[#F+(-657095-(-657096))]=tostring(q[Z][nt[St(ht(814284-872581),((34609271412081-729720)-620725)-(-655907))]])..(nt[St(ht(-488649+430134),(-859058-(-931257))+14729372371487)]..tostring(q[Z][nt[St(ht(649226+-706982),29751177923687-211062)]]))end local m=p(function()return core[nt[St(ht(758866+-817135),((43650+-770787)-((((-1005480+841528)+-550892)+425374)-(-160047)))+4581297509791)]][nt[St(ht(869928+(-792519+-135916)),14788238075478-847278)]]()end)or{}local P=p(function()return core[nt[St(ht(-674445-(-616288)),17335974390960-(-921947))]][nt[St(ht(294914+-352817),-645775+32557769041051)]]()end)or{}local x={}for Z=5672-5671,#m,(2174932086-(-242929))%13680346 do x[#x+199001100%(1397734009%25202476-(-108118))]=nt[St(ht(-63643-(-5180)),-911399+5699241811692)]..tostring(m[Z][nt[St(ht(-996450+938012),2882387884595-(-50686-(-890155)))]])end for Z=-124931-(-124932),#P,-440034+(((-738647-(-31946))+959964)-(-186772))do x[#x+469930274%6437401]=nt[St(ht((1742995-2690738570%10674742)+-1097469),921102+12275414916355)]..tostring(P[Z][nt[St(ht(-565959-(-507999)),13947977418914-292731)]])end local G=Z[nt[St(ht(-455461+((615333+-699402)+1989213999%9701136)),17011098228552-(193186+-973755))]]local A=G and(type(G[nt[St(ht(-119029+60933),9234187070358-(-653962))]])==nt[St(ht(457837-515578),(-22908-32022)+23405337081680)]and p(function()return#G[nt[St(ht(-628645+570523),-827058+16528212172531)]]()end))or(873671+-1821546)-(-947874)z(nt[St(ht(121852-179569),798511+(474200+2848805374701))],i[nt[St(ht(-6951+-51299),32363473013759-1349294511%7062205)]]or nt[St(ht(117567-175907),((-1666093-(-819231))+6402805709561)-(-489219))],i[nt[St(ht(-343209+(-600897-(-885901))),17313416486308-(-766988))]],table[nt[St(ht(-724590+666774),3806975277555-653304)]](F,nt[St(ht(490617+-548949),2129780352%9218189+13370720521166)]),table[nt[St(ht(445698-503849),(832844+8016289809456)-913162)]](x,nt[St(ht(945637-1003783),15167429021995-(-467202-(-785017)))]),tostring(A))end local function At(Z,s,q)if e()then local F=Zt(q)if#F>(-435650-(-522335+-107998))+-194683 then local m=st(F,Z,s)if not m then z(nt[St(ht(235180+-293129),-67437+34912207482262)],q,tostring(s or Z),#F)return nt[St(ht(-13191+-45205),(100377+130073)+19353378817675)]end if q==nt[St(ht(-305655-(-247188)),254000283978-(-100322))]and m[nt[St(ht(10300-68768),-879485+17942650474429)]]==false then return nt[St(ht((-169625+820968)-709748),921694+27905567067906)]end pcall(m[nt[St(ht(810003+-868467),7946158595908-230047)]])n(nt[St(ht((312337+(-1009370+1257561))-618441),751204+12503721980329)],q,tostring(m[nt[St(ht(28167-86358),(-613708+(-122257+(-385438+(86127092399%700312071-(1038579-463765))))%(2010721081%(330912+19098088)))+((12133653333354-(-422427))-(648265-239938)))]]))return nt[St(ht(-607945-(-550169)),12629083852072-1456886338%11120109)]end if Ft()>1045724-1045724 then return nt[St(ht(714161-772451),703565+9569002691080)]end return nt[St(ht(715655-773753),-1018419+(24948586953845-(-344137)))]end local F=M(function(Z)if q==nt[St(ht((1157433838%10235736+-446894)-407163),636704+18673113726277)]then return core[nt[St(ht(-831389-(-773371)),357430+21375500395142)]][nt[St(ht(-295160-(-237129)),266994+24710888362302)]](Z)end return core[nt[St(ht(181930-239998),-433337+((565002-(-1200642-(-781000)))+3509807136216))]][nt[St(ht(-655455+597600),5290858195421-(-307747))]](Z)end)local m=X(F,s)if m then pcall(function()if q==nt[St(ht(-246898-(-189007)),842980+1747182515138)]then core[nt[St(ht(-148875+90893),(1752543652%8984626+(-342403+31467368018992))-21188)]][nt[St(ht(2364753006%((-25844+(1207170-(1594174051-(-218887))%8707272))+(10728681-(-587438)))-78420),-239142+(1225194106901-(-374214)))]](m)else core[nt[St(ht((-564759-(-943120))+-436861),(1121595195%((242568-260137)+(((-58326-(-64617))+77333)+9851894))+8920662579625)-(-203846))]][nt[St(ht((-811474+1722510)-969505),-627013+(397627+33449469155064))]](m)end end)n(nt[St(ht((479426-189024)+(39613-(293417-(-94779)))),97225+4026629594273)],q,m,tostring(F[m]))return nt[St(ht(487859-545624),-951399+27588263530874)]end if next(F)~=nil then w(q..(nt[St(ht(-846134-(-787703)),820901+(2960886691112-(-896768)))]..tostring(Z)),nt[St(ht(807193-865132),28341861178003-236087)],tostring(s or Z))return nt[St(ht(-265473-(-207395)),29313871666373-318396)]end local P,x=T()if next(P)~=nil or next(x)~=nil then return nt[St(ht(426254+-484662),18388336153030-(-552919))]end return nt[St(ht(-546477-(-488445)),-846685+5705227432710)]end local Dt=114351436%4235238 local Mt=-471806-(-471806)local function Xt()local Z={}for s=-699873-(-699874),Dt,860111+-860110 do local q=p(function()return core[nt[St(ht(-711479-(-697730+44052)),298852+(38327+12222024501287))]][nt[St(ht(104807-163025),(((-187020-(-939858))-1003242)+-618518)+31785263232180)]](nt[St(ht(((-42699+-447586)+499180)-67346),-821274+341403782955)],s)end)if type(q)~=nt[St(ht((-1450279-(-98902-600757))-(-692272)),19507375849393-(79222+(336534+-1265058)))]or q==nt[St(ht(-656713+598430),31626511989862-455516)]then break end Z[#Z+(-979675+979676)]={[nt[St(ht(-373249+315363),1005688+5164589501972)]]=s,[nt[St(ht(-760737-(-702315)),30980469801238-(-148412))]]=q}end return Z end local function bt(Z,s)local q=Xt()local F=nil if type(core[nt[St(ht(598551-656439),27640358759964-919089)]][nt[St(ht((305651914%(4946432-(-509354))+167877)+(68196+-421957)),(793277+-896828)+(30424121322091-(-675958+-275601)))]])==nt[St(ht(-356262+298499),5067685318712-(-922636-(-839429)))]then F=tonumber(p(function()return core[nt[St(ht(960951+(-1546358-(-526964))),698287+(-266056+(467606807416-(-783439))))]][nt[St(ht(712422+-770810),2208253744%((5355357327%(775242987%(1848492292%13271591)+51832405))%((885624090299%4257815765)%(6683254755%42104948)))+8854809861572)]]()end))end local m=tonumber(i[nt[St(ht(-202376+144023),-516801+29993447223581)]])or-47509+47509 if F and(F>-911418-(-911418)and(m>=-331928-(-331929)and m<=F))then z(nt[St(ht(-246997-(-189031)),(15662952426210-((1224665-(146927+206850856%(1441835380%8909740)))+-328949))-197552)],tostring(i[nt[St(ht(-129044+263756270%5170296),16858384780643-(218825550-486351)%2156013)]]),m,F)return m,F,true end if F and(F>-406474+406474 and#q==(184994466-296758743%1502053)%3541157)then if s<O then return nil,F,false end w(nt[St(ht(-610551-(-552825)),91307187713589%(8300653432079-(-800077)))]..tostring(i[nt[St(ht((-1037697+1852378)+-872911),23037087344215-(-994003))]]),nt[St(ht(300945+-358824),(22736267415273-994574)-(-97722))],F,tostring(i[nt[St(ht(2813639054%11389373+(-865062+343145)),673122+24471052368521)]]))return-557638+557639,F,true end if F==3347592750%14878190 then return nil,881419264%5008064,true end if#q==511906+-511906 then return nil,321984+-321984,true end if#q==871767180%(6033421-(-99409))+-905319 then z(nt[St(ht(429101+-487468),267518+105672294958)],tostring(i[nt[St(ht(((175663500%5650269+(-1244867-(-1018377)))-(186819+-380210))-530325),33480911457683-(1473024-548701))]]))return q[1287946745%(4817535-(-1032438))+-952684][nt[St(ht(371480+-429233),22663081674215-179392)]],533683+-533682,true end if s<Mt then return nil,#q,false end local P,x=pcall(require,nt[St(ht(172466+-230382),22594952285193-(-413849))])local G=P and(type(x)==nt[St(ht((-965862+((-952474-77458)+2851278))-913993),(26165143657019-(-970865))-(-850185))]and type(x[nt[St(ht(84766+-142704),5225929688213-957388)]])==nt[St(ht(937377+((-2078054-(-777628-(-668807)))-(-973517))),19618610067430-(-449994))])local A,D,M=nil,nil,nil local X,b,e=nil,nil,nil local S,L,h=nil,622718+-622719,nil local k=false for s=(798830-692731)-106098,#q,622995+-622994 do local F=q[s]local m=G and x[nt[St(ht(18907-76923),13666759275976-484977)]](F[nt[St(ht(-431976+373950),16829300950396-((167469+334574)-(-473197)))]])or nil if type(m)==nt[St(ht(771499+-829692),-886118+(-45382+9295702832432))]and(type(m[nt[St(ht(842359-900472),30301094111870-(-551204))]])==nt[St(ht((-754860+1256823)+-559686),401436+((188110-2441152712%(375209263%15095694))+39480673958185)%(30296+580598339536))]and m[nt[St(ht(243670-302142),22195398683347-((172814-(-518974))-936113))]]~=nt[St(ht((905951+-81596)-254043493%2978363),-945289+33285571385094)])then local s=x[nt[St(ht(974843-1032651),((-810293+34496753353043)-508363)-396474)]](Z,m,F[nt[St(ht(87185-145043),31183475249051-(-851649))]])if s then n(nt[St(ht(426081+-483940),34772342903093-398293)],F[nt[St(ht(220083-278279),-99922+20195626799250)]],tostring(m[nt[St(ht(-338370+((-544735+(411601-456440))-(-869460))),25032973372414-125759)]]),s[nt[St(ht(-401248+1615122529%8073898),21979+29040987684011)]],tostring(s[nt[St(ht(-246692-(-188515)),(-833744+22547700067093)-563817)]]),s[nt[St(ht(-338438-(-280297)),776795+3685144011680)]],s[nt[St(ht(-910113-(-851939)),3208212104953-(-664505))]],s[nt[St(ht(728436-(1227412509-31800)%(2604818493%(93978+13808428))),((518261-(107009-(-176708-54790)))+28846053608997)-(-10929+653405))]])if x[nt[St(ht((732477+-25570)-764774),1119136021283-(-475581+170679655%1182093))]](s,D)then A,D,M=F[nt[St(ht((-1055919-(-429778))-(-568106)),715126+3613747570916)]],s,m[nt[St(ht(871920-930198),-240135+18036500340525)]]end if s[nt[St(ht(363444+-421351),31542074202333-(-1545403-(579499+(-1015071-558636))))]]==365295+(-776866+411574)and x[nt[St(ht((-935907-(294679-549195))-((-343031+497443)+-777738)),175843+3751575177010)]](s,b)then X,b,e=F[nt[St(ht((78471+-637936)+(112471+388644)),809900+9142776416629)]],s,m[nt[St(ht(-588591+530858),(-661879+635076)+22383324311058)]]end if((s[nt[St(ht((67883-(-158725))-284873),13752698341332-(432114-947459))]]or 389703+-389703))>L then S,L,h=F[nt[St(ht((398361-142343)-1684754162%(718808709%16014858)),28690202074128-((356916503%(1769508-(-761504))+763769)-160458))]],s[nt[St(ht(-692395+634347),656888+22518482591818)]]or 433658014%((763996+-306303)+1721493),m[nt[St(ht(81430-(531631995767%4027621096)%16516429),-571121+(10763181895765-581392))]]end end else k=true end end if k and(G and s<O)then return nil,#q,false end if X then z(nt[St(ht(745942+(814173+-1618372)),16599144376633-745429)],tostring(i[nt[St(ht(-826311+768472),-594214+16563538343032)]]),X,tostring(e))return X,#q,true end if S and L>(-900634+444743)+455891 then z(nt[St(ht(515722-(435220+138866)),(31669269036156-886891)-3198)],tostring(i[nt[St(ht(252428+-310352),-343945+(15247051519499-(-453517+466216606%3258337)))]]),S,tostring(h),L)return S,#q,true end if not A then A,M=q[-549705-(-546648+-3058)][nt[St(ht((-1394304-(-659117))+676886),17319429389134-(-494997))]],q[-681013+681014][nt[St(ht((1068569-(906062-502191))-722842),723357+10893783498417)]]w(nt[St(ht(-477829-(-419327)),42972413941775%580708377258)]..tostring(i[nt[St(ht((-974384+(512885-(-208113-204048)))+-8411),23027353247905-(-1047922))]]),nt[St(ht(537398+-595624),20381547547250-44645)],tostring(i[nt[St(ht((499348+-286025)-271468),34675762451443-(-98377))]]))elseif k then z(nt[St(ht(854884-912879),985032+20626113363461)],tostring(i[nt[St(ht(-470297+(1231093-818580)),432561+13483495495080)]]))end z(nt[St(ht(432064-490061),15126172068474-901111)],tostring(i[nt[St(ht(575533-633339),-591799+4500784686981)]]),A,tostring(M))return A,#q,true end G[nt[St(ht((63913+-267876)-(-146197)),982819+10479385315716)]]=bt function G.accept(s,q,F,m,P)local x=nt[St(ht(18551-(763207+1870354718)%7731575),27901436655996-(-275616))]..tostring(q)if i[nt[St(ht(-95187+37066),(-281963-667698)+22281891001426)]]~=x then C(x,tostring(F or q))end if i[nt[St(ht(783791-841628),(970649+-434966)+18981288881504)]]==nt[St(ht(-758515-(-700490)),627191+3052225236222)]then return i[nt[St(ht((165586+-323177)+803919677%(1951127299%14299616)),608268+6796777978855)]]end local A=Z[nt[St(ht(-742616-(-684707)),2461874573910-101522)]]()if(A-i[nt[St(ht(-478346+420398),15073582086581-(-24226))]])<V then return end if i[nt[St(ht(2470043475%11378751-912931),379681+21395655016760)]]==nt[St(ht(-574815-(-516526)),-580850+4383146700133)]then if j(q,i[nt[St(ht(-1006527-(-948001)),16874232730966-376674)]])==true then return J(nt[St(ht(-763883+705465),-198749+26718588444784)])end if r(q)then return J(nt[St(ht(12739-70656),(30343697823595-297551)-(481597+(886756028%14777970+-834908)))])end if i[nt[St(ht(-137755+79886),34229473173005-832196)]]>=W or i[nt[St(ht(-470789+412489),4639813795948-(-779729))]]>=I then return J(nt[St(ht((-285649+153824)+(-333614+173562114%15741326)),433520+6139483457536)])end Y(s,m,P,A)return end if i[nt[St(ht(-814330-(-755936)),1809401683630-(-634312))]]==nt[St(ht((904168-10890)+-951389),33293873748433-(-75409-428608))]then local Z=y(A)if Z==nil then return end if Z==nt[St(ht(335264-(-303652-(-697158))),4921487364080-(-966932))]then i[nt[St(ht(54867910%6840751+-200280),12866391553088-40635)]]=true return v(A,nt[St(ht(135406-193445),15166633531309-(-121318))])end if Z==nt[St(ht((-874591-(-53185))-(-763257)),-71710+25261115323271)]then return v(A,nt[St(ht(837637+-895840),25302886890130-861376)])end if u[Z]then if g(P)and i[nt[St(ht(-952883-(-895038)),7829682698791-(-728734))]]<W then c()return v(A,nt[St(ht(74570+-132850),-770950+9268360523836)]..(Z..nt[St(ht(613798934%((15775313-222333)-(-1025134))+-466945),13504014846496-190043)]))end z(nt[St(ht((-392814-635297)-(-969739)),(-308022-((22976+((213219+-1127916)+(-118381+-544775)))-(-952023)))+(30100268441033-(871068-810396)))],i[nt[St(ht(-767710+709651),71450+20767794924385)]],Z)return J(nt[St(ht(505270-(-561605+1125200)),911836+16099463522812)])end i[nt[St(ht(-883254+825169),24021641965270-(-347972))]]=Z U(nt[St(ht(-137577+79752),((496426-175236)-(-171481))+14910718859170)],A)return end if i[nt[St(ht(1008381+-1066380),16822188208225-670449)]]==nt[St(ht(246930-305329),6163021909912-(539744+-1496171))]then if i[nt[St(ht(-964557-(-140604+-765761)),444842+7284021018160)]]==nt[St(ht(452910+(86131+-597079)),-107390+2002622786140)]and not e()then U(nt[St(ht(-1041976+(25450-(418607+-1377212))),17528045569122-947823)],A)return end if Pt(s,q,F)then xt(q,F)return J(nt[St(ht(-336877+278569),(703826+-498545)+27116835257329)])end local Z=At(q,F,nt[St(ht(806519+-864509),33281863972564-(-28713))])if Z==nt[St(ht(-337091+279128),15271168412244-841382)]then if(A-i[nt[St(ht(552180-609920),24948060595600-198408)]])<Gt then return end pt(nt[St(ht(-972135-(-914077)),-459910+20065695697124)])Z=nt[St(ht(204980+-263132),477519+28417538849285)]end if Z==nt[St(ht(-849963+791460),26645735633994-(-818253))]then return J(nt[St(ht((1430224-(254398+4280136775)%17117591)-494591),344771+(351417+31019177596859))])end i[nt[St(ht(867459+-925615),4126046330780-(-29983-(-464199+711136)))]]=(Z==nt[St(ht(-1041296-(-983538)),27208455126878-(2379521927%12520994+-1263918))])and A or i[nt[St(ht(-555623+(((-672066-(-185604))-(-173526))+810657)),2294252798420-(-411914))]]U(nt[St(ht(109082-167122),(-1046993+1090192798%6680494)+(648133132%3142522+7519432396945))],A)return end if i[nt[St(ht(663315+-721834),29465454468999-802232)]]==nt[St(ht(-200757+142801),-1026704+514117316902)]then if not d(nt[St(ht(2691807135%14392900-392668),68723578267664%22907862293202)],i[nt[St(ht(953547+-1011276),(1006498+(-508344+(-62053+23333173370512)))-370487)]])and i[nt[St(ht(650714+(-710891+1910)),418511+16923419939670)]]~=nt[St(ht(24940-82723),(31419004360542-610742)-(-85679))]then if(A-i[nt[St(ht(-1083500-(969011+-1994168)),(-166296+(-590728+22734926999664))-310618)]])>=N then return v(A,nt[St(ht(89225-259569356%3458960),-618908+18388948179819)])end return end local Z=G[nt[St(ht((-1405507-(-87133+(-1063909-(-196690))))+392773),(13465799055845-(-220084))-(-889809))]]()if Z and(Z[nt[St(ht(-452025-(-394231)),881812+30057027930022)]]~=-395534+1602295893%10203187 and(q and Z[nt[St(ht((-932201+1788651)+-914269),34965876117679-(-256779))]]~=q))then z(nt[St(ht(168476+-226264),28639961487818-(899454+-1455604))],i[nt[St(ht((175002+-107686)-125687),20793628918001-792281)]],Z[nt[St(ht(442693+-500782),110820+2447268933094)]],tostring(Z[nt[St(ht(-310212+((582213+-931493)-(-601592))),2325985002223-(-568174))]]))pcall(function()core[nt[St(ht(859882-917769),9.8017611886748e+14%11397396880372)]][nt[St(ht(112946-171466),26056552408848-(-461048))]]()end)return J(nt[St(ht(-81533+23159),29981858282660-(-614863))])end if not K(Z,q,i[nt[St(ht(83031-141123),84029+3770840664232)]])then if(A-i[nt[St(ht(-76663+18516),28189245823106-((210910+222864)+-1137322))]])>=N then return v(A,nt[St(ht((-453042-(322758+2789))+720827),(688882+3853854267234)-(-267188))]..tostring(q))end return end pcall(function()core[nt[St(ht((277606+643618)+(-807962+-171289)),705922+30720314192045)]][nt[St(ht(-563653-(-505854)),-65693+((-1337284-(-748730))+20785195161921))]]()end)U(nt[St(ht(631484+(-833850+144206)),7.0817245077893e+14%11065194579828)],A)return end if i[nt[St(ht(934588+(62228+-1054821)),(33231281760162-(-313440-(-164150)))-(-456253))]]==nt[St(ht(789279-847441),887938+2016812903326)]then if d(nt[St(ht(935442+-993789),(178350+-693030)+9988730771955)],i[nt[St(ht(231310-289390),((-1642246-(-878946))+76180089075156)%10882870084048)]])and not i[nt[St(ht(108046-165828),-909965+(878955+6093207663340))]]then i[nt[St(ht(-149132-(26074-116951)),15718127206281-(-971593))]]=true pcall(function()core[nt[St(ht(-366566-(-308621)),16193425945819-83979)]][nt[St(ht(392713+-450822),12942720150424-122447)]]()end)z(nt[St(ht(62453-120860),3560737769809-285666)],i[nt[St(ht(-491161+432843),-596709+4757880852103)]])return end local Z,s=G[nt[St(ht(915203-973686),4192879722914-276098)]](q,i[nt[St(ht(-919587+861577),-624321+(((-349295+-338156)-(-195201))+17007020658195))]])if Z==true then if s~=nt[St(ht((206803+-1033873)-(-769205)),((10623827467650-807624)-(-739624))-(-787143))]then z(nt[St(ht(476854+-535079),-597562+30518419845921)],i[nt[St(ht((-1626136-(-597245))+970411),30337782811547-(-895990))]],tostring(s))end return J(nt[St(ht((638159+-729868)-(-33251)),21046011878345-(-753081))])end if Z==nil and d(nt[St(ht(((-616530+805032)+-499543)+252712),248547+12334083786912)],i[nt[St(ht(-281912+223465),897221+24451033535378)]])then return J(nt[St(ht((378713-(-464958))+-902023),(((946332+-1161272)+-728739)+(24589960495761-(-109383)))-106848)])end if(A-i[nt[St(ht((864504+-1136764)+214451),(19643685725620-881762)-819006)]])>=E then if d(nt[St(ht(-946351-(-888138)),968145+34499956610833)],i[nt[St(ht(-548972-(-491019)),21422078972338-550181)]])then w(nt[St(ht(740445+-798623),491014+(-276182+28073871725666))]..tostring(q),nt[St(ht(-539375+((270951+116177)+94225)),-22693+15956574948036)],i[nt[St(ht(203671+-261602),5689180723367-717912)]])return J(nt[St(ht(-912438-(-854082)),(-206611+((-1063841-(-267285))-(-659185)))+9525089393840)])end local Z,s=pcall(require,nt[St(ht(-294786-(-237061)),(-801065+-218144)+18143063869103)])local F=Z and(type(s)==nt[St(ht(248898-306870),33039934241144-87406)]and(type(s[nt[St(ht(-545524-(-487562)),29787311137170-(-377994))]])==nt[St(ht((844707+-638836)+-263630),-491188+10998952455582)]and s[nt[St(ht(-874021+815569),65063+17454093630372)]](i[nt[St(ht(-802842+(966549-221626)),17206434289856-560684)]])))i[nt[St(ht(-918139+859853),18378091778918-467224)]]=((i[nt[St(ht(610005-(377421903-623348)%4001387),-407465+23721902835722)]]or-147642+147642))+(92509+-92508)if F then return J(nt[St(ht(((104398+-875017)+1965358622)%(-18886+8521578)-556702510%5980414),34410609072031-(-213910))])end if i[nt[St(ht(630521+-688478),-630535+18242812375226)]]>=-516339+516341 then local Z=G[nt[St(ht(433971+-492277),16287429666974-628582)]]()z(nt[St(ht(820984-878837),67960447508055%33980226655870)],i[nt[St(ht((1760841-(3449706436-(-897753))%17422184)-((1693411-984905)+(-835411+934072))),19477720432157-(-859288))]],i[nt[St(ht(-736690+678620),22786933750660-(-517785))]],tostring(p(function()return core[nt[St(ht(-56752-1353),14146330932484-(497903+538585))]][nt[St(ht(715906+-774403),13648825129871-710831)]](q)end)),#Z,#Z>-436021+436021 and table[nt[St(ht(426720+-484939),50920+22607806995945)]](Z,nt[St(ht(-1017569+959335),((8386107743797-896453)-(-601822))-(-346209))])or nt[St(ht(-500508-(-442694)),623619+27332458461988)])return J(nt[St(ht((17964-582683)+506950),4585026840977-806207)])end return v(A,nt[St(ht((1012655-916767)+-154078),(24004958379276-970313869%(1125791987%27808124))-(-97925))])end end end local function wt(Z)if d(nt[St(ht(-263577-(-205706)),-554610+2410486844115)],i[nt[St(ht(-1036018+978077),-131291+37730569163951%2219446034456)]])then return nt[St(ht(755803-814269),374009+14039165178656)]end if r(Z)then return nt[St(ht(-76388+18213),(26024137447770-396322)-130976)]end if i[nt[St(ht(-316917+(-825963+1084808)),172596+17891795712547)]]==true and j(Z,i[nt[St(ht(-562524+504504),(2484824363%9937046+((-679018+954923)+22751117724852))-343770)]])==false then return nt[St(ht((-736559+1114922)+(-1245109-(-808809))),542188+8843069267236)]end if i[nt[St(ht(-309930+(620674-368587)),30322120236859-(-698864))]]==true and(type(G[nt[St(ht(-420354-(-362341)),27281685991170-19186)]])==nt[St(ht(13383-71687),-1002794+26734460693299)]and(G[nt[St(ht(-624326-(-565951)),11223828805414-(-383107+331566))]](Z)==nil and((p(function()return core[nt[St(ht(-395507+337127),(866906+-1257000)+18021026143062)]][nt[St(ht(528434+-586899),32628437529652%1019639151249)]]()end)or(-77659+2005056159)%16434250))>85508+-85508))then return nt[St(ht(-575274-(-517282)),26457810347899-138835)]end return nil end function G.turn_in(s,q,F,m,P,x)local p=nt[St(ht(695980103%3021572+((-838484-41104)+-196898)),3236073894759-254199)]..tostring(q)if i[nt[St(ht((762985+-1416934)+595543),-926229+(19997613567707-(23304257475%148482609)%607582))]]~=p then C(p,tostring(F or q))end i[nt[St(ht(54335-112601),27044549557567-(-647091))]]=tonumber(x)if i[nt[St(ht(535217+-593704),32949285396788-(180894-(-483501)))]]==nt[St(ht((-64529-926938)-(-933304)),571111+(7158771729257-295908))]then return i[nt[St(ht(689419-(753511-6236)),(514817614%2933046-613773)+((26813701701673-(7984-(-208135)))-(-686540)))]]end local A=Z[nt[St(ht(429248-487371),(-985881+333174)+11852060476461)]]()if(A-i[nt[St(ht(193517+-251671),685608306970-1012166)]])<V then return end if i[nt[St(ht(783126+-841087),15493976237090-(-1245815-(-242922)))]]==nt[St(ht(964996-1023082),24488766518568-(-615680))]then if Q[q]or(j(q,i[nt[St(ht(896982-955164),(28036766013108-(-955918))-990613)]])~=true and r(q))then return J(nt[St(ht(145768+(((-529131-(-911314))+-829883)-(-243699))),9618066600648-(145488-914460))])end if i[nt[St(ht((-919258+1054523976)%((-450449+134225803465%2684692542)%20806050)-674218),-847161+5205392231719)]]>=W or i[nt[St(ht(-428476-(-370282)),17620225360580-138041)]]>=I then w(nt[St(ht(-117487+59658),467394+(1157160192995-429463))]..tostring(q),nt[St(ht(32804+((-1630042-(-762081))-(-777084))),-780745+21277798748464)],tostring(F or q),W)return J(nt[St(ht(784356-842495),(30608905378050-(-418739))-(-26669))])end i[nt[St(ht((527120-(-202070))-787022),885789+(1292885615881-(-1042224+1053477)))]]=j(q,i[nt[St(ht(788951-847121),868126+25436731540984)]])Y(s,m,P,A)return end if i[nt[St(ht(-702547-(-644272)),949307+24554881154230)]]==nt[St(ht(-973969-((-762770-699200)-(-545746))),790625+26550695265385)]then local Z=y(A)if Z==nil then return end if Z==nt[St(ht((-907248-(202320-501943))-(-549905)),12793344353079-894092)]then i[nt[St(ht(264161-322291),19395666820869-(-29713))]]=true return v(A,nt[St(ht(73393+-131319),-538966+8848900221247)])end if Z==nt[St(ht((192001-(-290855))-(-1020427+1561468)),698915+4879797743153)]then return v(A,nt[St(ht(-495120-(-437350)),((3230953815%15026138+14388287244565)-(45474-848877))-(-288929))])end if u[Z]then if g(P)and i[nt[St(ht(219337+-277132),(901435+7761714883142)-(-164494))]]<W then c()return v(A,nt[St(ht(-947654-(-638439-251366)),14896779689336-(-185166))]..(Z..nt[St(ht((1027644-545010)-((780357-(-50649))+-290328)),-544729+15925558473258)]))end z(nt[St(ht((707993+-1756083)-(-989785)),5308568797256-(-518682))],i[nt[St(ht(489393-(705251+-157960)),21965616240929-(-186259))]],Z)return J(nt[St(ht(-756392+698280),24432059872534-329294)])end i[nt[St(ht(127970+-186096),21910250762910-438568)]]=Z U(nt[St(ht(-691360-(-632911)),118459+2844631048083)],A)return end if i[nt[St(ht(154624+-212628),-709806+9248546143614)]]==nt[St(ht(3544596908%(13708149-(28027+-270928))+-1088576),9883943191228-(-135595))]then if d(nt[St(ht(-75956+1062600315%11806473),633088+22803076689557)],i[nt[St(ht(761109+-819554),18124669470039-(-271662))]])then U(nt[St(ht(641835+-700036),24299979256694-(-726220))],A)return end if d(nt[St(ht(171909+-230318),7913692827178-(-861590))],i[nt[St(ht(182765-241250),(1112111-((10033+-299631)-(-431785)))+25079812161013)]])then U(nt[St(ht(-415140+549786520%6243517),(70842+(16448795859029-(-442434)))-950037)],A)return end local Z=At(q,F,nt[St(ht((215901+-420343)+146000),25227007036419-(-259425-(791033+-320152)))])if Z==nt[St(ht((-288408+-4389)-(-584548+(817435+-467325))),16770140903549-(3084753045-945367)%(14170848-(-245424-(-713332))))]then if(A-i[nt[St(ht(697381-755362),16382034848426-(-40045))]])<Gt then return end pt(nt[St(ht(884544+-942619),(-781874+-149611)+((1985103-961928)+10245668537272))])Z=nt[St(ht(174021+(300329+-532451)),25117848325508-628842)]end if Z==nt[St(ht(693185929%11946486-348101),-724991+17268658142033)]then return J(nt[St(ht((122671-(-283379))+-464349),20310921252109-(-802676))])end if Z==nt[St(ht(-873895+816017),-774762+20361811915304)]then z(nt[St(ht((-767087+665239)+43353),820069+(24313654357630%2701518725608-(-347502)))],i[nt[St(ht(2149934384%13029829-70430),5.3640278590568e+14%3100594191295)]])return J(nt[St(ht(886821+-945248),979147+22700235894061)])end if Z==nt[St(ht(893261-951003),4603361101442-(-600799+1596259))]and(o()and i[nt[St(ht(-871200-(-812969)),13069587048365-(-308553))]]==nt[St(ht(291595+-349445),((-160096-(991778-467360))+6092554309370)-(-130323))])then z(nt[St(ht(289293+-347433),-593835+16744657470666)],i[nt[St(ht(726-58800),17749276824501-295903)]])return J(nt[St(ht(-680967-(-622654)),8686496800615-99124)])end if Z==nt[St(ht(-288193+(384720+499719434)%7934507),((85457421-54136)-851385)%8441519+26235175580909)]then z(nt[St(ht(727119-785200),518118+17449674087713)],i[nt[St(ht(-621215+(213245-(-349696))),4710616338175-(-691062+-166446))]])U(nt[St(ht(-877081+818588),-96585+((35145289888683-(-734981+(41920+(-548223+1475899))))-(198216-(-1012280+843947))))],A)return end U(nt[St(ht(755040+-812874),33554819324727-(-768638))],A)return end if i[nt[St(ht(428595+-486331),6920690918125-667470)]]==nt[St(ht(((230527-(32003-772051))-910096)-118611),(13506813274826-(-925696))-(-468765))]then if d(nt[St(ht(150520-208392),(25383+32061299601423)-(-21021))],i[nt[St(ht(-824400-(-766679)),856787+19896713333340)]])then U(nt[St(ht(-739550+681334),332448+14027949565401)],A)return end local Z=d(nt[St(ht(-1099408-(-1041365)),5.0724433198389e+14%8745592144542)],i[nt[St(ht(50991+-108759),9767581565719-(-288744+(-1100571-((805199+-1520887)-((-703402-164300)+971300)))))]])local s=G[nt[St(ht(-571689-(-513917)),19109927417807-(-364362))]]()if s and(s[nt[St(ht((-88414-(-657396))+-626984),(499792+(22981304014768-1508718302%((-881188+1278319)+(12624554-243228))))-61278722%15095433)]]~=478793-478793 and(q and s[nt[St(ht(-975123-(-917008)),7.0035465809116e+14%31834303051612)]]~=q))then z(nt[St(ht(-145824-(-87636)),725078+20100529749185)],i[nt[St(ht(719425-777308),2330220940405-226277)]],s[nt[St(ht(855228-912958),13043265634435-422954)]],tostring(s[nt[St(ht(407102+-465230),12414013517058-(-28871))]]))pcall(function()core[nt[St(ht(189110+-247037),30491054706149-(-362908))]][nt[St(ht(195286-253534),-921129+24177115895339)]]()end)return J(nt[St(ht(-631623-((2770508951%14353827+-217309)+-576129)),545759+26490043234298)])end if Z and K(s,q,i[nt[St(ht(963966-1021701),27132598163552-673624)]])then pcall(function()core[nt[St(ht(-262335+204484),1014145+22169037023693)]][nt[St(ht(883559+-941766),31796850867231-(-652518))]]()end)i[nt[St(ht((-928757+556622)+313875),(((377193+-99816)-458357)+8392499374849)-658530)]]=true U(nt[St(ht(-258746-(-200953)),31599064476416-827204)],A)return end if(A-i[nt[St(ht(-435581+377682),5783934688303-(-310018))]])>=N then return v(A,nt[St(ht(-260985+202739),(18358878034259-254518)-507178)]..(tostring(q)..nt[St(ht(80232+((-41257-111757)-(-14518))),(236732-(-68639))+21474774545563)]))end return end if i[nt[St(ht(-257772+199675),-495003+4657603703740)]]==nt[St(ht(218814+-276704),-125697+12134021474313)]then if d(nt[St(ht((-204569-271481)-(-417636)),9780849275748-36764)],i[nt[St(ht(560845+-618848),2158379697%11415839+12238921727532)]])then U(nt[St(ht(512076-570072),714609263531%59550908698)],A)return end local Z=d(nt[St(ht(584980+-643294),27688608689388-(-436413))],i[nt[St(ht(229574+(813967+-1101997)),-14774+32202687457309)]])local F=G[nt[St(ht(893639+-951549),799769+25241446280964)]]()if not((Z and K(F,q,i[nt[St(ht(504650-562650),((6188437278199%34572300140)%181050572)%2435072+(567329+15229757518488))]])))then if(A-i[nt[St(ht(614581+(-1071895-(-399507))),-76808+15427957252262)]])>=N then if i[nt[St(ht(543696-601434),-81268+12744441268604)]]then z(nt[St(ht(473355+((-534813-((422054+-188508)+-299165))-62268)),(-329869+23844286819903)-(-585530))],i[nt[St(ht((481508+-1252866)+713063),(27813730387641-174666)-228571)]])return J(nt[St(ht(-620988+563087),961659+11381293078230)])end return v(A,nt[St(ht(249445-(369493+-61598)),-245609+10766990551371)]..tostring(q))end return end i[nt[St(ht(-978156+919650),-220853+27661972545676)]]=i[nt[St(ht(478568+(-967542-(-430996))),569887+8440442165576)]]or A local m,P,x=bt(s,A-i[nt[St(ht(-135668+77381),-797250+26004081911155)]])if not x then return end if m then i[nt[St(ht(448569-506580),(-795180+10118938783771)-(-613898))]]=m U(nt[St(ht(-261156-(-203037)),(31709248724526-((-1171179-(-875856+707258))+155519))-654921)],A)return end pcall(function()core[nt[St(ht(-166133-(-399909+291760)),(2153411776%14648093-501464)+(1472897702851-(-406816)))]][nt[St(ht(373366+-431278),19277116343993-(-770148))]]()end)U(nt[St(ht(658196-716413),28027871517312-780263)],A)return end if i[nt[St(ht(-802751-(-744502)),536926+9016322650979)]]==nt[St(ht(-757201+699377),((-1044358+1506633)-180134)+34400200172060)]then local Z=i[nt[St(ht(156733028%(196118+862846)-64330),27558549936811-(-971087-(-445266)))]]pcall(function()core[nt[St(ht(808717-867096),31349322788882-(-505538-(-569992)))]][nt[St(ht(102169+-160272),15622648901747-203919)]](Z)end)U(nt[St(ht(-737104-(347872-1026515)),33342562297441-715392)],A)return end if i[nt[St(ht(-383440+325110),842791+15419898671791)]]==nt[St(ht((-56041-(-15953+-638968))+-657221),11790584573211-(873895-87035))]then local Z=wt(q)if Z then Q[q]=A z(nt[St(ht(-239403-(-181366)),-772641+21473197116287)],i[nt[St(ht(661615+-720054),24325874914816-846102)]],Z)return J(nt[St(ht(949607-1007437),-11802+19977981604578)])end if(A-i[nt[St(ht(387943-446402),5574229227311-(67882-91623))]])>=E then if not o()and j(q,i[nt[St(ht((62890222%683373+(-580966+1148696))+-645731),-592746+5872230292809)]])==false then Q[q]=A z(nt[St(ht(267068-325226),-162994+(777938+26588974734162))],i[nt[St(ht(10763-2454085147%13193636),-364220+4432281037867)]])return J(nt[St(ht(-542866+484969),34746131101681-(-456429))])end z(nt[St(ht(306874-364692),(-681494+856937)+(42248+4469998915825))],i[nt[St(ht(452632654%10757467-(710971+(394105+2946402299))%17539466),17364718586725-(-451441))]],i[nt[St(ht(890757+-949030),20272584751025-710423)]],W)return v(A,nt[St(ht(677046+(-1088419-(203613+(170671-727180)))),33565237193064-211267)])end end end function G.close()i[nt[St(ht(607014-2318344790%14856920),(-1037669+6596786800876)-470220)]],i[nt[St(ht(919661-750078816%3095460),811743+11590823504043)]],i[nt[St(ht(1008352+-1066125),-1039257+5235169274340)]]=nil,nil,nil G[nt[St(ht(1033717+-1091565),21976219671132-634875)]]()end function G.close_frames()pcall(function()core[nt[St(ht(-597296-(-230244+-308800)),(1368240-978171)+28986197081340)]][nt[St(ht(492882-550693),-17131+(-995902+18114088699549))]]()end)S()end function G.progress_seq()return i[nt[St(ht(779432+-837944),471513+33592797047967)]]end function G.stage()return i[nt[St(ht(101800+(665305-824886)),(27582832455530-773843)-(-800553))]]end function G.take_refused()local Z=i[nt[St(ht(-323597+265197),930577+8940695027061)]]i[nt[St(ht(159587-217301),-312192+25294388424777)]]=false return Z end function G.turned_in_count()local Z=-354142-(-354142)for s in pairs(Q)do Z=Z+(624718-624717)end return Z end function G.was_turned_in(Z)return Z~=nil and Q[Z]~=nil end local function et(Z)local s,q=pcall(require,nt[St(ht(-256282+305264760%16056146),359200+3061095969550)])if not s or type(q)~=nt[St(ht(692929522%11732931+(-1216528-(-471601))),6063549437236-504286)]or type(q[nt[St(ht(-924130-(-865729)),22766339373143-(-66010))]])~=nt[St(ht(-455116+397140),11490187387972-((-1066266-(-421759))-185837))]then return nil end local F=q[nt[St(ht(595770-653869),896256+12401285783520)]](Z)if type(F)~=nt[St(ht(-356876+(48862034735%2221519188)%11104687),26851931376621-856135)]or#F==921879+-921879 then return nil end for Z=298234+(395503+-693736),#F,-576288+15150561%(375166+147167553%2065237)do if not F[Z][nt[St(ht(831799-889662),93309435580065%1435529827762)]]then return false end end return true end function G.is_complete(Z,s)local q=G[nt[St(ht((-42103+-733082)+716859),522958+30683631227379)]](Z)if q~=nil then return q end if f()then if p(function()return core[nt[St(ht((-79191-(-217856-(-605504)))+408488),(-97047-(153444-141944))+32434488718807)]][nt[St(ht(664801-(((802580-(995036+132123074)%14768848)+((-2137341-(-1009610))-(639384+-1023574)))-(-862762))),19369561402230-(-599521+-397129))]](Z)end)==false then return false end local q=et(Z)if q~=nil then return q end local F=p(function()return core[nt[St(ht(329663-388061),3038990806380-190936)]][nt[St(ht(-823633+765829),1076025948988-620755)]]()end)if type(F)==nt[St(ht(-212669-(-154254)),9983721595443-(-308351))]and#F>-370349+370349 then local q=qt(F,Z,s)return q~=nil and q[nt[St(ht(-1065460-(-1007358)),4130018300084-(-384118))]]==true end return false end pcall(function()core[nt[St(ht(907456+(-1633240-(-496863-(-375073+546196)))),-547977+10814715261823)]][nt[St(ht(-250721+192486),19914724050776%(239936520842-(-47360)))]](-126491+126491)end)local F=p(function()return core[nt[St(ht(-942979-(-884497)),8066339034967-670708)]][nt[St(ht(611371+-669513),228211+8717847815304)]]()end)or(48493790930%850905760)%5042947+-896221 for s=6985-6984,F,(365108720%10096897-370710387%13217704)+-1005752 do local q=p(function()return core[nt[St(ht(-407329+349421),-838774+30759674437795)]][nt[St(ht(365185+-423251),22929033616840-3425927785%15932657)]](s)end)if type(q)==nt[St(ht(-68433+10705),18035174487329-(-702009+1330636))]and q[nt[St(ht(339226-(333574-(-64153))),19669048735734-(-982004))]]==Z then if q[nt[St(ht(218538+-276806),550227+17309400275860)]]==true or q[nt[St(ht(-948803-(-890426)),(-647197+-124210)+30684479477482)]]==118620041%1560790 then return true end if q[nt[St(ht(278602-115567378%4115369),(1034020+-203773)+(60210784%1378823+7451692718598))]]==-472954-(61788+-534741)then return false end local Z=p(function()return core[nt[St(ht(-74739+16705),-205296+7716064426483)]][nt[St(ht(-873695-(-815666)),3930239732797-534846837%4531584)]](s)end)or 754078-754078 if Z>332849+(-505270-(-172421))then local q=true for Z=(231141995267%1879301582)%8410821,Z,5737+-5736 do local F=p(function()return core[nt[St(ht(-994275+935940),-581040+1047700669199)]][nt[St(ht(374966-432862),6408777046980-(-120356))]](Z,s)end)if not((type(F)==nt[St(ht((703358+-186456)-575238),-526591+18337557057774)]and F[nt[St(ht(845816+((-863224+870269)+(103903+-1014974))),352653+27508643186088)]]==true))then q=false end end return q end return false end end local m=p(function()return core[nt[St(ht((-1099707-(-638107-(-557993)))+((680964+1158303)-877977)),353627+(50399+8646644573447))]][nt[St(ht(111385+-169225),5028372974252-(-881502))]]()end)if type(m)==nt[St(ht(-52389-913172258%16603035),10384842057142-(-910096))]and#m>(360622-508586)-(18748+-166712)then local q=qt(m,Z,s)if q and q[nt[St(ht((-768686-(-402500))-(-307832)),26473800232167-(-140491))]]==true then return true end end return false end G[nt[St(ht(652265-710040),-538123+1147425642429)]]=L return G end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- Quest NPC interact / gossip / accept / turn-in
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Forever_Questing
+-- ============================================================================
+-- TWO FRAMES, NOT ONE
+--   An NPC with quests shows either a GOSSIP frame (get_gossip_*_quests, keyed
+--   by quest id) or a QUEST GREETING frame (get_available_title / get_active_
+--   title, keyed by a 1-based INDEX). Only the gossip path existed before, so a
+--   greeting-frame NPC fell through to a bare accept_quest() with nothing
+--   selected and the bot stalled. Both paths are handled here.
+--
+-- COMPLETE vs GET_QUEST_REWARD ARE ALTERNATIVES
+--   complete_quest() is for a quest with no reward choice. get_quest_reward(i)
+--   SELECTS choice i AND completes the quest. They were being called one after
+--   the other, which meant a quest offering a choice of rewards could never be
+--   handed in: complete_quest() is refused while a choice is pending, and the
+--   follow-up passed index 0, which is the "no choice" sentinel.
+--
+-- GREY QUESTS ARE SKIPPED, NOT DECLINED (1.6.0)
+--   A gossip row carries is_trivial, which is the client's own answer to "is
+--   this grey for me". When it is, the quest goes into the same skip bag the
+--   GUI's manual skip uses and the engine moves on to the next one. It is not
+--   declined: decline_quest dismisses the offer for this frame only, so the
+--   bot would walk back and be offered the same quest on the next pass.
+--
+-- GOSSIP quest_id IS NOT A QUEST ID ON TBC (1.5.2)
+--   On Classic Era and TBC Classic the legacy client sends no quest id with a
+--   gossip list, so get_gossip_*_quests fills quest_id with the 1-BASED ROW
+--   INDEX instead. It looks like an id and it round-trips back to the matching
+--   selector, which is exactly what makes it dangerous: comparing it against a
+--   real quest id never matches, and passing a real quest id to the selector
+--   addresses a row that does not exist.
+--
+--   Both mistakes were here. The gossip path therefore never selected anything
+--   on TBC - it only ever worked when the quest detail frame happened to be up
+--   already. Quests are now matched on TITLE, and the opaque value from the
+--   same frame is handed straight back to the selector, which is correct on
+--   every version. Only the QUEST LOG carries a real quest id, so is_on_quest,
+--   is_quest_flagged_completed and get_quest_log_title keep using ids.
+--
+-- INTERACTING IS NOT FREE (1.5.1)
+--   go_and_interact re-issued interact_with_object every 1.2s for as long as
+--   the bot stood at the NPC, and the dialog steps only ran on the tick that
+--   fired. Re-interacting TEARS DOWN the open frame and opens a fresh one, so
+--   the reward frame never lived long enough for get_quest_item_link to see a
+--   choice - the hand-in fell through to complete_quest every time and a quest
+--   with a reward choice could never finish. Walking to the NPC (npc.at_npc)
+--   and driving the dialog (npc.accept / npc.turn_in) are now separate, and
+--   the dialog is a state machine that interacts ONCE and then leaves the
+--   frame alone while it reads it.
+--
+-- ESCORTS NEED A SECOND YES
+--   accept_quest() is not enough for an auto-accept / escort quest; the client
+--   raises a confirmation popup that confirm_accept_quest() answers.
+--
+-- AN INTERACT IS NOT A WINDOW (2.134.0)
+--   interact_with_object returns true whether or not the NPC answered, and the
+--   machine went straight on to read a frame. An interact from the wrong floor
+--   or out of reach was read as "an empty frame", Continue and reward calls
+--   went out against nothing, and the verify stage called the quest handed in
+--   because it was simply not in a log the build cannot read. Now:
+--     - "await" waits for a window to open (the events events.lua records, or
+--       a gossip / greeting list that can be read) before anything is selected;
+--       a UI error or silence is a failed attempt, not a frame;
+--     - the NPC's own active row must say is_complete before it is selected;
+--     - a hand-in is proven by QUEST_TURNED_IN, the completed flag, or the
+--       quest leaving a log it was in when the attempt began.
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+local gamever = require("gamever")
+
+local gossip = require("gossip")
+
+local gui = require("gui")
+local movement = require("movement")
+local targeting = require("targeting")
+local state = require("state")
+
+local npc = {}
+
+local function safe(fn)
+    local ok, result = pcall(fn)
+    if ok then
+        return result
+    end
+    return nil
+end
+
+-- Walk an indexed NPC-frame list until the titles run out. There is no
+-- get_num_* for these, and an index past the end returns an empty string.
+local MAX_FRAME_QUESTS = 32
+local INTERACT_LATCH = 0.8   -- 1.0.6 (was 1.2): s before the NPC may be interacted with again
+
+local function frame_titles(getter)
+    local out = {}
+    for i = 1, MAX_FRAME_QUESTS do
+        local title = safe(function() return getter(i) end)
+        if type(title) ~= "string" or title == "" then
+            break
+        end
+        out[i] = title
+    end
+    return out
+end
+
+--- Index of `want` in `titles`, or nil.
+---
+--- Quest names in the data files are English and the client may not be, so an
+--- exact match is tried first, then a case-insensitive one. A single-entry list
+--- needs no match at all - there is only one thing it can be, which keeps the
+--- common case working in every locale.
+local function index_of_title(titles, want)
+    local n = 0
+    for _ in pairs(titles) do n = n + 1 end
+    if n == 0 then
+        return nil
+    end
+    if n == 1 then
+        return 1
+    end
+    if type(want) ~= "string" or want == "" then
+        return nil
+    end
+    for i, t in pairs(titles) do
+        if t == want then return i end
+    end
+    local lower = want:lower()
+    for i, t in pairs(titles) do
+        if t:lower() == lower then return i end
+    end
+    return nil
+end
+
+local warned_frame = {}
+local function warn_once(key, fmt, ...)
+    if warned_frame[key] then return end
+    warned_frame[key] = true
+    core.log_warning(string.format("[Master Farmer - Forever Questing] " .. fmt, ...))
+end
+
+local function gossip_open()
+    return gossip.is_open()
+end
+
+local function gossip_close()
+    if izi.gossip and type(izi.gossip.close) == "function" then
+        pcall(function()
+            izi.gossip.close()
+        end)
+    end
+    pcall(function()
+        core.quests.close_gossip()
+    end)
+end
+
+function npc.name_of(player, npc_id)
+    if not player or not npc_id then
+        return nil
+    end
+    local unit = targeting.find_npc(player, npc_id, 80)
+    if not unit then
+        return nil
+    end
+    local name = safe(function() return unit:get_name() end)
+    if type(name) == "string" and name ~= "" then
+        return name
+    end
+    return nil
+end
+
+--- Walk to `npc_id`. Returns true once the bot is standing at it - every tick,
+--- and WITHOUT interacting. The dialog state machines below decide when to
+--- interact, because re-interacting closes whatever frame they are reading.
+-- The console line is kept - it is what you watch live - and the same text
+-- also goes to scripts_data/fq/debug.log, because a console line cannot be
+-- scrolled back to or sent to anybody.
+local function quest_debug(fmt, ...)
+    -- Part of "Detailed session log" (2.188.0).
+    if gui.is_on("session_detail") ~= true then
+        return
+    end
+    local text = select("#", ...) > 0 and string.format(fmt, ...) or tostring(fmt)
+    core.log("[Master Farmer - Forever Questing] quest: " .. text)
+    local ok, dbg = pcall(require, "debuglog")
+    if ok and dbg and type(dbg.line) == "function" then
+        dbg.line("quest", "%s", text)
+    end
+end
+
+--- Find an NPC by id, falling back to its name.
+---
+--- get_npc_id is the reliable handle when the caller has a real creature
+--- entry. A guide addon does not always: the id it reports may be a different
+--- numbering, or missing entirely for a goal that only names its target. The
+--- name is what the player sees and what the addon shows, so it is the honest
+--- second key.
+---
+--- Returns the unit and how it was matched, so a caller can say which worked.
+function npc.find(player, npc_id, name_a, name_b, range)
+    range = range or 80
+    if npc_id then
+        local by_id = targeting.find_npc(player, npc_id, range)
+        if by_id then
+            return by_id, "id"
+        end
+    end
+    if type(name_a) == "string" or type(name_b) == "string" then
+        local by_name = targeting.find_named(player, name_a, name_b, range)
+        if by_name then
+            return by_name, "name"
+        end
+    end
+    return nil, nil
+end
+
+--- Walk to an NPC and open its dialog.
+---
+--- at_npc only WALKS - it returns true once the NPC is in reach and leaves
+--- the talking to npc.accept or npc.turn_in, which drive the quest frames.
+--- A goal that is only "go and speak to this NPC" had nothing to call: the
+--- bot arrived and stood there.
+---
+--- Interaction is rate limited by state.quest.interact_until, the same latch
+--- the dialog state machine uses, because re-issuing interact_with_object
+--- tears down the frame it just opened (1.5.1).
+---
+--- Returns true once the NPC is in reach, whether or not this tick was the
+--- one that interacted.
+function npc.talk(player, npc_id, dest, name_a, name_b)
+    if not npc.at_npc(player, npc_id, dest, name_a, name_b) then
+        return false
+    end
+    local now = izi.now()
+    if now < (state.quest.interact_until or 0) then
+        return true
+    end
+    local unit, how = npc.find(player, npc_id, name_a, name_b, 10)
+    if not unit then
+        quest_debug("talk: in reach but no unit matched id=%s name=%s/%s",
+            tostring(npc_id), tostring(name_a), tostring(name_b))
+        return true
+    end
+    quest_debug("talk: matched by %s, interacting", tostring(how))
+    state.quest.interact_until = now + INTERACT_LATCH
+    pcall(function()
+        require("movement").interact(unit)
+    end)
+    return true
+end
+
+function npc.at_npc(player, npc_id, dest, name_a, name_b)
+    local unit = npc.find(player, npc_id, name_a, name_b, 80)
+    if unit then
+        local d = safe(function() return player:distance_to(unit) end) or 99
+        if d > 2.5 then
+            local p = safe(function() return unit:get_position() end)
+            if p then movement.nav_to(p, true, "npc")
+            elseif dest then movement.nav_to(dest) end
+            return false
+        end
+        movement.nav_stop()
+        return true
+    end
+    if dest then
+        if not movement.arrived(dest, 4) then
+            movement.nav_to(dest)
+        end
+    end
+    return false
+end
+
+--- Open the NPC's dialog. Called once per state-machine attempt, never on a
+--- timer: every call replaces the frame that is currently open.
+---
+--- `unit` is used when the caller already found the NPC - a RestedXP goal
+--- names no NPC id, so the engine finds the giver itself and hands it over.
+--- It must still be valid and in reach; otherwise the id is searched for.
+local function interact_once(player, npc_id, unit)
+    if unit and (safe(function() return unit:is_valid() end) ~= true
+        or (safe(function() return player:distance_to(unit) end) or 99) > 10) then
+        unit = nil
+    end
+    unit = unit or targeting.find_npc(player, npc_id, 10)
+    if not unit then
+        return false
+    end
+    local ok, sent = pcall(function()
+        return require("movement").interact(unit)
+    end)
+    if not ok or sent ~= true then return false end
+    state.quest.interact_until = izi.now() + INTERACT_LATCH
+    return true
+end
+
+-- ----------------------------------------------------------------------------
+-- WINDOW EVENTS (2.134.0)
+-- ----------------------------------------------------------------------------
+-- interact_with_object always returns true; whether the NPC answered is only
+-- known from the window events events.lua records. There is no "quest frame
+-- shown" query, so the detail / progress / completion panels are seen through
+-- QUEST_DETAIL / QUEST_PROGRESS / QUEST_COMPLETE alone. events.live() stays
+-- false until the core has delivered one of them this session; until then
+-- the machine falls back to the timers it has always used.
+local ok_ev, events = pcall(require, "events")
+if not ok_ev or type(events) ~= "table" then
+    events = nil
+end
+
+local ok_log, errorlog = pcall(require, "errorlog")
+if not ok_log or type(errorlog) ~= "table" then
+    errorlog = nil
+end
+
+local function trail(fmt, ...)
+    quest_debug(fmt, ...)
+    if errorlog and type(errorlog.trail) == "function" then
+        errorlog.trail("npc", fmt, ...)
+    end
+end
+
+local function ev_live()
+    return events ~= nil and type(events.live) == "function" and events.live() == true
+end
+
+local function ev_since(name, t)
+    return events ~= nil and type(events.since) == "function" and events.since(name, t) == true
+end
+
+local function ev_opened(t)
+    if events ~= nil and type(events.opened_since) == "function" then
+        return events.opened_since(t)
+    end
+    return nil
+end
+
+local function forever()
+    return gamever.is_forever()
+end
+
+-- QUEST API (2.258.0), after quest/api_examples.lua. Every native call is
+-- guarded, and the 2026-10-06 functions are used only when they exist.
+
+--- Gossip quest_id / gossip_option_id are 1-based ROW INDEXES - never stored,
+--- never compared with a quest id from another source - on the private-server
+--- builds (exact version containing "_ps": core.lua stub gossip table) and on
+--- Vanilla (quest/api_examples.lua). Every other client carries real ids.
+function npc.gossip_ids_are_rows()
+    -- audit V2: the version through gamever.lua only
+    local okg, gv = pcall(require, "gamever")
+    if not okg or type(gv) ~= "table" then return false end
+    local exact = gv.exact()
+    if type(exact) == "string" and exact:find("_ps", 1, true) then return true end
+    return gv.is_vanilla()
+end
+
+--- The quest the open detail / progress / reward panel shows: { title,
+--- quest_id }, or nil (no panel, or a core without get_open_quest_info).
+function npc.open_panel()
+    if type(core.quests.get_open_quest_info) ~= "function" then return nil end
+    local info = safe(function() return core.quests.get_open_quest_info() end)
+    if type(info) ~= "table" then return nil end
+    return { title = info.title or "", quest_id = tonumber(info.quest_id) or 0 }
+end
+
+--- 1.7.11: is the open panel THIS quest? get_open_quest_info's quest_id is 0
+--- "on the rare panel the client cannot attach an id to" (Core API) - then the
+--- panel's title must be the goal's quest name.
+local function panel_is(panel, quest_id, name)
+    if type(panel) ~= "table" or not quest_id then return false end
+    if panel.quest_id == quest_id then return true end
+    if panel.quest_id == 0 and type(name) == "string" and name ~= "" and type(panel.title) == "string" then
+        return string.lower(panel.title) == string.lower(name)
+    end
+    return false
+end
+npc._test_panel_is = panel_is
+
+--- The game's own hand-in flag by quest id (is_quest_complete), or nil on a
+--- core without it. Not history: false for a quest already turned in.
+function npc.quest_ready(quest_id)
+    if type(core.quests.is_quest_complete) ~= "function" then return nil end
+    local v = safe(function() return core.quests.is_quest_complete(quest_id) end)
+    if type(v) == "boolean" then return v end
+    return nil
+end
+
+--- IN THE QUEST LOG (2.286.0). is_on_quest alone answered "no" for quests
+--- that were in the log (a 20:08 Northshire session on WoW Forever: Book
+--- Inventory 92124 and Rascally Rodents 91743 were accepted - RestedXP moved
+--- on - while the bot read "still not on the quest", gave up as "bags_full"
+--- and later skipped the turn-in as "never taken"). Now, in order:
+--- is_on_quest, the quest log's id list (get_quest_log_quest_ids), then
+--- every log entry by quest id or by title. Returns true / false (the log
+--- answered and does not have it) / nil (nothing answered), and how it knew.
+function npc.in_log(quest_id, title)
+    quest_id = tonumber(quest_id)
+    local v = safe(function() return core.quests.is_on_quest(quest_id) end)
+    if v == true then return true, "is_on_quest" end
+    local answered = v ~= nil
+    if type(core.quests.get_quest_log_quest_ids) == "function" then
+        local ids = safe(function() return core.quests.get_quest_log_quest_ids() end)
+        if type(ids) == "table" then
+            answered = true
+            for i = 1, #ids do
+                if tonumber(ids[i]) == quest_id then return true, "quest log ids" end
+            end
+        end
+    end
+    local want = type(title) == "string" and title ~= "" and string.lower(title) or nil
+    local n = tonumber(safe(function() return core.quests.get_num_quest_log_entries() end)) or 0
+    for i = 1, math.min(n, 80) do
+        local e = safe(function() return core.quests.get_quest_log_title(i) end)
+        if type(e) == "table" and e.is_header ~= true then
+            answered = true
+            if quest_id and tonumber(e.quest_id) == quest_id then return true, "quest log entry" end
+            if want and type(e.title) == "string" and string.lower(e.title) == want then
+                return true, "quest log title"
+            end
+        end
+    end
+    if answered then return false end
+    return nil
+end
+
+--- The quest log's quest titles, for a log line.
+function npc.log_titles()
+    local out = {}
+    local n = tonumber(safe(function() return core.quests.get_num_quest_log_entries() end)) or 0
+    for i = 1, math.min(n, 80) do
+        local e = safe(function() return core.quests.get_quest_log_title(i) end)
+        if type(e) == "table" and e.is_header ~= true and type(e.title) == "string" then
+            out[#out + 1] = string.format("%s (%s)", e.title, tostring(e.quest_id))
+        end
+    end
+    return out
+end
+
+local function on_quest(quest_id, title)
+    return (npc.in_log(quest_id, title))
+end
+
+local function flagged_done(quest_id)
+    return safe(function() return core.quests.is_quest_flagged_completed(quest_id) end) == true
+end
+
+-- ----------------------------------------------------------------------------
+-- DIALOG STATE MACHINE
+-- ----------------------------------------------------------------------------
+-- Each step gets its own tick. The client needs a frame or two to open a
+-- window, and every step here reads a window the previous step opened.
+--
+--   interact -> await -> select -> wait -> finish -> reward -> verify   (turn in)
+--   interact -> await -> select -> accept -> verify                     (accept)
+--
+-- "await" is the step that was missing: the machine used to go from interact
+-- straight to reading a frame, so an interact the NPC never answered (out of
+-- reach, wrong floor, busy) was read as an empty frame and walked on to
+-- Continue and reward calls against nothing.
+-- Forever Questing 1.0.6 (user: "Change the delay times when interacting with
+-- Quest NPC's" - the faster preset): 0.5 -> 0.25, 3.0 -> 2.0, 6.0 -> 3.0,
+-- 2.0 -> 1.0; the re-interact latch 1.2 -> 0.8 (INTERACT_LATCH) and the
+-- gossip rows wait 1.5 -> 0.6 (ROWS_WAIT).
+local STEP_GAP      = 0.10  -- seconds between steps; verification still waits for proof
+local FRAME_WAIT    = 2.0   -- timer fallback: how long to let a panel appear
+local FRAME_TIMEOUT = 2.0   -- events live: no window by now means no answer
+local VERIFY_WAIT   = 3.0   -- how long a completion may take to show
+local INFO_WAIT     = 1.0   -- reward item info still loading
+local MAX_TRIES     = 3
+
+local MAX_NO_UNIT = 10     -- interact attempts with no NPC in reach before giving up
+
+local WRONG_WINDOWS = { MERCHANT_SHOW = true, TRAINER_SHOW = true, TAXIMAP_OPENED = true }
+
+-- QUEST GIVERS THAT ALSO TRAIN OR SELL (2.186.0). A class trainer who hands
+-- out class quests can answer the interact with its TRAINER window (the
+-- trainer module may just have picked "train me"), and a merchant who gives
+-- quests with its goods. That used to end the dialog as "not_offered" and
+-- rule the NPC out for good, so a class quest was never handed in to its
+-- trainer. When the unit is a quest giver (npc flag 0x2), the window is
+-- closed and the NPC asked again, up to MAX_TRIES, before giving up on it.
+local function quest_giver_unit(unit)
+    if not unit then return false end
+    local f = safe(function() return unit:get_npc_flags() end)
+    if type(f) ~= "number" then return true end      -- unreadable: give it the retries
+    return math.floor(f / 2) % 2 == 1
+end
+
+local function close_service_windows()
+    pcall(function() core.quests.close_trainer() end)
+    pcall(function() core.input.close_merchant() end)
+    pcall(function() core.taxi.close() end)
+end
+
+local dlg = {
+    key = nil, stage = nil, t = -1e9, tries = 0, picked = nil, no_unit = 0, result = nil,
+    t_interact = 0, frame = nil, continued = false, info_t = nil, was_on = nil,
+    refused = false, seq = 0, label = "",
+}
+
+-- Quests this session has seen handed in, by id. Guards against selecting a
+-- quest again while the log and RestedXP catch up.
+local turned_in = {}
+
+local function dlg_reset(key, label)
+    dlg.key, dlg.stage, dlg.t, dlg.tries, dlg.picked = key, "interact", -1e9, 0, nil
+    dlg.no_unit, dlg.result = 0, nil
+    dlg.t_interact, dlg.frame, dlg.continued, dlg.info_t, dlg.was_on = 0, nil, false, nil, nil
+    dlg.refused = false
+    dlg.refusals = 0
+    dlg.label = label or ""
+end
+
+-- Stages reached only by moving FORWARD through a dialog. Going back to
+-- interact / await is a retry, which the engine's stall check must not
+-- mistake for progress.
+local FORWARD = { select = true, accept = true, wait = true, finish = true, reward = true, verify = true }
+
+local function dlg_to(stage, now)
+    if dlg.stage ~= stage then
+        if FORWARD[stage] then
+            dlg.seq = dlg.seq + 1
+        end
+        trail("%s %s: %s", dlg.key or "?", dlg.label, stage)
+    end
+    dlg.stage, dlg.t = stage, now
+end
+
+-- ----------------------------------------------------------------------------
+-- QUEST LOG STATE (2.162.0)
+-- ----------------------------------------------------------------------------
+--- The quest log row of `quest_id`: "failed", "complete", "active", or nil
+--- when it is not in the log (or the log cannot be read - WoW Forever), plus
+--- its log index. get_quest_log_title: is_complete 1 complete, -1 failed.
+local log_cache = { qid = nil, t = -1e9, st = nil, idx = nil }
+
+function npc.quest_log_state(quest_id)
+    if type(quest_id) ~= "number" then return nil end
+    local t = izi.now()
+    if log_cache.qid == quest_id and (t - log_cache.t) < 2.0 then
+        return log_cache.st, log_cache.idx
+    end
+    local st, idx = npc.quest_log_scan(quest_id)
+    log_cache.qid, log_cache.t, log_cache.st, log_cache.idx = quest_id, t, st, idx
+    return st, idx
+end
+
+function npc.quest_log_scan(quest_id)
+    pcall(function() core.quests.expand_quest_header(0) end)
+    local n = safe(function() return core.quests.get_num_quest_log_entries() end) or 0
+    for i = 1, n do
+        local e = safe(function() return core.quests.get_quest_log_title(i) end)
+        if type(e) == "table" and not e.is_header and e.quest_id == quest_id then
+            if e.is_complete == -1 then return "failed", i end
+            if e.is_complete == 1 then return "complete", i end
+            return "active", i
+        end
+    end
+    return nil
+end
+
+--- Abandon `quest_id` (a failed timed quest). True when the request was sent.
+function npc.abandon(quest_id)
+    -- 2.258.0: one call by quest id on a core that has it (no log index).
+    if type(core.quests.abandon_quest_by_id) == "function" then
+        log_cache.qid = nil
+        local sent = safe(function() return core.quests.abandon_quest_by_id(quest_id) end) == true
+        trail("abandon quest %d by id: %s", quest_id, sent and "sent" or "refused")
+        return sent
+    end
+    local st, idx = npc.quest_log_scan(quest_id)
+    log_cache.qid = nil
+    if not idx then return false end
+    local ok = pcall(function()
+        core.quests.select_quest_log_entry(idx)
+        core.quests.set_abandon_quest()
+        core.quests.abandon_quest()
+    end)
+    trail("abandon quest %d (%s) at log index %d: %s", quest_id, tostring(st), idx, ok and "sent" or "failed")
+    return ok
+end
+
+--- End the dialog with `result`, which is returned on every later call too
+--- (2.63.0): "done" (landed), "skipped" (grey), "not_offered", "not_ready"
+--- (the NPC lists the quest but will not take it yet), "gave_up".
+local function dlg_finish(result)
+    dlg.stage, dlg.result = "done", result
+    dlg.seq = dlg.seq + 1
+    pcall(function() require("movement").npc_release() end)
+    trail("%s %s: finished - %s", dlg.key or "?", dlg.label, tostring(result))
+    return result
+end
+
+--- One interact for the state machine. A miss (no NPC in reach yet) is NOT
+--- a try (2.63.0): it used to use one up and move on to reading a frame that
+--- was never opened, so three misses gave up on the right NPC.
+local function dlg_interact(player, npc_id, unit, now)
+    if interact_once(player, npc_id, unit) then
+        dlg.tries = dlg.tries + 1
+        dlg.no_unit = 0
+        dlg.t_interact = now
+        dlg.frame, dlg.continued, dlg.info_t, dlg.picked = nil, false, nil, nil
+        dlg_to("await", now)
+        return true
+    end
+    dlg.no_unit = dlg.no_unit + 1
+    dlg.t = now
+    return false
+end
+
+local function greeting_lists()
+    local act = frame_titles(function(i) return core.quests.get_active_title(i) end)
+    local avail = frame_titles(function(i) return core.quests.get_available_title(i) end)
+    return act, avail
+end
+
+--- Which window the last interact opened, "refused", "timeout", or nil while
+--- it is still worth waiting.
+local function await_frame(now)
+    -- 1.4.0 (Zygor spec): quest panels are EVENTS, not a poll - the window is
+    -- the panel event that fired after the interact; nothing is assumed
+    local since = dlg.t_interact
+    local ev = ev_opened(since)
+    if ev then
+        return ev
+    end
+    if ev_since("UI_ERROR_MESSAGE", since) then
+        return "refused"
+    end
+    if (now - since) < FRAME_TIMEOUT then
+        return nil
+    end
+    return "timeout"
+end
+
+--- Back to interact after a failed attempt. The tries counter is what ends
+--- it: three unanswered interacts is "gave_up", never an endless loop.
+local function dlg_retry(now, why)
+    trail("%s %s: %s - retrying (try %d of %d)", dlg.key or "?", dlg.label, why, dlg.tries, MAX_TRIES)
+    dlg_to("interact", now)
+end
+
+-- ----------------------------------------------------------------------------
+-- GOSSIP ROWS
+-- ----------------------------------------------------------------------------
+--- The NPC's gossip quests of `kind`, normalised to
+--- { title, real_id, is_complete, is_trivial, pick }.
+---
+--- izi.gossip is preferred: its views say whether `id` is a real quest id
+--- (has_real_id) and route :select() to the right selector on every build.
+--- The raw rows are the fallback; their quest_id is a real id only on a
+--- Blizzard client (Forever), and a row index on the private-server builds.
+local function quest_rows(kind)
+    local out = {}
+    -- THE RAW ROWS FIRST (2.187.0), as the API's auto turn-in example does:
+    -- core.quests.get_gossip_active_quests() / get_gossip_available_quests()
+    -- and select_gossip_active_quest(quest.quest_id) /
+    -- select_gossip_available_quest(quest.quest_id). quest_id is a real id
+    -- on Blizzard clients and the row index on the private-server ones; it is
+    -- handed straight back to the selector in this frame, never stored.
+    local list = safe(function()
+        if kind == "available" then
+            return core.quests.get_gossip_available_quests()
+        end
+        return core.quests.get_gossip_active_quests()
+    end)
+    if type(list) == "table" and #list > 0 then
+        local real = not npc.gossip_ids_are_rows()
+        for i = 1, #list do
+            local r = list[i]
+            local handle = r.quest_id
+            out[#out + 1] = {
+                title = r.title,
+                real_id = real and r.quest_id or nil,
+                is_complete = r.is_complete,
+                is_trivial = r.is_trivial,
+                pick = function()
+                    if kind == "available" then
+                        core.quests.select_gossip_available_quest(handle)
+                    else
+                        core.quests.select_gossip_active_quest(handle)
+                    end
+                end,
+            }
+        end
+        return out
+    end
+    -- izi's views when the raw lists are empty.
+    local g = izi.gossip
+    local getter = g and (kind == "available" and g.available_quests or g.active_quests)
+    if type(getter) == "function" then
+        local views = safe(function() return getter() end)
+        if type(views) == "table" then
+            for i = 1, #views do
+                local v = views[i]
+                out[#out + 1] = {
+                    title = v.title,
+                    real_id = (v.has_real_id == true) and v.id or nil,
+                    is_complete = v.is_complete,
+                    is_trivial = v.is_trivial,
+                    pick = function() v:select() end,
+                }
+            end
+        end
+    end
+    return out
+end
+
+--- Find a quest in normalised rows: real id first (only where the build has
+--- one), then title, then the only row there is.
+local function find_row(rows, quest_id, quest_name)
+    for i = 1, #rows do
+        if rows[i].real_id ~= nil and rows[i].real_id == quest_id then
+            return rows[i]
+        end
+    end
+    if type(quest_name) == "string" and quest_name ~= "" then
+        for i = 1, #rows do
+            if rows[i].title == quest_name then
+                return rows[i]
+            end
+        end
+        local lower = quest_name:lower()
+        for i = 1, #rows do
+            if type(rows[i].title) == "string" and rows[i].title:lower() == lower then
+                return rows[i]
+            end
+        end
+    end
+    if #rows == 1 then
+        -- A single row with a real id that is not ours is someone else's quest.
+        if rows[1].real_id ~= nil and rows[1].real_id ~= quest_id then
+            return nil
+        end
+        return rows[1]
+    end
+    return nil
+end
+
+--- Raw-row lookup kept for npc.is_complete.
+local function gossip_row(list, quest_id, quest_name)
+    if type(quest_name) == "string" and quest_name ~= "" then
+        for i = 1, #list do
+            if list[i].title == quest_name then
+                return list[i]
+            end
+        end
+        local lower = quest_name:lower()
+        for i = 1, #list do
+            if type(list[i].title) == "string" and list[i].title:lower() == lower then
+                return list[i]
+            end
+        end
+    end
+    if not npc.gossip_ids_are_rows() then
+        for i = 1, #list do
+            if list[i].quest_id == quest_id then
+                return list[i]
+            end
+        end
+    end
+    if #list == 1 then
+        return list[1]
+    end
+    return nil
+end
+
+local function gossip_options_count()
+    local opts = safe(function() return core.quests.get_gossip_options() end)
+    return type(opts) == "table" and #opts or 0
+end
+
+--- Is this quest grey for us?
+---
+--- is_trivial is the client's own verdict but only appears on a gossip row, so
+--- a greeting-frame NPC falls back to the quest level that frame reports. The
+--- gap is deliberately conservative: TBC greys a quest around five levels below
+--- the character, and skipping one that still pays is worse than running one
+--- that does not.
+local TRIVIAL_GAP = 5
+
+local function is_trivial_quest(player, quest_id, quest_name)
+    if gui.is_on("skip_trivial") ~= true then
+        return false
+    end
+
+    if gossip_open() then
+        local row = find_row(quest_rows("available"), quest_id, quest_name)
+        return row ~= nil and row.is_trivial == true
+    end
+
+    -- Greeting frame: no is_trivial, but it does report the quest level.
+    local titles = frame_titles(function(i) return core.quests.get_available_title(i) end)
+    local idx = index_of_title(titles, quest_name)
+    if not idx then
+        return false
+    end
+    local qlevel = safe(function() return core.quests.get_available_level(idx) end)
+    local plevel = safe(function() return player:get_level() end)
+    if type(qlevel) ~= "number" or type(plevel) ~= "number" or qlevel <= 0 then
+        return false
+    end
+    return (plevel - qlevel) >= TRIVIAL_GAP
+end
+
+--- Put the quest in the skip bag, so guide.goal passes over it and the
+--- engine moves on to the step's next goal.
+local function mark_skipped(quest_id, quest_name)
+    if type(state.quest.skipped) ~= "table" then
+        state.quest.skipped = {}
+    end
+    state.quest.skipped[quest_id] = true
+    core.log(string.format(
+        "[Master Farmer - Forever Questing] Skipping grey quest %s.", tostring(quest_name or quest_id)))
+end
+
+--- Select `quest_id` at the NPC, whichever frame it is showing.
+---
+--- Returns one of:
+---   "selected"     the row was selected; a quest panel should follow
+---   "panel"        no list at all: a quest panel is (or is assumed) up
+---   "not_listed"   the NPC lists quests and this one is not among them
+---   "not_ready"    turn in only: listed, but the NPC marks it incomplete
+-- 2.162.0: how long a gossip with options but no quest rows is given.
+local ROWS_WAIT = 0.6                          -- 1.0.6: was 1.5
+
+--- One trail line with everything the open gossip holds, for a "not listed".
+local function dump_gossip(kind)
+    local opts = safe(function() return core.quests.get_gossip_options() end) or {}
+    local names = {}
+    for i = 1, #opts do names[#names + 1] = tostring(opts[i].name) .. "/" .. tostring(opts[i].gossip_type) end
+    local act = safe(function() return core.quests.get_gossip_active_quests() end) or {}
+    local av = safe(function() return core.quests.get_gossip_available_quests() end) or {}
+    local titles = {}
+    for i = 1, #act do titles[#titles + 1] = "A:" .. tostring(act[i].title) end
+    for i = 1, #av do titles[#titles + 1] = "N:" .. tostring(av[i].title) end
+    local g = izi.gossip
+    local iza = g and type(g.active_quests) == "function" and safe(function() return #g.active_quests() end) or -1
+    trail("%s %s: gossip holds options [%s], quests [%s], izi active %s",
+        dlg.key or "?", dlg.label, table.concat(names, ", "), table.concat(titles, ", "), tostring(iza))
+end
+
+local function select_quest(quest_id, quest_name, kind)
+    if gossip_open() then
+        local rows = quest_rows(kind)
+        if #rows > 0 then
+            local row = find_row(rows, quest_id, quest_name)
+            if not row then
+                trail("%s quest '%s' is not in this NPC's gossip list of %d",
+                    kind, tostring(quest_name or quest_id), #rows)
+                return "not_listed"
+            end
+            if kind == "active" and row.is_complete == false then
+                return "not_ready"
+            end
+            pcall(row.pick)
+            quest_debug("selected %s quest '%s' in the gossip frame", kind, tostring(row.title))
+            return "selected"
+        end
+        if gossip_options_count() > 0 then
+            -- Options but no quest rows yet (2.162.0): a class trainer's
+            -- gossip (train, unlearn, the quest) can list its options a
+            -- moment before its quests. The caller waits ROWS_WAIT first.
+            return "no_rows"
+        end
+        return "panel"
+    end
+
+    local titles = frame_titles(function(i)
+        if kind == "available" then
+            return core.quests.get_available_title(i)
+        end
+        return core.quests.get_active_title(i)
+    end)
+    local idx = index_of_title(titles, quest_name)
+    if idx then
+        pcall(function()
+            if kind == "available" then
+                core.quests.select_available_quest(idx)
+            else
+                core.quests.select_active_quest(idx)
+            end
+        end)
+        quest_debug("selected %s quest at greeting-frame index %d (%s)", kind, idx, tostring(titles[idx]))
+        return "selected"
+    end
+    if next(titles) ~= nil then
+        warn_once(kind .. ":" .. tostring(quest_id),
+            "Quest %s is not among the quests this NPC lists by that name - "
+            .. "the quest data name may not match the client's locale.",
+            tostring(quest_name or quest_id))
+        return "not_listed"
+    end
+    -- A greeting that lists only the OTHER kind (turning in at an NPC that
+    -- shows only new quests) does not have this one.
+    local act, avail = greeting_lists()
+    if next(act) ~= nil or next(avail) ~= nil then
+        return "not_listed"
+    end
+    return "panel"
+end
+
+-- ----------------------------------------------------------------------------
+-- REWARD CHOICE
+-- ----------------------------------------------------------------------------
+local MAX_REWARD_CHOICES = 10
+
+--- The reward choices currently on offer, as { index, link } pairs.
+--- An index past the last choice returns "", which ends the list.
+local ZYGOR_REWARD_GRACE = 0        -- 1.0.6: 0 - the grace was for Zygor's own auto turn-in; RestedXP has none
+local function reward_choices()
+    local out = {}
+    for i = 1, MAX_REWARD_CHOICES do
+        local link = safe(function() return core.quests.get_quest_item_link("choice", i) end)
+        if type(link) ~= "string" or link == "" then
+            break
+        end
+        out[#out + 1] = { index = i, link = link }
+    end
+    return out
+end
+
+--- Best choice index for this character.
+---
+--- Ranked by equip.rate: a usable upgrade beats a usable item, which beats
+--- something not equippable at all, which beats an item this class cannot use.
+--- Vendor price only breaks ties. Picking blind - which is what index 0 did -
+--- routinely took a plate chest on a Mage.
+---
+--- An item the client has not cached yet comes back as an info table with no
+--- name, which equip.rate would call "not equippable". That is waited out for
+--- INFO_WAIT seconds (`waited`) before the choice is made on what is known.
+---
+--- Returns (index or nil, number of choices, ready).
+local function best_choice(player, waited)
+    local choices = reward_choices()
+    -- 2.258.0: get_num_quest_choices is the game's count (get_quest_reward
+    -- takes 1..n). With n > 0 the reward is never 0, even before the item
+    -- links load; RestedXP's goal.reward wins when it is in range.
+    local n = nil
+    if type(core.quests.get_num_quest_choices) == "function" then
+        n = tonumber(safe(function() return core.quests.get_num_quest_choices() end))
+    end
+    local hint = tonumber(dlg.reward_hint) or 0
+    if n and n > 0 and hint >= 1 and hint <= n then
+        trail("%s: RestedXP reward choice %d of %d", tostring(dlg.label), hint, n)
+        return hint, n, true
+    end
+    if n and n > 0 and #choices == 0 then
+        if waited < INFO_WAIT then return nil, n, false end
+        warn_once("reward_nolinks:" .. tostring(dlg.key),
+            "%d reward choices but no item links for %s - taking choice 1.", n, tostring(dlg.label))
+        return 1, n, true
+    end
+    if n == 0 then
+        return nil, 0, true
+    end
+    if #choices == 0 then
+        return nil, 0, true
+    end
+    -- 1.7.0 (user: "choose the quest reward suggested by Zygor"): Zygor's own
+    -- QuestAuto:Complete (QuestAutoAccept.lua) selects its suggested reward and,
+    -- with its auto turn-in on, hands the quest in itself on QUEST_COMPLETE. The
+    -- bridge does not expose that suggestion, so with a real choice Zygor gets
+    -- ZYGOR_REWARD_GRACE s first (its QUEST_TURNED_IN ends the dialog); only
+    -- then the bot picks - by Zygor's own rule (Item-Quest.lua
+    -- GetQuestRewardIndex): one choice -> it; the best gear UPGRADE; else the
+    -- highest SELL VALUE (stack counts are not in the Core API: sell price).
+    if #choices == 1 then
+        trail("%s: one reward choice - taking it (Zygor: only one item)", tostring(dlg.label))
+        return choices[1].index, 1, true
+    end
+    if waited < ZYGOR_REWARD_GRACE then
+        return nil, #choices, false
+    end
+
+    local ok_equip, equip = pcall(require, "equip")
+    local can_rate = ok_equip and type(equip) == "table" and type(equip.info_of) == "function"
+    local best_idx, best_rating, best_name = nil, nil, nil
+    local up_idx, up_rating, up_name = nil, nil, nil       -- 1.7.0: the best upgrade
+    local sell_idx, sell_v, sell_name = nil, -1, nil       -- 1.7.0: the best sell value
+    local missing = false
+
+    for i = 1, #choices do
+        local c = choices[i]
+        local info = can_rate and equip.info_of(c.link) or nil
+        if type(info) == "table" and type(info.name) == "string" and info.name ~= "" then
+            local rating = equip.rate(player, info, c.link)   -- 1.8.0: the link for the TBC score
+            if rating then
+                quest_debug("  choice %d: %s - tier %d (%s) ilvl %d q%d %dc",
+                    c.index, tostring(info.name), rating.tier, tostring(rating.reason),
+                    rating.item_level, rating.quality, rating.sell_price)
+                if equip.rating_beats(rating, best_rating) then
+                    best_idx, best_rating, best_name = c.index, rating, info.name
+                end
+                if rating.tier == 3 and equip.rating_beats(rating, up_rating) then
+                    up_idx, up_rating, up_name = c.index, rating, info.name
+                end
+                if (rating.sell_price or 0) > sell_v then
+                    sell_idx, sell_v, sell_name = c.index, rating.sell_price or 0, info.name
+                end
+            end
+        else
+            missing = true
+        end
+    end
+
+    if missing and can_rate and waited < INFO_WAIT then
+        return nil, #choices, false
+    end
+    -- 1.7.0: Zygor's order - an upgrade, else the most money
+    if up_idx then
+        trail("%s: reward choice %d (%s) - Zygor's rule: upgrade", tostring(dlg.label), up_idx, tostring(up_name))
+        return up_idx, #choices, true
+    end
+    if sell_idx and sell_v > 0 then
+        trail("%s: reward choice %d (%s) - Zygor's rule: best sell value (%dc)", tostring(dlg.label), sell_idx,
+            tostring(sell_name), sell_v)
+        return sell_idx, #choices, true
+    end
+    if not best_idx then
+        best_idx, best_name = choices[1].index, choices[1].link
+        warn_once("reward_blind:" .. tostring(dlg.key),
+            "No item info for any reward of %s - taking choice 1.", tostring(dlg.label))
+    elseif missing then
+        trail("%s: some reward info never loaded - chose among the rest", tostring(dlg.label))
+    end
+    trail("%s: taking reward choice %d (%s)", tostring(dlg.label), best_idx, tostring(best_name))
+    return best_idx, #choices, true
+end
+
+npc._test_best_choice = best_choice           -- 1.7.0: read by tests/test_zygor_reward.lua
+
+-- ----------------------------------------------------------------------------
+-- ACCEPT
+-- ----------------------------------------------------------------------------
+--- Accept `quest_id`. Call every tick while standing at the NPC.
+--- `unit` is optional: the NPC when the caller already has it.
+function npc.accept(player, quest_id, quest_name, npc_id, unit)
+    local key = "accept:" .. tostring(quest_id)
+    if dlg.key ~= key then
+        dlg_reset(key, tostring(quest_name or quest_id))
+    end
+    if dlg.stage == "done" then
+        return dlg.result
+    end
+    local now = izi.now()
+    if (now - dlg.t) < STEP_GAP then
+        return
+    end
+
+    if dlg.stage == "interact" then
+        -- Already in the log (accepted by hand, or the guide lagging): there
+        -- is nothing to do at this NPC (2.63.0).
+        if on_quest(quest_id, dlg.label) == true then
+            return dlg_finish("done")
+        end
+        if flagged_done(quest_id) then
+            return dlg_finish("done")
+        end
+        if dlg.tries >= MAX_TRIES or dlg.no_unit >= MAX_NO_UNIT then
+            return dlg_finish("gave_up")
+        end
+        dlg_interact(player, npc_id, unit, now)
+        return
+    end
+
+    if dlg.stage == "await" then
+        local frame = await_frame(now)
+        if frame == nil then
+            return
+        end
+        if frame == "refused" then
+            dlg.refused = true
+            return dlg_retry(now, "the NPC refused the interaction")
+        end
+        if frame == "timeout" then
+            return dlg_retry(now, "no window opened")
+        end
+        if WRONG_WINDOWS[frame] then
+            if quest_giver_unit(unit) and dlg.tries < MAX_TRIES then
+                close_service_windows()
+                return dlg_retry(now, "the NPC opened " .. frame .. " - closing it and asking for its quests")
+            end
+            trail("accept %s: the NPC opened %s, not quests", dlg.label, frame)
+            return dlg_finish("not_offered")
+        end
+        dlg.frame = frame
+        dlg_to("select", now)
+        return
+    end
+
+    if dlg.stage == "select" then
+        -- A single-quest NPC skips the list and shows the detail panel.
+        if dlg.frame == "QUEST_DETAIL" and not gossip_open() then
+            dlg_to("accept", now)
+            return
+        end
+        if is_trivial_quest(player, quest_id, quest_name) then
+            mark_skipped(quest_id, quest_name)
+            return dlg_finish("skipped")
+        end
+        local r = select_quest(quest_id, quest_name, "available")
+        if r == "no_rows" then
+            if (now - dlg.t) < ROWS_WAIT then return end
+            dump_gossip("available")
+            r = "not_listed"
+        end
+        if r == "not_listed" then
+            return dlg_finish("not_offered")
+        end
+        dlg.t_interact = (r == "selected") and now or dlg.t_interact
+        dlg_to("accept", now)
+        return
+    end
+
+    if dlg.stage == "accept" then
+        -- The detail panel has no "shown" query; with events live it must
+        -- have announced itself before accept_quest is worth calling.
+        -- 1.4.0 (Zygor spec): accept_quest only after QUEST_DETAIL fired AND
+        -- get_open_quest_info() is the quest this goal names
+        if not ev_since("QUEST_DETAIL", dlg.t_interact) and dlg.frame ~= "QUEST_DETAIL" then
+            if (now - dlg.t) >= FRAME_TIMEOUT then
+                return dlg_retry(now, "no quest detail panel after selecting")
+            end
+            return
+        end
+        local panel = npc.open_panel()
+        if panel and panel.quest_id ~= 0 and quest_id and panel.quest_id ~= quest_id then
+            trail("accept %s: the panel shows quest %d (%s) - not accepting it",
+                dlg.label, panel.quest_id, tostring(panel.title))
+            pcall(function() core.quests.close_quest() end)
+            return dlg_finish("not_offered")
+        end
+        if not panel_is(panel, quest_id, dlg.label) then          -- 1.7.11
+            if (now - dlg.t) >= FRAME_TIMEOUT then
+                return dlg_retry(now, "the detail panel does not name quest " .. tostring(quest_id))
+            end
+            return
+        end
+        pcall(function() core.quests.accept_quest() end)
+        -- audit Q3: the escort confirmation is answered on the verify stage (its
+        -- popup only appears after the accept) - never in this same tick
+        dlg_to("verify", now)
+        return
+    end
+
+    if dlg.stage == "verify" then
+        if ev_since("QUEST_ACCEPT_CONFIRM", dlg.t_interact) and not dlg.confirmed then
+            dlg.confirmed = true
+            pcall(function() core.quests.confirm_accept_quest() end)
+            trail("accept %s: escort confirmation answered", dlg.label)
+            return
+        end
+        local on, how = npc.in_log(quest_id, dlg.label)
+        if on == true then
+            if how ~= "is_on_quest" then
+                trail("accept %s: in the quest log (%s) - is_on_quest said no", dlg.label, tostring(how))
+            end
+            return dlg_finish("done")
+        end
+        if on == nil and ev_since("QUEST_ACCEPTED", dlg.t_interact) then
+            return dlg_finish("done")
+        end
+        if (now - dlg.t) >= VERIFY_WAIT then
+            if ev_since("QUEST_ACCEPTED", dlg.t_interact) then
+                warn_once("accept_other:" .. tostring(quest_id),
+                    "Accepted a quest at this NPC, but %s is still not in the log - "
+                    .. "it offered a different quest.", dlg.label)
+                return dlg_finish("not_offered")
+            end
+            -- FULL BAGS (2.160.0). The NPC showed the quest and Accept was
+            -- clicked, but it never landed. The client said the bags are
+            -- full, or it happened twice: that is the bags (a quest that
+            -- hands over an item), not a wrong NPC - vendor first.
+            local ok_ev, ev = pcall(require, "events")
+            local full = ok_ev and type(ev) == "table" and type(ev.inventory_full_since) == "function"
+                and ev.inventory_full_since(dlg.t_interact)
+            dlg.refusals = (dlg.refusals or 0) + 1
+            -- 2.286.0: "bags_full" only when the client SAID the bags are full
+            -- (two misses used to be called that too, with free bag slots)
+            if full then
+                return dlg_finish("bags_full")
+            end
+            if dlg.refusals >= 2 then
+                local titles = npc.log_titles()
+                trail("accept %s: not in the quest log after %d tries (is_on_quest=%s, %d quest(s) in the log: %s)",
+                    dlg.label, dlg.refusals, tostring(safe(function() return core.quests.is_on_quest(quest_id) end)),
+                    #titles, #titles > 0 and table.concat(titles, ", ") or "-")
+                return dlg_finish("gave_up")
+            end
+            return dlg_retry(now, "still not on the quest")
+        end
+    end
+end
+
+-- ----------------------------------------------------------------------------
+-- TURN IN
+-- ----------------------------------------------------------------------------
+--- Proof a hand-in landed, or nil. Any one of: the client said so
+--- (QUEST_TURNED_IN), the quest is flagged completed, or it was in the log
+--- when this attempt began and is gone now. "Not in the log" alone is not
+--- proof: it is also true of a quest that was never picked up.
+local function turnin_landed(quest_id)
+    if ev_since("QUEST_TURNED_IN", dlg.t_interact) then
+        return "QUEST_TURNED_IN"
+    end
+    if flagged_done(quest_id) then
+        return "flagged completed"
+    end
+    if dlg.was_on == true and on_quest(quest_id, dlg.label) == false then
+        return "left the quest log"
+    end
+    -- The quest log itself (2.187.0): no longer listed, where the log can be
+    -- read and the quest was in it when this attempt began.
+    if dlg.was_on == true and type(npc.quest_log_state) == "function"
+        and npc.quest_log_scan(quest_id) == nil
+        and (safe(function() return core.quests.get_num_quest_log_entries() end) or 0) > 0 then
+        return "gone from the quest log"
+    end
+    return nil
+end
+
+--- Hand in `quest_id`. Call every tick while standing at the NPC.
+--- `unit` is optional: the NPC when the caller already has it.
+--- `reward` (optional, 2.258.0): RestedXP's reward choice for this quest
+--- (goal.reward); used when it is within get_num_quest_choices.
+function npc.turn_in(player, quest_id, quest_name, npc_id, unit, reward)
+    local key = "turnin:" .. tostring(quest_id)
+    if dlg.key ~= key then
+        dlg_reset(key, tostring(quest_name or quest_id))
+    end
+    dlg.reward_hint = tonumber(reward)
+    if dlg.stage == "done" then
+        return dlg.result
+    end
+    local now = izi.now()
+    if (now - dlg.t) < STEP_GAP then
+        return
+    end
+
+    if dlg.stage == "interact" then
+        -- Handed in already (2.63.0), including earlier this session.
+        if turned_in[quest_id] or (on_quest(quest_id, dlg.label) ~= true and flagged_done(quest_id)) then
+            return dlg_finish("done")
+        end
+        if dlg.tries >= MAX_TRIES or dlg.no_unit >= MAX_NO_UNIT then
+            warn_once("turnin_giveup:" .. tostring(quest_id),
+                "Gave up handing in quest %s after %d attempts.",
+                tostring(quest_name or quest_id), MAX_TRIES)
+            return dlg_finish("gave_up")
+        end
+        dlg.was_on = on_quest(quest_id, dlg.label)
+        dlg_interact(player, npc_id, unit, now)
+        return
+    end
+
+    if dlg.stage == "await" then
+        local frame = await_frame(now)
+        if frame == nil then
+            return
+        end
+        if frame == "refused" then
+            dlg.refused = true
+            return dlg_retry(now, "the NPC refused the interaction")
+        end
+        if frame == "timeout" then
+            return dlg_retry(now, "no window opened")
+        end
+        if WRONG_WINDOWS[frame] then
+            if quest_giver_unit(unit) and dlg.tries < MAX_TRIES then
+                close_service_windows()
+                return dlg_retry(now, "the NPC opened " .. frame .. " - closing it and asking for its quests")
+            end
+            trail("turn in %s: the NPC opened %s, not quests", dlg.label, frame)
+            return dlg_finish("not_offered")
+        end
+        dlg.frame = frame
+        dlg_to("select", now)
+        return
+    end
+
+    if dlg.stage == "select" then
+        -- A single-quest NPC can open the progress or completion panel
+        -- directly; there is no list to pick from then.
+        if ev_since("QUEST_COMPLETE", dlg.t_interact) then      -- 1.4.0: the event, not a poll
+            dlg_to("finish", now)
+            return
+        end
+        if ev_since("QUEST_PROGRESS", dlg.t_interact) then
+            dlg_to("wait", now)
+            return
+        end
+        local r = select_quest(quest_id, quest_name, "active")
+        if r == "no_rows" then
+            if (now - dlg.t) < ROWS_WAIT then return end
+            dump_gossip("active")
+            r = "not_listed"
+        end
+        if r == "not_listed" then
+            return dlg_finish("not_offered")
+        end
+        if r == "not_ready" then
+            trail("turn in %s: the NPC lists it as not complete yet", dlg.label)
+            return dlg_finish("not_ready")
+        end
+        if r == "panel" and ev_live() and dlg.frame == "QUEST_DETAIL" then
+            -- The NPC went straight to OFFERING a quest: ours is not here.
+            trail("turn in %s: the NPC offered a new quest instead", dlg.label)
+            return dlg_finish("not_offered")
+        end
+        if r == "selected" then
+            -- ONE NATIVE ACTION PER TICK (2.258.0, quest/api_examples.lua):
+            -- the selection opens the progress panel; Continue
+            -- (complete_quest) goes out on a LATER tick, once the panel is
+            -- there (wait stage). 2.187.0 pressed Continue in the same tick,
+            -- before any panel existed.
+            trail("turn in %s: selected", dlg.label)
+            dlg_to("wait", now)
+            return
+        end
+        dlg_to("wait", now)
+        return
+    end
+
+    -- Wait for the progress or the completion panel the selection opens.
+    if dlg.stage == "wait" then
+        if ev_since("QUEST_COMPLETE", dlg.t_interact) then
+            dlg_to("finish", now)
+            return
+        end
+        local progress = ev_since("QUEST_PROGRESS", dlg.t_interact)
+        -- 2.258.0: get_open_quest_info names the panel when it is open
+        local panel = npc.open_panel()
+        if panel and panel.quest_id ~= 0 and quest_id and panel.quest_id ~= quest_id then
+            trail("turn in %s: the panel shows quest %d (%s) instead", dlg.label, panel.quest_id,
+                tostring(panel.title))
+            pcall(function() core.quests.close_quest() end)
+            return dlg_finish("not_offered")
+        end
+        -- 1.4.0 (Zygor spec): complete_quest on QUEST_PROGRESS only, and only when
+        -- get_open_quest_info() is this goal's quest
+        if progress and panel_is(panel, quest_id, dlg.label) then          -- 1.7.11
+            -- complete_quest is the PROGRESS panel's "Continue". The quest is
+            -- not handed in until the completion panel is finished too
+            -- (2.50.0) - that is the finish stage.
+            pcall(function() core.quests.complete_quest() end)
+            dlg.continued = true
+            dlg_to("finish", now)
+            return
+        end
+        if (now - dlg.t) >= FRAME_TIMEOUT then
+            return dlg_retry(now, "no quest panel naming quest " .. tostring(quest_id) .. " after selecting")
+        end
+        return
+    end
+
+    -- The completion panel: take the best reward choice, or finish with
+    -- none (get_quest_reward(0) is "Complete Quest" with no choice).
+    if dlg.stage == "finish" then
+        if ev_since("QUEST_TURNED_IN", dlg.t_interact) then
+            dlg_to("verify", now)
+            return
+        end
+        -- 1.4.0 (Zygor spec): the reward / complete call only after QUEST_COMPLETE
+        -- fired AND get_open_quest_info() is this goal's quest
+        local up = ev_since("QUEST_COMPLETE", dlg.t_interact)
+        local panel = npc.open_panel()
+        if not (up and panel_is(panel, quest_id, dlg.label)) then          -- 1.7.11
+            if (now - dlg.t) >= FRAME_TIMEOUT then
+                if dlg.continued then
+                    -- Continue did not lead to a completion panel: the
+                    -- server still wants the objectives.
+                    trail("turn in %s: Continue opened no completion panel", dlg.label)
+                    return dlg_finish("not_ready")
+                end
+                return dlg_retry(now, "no completion panel naming quest " .. tostring(quest_id))
+            end
+            return
+        end
+        dlg.info_t = dlg.info_t or now
+        local idx, _, ready = best_choice(player, now - dlg.info_t)
+        if not ready then
+            return
+        end
+        if idx then
+            dlg.picked = idx
+            dlg_to("reward", now)
+            return
+        end
+        -- 1.4.0 (Zygor spec): no choice offered -> complete_quest()
+        pcall(function() core.quests.complete_quest() end)
+        dlg_to("verify", now)
+        return
+    end
+
+    if dlg.stage == "reward" then
+        -- get_quest_reward SELECTS the choice and completes the quest.
+        -- complete_quest is not called as well: they are alternatives.
+        local idx = dlg.picked
+        pcall(function() core.quests.get_quest_reward(idx) end)
+        dlg_to("verify", now)
+        return
+    end
+
+    if dlg.stage == "verify" then
+        local how = turnin_landed(quest_id)
+        if how then
+            turned_in[quest_id] = now
+            trail("turn in %s: confirmed (%s)", dlg.label, how)
+            return dlg_finish("done")
+        end
+        if (now - dlg.t) >= VERIFY_WAIT then
+            -- No proof either way. Without an event pump and without a log
+            -- flag, "gone from the log" is the only signal the build has.
+            if not ev_live() and on_quest(quest_id, dlg.label) == false then
+                turned_in[quest_id] = now
+                trail("turn in %s: confirmed (no longer on the quest)", dlg.label)
+                return dlg_finish("done")
+            end
+            trail("turn in %s: NOT confirmed - still on the quest, trying again (try %d of %d)",
+                dlg.label, dlg.tries, MAX_TRIES)
+            return dlg_retry(now, "hand-in not confirmed")
+        end
+    end
+end
+
+--- Close the NPC's windows and forget the dialog.
+function npc.close()
+    dlg.key, dlg.stage, dlg.result = nil, nil, nil
+    npc.close_frames()
+end
+
+--- Close the NPC's windows but keep the dialog's result, so a finished
+--- dialog keeps answering with it instead of starting over.
+function npc.close_frames()
+    pcall(function()
+        core.quests.close_quest()
+    end)
+    gossip_close()
+end
+
+--- A counter that moves whenever the dialog advances or finishes.
+function npc.progress_seq()
+    return dlg.seq
+end
+
+function npc.stage()
+    return dlg.stage
+end
+
+--- True once, after the NPC refused an interact (out of range, facing, a
+--- UI error): the caller should close in before the next attempt.
+function npc.take_refused()
+    local r = dlg.refused
+    dlg.refused = false
+    return r
+end
+
+--- 1.0.10: how many turn-ins were confirmed this session (session.lua fallback).
+function npc.turned_in_count()
+    local n = 0
+    for _ in pairs(turned_in) do n = n + 1 end
+    return n
+end
+
+--- Was `quest_id` confirmed handed in this session?
+function npc.was_turned_in(quest_id)
+    return quest_id ~= nil and turned_in[quest_id] ~= nil
+end
+
+--- WoW Forever (2.123.0): no quest-log index API. A quest is ready to hand in
+--- when RestedXP reports objectives for it and every one is finished; nil
+--- when RestedXP has nothing to say (the gossip list decides then).
+local function rxp_complete(quest_id)
+    local ok, guide = pcall(require, "quest/guide")
+    if not ok or type(guide) ~= "table" or type(guide.objectives) ~= "function" then
+        return nil
+    end
+    local list = guide.objectives(quest_id)
+    if type(list) ~= "table" or #list == 0 then
+        return nil
+    end
+    for i = 1, #list do
+        if not list[i].finished then return false end
+    end
+    return true
+end
+
+--- Is `quest_id` ready to hand in?
+--- `quest_name` is only needed for the gossip fallback, where TBC exposes no
+--- real quest id (see the header).
+function npc.is_complete(quest_id, quest_name)
+    -- 2.258.0: the game's own hand-in flag by quest id, every client
+    local ready = npc.quest_ready(quest_id)
+    if ready ~= nil then return ready end
+    if forever() then
+        if safe(function() return core.quests.is_on_quest(quest_id) end) == false then
+            return false
+        end
+        local done = rxp_complete(quest_id)
+        if done ~= nil then
+            return done
+        end
+        local gossip = safe(function() return core.quests.get_gossip_active_quests() end)
+        if type(gossip) == "table" and #gossip > 0 then
+            local row = gossip_row(gossip, quest_id, quest_name)
+            return row ~= nil and row.is_complete == true
+        end
+        return false
+    end
+    pcall(function()
+        core.quests.expand_quest_header(0)
+    end)
+    local n = safe(function() return core.quests.get_num_quest_log_entries() end) or 0
+    for i = 1, n do
+        local entry = safe(function() return core.quests.get_quest_log_title(i) end)
+        if type(entry) == "table" and entry.quest_id == quest_id then
+            -- Builds disagree on this field: the reference declares it as an
+            -- integer (1 complete, -1 failed) and the documentation as a
+            -- boolean. Accept either rather than pick a side.
+            if entry.is_complete == true or entry.is_complete == 1 then
+                return true
+            end
+            if entry.is_complete == -1 then
+                return false  -- failed, not completable
+            end
+            local boards = safe(function() return core.quests.get_num_quest_leader_boards(i) end) or 0
+            if boards > 0 then
+                local all = true
+                for b = 1, boards do
+                    local obj = safe(function() return core.quests.get_quest_log_leader_board(b, i) end)
+                    if not (type(obj) == "table" and obj.is_completed == true) then
+                        all = false
+                    end
+                end
+                return all
+            end
+            return false
+        end
+    end
+    -- Not in the log we could read. The NPC's own active list knows whether it
+    -- will take the quest back right now - matched on title, because the
+    -- quest_id in a gossip row is a row index on TBC.
+    local gossip = safe(function() return core.quests.get_gossip_active_quests() end)
+    if type(gossip) == "table" and #gossip > 0 then
+        local row = gossip_row(gossip, quest_id, quest_name)
+        if row and row.is_complete == true then
+            return true
+        end
+    end
+    return false
+end
+
+npc._interact_once = interact_once
+return npc

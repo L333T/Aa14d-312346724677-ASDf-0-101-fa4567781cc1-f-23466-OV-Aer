@@ -1,1 +1,211 @@
-return(function(...)local k={"|N0Ac9FY:","^cmKxLHx=","|%ruGAk^j";"|0p`eM#@7","|g9Y5";"|.Z_q&R%";"^8g==","|Bq@nqn1b$u-%E";"|\\?^n7";"|I_","|>Y4K_6WhR`[9\\WGFR&_do@\\uaaj1Z","^KSW4hI==","^HdbMGz==","|+=K0\'64A^d8%(Di","^3SLG8T==";"|SLBa8GQ`J";"^qNJ7","^f6cpwAN9Dr7Db/hQ","^Z5wGzWg=";"^DxxPnSovmHc7yT==","^J5wxwT==","^CNui8g==","|\"eEn","|6(Gbr\\9K[Y!\"L6d","^Hu5kTulVoC1=";"|8R`Y,Ne","|o79?bPO";"|R;@e,E^:";"^tXnauCkcRjyk1kvm","|?l\\hoe,","^lr8Au4D=","^90Rh";"^OzVMI5S=";"|FKHd6S^F=p0<&TLiIkO5R+IB?I^`Z\'GM&,:\'!b[OTF","|(mJLF.F";"|pl%\\tqj]+DbjB^D1Fr3G^c2P5*M*8F@*\"Y777ekrqhA4MJ_&082S/.rmnhZ(656d";"^GjXImoqhIdfETz==";"^72vNtz==";"^vhC9";"^rY1WIByxOQs=";"^AI==";"|dHY\\","^GQ2Hjg==","|/J\"[ID8SSaq$T&";"|WogBT";"|=O\"K","|rtu`","^i1RhiI==";"^rAhbnHz=";"^dpAT";"^Jzy63gNfebfWvdcIihkWM/x2+sAMmUFF1T==";"|o2","^30s8Bf6Q4T5x","^fYJpfD6O/L7iV4yHb4n0pO4dzPz/Zj20/I==";"^5EJzH7s7auDQkI==";"^4g==";"|O4_G","|!nf5Bl*","|UR","|S?\'EBb]qVO=P,8^>U,<jQX[","^Pg==","|l!%%";"^lur3QTKPog==";"|uJY4";"^iu0d0YF7pkYr61I=","|>&#sl";"^0xIELI==","|J7L23Y:i4Z72b&!2\"!;0Y.5";"|hP87**P7gDPm:";"^wKnnSz==","|?B","|@<C3C","|RKO/H5nq";"|,T;j","^s1Ps";"|CRS1CqJ","|<*-5";"|59YjQ";"|I-3U\\+0","^8gLcX+I4","^TRfFi8ppoiJ4wuxi9AdCVk9Nu+gWpBVhH17ATT==","|lQXDjZnjp8ak0&@-R^MO8j";"|XF>f=";"^wdiFlT==","|iV4r&s9]Sg*bo";"^2ecuJT==","|[.Dq@hh","|\\C60\"?9<$MaNtfkD3^n";"|VV[U";"^wmx7","^ETqw7I==","^/Gp5l/Un04PLR43=","^0bW1DmITF7ISvoo0IS7Em06D","|TKQ5M#/";"|2iVMK.76`","^4lSHKxNzaGG06MrX28l0V5O=","|J@";"|TAI6CsNrXEq+@","|p(2>u","|NM>V\\";"^";"|jpLm`\\P(7nGQ5","|E\'e5[Be";"|nO","^QHrO";"|3bhA","^luPv6q7EgzoDT9Ed1ywJwlIHhFEUw2Lb";"|ulla";"|1Td%O","^I87/d3G52WRw+5Vm";"^0BhkOGz=";"^BstccmhLLnlgOz==";"|7Gf.","|]ao:6","^BNGLZI==";"|%N<_","^rHMx6Bo=";"|<Z>$2V\"q2"}for m,W in ipairs({{-336927+(4240967451%530350345)%14275084,270269+-270151},{((-1124837-(-247476+(-48347+-403173)))+1447391)+-1021549;-242844+242945};{1258708997%8680751,-831998+(-250117+(1131161-48928))}})do while W[(-666332+448475913)%1756116]<W[-294432-(-294434)]do k[W[((-669046+356190)+964158)-(((556331+-1366019)+598295)-(-921591+58897))]],k[W[-330401+330403]],W[119365684%14897308+-187219],W[-505136+505138]=k[W[-344125-(-344127)]],k[W[-584220-(-584221)]],W[-63887-(-63888)]+374979949%2550884,W[-1045576+1045578]-995735756%7486735 end end local function u(m)return k[m-(6782-(-37939))]end do local m=string.sub local W=table.concat local w={V=302231+-302191;[":"]=-1021120+1021122,["9"]=((72807530538-(-540450))%(2194128641%732976692))%5133718,N=-812166-(-812169),j=-262701-(-262724);l=232230-232177,n=204932164%8538840;["!"]=403392161%5378562;["-"]=(311628829-94200)%6108521,["#"]=-581815-(-581821);k=-954124-(-954143);U=(-676692-188001)+864735,E=188426702%1317669,d=-417930+418005;["&"]=(453826-(-83773))-537592;["4"]=(686406+752033311)%6119672,u=-332472-(-332534),["("]=2836256413%16683861;["@"]=(154710+(-680698+-23633))-(-549684),f=464784-464711,L=298477-298403,[","]=244985-(594366+-349462);r=-539980+(85079+454930),B=1191565612%14894570,A=1658851755%14944610,m=228116794%7358604,F=371138-371099,Z=358878+((1030136-608511)+-780425),K=392672+-392607;W=975872+-975804;["8"]=514169126%3024524;["\""]=-760456+760527,s=31927988%3547548;["?"]=((-1010890+129968)-(-773376))-(-107551);["]"]=-250989-(-251013),J=262479547%11930887;X=-212552+212632,H=-228516-(679438+-907964);q=1744430189%9532126+-51097,["$"]=243006882%9720272;["3"]=1656299028%((489582-(-427432))+12333378);[">"]=((-329691+1058543307%5659468)+821315)-714378,["*"]=(-1176011-(-688461))-(-487607);["6"]=-853586-(-853646),i=347963638%10544351,D=218001+-217953;M=(70958951708%(584400+1509249168))%12987996;["\\"]=714637-714587;b=-582662+3308389650%(4151480071%((151384+28726319)-(123623319484%661096416)%3062644)),["."]=-148597+148629,S=-923526-(-923552),I=331492563%13812188;h=-478791+478791,["^"]=-91870-(-91939);Y=338106+-338029,["%"]=1749835106%8063756;["0"]=1012816438%9465574,["\'"]=-664568-(-664620),["7"]=601961-601939;O=669295+-669280;c=-294866+294949,Q=-631153-(-631219);["+"]=-1018253+1018300,R=49528621%9905717,["5"]=-1005188+1005226;C=559521759%13005116-301750,T=-477156+(441980+35217),["/"]=365829233%2230666;["2"]=613331+-613301,P=1636531533%10228322,[";"]=602174+-602110,g=-682357+3746098084%16795586,o=308425327%1414795;t=129494-129415,["="]=-574474-(-574488),e=-509886-(-509958),p=((-1156486-(-534036))+(((-498678-(-419369))-(37251+587843))-(1003113+-1292319)))+1037706,[")"]=-835678-(-835745);_=-404936+404944,["<"]=638175+(-403952+-234205);G=269264+-269248,a=261651-261624,["1"]=8121-8045,["["]=-981005+981006,["`"]=-148435+148519}local h=table.insert local y=string.char local o=math.floor local K=k local x={["4"]=-997767+997773;["7"]=-344286+344316;K=-850204+850258;Z=2473040695%13971981,r=1031705-1031656;l=840597-840572;p=216471+-216410;a=(47437432124%(439408602-134505))%2843815,f=(449085+490467)+-939511,J=937732300%14208065,["6"]=503533421%7515424;["0"]=896578859%9961987;U=263414+-263397;I=-835949-(-835949);W=-169925-(-169929);j=-650064-(-1504042-(-853932)),m=-621008-(505489+-1126544);N=(339664+-1051077)-(-711472),A=1008057-1008042,P=(-999035+774414)-(-224626);Q=784673953%8006877,z=-602950-(-602982);["2"]=(2082372990-457221)%15653502,k=(980111+-537375)+-442718,["8"]=(-587486-328553)+916090,v=((((-553998+-105125)+-83307)-(-362198))+281198107)%2726387,i=1448323095%7957819;e=123362+-123343;M=-308522-(-51743+-256836),L=(390201301759%((464135+2349762141)-(-385387)))%(1231861533%17469350-(-210133));G=429691451%10480278,c=105484826%6592799,["3"]=499862036%9801216,s=3212831072%14472212,F=720408+-720356,D=2189646094%15747498-743860,b=857733847%15591951+-176540,g=2372342823%9303305,d=(235538195736%961428993)%9043061,x=1986424860%13242832;n=136048+(-999426-(-863411));q=(634125-176247)+-457856,Y=(112908836930%676129434)%14918908,o=528677+-528641;R=-995748-(-995775),["/"]=693897353%5831070,h=913667-913666;w=-939624+939648;["9"]=639561128%((-765953+(5787851-907809))-(-694641));T=270103+-270087,["+"]=730827-730783,H=711259-(711653-449),t=3057101978%12477967,E=877040-877019,O=66879132%9554156,B=847782+-847720,C=(-1615742-(-1185775-(-402856)))-(-832866);X=-432145+432156;V=549567+((-95170-902285)-(-807679+359760));["1"]=-918436-((-627481-477792)-(-186781));y=-545466-(-545475),["5"]=(730621900-(-954338))%8814171,S=266352+(-483127-(-216803));u=985679+-985644}local d=string.len local O=type for b=3828686905%15193202,#K,-780440-(-780441)do local U=K[b]if O(U)=="string"then local O=m(U,-608151-(-608152),297352225%2305056)if O=="^"then U=m(U,-120695+120697)local w=d(U)local O={}local a=766741+-766740 local k=-848147+(491439006-1536946137%9852108)%16916330 local u=231370+-231370 while a<=w do local W=m(U,a,a)local K=x[W]if K then k=k+K*((159015079%5889445)^(((-681017+681020)-u)))u=u+(318555+-318554)if u==223023-223019 then u=765377305%3123989 local m=o(k/((-358024+-607967)+(2714053086-25335)%12797152))local W=o((k%(721382-(1336601-680755)))/((1251027-(136783+852635))+-261353))local w=k%(-576158+576414)h(O,y(m,W,w))k=681724-681724 end elseif W=="="then h(O,y(o(k/(-295430+360966))))if a>=w or m(U,a+3004357539%13594378,a+(305823+-305822))~="="then h(O,y(o((k%(417161136%8341912))/(498474+-498218))))end break end a=a+(177614-177613)end K[b]=W(O)elseif O=="|"then U=m(U,-95629-(-95631))local x=d(U)local O={}local a=((-901469+1376220)+-39160)-435590 while a<=x do local W=(x-a)+((1182095-987312)+(842494+-1037276))local K=W>=-619817-(-1324254-(-704432))and 1989836890%((901469+(-390836+194333592))%(5231303701%22387681)+13541152)or W local d=(2194925296-(-812454-(-323146)))%(2001798674%25548257)local b=K>((-174706+120080472)-(-509999))%10034647 for W=-84702-(-84702),-1005750+1005754,-281138+281139 do local h if W<K then local y=m(U,a+W,a+W)h=w[y]if not h then b=false break end else h=857453604%12249336 end d=d*((-825635+-82483)+908203)+h end if b then local m=o(d/(3476688801%19329115))%(-929231-(-929487))local W=o(d/(-993847+1059383))%(-585207+585463)local w=o(d/(618268126%13739286))%((-592373+161938729)%1613461)local x=d%(2559180801%11126094+-178925)if K==(365269-319797286%10298201)+187791 then h(O,y(m,W,w,x))elseif K==1185813136%14116823 then h(O,y(m,W,w))elseif K==30664+-30661 then h(O,y(m,W))elseif K==1288717279%12759577 then h(O,y(m))end end a=a+K end K[b]=W(O)end end end end local U,a do local m=table[u(1599170879%12691477)]local W=269077256%(3882786-789944)local w={}local h=math[u(1082680-1037948)]local y=math[u(-808898+853726)]local o=3774368%87776 local K=string[u((-837664+-87316)-(-969754))]local x={}for m=2295367473%9604048,-579885+580141,-603590-(-603591)do w[m]=m end repeat local W=h(1596040105%15647452,#w)local y=m(w,W)x[y]=K(y-234894219%9034393)until#w==963411+-963411 local d={}local function O()if#d==-895306-(-895306)then o=((o*(-594038+594267)+((18974027544959-(-276131))-293445)))%(35184372773097-(896576675%11058736-134794))repeat W=(W*(489460+-489248))%(2302538533%11868754)until W~=636009781%(1471921636%((888295+23267)+20029358))local m=W%(768190+-768158)local w=(-393901+393914)-((W-m))/(-132398+132430)local h=(y(o/(-606965-(-520676-86291))^w)%(671399190156%4303898212))/((-923870-((-2078+484977)-985189))+(255939902832%(415408+1705897548))%6688389)^m local K=y((h%((199350-963549)-(-764200)))*(395566979502%4299695883-(-58326+-254821)))+y(h)local x=K%(194826-129290)local O=((K-x))/(25583105%3645367)d={x%(121657+-121401),((x-x%(206729+-206473)))/(337161+-336905),O%(3384169816%15888120);((O-O%(-352419-(-352675))))/(1907700421%12307743)}end local m=#d local w=d[m]d[m]=nil return w end local b={}a=setmetatable({},{[u(394874-350075)]=b,[u(-53878+98674)]=nil})function U(m,w)local h=b if(h[w])then return w else d={}local y=x o=w%(483391+35184371605441)W=w%(2734631945%11889703)+(-901110-(-901112))local K=#m h[w]=u(240934783%4916122)local b=940044-939867 local U=u(-691992+(-143158-(-879955)))for W=3130297921%14492120,K,((-94090-(-1018704))+987811069)%13361293 do b=(((string[u(2083261693%9967545)](m,W)+O())+b))%(-154469+(-573644+728369))U=U..y[b+((508049+-629352)-(-121304))]end h[w]=U end return w end end local m={}m[a[U(u(1022117+-977303),22842659480992-115463)]]=.9 m[a[U(u(-450640+495446),-477774+11991302979606)]]=.4 m[a[U(u(779779-734977),17381875523166-(-576210))]]=.1 m[a[U(u(-119812-(-164610)),-594735+19521720310010)]]=-956490.5-(-956492)local W={[a[U(u(116421-71696),(7900400829641-(-923366))-(1665683-624475))]]=nil,[a[U(u((-601360+1635721)-989534),(-365097+520922)+29732624745961)]]=nil,[a[U(u(-328671-(-373503)),10690074750938-775996)]]=-429939+429939,[a[U(u(672124810%6720800),-103070+12003959248370)]]=nil}local w={[a[U(u(400822-356070),21186298921223-((191294382-(-582161))%7962142+-777281))]]=nil;[a[U(u((-218592-368663)-(-632049)),413626+18072231153921)]]=nil,[a[U(u(-901878+946641),(-794645+10704309873925)-(-422620))]]=-317175+317175}local h=nil m[a[U(u((-314560-(-882658))-523337),727068058089-711420)]],m[a[U(u(-356780-(-401592)),(-577062+(28959486056624-(-87667)))-316643)]]=W,w local function y()local m,W=pcall(function()return core[a[U(u(645648-600899),902865+10938048400792)]]()end)return(m and tonumber(W))or-750857+750857 end local function o(m)local W,w=pcall(m)if W then return w end return nil end local K=nil local function x()if K==nil then local m,W=pcall(require,a[U(u(-176607-(-221345)),33052079461588-696391)])K=((m and type(W)==a[U(u(437758-392951),23036460324089-(-638236))]))and W or false end return K or nil end local function d(m,W)if m[a[U(u(-4885-(-49680)),-841014+(30387286049741-102566))]]then local w=W-m[a[U(u(-456301+501027),822068+(3.430120556683e+15%(17865212005227-731813)-(-139403)))]]if w>.8 and w<932227+(576860+-1509082)then m[a[U(u(418012+-373258),29878240912252-461565)]]=m[a[U(u(-316178+360924),27038350744807-593997)]]and(m[a[U(u(((226358-153058)-660765)-(-632282)),3398328701397-(-60240))]]*.7+w*.3)or w end end m[a[U(u(-116789-(-161559)),4233738425761%604821379405)]],m[a[U(u(-839423-(-318994+-565258)),(544110+-562939)+27328158972601)]]=W,m[a[U(u((-408721+22893975068%3271221215)%15702857),-959745+4730367314890)]]+((1044382+-731016)+(721538+-1034903))end function m.tick(m)if m then local W=o(function()return m:get_guid()end)if type(W)==a[U(u(921518651%15878712+-508532),33280369165403-(-545853))]and W~=a[U(u(-566873+611678),16683361752707-(706901+-803898))]then h=W end end end function m.on_combat_log(m)if type(m)~=a[U(u(280814+(-911371-(-675292))),56019478487503%18673162546543)]or not h then return end local o=m[571568-571566]if o~=a[U(u(23216+21506),13623078133409-98388)]and o~=a[U(u(846705+-801972),20084064429892-278223)]then return end if m[402679-402675]~=h then return end local K if o==a[U(u((328053-1031938)-(-748613)),1682150978861-176856)]then K=m[-845435-(-845456)]else K=m[-702112+702125]end d(((K==true or K==-648662+648663))and w or W,y())end local function O(m)local W=o(function()return core[a[U(u(-949463+994289),((((878840+-128826)+-1560031)+888568)+14805585487127)-(-336412))]][a[U(u(-93138-(-175391-(-37505))),(2473532186%12682931+29821752901213)-792132149%12184496)]]end)if type(W)~=a[U(u(1777178518%(917600+10330082)),-722219+6130610188861)]and type(W)~=a[U(u(476752-432008),915536+4212595372096)]then return nil end if o(function()return W[a[U(u(109574127%1856430),21232966900033-(-401533))]]()end)~=true then return nil end local w=(m==a[U(u((-206796+419773)-168234),509910+((34681287717850-151708)-(-755107+464972)))])and o(function()return W[a[U(u(148698279%(2965227-160445)),5030307611360-((498260-594277)-(-804575)))]]()end)or o(function()return W[a[U(u(26925084%3840039),3476212901119-(-88659))]]()end)if type(w)~=a[U(u(-17968-(-62698)),-111041+(-711438+28556447184400))]and type(w)~=a[U(u((262020163905%(1712022848-(-571171)))%10401392),31978470096044-(846081-624788))]then return nil end local h=tonumber(o(function()return w[a[U(u(1957963749%9413072),(((-636687+(48175-(284217+-977722)))-(-644146-262905))-(190051+5015))+29101894086107)]]end))local K=tonumber(o(function()return w[a[U(u(-794966-(-839758)),3828466271759-(-25960+927055))]]end))local x=tonumber(o(function()return w[a[U(u((317562295470%1357127805)%9193688),-629440+19497310909084)]]end))local d=y()if K and math[a[U(u(1961670161%16211780),(689210+-1150406)+28335028666552)]](K-d)>(120765912519%1207773961)%10875367 then return nil end if h and((h>d+((191993106270%(1004580956-(-692750))-(-109804))%(-756474+(-3298+1849654856%23574240))+-984261)or d-h>1350201930%13368330))then h=nil end return{[a[U(u(387796-342962),22841220399056-(-973733))]]=h,[a[U(u(-682535+727328),(-822343+5969878640965)-223230)]]=K;[a[U(u(1181124215%8814026),18082230032678-(-487107-771955889%11514942))]]=x}end function m.speed(m)local w=m and tonumber(o(function()return m:get_attack_speed()end))or nil if not w or w<=358652133%(1546590969%9592935-(((886614-92913)-843316)-(-445430)))or w>-165716+165726 then local m=O(a[U(u(79560136%(11976431-617089)),691545+19591364014558)])w=m and m[a[U(u(148129427%6438461),(1820575730%15291461+33797700304412)-2629)]]or W[a[U(u(680707+-635887),-630443+28764374091606)]]or 2.6 end return w end function m.offhand_speed()local m=O(a[U(u(239539142%6472819),-863265+22705384888215)])return(m and m[a[U(u(-5285+50068),(-15246+(54191111523991-509578))%1003539198718)]])or w[a[U(u(-623125-(-667876)),25678605873987-(-82317))]]end function m.last_swing(m)local w,h=W[a[U(u(276278+-231488),-873427+13470780521706)]],W[a[U(u((-288535+-357914)-(-691284)),832014+8993360518052)]]and a[U(u(313714695%(31941991%3716631)),19388805819007-(-588255))]or nil local y=O(a[U(u(409183+-364396),51976020664805%3998156559683)])if y and(y[a[U(u(-110715-(-155552)),(-1017169+41433110038085)%326244970725)]]and((not w or y[a[U(u(-156668-(-201481)),326289+13035431825494)]]>w)))then w,h=y[a[U(u(185318222%(-443988+10195222)),-455894+(9595932597255-70078))]],a[U(u((-1034024-(-732331))-(-346493)),312496+18080329049903)]end if not w then local W=x()local y=W and(m and tonumber(o(function()return W:get_last_attack_core_time(m)end)))or nil if y and y>1385897170%6476155 then w,h=y,a[U(u(412749+((-88620+-299542)-(-20185))),591182+12987137445776)]end end return w,h end function m.next_in(W)local w=y()local h=O(a[U(u(-856281+901085),(-1001706-(-999118))+30060013439063)])if h and(h[a[U(u(-546565+591292),(11874610720251-(-551322))-863484)]]and h[a[U(u((-459388-(-9566))-(-441071-53519)),-244924+31911048116226)]]>w-m[a[U(u(-808053-(-852844)),(23432634999591-471381)-((389986+-1348065)-(800810+-1503295)))]])then return math[a[U(u(1003171-(589881-(-368540))),-57450+23373966550909)]](-465943-(937174+(717893+-2121010)),h[a[U(u(1023023-(800664-(-177550))),-338588+30449417299608)]]-w),a[U(u(201172-(1115589-959203)),(-888866+35100159036950)-821653)]end local K,d=m[a[U(u(359131+-314372),5560071757301-(-787446))]](W)if K and d~=a[U(u(286306276%4543833),((-1197179-(-965617))+27825625342641)-(-229174))]then local h=(K+m[a[U(u(841082+(((894028-232001)+-1599412)+141037)),13759213035384-720819)]](W))-w if h>-m[a[U(u(-431487+476210),572858+9757364014840)]]then return math[a[U(u(-336147+380883),(193937-(-262506))+5850126915108)]](238237776%4254246,h),d end return nil end local b=x()local k=b and(W and tonumber(o(function()return b:get_next_attack_core_time(W)end)))or nil if k and k>w-m[a[U(u(354849+-310028),179073573%1879445+16007053164186)]]then return math[a[U(u(791463+-746684),174433+13456524160319)]](711428464%8272424,k-w),a[U(u(-12932-(-57696)),33505887961200-(-826688))]end return nil end local function b(m)return m~=nil and o(function()return m:is_auto_attacking()end)==true end function m.cast_ok(W,w)w=tonumber(w)or-202894-(-150910+-51984)if w<=341927+-341927 or not b(W)then return true end local h=m[a[U(u(-666266+711033),-687559+(17579841596089-892967))]](W)if not h then return true end local o=m[a[U(u(1569773886%14015438),-198040+10638760470079)]](W)if o and(y()-o)<=m[a[U(u(2255031072%(12056473-372606)),511002+10223637545865)]]then return true end if h>=w+m[a[U(u(-127036-(-171760)),10627842844106-(-626627-(-604224)))]]then return true end if h>m[a[U(u(539713917%3351982),13142137313275-(-670867))]](W)+m[a[U(u(-248479-(-722865-(-429649))),32067204007496-887681)]]then return true end return false end function m.queue_ok(W,w)local h=m[a[U(u(88544975%3847833),12003188842014-(-248621+-82875))]](W)if w and(h and w>h)then return false,a[U(u(1092745-1047990),29721500469129-(-254007))]end if w and(not h and(y()-w)<m[a[U(u(88218658%17428925-1029280),532446+8231787377655)]](W))then return false,a[U(u(330913480%9731433),-553569+19239637037707)]end local o=m[a[U(u((839688+-1471188)-(-676322)),12045823946748-(-838054))]](W)if o and(o>m[a[U(u(-386411+431247),294790+34529883230737)]]and b(W))then return false,a[U(u(455973-411188),-884874+4292095707891)]end return true end function m.swung_since(m)if W[a[U(u(-504444+549247),18548105765075-403250)]]and W[a[U(u(2202862763%8741341),20284783993133-(-325936+(565888+-119180)))]]>=m then return true end local w=O(a[U(u(-387771-(-432553)),498239+(1495456002691-(-164465)))])return w~=nil and(w[a[U(u(-835889+880636),-276537+(249124+9522930451020))]]~=nil and w[a[U(u(1426543279%12088970),11287031971590-(-540270+2626766719%(11303300-(-333643-466564))))]]>=m)end function m.describe(h)local y,o=m[a[U(u(-602453+647291),772855+21791513447802)]](h)return string[a[U(u(933611+-888827),204581+31142996549916)]](a[U(u(2280787129%14906813),22646057567995-792963)],m[a[U(u((260907+1069282378)%9063547),5747013925572-(-1011024))]](h),tostring(o or a[U(u(798414+-753654),-309218+12588117349223)]),y and string[a[U(u(-823606+868431),(642097+31956313499017)-442334)]](a[U(u(768177+(-144338-579059)),611411+12834008009425)],y)or a[U(u((693832987-(764725+-1618354))%3020182),((538327-(413843+-262926))-837700)+28702935722419)],W[a[U(u((-86321+-153105)-(-284234)),-1012693+25790189198646)]],w[a[U(u(599069401%3010174),180643+(474956+904076372780))]])end function m._reset()W[a[U(u(580537-535719),26712251912538-(-918438))]],W[a[U(u(16417-(-28349)),-353559+12116497166359)]],W[a[U(u(-841732+886477),886413+2334773233817)]],w[a[U(u(-68173-(-112944)),30215755843022-(-119590))]],w[a[U(u((-951915+326655)-(-1395892-(-725854))),14797071668560-721183)]],w[a[U(u(537594461%16798428),(852736+(646438-775306))+25241511263480)]],h=nil,nil,-124295-(-124295),nil,nil,1080642024%8125128,nil end function m._set_guid(m)h=m end return m end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- swingtimer.lua - the player's melee swing timer
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Product version: see version.lua
+-- ============================================================================
+-- 1.0.9 (user: "Create intelligent Swingtimer code to ensure Melee classes
+-- attack correctly").
+--
+-- WHERE A SWING IS SEEN, best first:
+--   1. the COMBAT LOG - SWING_DAMAGE / SWING_MISSED with the player as the
+--      source (core.register_on_game_event_callback: COMBAT_LOG_EVENT_UNFILTERED
+--      args are CombatLogGetCurrentEventInfo() flattened - [2] sub event,
+--      [4] source guid; the off-hand flag is [21] on SWING_DAMAGE, [13] on
+--      SWING_MISSED). Every real swing, main and off hand. The event handler
+--      (events.lua) only stores the time - nothing is clicked from it.
+--   2. the Swing Timer addon (core.addons.swing_timer.get_player_mainhand_info /
+--      get_player_offhand_info: last_swing, expiration_time, swing_speed), used
+--      when it is loaded and its times are on core.time()'s clock (checked).
+--   3. auto_attack_helper:get_next_attack_core_time / get_last_attack_core_time
+--      - on this client its "last attack" also moves when the Attack command
+--      goes out (2.293.0), so it is the last resort.
+-- The weapon speed is game_object:get_attack_speed() (main hand); the off hand
+-- is learned from its own swings (or the addon's swing_speed).
+--
+-- WHAT THE ROTATION ASKS:
+--   ST.next_in(player)        s to the next main-hand swing (nil = not known)
+--   ST.cast_ok(player, ct)    a cast of ct s now does not push a swing back:
+--                             right after a swing, or it ends before the next
+--   ST.queue_ok(player, t)    a next-swing ability (Heroic Strike, Cleave, Maul,
+--                             Raptor Strike) last pressed at t may be pressed:
+--                             once per swing, in the QUEUE_WINDOW before it
+--   ST.swung_since(t)         a real main-hand swing seen after t (the melee watch)
+-- ============================================================================
+
+local ST = {}
+
+ST.QUEUE_WINDOW = 0.9       -- s before the next swing a next-swing ability is queued
+ST.JUST_SWUNG = 0.4         -- s after a swing a cast-time spell goes out at once
+ST.CAST_SLACK = 0.1         -- s a cast must end before the next swing
+ST.STALE = 1.5              -- s past the expected swing that the timer is stale
+
+local MH = { last = nil, obs = nil, n = 0, src = nil }
+local OH = { last = nil, obs = nil, n = 0 }
+local guid = nil
+ST._mh, ST._oh = MH, OH
+
+local function now()
+    local ok, t = pcall(function() return core.time() end)
+    return (ok and tonumber(t)) or 0
+end
+
+local function safe(fn)
+    local ok, r = pcall(fn)
+    if ok then return r end
+    return nil
+end
+
+local helper = nil
+local function aa()
+    if helper == nil then
+        local ok, h = pcall(require, "common/utility/auto_attack_helper")
+        helper = (ok and type(h) == "table") and h or false
+    end
+    return helper or nil
+end
+
+local function record(h, t)
+    if h.last then
+        local dt = t - h.last
+        -- a learned interval: one swing to the next, a sane weapon speed
+        if dt > 0.8 and dt < 5.0 then h.obs = h.obs and (h.obs * 0.7 + dt * 0.3) or dt end
+    end
+    h.last, h.n = t, h.n + 1
+end
+
+--- The player's guid, read on the update tick (ST.tick) - never from the event.
+function ST.tick(player)
+    if player then
+        local g = safe(function() return player:get_guid() end)
+        if type(g) == "string" and g ~= "" then guid = g end
+    end
+end
+
+--- COMBAT_LOG_EVENT_UNFILTERED handler body (events.lua): store the swing time.
+--- `args` may have nil holes: only fixed indexes are read.
+function ST.on_combat_log(args)
+    if type(args) ~= "table" or not guid then return end
+    local sub = args[2]
+    if sub ~= "SWING_DAMAGE" and sub ~= "SWING_MISSED" then return end
+    if args[4] ~= guid then return end
+    local off
+    if sub == "SWING_DAMAGE" then off = args[21] else off = args[13] end
+    record((off == true or off == 1) and OH or MH, now())
+end
+
+--- The Swing Timer addon's hand info when it is loaded and on core.time()'s
+--- clock: last_swing, expiration_time, swing_speed.
+local function addon_hand(which)
+    local sw = safe(function() return core.addons.swing_timer end)
+    if type(sw) ~= "table" and type(sw) ~= "userdata" then return nil end
+    if safe(function() return sw.is_loaded() end) ~= true then return nil end
+    local info = (which == "off") and safe(function() return sw.get_player_offhand_info() end)
+        or safe(function() return sw.get_player_mainhand_info() end)
+    if type(info) ~= "table" and type(info) ~= "userdata" then return nil end
+    local last = tonumber(safe(function() return info.last_swing end))
+    local exp = tonumber(safe(function() return info.expiration_time end))
+    local spd = tonumber(safe(function() return info.swing_speed end))
+    local t = now()
+    -- the clock check: an expiration more than 10 s away is another clock
+    if exp and math.abs(exp - t) > 10 then return nil end
+    if last and (last > t + 1 or t - last > 600) then last = nil end
+    return { last = last, exp = exp, speed = spd }
+end
+
+--- Main-hand weapon speed (s).
+function ST.speed(player)
+    local s = player and tonumber(safe(function() return player:get_attack_speed() end)) or nil
+    if not s or s <= 0 or s > 10 then
+        local a = addon_hand("main")
+        s = a and a.speed or MH.obs or 2.6
+    end
+    return s
+end
+
+--- Off-hand weapon speed (s), or nil when there is no off hand seen.
+function ST.offhand_speed()
+    local a = addon_hand("off")
+    return (a and a.speed) or OH.obs
+end
+
+--- The last main-hand swing time (core.time) and where it was seen.
+function ST.last_swing(player)
+    local best, src = MH.last, MH.last and "combat log" or nil
+    local a = addon_hand("main")
+    if a and a.last and (not best or a.last > best) then best, src = a.last, "swing timer addon" end
+    if not best then
+        local h = aa()
+        local l = h and player and tonumber(safe(function() return h:get_last_attack_core_time(player) end)) or nil
+        if l and l > 0 then best, src = l, "auto attack helper" end
+    end
+    return best, src
+end
+
+--- s to the next main-hand swing (0 = due now), nil when not known.
+function ST.next_in(player)
+    local t = now()
+    local a = addon_hand("main")
+    if a and a.exp and a.exp > t - ST.STALE then return math.max(0, a.exp - t), "swing timer addon" end
+    local last, src = ST.last_swing(player)
+    if last and src ~= "auto attack helper" then
+        local nx = last + ST.speed(player) - t
+        if nx > -ST.STALE then return math.max(0, nx), src end
+        return nil                                   -- stale: no swing for a while
+    end
+    local h = aa()
+    local nx = h and player and tonumber(safe(function() return h:get_next_attack_core_time(player) end)) or nil
+    if nx and nx > t - ST.STALE then return math.max(0, nx - t), "auto attack helper" end
+    return nil
+end
+
+local function attacking(player)
+    return player ~= nil and safe(function() return player:is_auto_attacking() end) == true
+end
+
+--- May a cast of `ct` s go out now without pushing the next melee swing back?
+--- Not auto attacking, an instant, or the timer unknown: yes.
+function ST.cast_ok(player, ct)
+    ct = tonumber(ct) or 0
+    if ct <= 0 or not attacking(player) then return true end
+    local nx = ST.next_in(player)
+    if not nx then return true end
+    local last = ST.last_swing(player)
+    if last and (now() - last) <= ST.JUST_SWUNG then return true end     -- just swung: the whole window is free
+    if nx >= ct + ST.CAST_SLACK then return true end                     -- ends before the next swing
+    if nx > ST.speed(player) + ST.STALE then return true end            -- a stale answer: do not wait on it
+    return false
+end
+
+--- May a next-swing ability (last pressed at `pressed_t`, core.time) be
+--- pressed now? Once per swing: not again until a swing has landed since the
+--- press; and in the QUEUE_WINDOW before the next swing when the timer knows it
+--- (a press long before the swing just holds the rage).
+function ST.queue_ok(player, pressed_t)
+    local last = ST.last_swing(player)
+    if pressed_t and last and pressed_t > last then return false, "queued for the next swing" end
+    if pressed_t and not last and (now() - pressed_t) < ST.speed(player) then return false, "queued for the next swing" end
+    local nx = ST.next_in(player)
+    if nx and nx > ST.QUEUE_WINDOW and attacking(player) then return false, "waiting for the swing window" end
+    return true
+end
+
+--- A real main-hand swing seen after `t` (the combat log or the addon).
+function ST.swung_since(t)
+    if MH.last and MH.last >= t then return true end
+    local a = addon_hand("main")
+    return a ~= nil and a.last ~= nil and a.last >= t
+end
+
+--- One line for the log / GUI.
+function ST.describe(player)
+    local nx, src = ST.next_in(player)
+    return string.format("swing %.2fs (%s), next in %s, main %d / off %d seen", ST.speed(player), tostring(src or "-"),
+        nx and string.format("%.2fs", nx) or "?", MH.n, OH.n)
+end
+
+function ST._reset() MH.last, MH.obs, MH.n, OH.last, OH.obs, OH.n, guid = nil, nil, 0, nil, nil, 0, nil end
+function ST._set_guid(g) guid = g end
+
+return ST

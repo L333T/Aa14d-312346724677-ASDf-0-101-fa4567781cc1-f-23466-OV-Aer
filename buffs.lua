@@ -1,1 +1,273 @@
-return(function(...)local V={"<NVlrvDRKUlWr264wE8y=";"<eNgM0yj4D7vEaCBN3i==","<TskraeE6c+KxZwP+ri==";"):@sq";"<KWx7nWYM4i==";")7tXl,]29m";")K?hoW";")T:@LTgPsB;RnY";")W,TeN(50",")OtL<F";")]5h!2YC((F",")Yr.bW/.(",")9$Jq*$&[","<LNLOOteKm+JGFP37pBi=";")l5#B<lRmDWY,P";")DEiMHhL=3";"<c3uY2g35iJ5=","<OAT/tJA+9FOQkMOXQq==",")VL:Wr#e?W3Kg?","<cy7e2zFGeqoEkq==";"<dYdrKn==","<VwZTPkZZ92r=","<wc8KuQv5VsDa7K5=",")ZfF$QWl@6Pt7.",")W^\'-A3[E";")B$SE/qgBSSp,O";")PRDSJt:","<RZ975gi=";"<vDLqjUYw2VE/","<XilpoKo=",")hSVRn","<GXQg5ulHW2gF7aGZej==","<","<Bj97CHFhl0l3";")r+rRH5?";")Qe*X,1GDb+",")(rFcO";"<aS8t/Ut=","<Ejn=","<PCt=";"<k4H9lf5=";"<6SHWwKx=";")tTm?>-U";")ZH>f0>h%gMt7a","<RZv63Py=";"<PCCTQqLaymh=","<+g8rWL8tTrJ=",")_r\'Z",")7tXQ9@0CV6OB[%";"<eInN2rgSxmt=";"<4TlP777wuaxQwj==","<lMmcOl/U9z5=";"<Li0s","<zSJV6zb+wZlz";"<2ly=","<g/NNJq==",")PoA8KV$MT";")jl8rb8(";"),.Fo$WA";"<94N5ltj2Mjq=";")L/*u00F<Andq.3p?-u.^IN$X!YT",")(:C!>IdWsJC1Nld5%GH[";"<FfTEjd/Zevn=",")a&R!D";")QTY&\\:W^O`?C\'",")uU\"*H@)",")s?Z`(K>sbMtabD.<H4",")3NMd1sY>D5a!0";"<4fJBM4y=",")kL/TSf/CO,[kQ";")in2*)I9"}for p,B in ipairs({{-68366+68367,-916561+916632};{745665-745664,-687523-(-687546)},{-25550+25574,437572-437501}})do while B[-824212+824213]<B[-101207-(-101209)]do V[B[385871+-385870]],V[B[-216011+216013]],B[214227883%7934366],B[1158416118%(811843334%14100746)]=V[B[((2620204654-228421)-832897)%10434834]],V[B[-175370-(-175371)]],B[-596618-(-596619)]+3705095071%15766362,B[872210+-872208]-82895212%1315797 end end local function q(p)return V[p-(-346469+358862)]end do local p=string.char local B={B=2081131925%16649055;M=-434910-(-434956),U=681297362%9595737;Y=374268-((-550434+199152)+153800682%1286346);r=53251030%1613666;J=60312388%7539045,X=-307146+307202,V=-815918-(988934+-1804864),A=966660759%4413976,G=(115983679%((-34290+1485149)-793412)+501259)+-774245;["7"]=(291198+617497)+(-1063906-(-155218));j=-952483-(-514390-438093);d=-829148-(-829154),u=-147683+147722;a=(1125949736%567511646-(-993541))%9814590;D=-8087-(-8118),k=(741851+-894571)+(-730443-(-883166)),P=(42790588025%(1711575269-(-689316)))%8610345,I=-177942+177961;["5"]=((-902205+651340997)-138532)%2955910,h=217550+-217510;H=-168909+168958;["+"]=20731760%545571,s=848698166%8320570,O=302754-302693;Z=-700491-(-1233618-(-533070));x=-422053-(-422061),i=-598486-(-598534);p=110650+-110592;W=1294080642%13621901,["1"]=-776836-(-776854);m=325463028%9572441,["2"]=-530675-(-530704),g=115019-114995;T=924663+-924661;c=(4065458684-(-342594))%16595107;["8"]=895645+((-745486-(-633072))+((-430590-376519)+23888));o=1081914904%(16366410-(-26240));S=-833001-(-833039),f=518810+-518780;l=-4277+(236163-231841),["9"]=2213193609%9836416;e=1686377184%13491017,["3"]=859472+(-378029-481406),Q=-976796+976837;b=15681265%7840606,["6"]=201348-(238080-36757);N=406846149%((-323359+3883921)-252870),n=477433510%6919326;["/"]=414746+-414692;K=(-194440-(-694002+1303207))+803700,F=524995-524978,["4"]=-1044662-(-1044684);E=818201111%8704267;L=-876191+(1010657-134415),t=-697711+3085489501%((437606142398%5088473988)%26398048);["0"]=-241348+241353,v=-525316-(117814+-643141),R=1375121033%8088947;C=2327194208%9460139;w=-846782-(-846809),y=647125-(483640+163441),q=-1004888-(961968+-1966888),z=289372028%(1789010241%16650378)}local N=table.insert local r=string.len local I=V local S=string.sub local C=type local c=table.concat local Q={["*"]=-475268+475326;Y=217843+((960518+-1065480)-112868);T=1204746672%7577023,U=-1036167-(-1036221),["7"]=-555842-(-555872);C=2350041393%12500220;i=(-1347428-(-573445))+774040;["<"]=(350635+288671304)%12566171,S=1508005364%13000046,["0"]=902483-902449,X=453204816%2243588;s=3748589759%(269138673%(10417567200%45551817)),d=76942826%(2352220-(-497512)),["&"]=405364-405337,o=1741576547%10884853;O=(342611285811%2429968783)%16775390;["\""]=3756166092%17467006-(-1028077+1787862),["\\"]=764544900%2998215;E=(352786-(1293908-721393))-((-714946-(-160833))-(-334382)),["#"]=-995591+995632;e=6174645%237486;n=(241088972448%2009172244)%9247571,["4"]=889741385%4998547,[";"]=-739055-(-739080);H=2303495990%16571913;g=3610387716%15629384;p=-577731-(-577780),G=(986788361-(-462096))%4839463,k=(609555457-(-308859))%3673881;_=-174701+174715;["."]=811358-811355,u=-51888+51940,["%"]=-176435+176486;P=1007286+-1007212,B=165557978%6131775;["$"]=-9660-(-9680);R=-737150-(-737193),["3"]=-24519+24554,h=-262506+262574,[">"]=-192180+192227;["^"]=597037659%(-47712+4499739)+-465977,q=-477588-(-477588);["`"]=(250496+233739)+-484153,["]"]=228206+-228174;["("]=165470618%(-759834+2291969);L=951791+-951773,K=300834+-300786;["+"]=-476542-(-476550),["\'"]=-217662+217725,Z=(186797180394%1543860958)%9527114;["@"]=877046-877009;f=-962432+962509,I=(-86156+-268580)-(-354797),[","]=529923+-529858,[":"]=3599141828%15855250,["9"]=(-637200-280092)-(-917352),["2"]=283482+-283460,["8"]=-639801-(-639860);J=988984-988905,j=(-220367-277774764%11099656)+(-153432-(-692483+35294));["-"]=-153690-(-153762),r=(68966299721%1437022229)%(14312490-(-544332));Q=-871567+871623,D=-631986-(-632059),m=-51808-(-51892);N=(471191080418%2066681774)%(8648114-297229);W=(((-1428167-(-543350))+-1581)+371815)-(-514619),["?"]=(149122680675%716947895)%4639392;["!"]=877998-877982,A=(-476107-104988)-(-581176),l=((-238181+388852)-782597)+631970,a=363657-363591;["="]=150974397%10783884;["1"]=2820302579%12052575;F=(-458308+564410)+((385790-((67451-(-747652))+222864))+546086);[")"]=505312-(570502-(22363+1213840370%(1038079+14932941))),b=(76188680624%2822274075)%12322608,["5"]=438795-(-133596+572387),["6"]=(436983638904%(435719777287%1919482847))%9710263;V=1298568394%11805167;M=915913-915874,c=-508349+508394,["["]=2517643365%11655756;["/"]=406762-406755;t=-380551+380606}local K=math.floor for D=20314+(((652709-(-404551-(-646254)))+254910)+-686229),#I,(292756-25923)-266832 do local X=I[D]if C(X)=="string"then local C=S(X,49775-49774,-277655+2530778406%16870005)if C=="<"then X=S(X,-15830-(-15832))local C=r(X)local Q={}local y=-943331-(-943332)local a=(-386844+-225688)+612532 local G=4176436662%16772838 while y<=C do local r=S(X,y,y)local I=B[r]if I then a=a+I*((-511082-(-511146))^(((988170-988167)-G)))G=G+(-948285-(-948286))if G==883769+-883765 then G=2693314260%((10228775-(-960419))-(-520868))local B=K(a/(483473150%2022626))local r=K((a%((88255-(((((632987+-846434)+-779348)+-427986)-(-1294120-(-624383)))+934339114)%5331249)-(-596776)))/((830515-(-26545))+-856804))local I=a%(360748816%7515595)N(Q,p(B,r,I))a=-755063+755063 end elseif r=="="then N(Q,p(K(a/(1024363+(-1894759-(-935932))))))if y>=C or S(X,y+(-208284-(-208285)),y+(((139432+-80381)-(-388342))-447392))~="="then N(Q,p(K((a%((893634+-1007133)+179035))/(104852-104596))))end break end y=y+(-961752+961753)end I[D]=c(Q)elseif C==")"then X=S(X,693545+-693543)local B=r(X)local C={}local y=1539437902%11236773 while y<=B do local r=(B-y)+(-75427-((1769116852%9358885+((-211749+-812714)+-91977))-(-1787992-(-1034567))))local I=r>=498508337%5934623 and 281786+-281781 or r local c=29844359%1924431+-977894 local D=I>164906483%975778 for p=(212527499-(-844402))%(307283+2326938),704495+-704491,-691227-(-691228)do local B if p<I then local N=S(X,y+p,y+p)B=Q[N]if not B then D=false break end else B=970368+-970284 end c=c*(1457183197%6972168)+B end if D then local B=K(c/(16509967-(-267249)))%(158652831%1023565)local r=K(c/((291862-782346)+556020))%(1708945130%(317317+7558005))local S=K(c/((-1175531-(-646922))+528865))%(-79242-(-79498))local Q=c%(-411196-(-411452))if I==707092055%(-759615+331129742%20462447)then N(C,p(B,r,S,Q))elseif I==559543-559539 then N(C,p(B,r,S))elseif I==-866445-(100740+-967188)then N(C,p(B,r))elseif I==-753799-(-753801)then N(C,p(B))end end y=y+I end I[D]=c(C)end end end end local O,W do local p=table[q(-462009+474434)]local B=615614+-615614 local N=math[q(1718171873%16363423)]local r=string[q(-693281+705682)]local I=-1035961+1035963 local S={}local C={}local c=math[q(-444468-(-456909))]for p=190051+(-535417+(-403691-(-749058))),648372-648116,-12631+12632 do C[p]=p end repeat local B=c(3291000251%(-794670+13958671),#C)local N=p(C,B)S[N]=r(N-(-161266-(-161267)))until#C==985145+-985145 local Q={}local function K()if#Q==-652010+(-387103+1039113)then B=((B*(62751-62526)+(14689625120630-613791)))%(35184371332769-(-756063))repeat I=(I*(-322705-(-322854)))%(1819716107%12131439)until I~=379145-379144 local p=I%(793442-793410)local r=(110960-110947)-((I-p))/(14280+-14248)local S=(N(B/(214152121%1634749)^r)%(-443045+4295410341))/(196016992%((358317+(1918480-(239739-359198053%(10463047-(210903746423%1550807187)%(639397789%17344650)))))-940656))^p local C=N((S%(-788605+1652679946%15017194))*(214781781183%(4294947256-(-650169-51838))))+N(S)local c=C%(-605309-(-670845))local K=((C-c))/((-177878+2276054558)%10781732-865692)Q={c%(253557+-253301);((c-c%(173261890%4125277)))/(800271-800015);K%(94022260%686292),((K-K%(-840215-(-840471))))/(980075858%15807671)}end local p=#Q local r=Q[p]Q[p]=nil return r end local D={}O=setmetatable({},{[q(1249964866%15059668)]=D;[q(1325953671%5841151)]=nil})function W(p,N)local r=D if(r[N])then return N else Q={}local C=S B=N%((401655+35184372610288)-923111)I=N%(-661572+661827)+79667044%875462 local c=#p r[N]=q(666085+-653636)local D=-24412-(-24578)local X=q(-734576+((-1669691-(-710941))+1705775))for B=-755081-(-755082),c,-792977-(-792978)do D=(((string[q(310810-298384)](p,B)+K())+D))%(1012855488%4237888)X=X..C[D+(-1016126+1016127)]end r[N]=X end return N end end local p=require(O[W(q(-471648+484078),20228013056927-(-249144))])local B=require(O[W(q(((2350844-856994)-842250)+-639190),-649253+25468207865642)])local N=require(O[W(q(3396910004%14833614),-855434+30557267591516)])local r=require(O[W(q(1180077035%(5276654-233643)),704121209%5025524+14128615397025)])local I=require(O[W(q(96777371%2419124),7.3164404544408e+14%19253791076960-(-58867))])local S=require(O[W(q((-781569+-181537)+975505),1835019434857-(-270049))])local C=require(O[W(q(286820616%5311263),(888520+28806464741742)-309246)])local c={}local Q=1.2 local K=-360735+360741 local D=967650992%8639741 local X=-999739186-(-885748+1146562)local y={}local function a(p)local B,N=pcall(p)if B then return N end return nil end function c.is_enabled(p)return I[O[W(q(77910122%973721),725666+12001965727630)]](p)end local function G()local p,B=pcall(require,O[W(q(112739-100344),432850+19040447812847)])if p and(B and type(B[O[W(q(1020031-1007571),3839867698110-479451)]])==O[W(q(572993-560555),11662+31382869774572)])then B[O[W(q(868324+(((-9738+-409233)+100037)-536954)),(16349929477738-(-701990))-(-383358))]]()end end function c.set_enabled(p,B)if type(p)~=O[W(q(-472178+484607),827720+23897089603343)]then return end I[O[W(q(-15835+28255),(487625+28445706979696)-328163)]](p,B)y[p]=nil G()end function c.toggle(p)c[O[W(q((-143444-(-423872))+-267989),27276086640591-111274)]](p,not c[O[W(q(-216-(-12612)),907923+(3860571011715-(-524763)))]](p))return c[O[W(q(2791443320%11630962),10291302609186-419502)]](p)end function c.enabled_count()local p=I[O[W(q(403024+-390620),26367448215016-((-568384-((-1042831+-695167)-(-768092)))-11389229%(((505019+(187022546548-(370327+-1163722)))%(443892+(-516018+1427831777)))%15188068)))]]()return p end local function o()if N[O[W(q(754333553%10932190),17008466175857-(-228022))]](O[W(q(747228-734794),24316752004401-((330764-(-20998+((20124298106%(19755568142%94568562))%5109543+-903617)))+-1784639))])then return true end if type(N[O[W(q(-87659-(-100072)),764970+(417292+23508550313370%326507755711))]])==O[W(q(596938+((-833491-(-237354))+11662)),9173577534590-886203)]and N[O[W(q(2738980287%10783338),29520414851358-(-418062))]]()then return true end return false end local function f()local B,N=pcall(require,O[W(q(680451+-668049),(910312+-1573871)+6477308915420)])if B and(N and type(N[O[W(q(165022-152607),28565676171518-((466369+-1155070)+((499427+614400)-1028541)))]])==O[W(q((123238-862351)-(101825+(-848008+-5327))),(9235+(675109+12493105251606))-(865514-1038399))])then if N[O[W(q(-850359-(-862790)),1651201565618-(-143886))]]()==true then return true end end local I,S=pcall(require,O[W(q(331900-((250301-(-123268))-144223765%676853)),31611576477093-990594)])if not I or type(S)~=O[W(q((1031197+(-2364099-(-539270)))-(-806048)),-945122+10570077324219)]then return false end local C=a(function()return p[O[W(q(692457-680057),5918414366172-115235)]]()end)if not C then return false end if type(S[O[W(q((338285+104002)+(626802+-1056641)),2591408783276-787589)]])==O[W(q(541300+-528849),319758+3145892776828)]and r[O[W(q(284576316%1521732),(18610292857207-(-195825+-827500))-585492329%7910173)]](C,S[O[W(q(344620+-332201),253760+15604295749983)]])then return true end if type(S[O[W(q(21704275%126853),(20426560078878-267956)-(-1017267))]])==O[W(q(2341621892%9404054),28961370872187-(-257947))]and r[O[W(q(1634094437%7295009),((-821401+636845)+(-385249+20067181940274))-446796)]](C,S[O[W(q(950268+-937851),19990392177663-(660699+-393706))]])then return true end return false end local function j(p,B)local N=B[O[W(q(740517+(-1094401-(-366338))),-715298+20751037045044)]]if type(N)~=O[W(q(3347400372%13607268),1015049+7947879588142)]or#N==40788930%313761 then N={B[O[W(q(((-132457-575544)-210444)-(-930900)),-209792+29908755694802)]]}end return r[O[W(q(516337-503919),25663048592294-244521)]](p,N,D)end function c.tick(N)do return false end if not N then return false end if not o()then return false end if f()then return false end if a(function()return N:is_mounted()end)==true then return false end local r=p[O[W(q((1278116-855885)+-409767),353260+29595178889952)]]()if(r-X)<Q then return false end if type(S[O[W(q(780163295%6291539),13190015156128-(-670228+218515))]])==O[W(q(982862414%8775446),462327+(16384544873103-(-889545+751572)))]and S[O[W(q(-260141-(-272598)),-9455+(33882013522472-366352))]]()~=true then return false end local c,D=pcall(require,O[W(q(3050490094%14953322),18071335301189-(-838751))])local G=(c and(D and D[O[W(q(575836401%6469932),34119524634276-(926968+-927293))]]))or O[W(q(580193-567746),-4546+12368024135586)]local V=(type(S[O[W(q((168257+195647)+(-1009214-(-1022607+364845))),911906+12038665678614)]])==O[W(q(389554+-377121),743864+32350832165175)])and S[O[W(q(50608+-38181),675783+11628742914722)]](G)or{}for S=-288115+288116,#V,(404162645%(159518209%(3883927289%27463792))-184550)-1022198 do local c=V[S]local Q=c[O[W(q(2055764058%8390823),547447+18387556187722)]]local D=type(Q)==O[W(q(948605554%16351048-232342),-318907+7156022728269)]and Q:find(O[W(q(613765+-601320),-782346+32175505827127)])~=nil if not D and I[O[W(q(73257+-60833),17226369014906-970006)]](Q)then local I=y[Q]or 465996770%4355110 if r>=I and j(N,c)then local I=a(function()return p[O[W(q((-932659+545652)+399410),923370+(499375+34423315252968))]](c[O[W(q((180780488908%772584394)%(224706+7615219)),161753+10178721985391)]])end)local S=false if I then S=a(function()return B[O[W(q(-301539+313989),50257013026543%((-1218139-(-297163))+497595204873))]](I,N,Q)end)==true if not S then S=a(function()return B[O[W(q(1273348329%13403536),700645+23340403384793)]](I,N,Q)end)==true end end X=r if S then C[O[W(q(2142836596%12386267),-630992+4173045981946)]](O[W(q(1008922+-996485),-371670+(3421177448%16443233+31292634148494))],O[W(q(-789112-((191268+-284243)+-708545)),929290+19161600725708)]..tostring(Q))else y[Q]=r+K end return S end end end return false end function c.reset()y={}end return c end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- Self-buff upkeep
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Forever_Questing
+-- ============================================================================
+-- WHEN A BUFF IS MAINTAINED
+--   The bot must be doing something - rotation only, a grind profile, or a
+--   quest profile - and it must not be resting. Those are the conditions the
+--   request names, and each one is checked rather than assumed:
+--
+--     doing something   gui.is_on("rotation_only") or gui.is_started()
+--     not resting       healing.is_resting() is false
+--
+--   Resting matters because eating and drinking break on any cast. A buff
+--   refreshed mid-drink costs the whole drink, which is a worse trade than
+--   the buff being a few seconds late.
+--
+-- WHICH BUFFS
+--   Whatever is ticked in the Spells tab, which lists everything the scanner
+--   filed as a buff. Nothing is hardcoded here: a Mage with Mana Shield ticked
+--   gets Mana Shield kept up, and the same code keeps a Shaman's Lightning
+--   Shield up, because both arrive as a buff family from the same scan.
+--
+-- HOW "EXPIRED" IS DECIDED
+--   By asking the game, not by timing the cast. A timer of our own drifts,
+--   is wrong after a dispel it never hears about, and has to guess a duration
+--   per rank.
+--
+--   The question now includes how long is left, via auras.lua, so a buff is
+--   refreshed just BEFORE it runs out rather than just after. Waiting for it
+--   to drop meant it was genuinely missing for a tick or two, and the moment
+--   a buff is most likely to lapse is mid fight - the moment it was wanted.
+--   On a build that cannot report the time left this degrades to exactly the
+--   old behaviour.
+--
+-- ONE AT A TIME
+--   One buff per tick, with a gap between. A global cooldown is shared, so
+--   firing five buffs in one frame just means four refusals, and the refusals
+--   are silent.
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+local spellcheck = require("spellcheck")   -- 2.246.0: spell_helper gate on every cast
+
+local gui = require("gui")
+local auras = require("auras")
+local picks = require("picks")
+local spellbook = require("spellbook")
+local state = require("state")
+
+local buffs = {}
+
+local ACT_GAP = 1.2          -- seconds between buff casts
+local RETRY_GAP = 6.0        -- how long before re-trying one that did not land
+
+-- How early to refresh a buff, in seconds before it runs out.
+--
+-- Zero: recast when the player does NOT have the buff, and not before. An
+-- early refresh throws away the tail of a buff that is still working, and on
+-- a long self buff that is a cast and a global spent for nothing every cycle.
+--
+-- The anti-spam that matters is elsewhere and does not depend on this: the
+-- aura check says the buff is up, ACT_GAP holds a second between any two buff
+-- casts, and RETRY_GAP backs off one that would not land. Those three are why
+-- a buff is cast once and then left alone.
+local REFRESH_LEAD = 0
+
+local last_act = -1e9
+local failed_until = {}      -- name -> time before which we do not retry
+
+-- Which buffs are switched on lives in picks.lua, shared with the Spells tab
+-- and the rotations. Only the back-off timers are local to this file.
+
+local function safe(fn)
+    local ok, result = pcall(fn)
+    if ok then
+        return result
+    end
+    return nil
+end
+
+-- ----------------------------------------------------------------------------
+-- TOGGLE STATE
+-- ----------------------------------------------------------------------------
+-- Delegated to picks.lua. This used to be a second copy of the same table,
+-- and two registries of one fact can only drift: the set the Spells tab drew
+-- was not always the set this file read.
+--
+-- A buff is kept up only when it was explicitly switched ON. Unlike a
+-- rotation spell there is no sensible default here - buffing everything in
+-- the book on sight would be worse than buffing nothing - so untouched
+-- counts as off.
+function buffs.is_enabled(name)
+    return picks.is_enabled(name)
+end
+
+local function mark_dirty()
+    local ok, settings = pcall(require, "settings")
+    if ok and settings and type(settings.mark_dirty) == "function" then
+        settings.mark_dirty()
+    end
+end
+
+function buffs.set_enabled(name, on)
+    if type(name) ~= "string" then
+        return
+    end
+    picks.set(name, on)
+    failed_until[name] = nil
+    mark_dirty()
+end
+
+function buffs.toggle(name)
+    buffs.set_enabled(name, not buffs.is_enabled(name))
+    return buffs.is_enabled(name)
+end
+
+--- How many buffs are switched on, for the tab's status line.
+function buffs.enabled_count()
+    local on = picks.count()
+    return on
+end
+
+-- ----------------------------------------------------------------------------
+-- CONDITIONS
+-- ----------------------------------------------------------------------------
+--- Is the bot doing something that justifies keeping buffs up?
+local function bot_is_working()
+    if gui.is_on("rotation_only") then
+        return true
+    end
+    if type(gui.is_started) == "function" and gui.is_started() then
+        return true
+    end
+    return false
+end
+
+--- Is the character eating or drinking, by anyone's doing?
+---
+--- healing.is_resting reports the BOT's own rest flag, which is only set when
+--- the bot sat the character down itself. In Rotation Only the bot never
+--- rests - the player drives - so that flag is always false, and a buff that
+--- happened to drop while the player was eating would be cast straight into
+--- the meal and cancel it.
+---
+--- The food and drink auras are the real answer and cost nothing extra: the
+--- aura layer is cached.
+local function is_resting()
+    local ok, healing = pcall(require, "healing")
+    if ok and healing and type(healing.is_resting) == "function" then
+        if healing.is_resting() == true then
+            return true
+        end
+    end
+
+    local ok_c, cons = pcall(require, "data/consumables")
+    if not ok_c or type(cons) ~= "table" then
+        return false
+    end
+    local player = safe(function() return izi.me() end)
+    if not player then
+        return false
+    end
+    if type(cons.FOOD_AURA_IDS) == "table"
+        and auras.buff_up(player, cons.FOOD_AURA_IDS) then
+        return true
+    end
+    if type(cons.DRINK_AURA_IDS) == "table"
+        and auras.buff_up(player, cons.DRINK_AURA_IDS) then
+        return true
+    end
+    return false
+end
+
+--- Does this buff need casting - missing, or nearly out?
+--- Every rank is offered, because a lower rank's aura is still the buff.
+local function needs_cast(player, fam)
+    local ids = fam.ranks
+    if type(ids) ~= "table" or #ids == 0 then
+        ids = { fam.id }
+    end
+    return auras.aura_expiring(player, ids, REFRESH_LEAD)
+end
+
+-- ----------------------------------------------------------------------------
+-- TICK
+-- ----------------------------------------------------------------------------
+--- Keep the enabled buffs up. Returns true when it cast something, so the
+--- caller can hold the rest of its tick.
+--- Buff upkeep moved to smart.upkeep (2.64.0), which keeps every buff
+--- ticked in the Spells tab up in and out of combat, with one-at-a-time
+--- groups (aura, armor, seal...) this generic pass could not know about.
+--- Left as a no-op so older callers stay harmless.
+function buffs.tick(player)
+    do
+        return false
+    end
+    if not player then
+        return false
+    end
+    if not bot_is_working() then
+        return false
+    end
+    if is_resting() then
+        return false
+    end
+
+    -- Mounted or already casting: a buff now would either not go off or would
+    -- cancel what is going off.
+    if safe(function() return player:is_mounted() end) == true then
+        return false
+    end
+
+    local now = izi.now()
+    if (now - last_act) < ACT_GAP then
+        return false
+    end
+
+    if type(spellbook.ready) == "function" and spellbook.ready() ~= true then
+        return false
+    end
+
+    local ok_cat, cats = pcall(require, "data/spell_categories")
+    local buff_key = (ok_cat and cats and cats.BUFF) or "buff"
+    local list = (type(spellbook.category) == "function") and spellbook.category(buff_key) or {}
+
+    for i = 1, #list do
+        local fam = list[i]
+        local name = fam.name
+        -- Seals are not self-buffs (2.54.0): Seal of Righteousness / of the
+        -- Crusader / ... were cast out of combat here as "buffs". Seals
+        -- belong to combat - the paladin rotation casts its seal only while
+        -- actively attacking an enemy.
+        local is_seal = type(name) == "string" and name:find("^Seal of ") ~= nil
+        if not is_seal and picks.is_enabled(name) then
+            local hold = failed_until[name] or 0
+            if now >= hold and needs_cast(player, fam) then
+                local spell = safe(function() return izi.spell(fam.id) end)
+                local cast = false
+                if spell then
+                    cast = safe(function() return spellcheck.cast_safe(spell, player, name) end) == true
+                    if not cast then
+                        cast = safe(function() return spellcheck.cast(spell, player, name) end) == true
+                    end
+                end
+
+                last_act = now
+                if cast then
+                    state.set_note("Buff", "Casting " .. tostring(name))
+                else
+                    -- Out of mana, on cooldown, or not castable here. Back off
+                    -- rather than retrying every tick and burning the gap on a
+                    -- spell that will not go.
+                    failed_until[name] = now + RETRY_GAP
+                end
+                return cast
+            end
+        end
+    end
+
+    return false
+end
+
+--- Forget the back-off timers. Called when the bot stops.
+function buffs.reset()
+    failed_until = {}
+end
+
+return buffs

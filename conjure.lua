@@ -1,1 +1,310 @@
-return(function(...)local W={"*zDCMI6O3SMS=","*Wys6ABbJbGYxlJ4+IIyhCSz5YiTzp3==","*VdxC3hT4Yr76oSvx","*JtcIfgTTDqLf";"N0Vcs6MdEeNSu","N>\"@^aL^";"*AoGfoTFybzd=";"N(8<.5]V";"NX4b5!N3#V\'&up8Ho[e%";"*VeSNVyMxBwfkCgrCwDDmOwQcBDHeqplxPp6jGorf6LOtE0Pp+qd=","*YWHawCbdMd==";"*hVFip18Ge+O=";"N*ENN$98@n";"NTn5iV`6N8dcRs\"";"N\"TR(C(=MTU";"NRB8a<R%","*lirhwRhRrHqJ";"NFL$0+AL5boE*E";"N`e+fO","NLqGhrHU8-3Y`&2\'uFT","N1GbLB!O6","*qFy4FfgBp0l=";"*uja2hrSx7/ZlEVBYcanRod==";"N!sEDl8FRW[qh";"N[0lHtOX.LeSHC]>4q[:?sP;dJ7\"`","NoG\"TKmd_FI","N_m_`EbAjMSRrh";"*qixIX4Q=","*5cRbPCriQYG=","N(RT8","N2@<)=[T8_WKq(";"*zVWJMeN/eiEdayxrWkUjQI9KodmiJd==";"NcnY#e","NH4lWVm\'OHf","*","N+E7h]W>","*aKnjXi5yNB==";"NN*:9rMd!3","*VqnrdPH25B==";"NSMnPk`#,*i?,>#F","*ohpKhwqvWUc5rfVR273p3Aqc5Hpbrlm=","*86FiWXd=","NO>]<+m>nGn";"N6uP*0n>l[j7@$","*HOyiB2bPM3b=","*09IJPppS","NqbDTB,bths";"NonQS2oKOY#V`3";"*MJQq9AowzzF=";"*OJzz1d==";"*wlqShrUM/3==","NCBMDmjgu\"Qd;,&0";"N*TZA?ftF]W";"N1.SFu\\sh","Nr2i[mYb+MZ+d\'ad";"*zobcMIdlEN9AUtKxhB==","*w+fT2zx6gpaIIM3xNm3FKK/OB+nRqZO=";"N9OH4SMm\')i","N!%<OZD:*Z";"N54K0.C)jn","N;GY$P","NL4]?,T>=[O3m>\"3.C","*/sTLDfCDn926mAcKY9yvte80DnKdFAC=","N=2pl*7i?-M6W9X/.C;";"NZP`r_le";"*42lH0lF0hgqB";"*DUyblscbYB==","Nsh\\3u%Nc]S=O&hjQca19)F.UP";"NXu(SB2#.k)\"S%";"*IkQy8BC4Yd==";"NK)JILDdHV1","N$41.Wmr=E";"*PdzeMdd=";"*LDGf/n7+JFZheSML/FO=","*7xIpGd==";"*AAaJQks=","Nh[V,%@!bn@6[";"*MruOBOM1k3==","N*c0>=bI9E","*uhB=";"N=Q<ecu\'jB","N/g\"\'+&DP?%7Bc-g";"N(%K`-a:";"N3om&qi\"Y","NV>-B!L&","N!c`8uecJdm","*eyurEDuLD/X4"}for j,C in ipairs({{-371052-(-371053),820431+(-111348+-708996)};{((((-483788-145269)+-345637)-(-105238))+2415239588)%11072493+(787907+-1354564),(-342863+334628)+8292},{2977750292%(3940450292%(26202889-189703)),325441+-325354}})do while C[(3597812585-(-451536))%14868860]<C[(1690830-747286)-943542]do W[C[(((-763717+(898153-1021867))+(2157186-432806))+-327085)+-509863]],W[C[349360966%3716606]],C[219154609%4662864],C[468623-1345946553%12458129]=W[C[-742369-(-112641+(-85339+-544391))]],W[C[710727+-710726]],C[986414821%16440247]+(901533-901532),C[1016853-1016851]-(-1002047+1002048)end end local function Q(j)return W[j-((647868+-1634665)+1015912)]end do local j=table.insert local C={f=-157037+157063,["2"]=((-26858-(-681087))+-673002)-(-18782),["+"]=1054054403%9411200;["7"]=1493833393%12244536;Q=1605435618%8869810;n=84391+-84330,u=-70197+70208,A=(-840359-(-442648))+(-150195-(-547948)),k=-41007-(-41046),l=-646605-(-646661);g=-578195-(-578257),O=873986364%14566439,Z=-340872+340930,b=115329+-115317;V=(-544855+(658876937375%65888357864)%855666990)%5989299,Y=919237+(417893+-1337110);H=-264169+264179;W=500800536%3273206;X=-496667+496694;K=408601+((-964631-(-975977))-419894),U=((-1899401-(722150-769101))-(-962103))-(-890395);z=-288977-(-289010),M=(-1003467+1570649)+(-921526+633593775%4947183);["9"]=(-1070295-(-94558))+975742,s=(391787006%23062228)%3798553,E=629855542%3538514,t=466760+-466731;["0"]=1029067-1029054,p=735442774%((10062956-125945)-857471);y=205159-2598861298%14599192,C=-294996-(-295040);m=554672546%(2195068-(-1257808-(1014795+-1775086)));["3"]=(-643121+(21061+446945))+175131;["6"]=712625+-712590,["8"]=758057-(1015891-257853);i=1039574-1039536,J=-679682+679736,I=-503288-(-503335);o=666586+-666571;["5"]=-395738+(1673325216%11618011-(-64123));j=911862293%10855503;h=(-457908-(-70226))-(-387703);G=-636224+636284;v=717143+-717098,a=-1031919+1031942,F=-610836-(411284-(507997-(-499583-14592)));T=34890-(972804-937957);N=38914-38884;["1"]=538944-538916;d=1003660+(-123721+-879907),P=-572046+2001267061%11177067,e=-795270+795284,["4"]=(177283607615%1013119974)%5323043,x=659835-659786;c=-922669-(-922720);D=391426399%8154716;L=-133286+133349;w=-564968+663100749%5057525;S=448562-448558;R=-210304-(-210306),B=320590320%((-941358+(5150253620-(-1027699)))%(31583455-466422));r=(1415733043-635534)%8628643;q=147373927%629803,["/"]=(154988+788869)-943798}local O=W local a=math.floor local J=string.char local M=type local y={Z=500269363%2689620;Q=679145+-679093,[","]=-689539-(-689613);a=(63774903730%494451710)%3620036,t=215502+-215483;["^"]=((295492-(274671-(-530822)))+372961636)%(2463675762%12239936);h=(679061+81486437)%11737928,A=-68118+68132,q=-391051-(-391122);["3"]=281636-281590,U=(2570834108-654544)%16063622;_=(-849493+576615)-(-272906),["/"]=-882764-(-882822);g=878639918%13517537;E=268706-268706,D=4841+-4802;["["]=2649969936%12211843;m=997213+(1018937+-2016138),d=795285-795284,["?"]=(380503981-801507)%14063052,f=1888212370%11801327,b=121046187%(3766420-3315745172%(6287723600%25708975)),O=216310468%6759702,B=(2989478003-(-889804+256697))%(11684859-(-722241));i=(3008912960-((-807757+169575)-(-81426)))%15839314,u=629838+-629757,[")"]=3897461058%15224457;["2"]=33136+-33089;s=274293-(1319247-1045023);T=(722057+-1354515)-(-632488);["1"]=578848761%14842275;S=-296323-(-1035020-(-738634)),V=82438360%16487660,["-"]=705869-705810;["$"]=76590022%531875;["%"]=(495030957-335858)%14549855;[">"]=1007506265%(10591610-(1163566-449468));F=1529585772%10197238;M=-72544-(-72560),["4"]=1279221706%11421622;["\""]=-701417+(-215280-(-916748)),j=267650156%2287608;["0"]=-528421-(-528470),G=280224940%11208995,["8"]=(443224-179371)+-263829,[";"]=(-1076475-(-85960))-(-990572);["7"]=-649093+649172,["="]=486681-486633;o=1910095565%(5276609196%22405844);["."]=301879+-301815,I=(1000479+((-2866786-(-1023945))-(-75344)))-(-767091);["9"]=(1041061+((144188-913784)+-1131759))+860356;["@"]=-1018841+1018848;Y=2898442102%11878861,p=156642393%3729579;["+"]=884659+-884592,W=-170238-(-170314);[":"]=-338107+338191,r=-963295-(-308061+((-542120+-137254)+24072));["\'"]=87232+-87150,["("]=(-655859+1024496)-368612,n=1366750986%(1105053231%28685105);l=(875637-362660)+-512900;K=880198-(450484+429693);["&"]=((67449+-366057)+966641)-667979,R=358940933%(-814124+(2287821-(-527141-(-927185-(-920463)))));["5"]=154410031%4173243,P=468292-(452893+15316);L=151735+-151726,N=2673425025%11934933,["*"]=287003032%5125054,["`"]=2045186395%14820191;C=573790+-573767,k=603686-603654;["!"]=435759694%2368259;["6"]=-216903+216937,c=1020632-(60291216-(-36083))%(3955231310%(21548407-(-35417))),X=-396800-(-396817),["#"]=(932983+-549610)+-383367,["\\"]=337825763%7038036;H=(19644-760888)-(-741247);["<"]=1045615110%11006474;["]"]=-506529-(-506590),e=(1202966823-819964)%(3602854594%19717271);J=1304755794%5877278}local B=string.len local D=string.sub local d=table.concat for v=842220+-842219,#O,(-95404+-47397)-(-142802)do local K=O[v]if M(K)=="string"then local M=D(K,231626+-231625,783208961%(1593372404%11475234))if M=="*"then K=D(K,-459801-(-575548+(-593684-(-709429))))local M=B(K)local y={}local F=809134-809133 local n=685440-685440 local U=164190760%1844840 while F<=M do local O=D(K,F,F)local B=C[O]if B then n=n+B*(((592025+-226185)-365776)^((1418472411%10060088-U)))U=U+((-336541-(-498120+422447))+260869)if U==595900153%(699622+6149805)then U=-591841-(-591841)local C=a(n/(2015720721%13004227))local O=a((n%((191789-968145)+841892))/(587110+-586854))local M=n%(-127579-(-127835))j(y,J(C,O,M))n=480002112%2222232 end elseif O=="="then j(y,J(a(n/(709976452%4550711))))if F>=M or D(K,F+(-346077+346078),F+814856065%(3358322674%14803498))~="="then j(y,J(a((n%(954486+(971703+(209866+-2070519))))/(-343718-(-343974)))))end break end F=F+2792013223%(724266+15321787)end O[v]=d(y)elseif M=="N"then K=D(K,((-30251-(-291963))+-1141568)+879858)local C=B(K)local M={}local F=912514683%9707603 while F<=C do local O=(C-F)+503716438%3572457 local B=O>=(-299210-(-683354))-(227129+157010)and 189667+-189662 or O local d=1612357464%9058188 local v=B>885078+-885077 for j=404310-((-1031990+238132)+1198168),72397+-72393,(-543108+-262364)-(193277+-998750)do local C if j<B then local O=D(K,F+j,F+j)C=y[O]if not C then v=false break end else C=-164617+164701 end d=d*(971594149%10447248)+C end if v then local C=a(d/(4069491054%19770703-(-280277)))%(375004624%10416788)local O=a(d/(660175+(-898414+303775)))%(54773128%829892)local y=a(d/(-123156+123412))%(2470325023%9920983)local D=d%(2492840446%(3738138814%19817748))if B==-670590+670595 then j(M,J(C,O,y,D))elseif B==417949294%6332565 then j(M,J(C,O,y))elseif B==239410143%7980338 then j(M,J(C,O))elseif B==479137+-479135 then j(M,J(C))end end F=F+B end O[v]=d(M)end end end end local f,T do local j=-603770-(291605520%((163714419269%1186367997-469740)%8479292)+-974092)local C=table[Q(-539890-(-569083))]local O=math[Q(481968756%8455081)]local a={}local J=string[Q(-88069-(-117204))]local M=((-459117-(-1501217-(-865111)))-961467)+(-592533+1377011)local y=math[Q(453200+-424000)]local B={}for j=-736565+736566,415819-(471778+-56215),1071535093%5252623 do a[j]=j end repeat local j=O((1007340243-711434)%(3709968-(-824396)),#a)local M=C(a,j)B[M]=J(M-(708285-((-198551+865499)+41336)))until#a==115599+-115599 local D={}local function d()if#D==553050+-553050 then M=((M*(179987-179950)+(28842682775861-377342)))%(35184371556800-(-532032))repeat j=(j*(-641944+642030))%(-765822+766079)until j~=-434269+2567279378%15747516 local C=j%(-210390+210422)local O=741951585%8064691-((j-C))/((1048495+-1904564)-(-856101))local a=(y(M/(1024451+-1024449)^O)%(4295159174-191878))/(68782527%280745)^C local J=y((a%((51921256823%(401912357-(-606225)))%4029074))*((-471251-(-137083))+4295301464))+y(a)local B=J%(521972428%7563868)local d=((J-B))/(1810981566%7391494)D={B%(943877-943621);((B-B%((-418282-(-94161))-(-165035+-159342))))/(319586-527417245%3904429),d%(-525422+(1295066-(928747-159359))),((d-d%(-666646-(-666902))))/(905024+-904768)}end local C=#D local O=D[C]D[C]=nil return O end local v={}f=setmetatable({},{[Q(9932-(-19190))]=v;[Q(76769342%(1684382433%13024179))]=nil})function T(C,O)local a=v if(a[O])then return O else D={}local J=B M=O%(35184371692701-(-396131))j=O%(-310796+311051)+((-1235788-(-729092))+506698)local y=#C a[O]=Q(-727194+(-548645+1070146159)%8907010)local v=-987895+2446151231%10273795 local K=Q(289800419%15251121)for j=-775372+775373,y,470664-470663 do v=(((string[Q(252592042%1112612)](C,j)+d())+v))%(39705288%(-843714+(((-311832-(-220425))+-890492)+(-637041+12388912))))K=K..J[v+((1008824+-1225442)-(-216619))]end a[O]=K end return O end end local j=require(f[T(Q(11273-(-17876)),-980000+29070761860722)])local C=require(f[T(Q(-955145+984278),696029+33266936833278)])local O=require(f[T(Q(250182662%(2779193575%15009540)),-883198+9022377150268)])local a=require(f[T(Q(1076020-1046825),(28201894051149-584710)-754553)])local J=require(f[T(Q(-413238+442426),-154853+(20920011012661-533253))])local M=require(f[T(Q(-123709-(-152889)),14250860700190-(-772136))])local y={}local B=2972585153%(-241592+13940141)local D=-533796.5-(-533799)local d=160728+-160713 local v=851048+-1000851048 local K=nil local F=447387543%9130358 local n=2111934368%(8080984-(-983112))local U=-994421-((245988+-448107)-792304)local z=1723159256%16568839 local function A(j)local C,O=pcall(j)if C then return O end return nil end function y.is_mage(j)if not j then return false end local C=(O and(O[f[T(Q(-96525+125696),-821750+3568105110855)]]and O[f[T(Q(187456384%1348397),534747+24430582522247)]][f[T(Q(270683661%3922529),169448+26545844752129)]]))or 618019+-618011 local a=A(function()return j:get_class()end)return a==C end local function s(C)local O=(-30580-(-373380))-(881050-666393300%3804886)if type(C)~=f[T(Q(4076+25094),(-530374+-244118)+23390698357420)]then return(13082744418%(192283744502%1885283399))%9310086 end for a=979888+(-1266340-(-286453)),#C,511032398%9635959+-326570 do local J=A(function()return j[f[T(Q(((((-72803+-776322)+(1931716-((172108246%17128807-290550)-305052)))+-1289891)+1164732)+-703667),-789928+(10288824565432-(-342150)))]](C[a])end)if J then local j=A(function()return J:count()end)if type(j)==f[T(Q(-583853-(-613022)),14497694099993-744289)]and j>-451653+451653 then O=O+j end end end return O end local function c(j)if type(j)~=f[T(Q(1075132-1045974),6507683382305-(-616110))]then return nil end for C=(560744+868809989)%(692653+4673833),#j,351153811%((-428239+2946008)-(-383989-(-114823)))do local O=j[C]local a=A(function()return core[f[T(Q(-88677+117876),9586863278892-1008869)]][f[T(Q(166435-868357673%5987727),28717588334722-(-72558))]](O)end)==true or A(function()return core[f[T(Q(578687+-549558),2170096679430-316643)]][f[T(Q(1420151159%(12839422-(-70778))),83532626581558%1144282581182)]](O)end)==true if a then return O end end return nil end local function N(j)if J[f[T(Q(-54971+84095),(-383407+1385861350%11449126)+15845163450702)]](j,a[f[T(Q(-669126-(-698267)),881989+3840024354952)]])then return true end return J[f[T(Q((-806126+624402)-(377357865%8975994+-576998)),195604+19793575725798)]](j,a[f[T(Q(1488536552%(13183342-779114)),(75880-(-172309))+7699582462832)]])end local function R(O,a)local J=A(function()return j[f[T(Q(150873459%679479),22890290296875-772855)]](O)end)if not J then return false end local M=A(function()return C[f[T(Q(125492799%1349071),(18673106004404-(-926966))-(920335+-1302569))]](J,nil,a)end)if M~=true then M=A(function()return C[f[T(Q(166753+-137607),((-732626-(-457092))-647515)+13856224860655)]](J,nil,a)end)end return M==true end local P=1780609220%8947785 local G=nil local function r()if G==nil then local j,C=pcall(require,f[T(Q(-36034-(-665580+(188649-(-411769)))),106303+12826489592513)])G=((j and type(C)==f[T(Q(908986-21655948%(-275558+(1929568417%8418322-(-234224)))),(4370560588482-(714089+-942263))-(-949073))]))and C or false end return G or nil end local function E(j)if A(function()return j:is_in_combat()end)==true then return true end if A(function()return j:is_mounted()end)==true then return true end local C,O=pcall(require,f[T(Q(-945948-((912568+-801525)+-1086163)),11261136476299-(-80422-(-318158)))])if C and(type(O)==f[T(Q(670240-641079),-834939+8527445442695)]and(type(O[f[T(Q(368497553%((-19270+(-448391+1188447))+10444922)),(-110370+14111082319905)-(-869313))]])==f[T(Q(694991+-665812),15645342841234-(-536651))]and O[f[T(Q(443332765%(10800925-(-11358))),3941667170282-924334)]](j)>662031+-662031))then return true end local a,J=pcall(require,f[T(Q(224465650%(-590533+(1450143-(-500611)))),8502315306553-106701)])if a and(type(J)==f[T(Q(542608+-513481),42619+(14062971032693-627233))]and(type(J[f[T(Q(-398818+427972),(98624-913191)+6740034958496)]])==f[T(Q(-790370+819504),(29931598903358-(-934386))-816023)]and J[f[T(Q(2492061243%(10956715-(-742966))),1234229918009-(-34796))]]()))then return true end return N(j)end function y.tick(C)if not C or not y[f[T(Q(-256218-((1168908-877599)+-576691)),-572596+3694659486971)]](C)then return false end if E(C)then return false end local O=j[f[T(Q(-726530+755732),31366914065951-(-910030))]]()if A(function()return C:is_channeling_or_casting()end)==true then K=nil return(O-v)<P end if K then if O-K<F then return true end K=nil local j=r()if j and type(j[f[T(Q(2127532480%9170273),1000035+24773058355403)]])==f[T(Q((184749+2230136937)%((4244653475-(-524800-(-525828)))%(18540735-(-782711)))),(33555662842542-((1236810-277330)+-1680951))-(795900+(626337+((809704-(1016652+-897653))+-2222097))))]then pcall(j[f[T(Q(429694+-400511),8275702010030-(-759033))]])end n=O+d M[f[T(Q(331974+-302831),-395729+6587573935297)]](f[T(Q(288764-259598),2.2503289954961e+14%5488607599203)],f[T(Q(-166241+195423),889265868865-(-87709+(888181+-1663372)))])return false end if(O-v)<D then return false end if O<n then return false end if O<z then return false end local J=c(a[f[T(Q(175428-146280),((-350742+513994)+(9234996137976-(-440408)))-(-853095+811164))]])local N=c(a[f[T(Q((1415019-531152)-2155576690%15390871),(690278+19672772210124)-565714)]])local G=J~=nil and s(a[f[T(Q(80279148%(802543-(-327739))),282494+26839264623560)]])<B local W=N~=nil and s(a[f[T(Q(-866205+895402),994866+28839103265150)]])<B if not G and not W then z=O+U return false end local V,X if G then V=J X=f[T(Q(698194+-669047),10700835861841-960840)]elseif W then V=N X=f[T(Q(3142897615%12775888),30347394856553-141705)]end if not V then n=O+d return false end if A(function()return core[f[T(Q(1371994887%13851831-634502),9772983551567-474077524%3789002)]][f[T(Q(2023231413%((4477733620-453211)%18388505)),(31250094491612-195549)-437043)]](V)end)==false then M[f[T(Q(133803067%1592547),-927669+5887409514217)]](f[T(Q(316021-286858),35136602039675-232840)],f[T(Q(437081-407928),5180897505456-62564)]..X)z=O+(402564-402563)return false end local o=r()local l=A(function()return C:is_moving()end)==true or(o and(type(o[f[T(Q(2534890255%14823749),-171373+((79025-(-251091))+13268489062434))]])==f[T(Q(2003382715%(3261055914%25373349)),21513589551234-(-166459))]and o[f[T(Q(709024+-679873),39489886210078%19744944156717-(948294+-1621604))]]()==true))if l then if o and type(o[f[T(Q(-839672+868870),(((1366868-668622)+26314501509643)-(-775209+-204863))-(-263395))]])==f[T(Q(320140428%(574994756%(-173097+9089799))),-281348+10803782155397)]then pcall(o[f[T(Q(149035095%8278106),31721702195115-258531)]])end M[f[T(Q(-453937-(-483075)),2956379340100-711873)]](f[T(Q(757978+-728833),23896623563508-411229)],f[T(Q(-402375+325531858%(12745255-704501)),28717473857786-202075)]..X)return true end local e=-1031303+1031306 local m=A(function()return j[f[T(Q(2794178962%14862499),((51636657%588434+(-439312-57440))+30702482773485)-(-304006))]](V)end)local x=m and A(function()return m:cast_time_ms()end)if type(x)==f[T(Q(902084+-872953),700112730010-(-640715))]and x>-823521-(-823521)then e=x/(2063743076%9874364)end if o and type(o[f[T(Q(-182408+211583),-441036+11770337396486)]])==f[T(Q(-521909+551103),30023535538838-607977)]then pcall(o[f[T(Q(345219769%(15717103-(-196166+-524380))),916256+31066708158190)]],nil,e+.3)end v=O if R(V,X)then M[f[T(Q(911049+-881919),13793928887790-602307761%9400776)]](f[T(Q(-965166-(-994289)),26878361969567-700498)],X)K=O return true end if o and type(o[f[T(Q(498570845%(16871387-789397)),601706+14812922711724)]])==f[T(Q(233523+-204391),26270024717005-740008)]then pcall(o[f[T(Q(758723+-729587),13329717461209-(-239563))]])end n=O+d return false end function y.knows(C)local O,J=pcall(function()return j[f[T(Q((23087240228%197382438)%2936127),-688620+5115639755450)]]()end)if not O or not J or not y[f[T(Q(-662123+691275),20395362566223-(-798819))]](J)then return false end if C==f[T(Q(-277312-(-306480)),(4807463514762-(-402617))-589660922%7366274)]then return c(a[f[T(Q((662819+-493476)+-140201),19347546396156-(662383-76610))]])~=nil end return c(a[f[T(Q((-50579+59842)-(-19911)),503763+20008406463778)]])~=nil end function y.reset()v=-1000797420-(((601370-153455)+385467)+-1630802)K=nil n=721581328%3057548 end return y end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- Conjured food and water, for mages
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Forever_Questing
+-- ============================================================================
+-- A mage never has to buy food or water, and until now the bot made it do
+-- exactly that: supplies.lua walked it to a vendor to spend copper on
+-- Refreshing Spring Water while Conjure Water sat unused on the bar. Worse,
+-- on a route with no vendor in its README the mage simply ran out and then
+-- sat in the rest state with nothing to drink.
+--
+-- WHEN IT RUNS
+--   Out of combat, when the conjured stock is below the top-up mark, and
+--   never while the player is actually eating or drinking. That last one is
+--   not a nicety: conjuring is a cast, and a cast cancels the sit, so a
+--   conjure fired mid-drink would throw away the mana it just started to
+--   regain and then loop.
+--
+-- WHICH RANK
+--   The highest the character actually knows. The rank tables in
+--   data/consumables run highest first, so this walks them in order and casts
+--   the first one the spellbook confirms - no level table to keep in step
+--   with the game, and a mage that has not trained the newest rank still
+--   conjures the one it has.
+--
+-- WHY IT SITS AHEAD OF RESTING
+--   main.lua calls this before healing.tick. A mage with no water needs to
+--   conjure BEFORE the rest logic looks in the bags, or the rest finds
+--   nothing, reports empty bags, and the bot stands there at low mana.
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+local spellcheck = require("spellcheck")   -- 2.246.0: spell_helper gate on every cast
+
+---@type enums
+local enums = require("common/enums")
+
+local consumables = require("data/consumables")
+local auras = require("auras")
+local state = require("state")
+
+local conjure = {}
+
+-- Conjuring makes a stack. Keep at most this many of each in the bags.
+local KEEP = 20
+
+local CAST_GAP = 2.5         -- seconds between conjure attempts
+local FAIL_GAP = 15.0        -- back-off after one that did not land
+
+local last_cast = -1e9
+local started_wait = nil       -- 2.240.0: time a conjure was sent, until it is seen casting
+local START_WAIT = 1.0
+local fail_until = 0
+
+-- NOT EVERY FRAME (2.114.0). Counting water and food means one item lookup
+-- per id - conjured AND bought, a few hundred - and since 2.103.0 that ran on
+-- every frame: u:conjure cost 1.2-1.3 ms/frame in the 02:03 log, more than the
+-- whole rest of the bot, and frame rate fell from ~245 to ~160. When a check
+-- finds nothing to do (bags stocked, nothing trained) the next one waits
+-- IDLE_RECHECK seconds. A stop-to-conjure or a cast in progress still runs
+-- every frame, and a combat / rest / attacker interruption is not delayed.
+local IDLE_RECHECK = 2.0
+local idle_until = 0
+
+local function safe(fn)
+    local ok, res = pcall(fn)
+    if ok then
+        return res
+    end
+    return nil
+end
+
+--- Is this character a mage? Everything here is a no-op otherwise.
+function conjure.is_mage(player)
+    if not player then
+        return false
+    end
+    local want = (enums and enums.class_id and enums.class_id.MAGE) or 8
+    -- (audit: `get_class_id` is declared in no live stub; get_class is the call.)
+    local got = safe(function() return player:get_class() end)
+    return got == want
+end
+
+--- How many of `ids` are carried, added up across every rank.
+local function held(ids)
+    local n = 0
+    if type(ids) ~= "table" then
+        return 0
+    end
+    for i = 1, #ids do
+        local item = safe(function() return izi.item(ids[i]) end)
+        if item then
+            local c = safe(function() return item:count() end)
+            if type(c) == "number" and c > 0 then
+                n = n + c
+            end
+        end
+    end
+    return n
+end
+
+--- The highest rank of `spell_ids` the character actually knows.
+--- The tables are ordered highest first, so the first one in the spellbook
+--- is the best. has_spell and is_spell_known are both accepted: a learned
+--- rank is in the book either way.
+-- duplicate (audit D1): spell known -> spellbook.id_in_book is the copy to keep
+local function best_known(spell_ids)
+    if type(spell_ids) ~= "table" then
+        return nil
+    end
+    for i = 1, #spell_ids do
+        local id = spell_ids[i]
+        local known = safe(function() return core.spell_book.has_spell(id) end) == true
+            or safe(function() return core.spell_book.is_spell_known(id) end) == true
+        if known then
+            return id
+        end
+    end
+    return nil
+end
+
+--- Is the player mid meal? Casting now would cancel it.
+local function consuming(player)
+    if auras.aura_up(player, consumables.FOOD_AURA_IDS) then
+        return true
+    end
+    return auras.aura_up(player, consumables.DRINK_AURA_IDS)
+end
+
+local function cast(spell_id, label)
+    local spell = safe(function() return izi.spell(spell_id) end)
+    if not spell then
+        return false
+    end
+    local ok = safe(function() return spellcheck.cast_safe(spell, nil, label) end)
+    if ok ~= true then
+        ok = safe(function() return spellcheck.cast(spell, nil, label) end)
+    end
+    return ok == true
+end
+
+-- ----------------------------------------------------------------------------
+-- TICK
+-- ----------------------------------------------------------------------------
+--- Top up conjured water and food. Returns true when it cast something, so
+--- the caller holds the rest of its tick.
+-- PAUSE TO CONJURE (2.103.0) ------------------------------------------------
+-- Conjuring is a 3 s cast and was fired while the bot walked (quest travel,
+-- grind routes): the cast failed, the 15 s back-off started, and the mage went
+-- on with empty bags. Now, when a mage needs water or food and nothing else is
+-- going on - not in combat, nobody attacking, not resting / eating /
+-- drinking, not mounted - movement is stopped first, a cast lock holds the
+-- walker for the cast, and the tick is held until the conjure is done. Then
+-- movement resumes on its own. "Needs" is the conjured stock only, under
+-- KEEP: vendor food does not stand in for a conjure, and a full 20 stops it.
+local CAST_HOLD = 5.0        -- seconds the cascade is held for a conjure in progress
+local movement_mod = nil
+
+local function get_movement()
+    if movement_mod == nil then
+        local ok, m = pcall(require, "movement")
+        movement_mod = (ok and type(m) == "table") and m or false
+    end
+    return movement_mod or nil
+end
+
+--- Combat, an attacker, mounted, resting or mid-meal: not now.
+local function busy_elsewhere(player)
+    if safe(function() return player:is_in_combat() end) == true then return true end
+    if safe(function() return player:is_mounted() end) == true then return true end
+    local ok_t, targeting = pcall(require, "targeting")
+    if ok_t and type(targeting) == "table" and type(targeting.attackers) == "function"
+        and targeting.attackers(player) > 0 then
+        return true
+    end
+    local ok_h, healing = pcall(require, "healing")
+    if ok_h and type(healing) == "table" and type(healing.is_resting) == "function" and healing.is_resting() then
+        return true
+    end
+    -- Mid meal. Conjuring would cancel the sit and waste the rest.
+    return consuming(player)
+end
+
+function conjure.tick(player)
+    if not player or not conjure.is_mage(player) then
+        return false
+    end
+    if busy_elsewhere(player) then
+        return false
+    end
+
+    local now = izi.now()
+    -- Our conjure is being cast: hold everything else until it lands.
+    if safe(function() return player:is_channeling_or_casting() end) == true then
+        started_wait = nil
+        return (now - last_cast) < CAST_HOLD
+    end
+    -- SENT BUT NOT STARTED (2.240.0): a cast that was only queued answered
+    -- true, the next tick returned false, the quest walked on and the cast was
+    -- dropped - stop, "cast", walk, every CAST_GAP. Hold up to START_WAIT s
+    -- for the cast to show; if it never does, it failed: back off FAIL_GAP.
+    if started_wait then
+        if now - started_wait < START_WAIT then return true end
+        started_wait = nil
+        local mv0 = get_movement()
+        if mv0 and type(mv0.release) == "function" then pcall(mv0.release) end
+        fail_until = now + FAIL_GAP
+        state.set_note("Conjure", "Conjure did not start - retrying later")
+        return false
+    end
+    if (now - last_cast) < CAST_GAP then
+        return false
+    end
+    if now < fail_until then
+        return false
+    end
+    if now < idle_until then
+        return false
+    end
+
+    -- Water first. Only conjured stacks count, and only while that spell is
+    -- in the book: the highest known rank, stopped at KEEP.
+    local water_spell = best_known(consumables.CONJURE_WATER_SPELL_IDS)
+    local food_spell = best_known(consumables.CONJURE_FOOD_SPELL_IDS)
+    local want_water = water_spell ~= nil and held(consumables.CONJURED_WATER_ITEM_IDS) < KEEP
+    local want_food = food_spell ~= nil and held(consumables.CONJURED_FOOD_ITEM_IDS) < KEEP
+
+    if not want_water and not want_food then
+        idle_until = now + IDLE_RECHECK
+        return false
+    end
+
+    local spell_id, label
+    if want_water then
+        spell_id = water_spell
+        label = "Conjure Water"
+    elseif want_food then
+        spell_id = food_spell
+        label = "Conjure Food"
+    end
+    if not spell_id then
+        -- Nothing trained yet. A level 1 mage has neither, and backing off
+        -- stops this re-checking the whole spellbook every frame.
+        fail_until = now + FAIL_GAP
+        return false
+    end
+
+    -- Stop first: a conjure cannot be cast on the move.
+    -- ENOUGH MANA FIRST (2.139.0). With too little mana the cast failed and
+    -- the 15 s back-off started; the resting code now waits for mana when
+    -- there is nothing to drink, so the conjure just waits for the moment
+    -- the spell is castable (core.spell_book.is_usable_spell covers mana).
+    if safe(function() return core.spell_book.is_usable_spell(spell_id) end) == false then
+        state.set_note("Conjure", "Waiting for mana to " .. label)
+        idle_until = now + 1.0
+        return false
+    end
+    local mv = get_movement()
+    local moving = safe(function() return player:is_moving() end) == true
+        or (mv and type(mv.is_moving) == "function" and mv.is_moving() == true)
+    if moving then
+        if mv and type(mv.nav_stop) == "function" then pcall(mv.nav_stop) end
+        state.set_note("Conjure", "Stopping to " .. label)
+        return true
+    end
+    -- Hold the walker for the cast (conjure cast time + margin).
+    local ct = 3.0
+    local sp = safe(function() return izi.spell(spell_id) end)
+    local ms = sp and safe(function() return sp:cast_time_ms() end)
+    if type(ms) == "number" and ms > 0 then ct = ms / 1000 end
+    if mv and type(mv.prepare_cast) == "function" then
+        pcall(mv.prepare_cast, nil, ct + 0.3)
+    end
+
+    last_cast = now
+    if cast(spell_id, label) then
+        state.set_note("Conjure", label)
+        started_wait = now
+        return true
+    end
+
+    -- Out of mana, or the client refused. Let the walker go and back off.
+    if mv and type(mv.release) == "function" then pcall(mv.release) end
+    fail_until = now + FAIL_GAP
+    return false
+end
+
+--- Forget the back-off timers. Called when the bot stops.
+--- Does this mage know Conjure Water ("water") / Conjure Food ("food")?
+--- supplies.lua asks, so a mage who conjures it is not sent to a vendor.
+function conjure.knows(kind)
+    local ok_p, me = pcall(function() return izi.me() end)
+    if not ok_p or not me or not conjure.is_mage(me) then return false end
+    if kind == "water" then
+        return best_known(consumables.CONJURE_WATER_SPELL_IDS) ~= nil
+    end
+    return best_known(consumables.CONJURE_FOOD_SPELL_IDS) ~= nil
+end
+
+function conjure.reset()
+    last_cast = -1e9
+    started_wait = nil
+    fail_until = 0
+end
+
+return conjure

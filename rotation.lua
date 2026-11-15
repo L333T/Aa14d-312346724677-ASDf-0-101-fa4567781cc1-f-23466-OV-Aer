@@ -1,1 +1,516 @@
-return(function(...)local G={"l5hD<B;&cU<";"lZoB\'V/Kusd",":E+lKsU3=";"l<AB^qfE";"l[.Xn\'",":dXBfO8D=";"lDna;G8GGD";":ortqND==",":G0BNxXD=";"l-\"$&0tR",":jdqB3KRqsyR+","l2a8_cAKKc";"lQ#cWKi;./";":Ti63IoUtR72=";"l9\\d2W&H8";"lY://$SW-8d^E/Cu)Fp";":5Q5zb3Gtny2=";":rjCHcTYK";"le68";":8bp98URHIhD=";"lPM077_g,";"lJZ_`fjJ[\"f5bhk9p*Z]/";"lTZOn-`+Jl",":Otr7UFM=";"l(#p.g6nXD@ahU\\^";"lJ:0%J";":BxY7YU/R","lloV]PAdE";":cRAUTJBi";":9nONhH9gv1H5BWRyDioGCSS=",":8A3ksjVG",":zO7=",":wohnm2tvGd7=";"l?UCLIp5<Pf,t=\\!`f;o5";"lKC1";"l7V96*Z/-",":XzNUtRUGSmD=";"lJdoS=8?EU-";"l.Y`orC/C",":oLmuCFewMHS=",":UrnRtqLhpZyjmD==";":qXD=",":KfTMmxhwIDX=","lD-p.7\\Lip";":HYQNJyq2","l@l6M2uHW","lIT$FR[J/[QWokDAd>";"l6^Lo<b0cZq-t_","lPd&qb92^N>Inu*Z%Hd99f*","l]@M[&Igt5",":M0Y7EhKpHY==";"lVC2%",":l7ImfQccXlHzkgEd4hsV","lipKC5O;jUW";"l0qt\'&36[:.mP(c$",":zQDmZUAgTiOeqhLmBw8B",":8WmDQxW=";"l[:Ad9",":NI9I",":fMcQTFg=","l[kpV<8UQhA&`^F";":YZ42f7cc",":HW+KM2ZYMINHGtuo3WC8H38L";":NoDiSkWU","l>V#@kcFIM>",":bwb75nmcB2xWWfMJA42gwUQ=";":ML+akmmRGrZ8jpp3";"l<Y(^5K-u",":cRWe46QBrZiK+f==","l=jF-f(H\"_",":8+LK3byJTS84r1xACzSonJbL";":3kKyaIc=","l\"R.*u^M";":0/wfrpqresS=";":ylTQ3qM=";"lp,@2.m:e/jMD*!FhP;qMR\"3";"l[YYriS6Z?`",":dz7knZObgFAcgmLk","lM]!r5ABW";"lg.HI2I5Pa*+Y]DkKC%H$:uL-FF![c%42\\XE80Jnp458P80TX>1j_*^L]\'5=0]i[";":2eF6W9CS6g2=","ll(p^9R8C";"l3HoorR*>j",":biduaGgN+z+=","l(\"3gm\"cq*S$jZmChM",":tGR6eokR4UzuAQZHZ04mqD==";"l_K/I;\'n",":4dDizXnbJf==","l%B($!q^\'";"l/q_C(aZ,]*","lWH$/A:o\\\"U";":sl91ADdmHFS=","l4gE`Sto=m\"e(5kVMDpq3b?aa",":4i1DIf==","l*NWpgTFcA]Vck";"lZtaHYJbpRp","l,0DnXUd]RPS[U_Y","l2HN#P;RJ",":WhY1H6OFEwc=",":Hg53F8/aC1Zn3CLH";"lc$cs-\"\'X";":Z1t9nIc=","lkN]\"aIN)Yk(YC^>&1j\\@",":3OjuC4M=";"lg=1It^pb","lhj98A7D5","ltHHjOR!RF@","lDM\"[%cVKlF[1:l\'","lgk46XYZ_Nb_CJCKT>bL27?Wj5RnAMJ-c07Jon\\AC)X:A@+\\$,De@Dst4L5kj<9*\\j]Hm@";"ljo\\\";Co=:[";"lq6pq^Q*P\"<h%TbC",":mH5eZv/=";":EfdI3gDq",":tVG6lsZr";"l+6(q*_\\ILBGhiPtU*NDK";"l)`q0eRdu";"l$S*\"\'ni",":bioBwd0y";"lD:*n9gJDjiu\'";":EerIJ0Y7xADAYvh2iCOCgb2=";":oivVLbf=","lO0`.gMNk6";"lF8,%",":j1DRrBD=";":AQKCcpg+yzP=";"lI^,o14L%","l-DHb/u\'";":gInI8uHFEmS=";":3Hiwmm7neuWqr9Y=";"l^YU!O@5q7#",":WLmPZ/==";":yIse0Hua0tjcJ/rRviGT";"l7es746$3]-j1O";"l/t-/pPRfb\"";":3i/t","lG>7",":zvR8eVLW97S=";":nyf=";":+XIX9nxQ";":ePHDQ+3y/62=",":";"lS2Kd(","lC19njD2V(_";"lYn=[:(B0dG";":U+P6Tx4ByAWY4PhU","lc<9H/3Cq5cCC",":d2JTB/==";"li\"+JW`Fk%c";":ubQfFn87TD==",":EEDx0DrN",":6FHq9q8yylvotdCDh43wpY==","lQo2<UH^","l]C8Nq\"\"\"","l$(7Dqm7";":DTCSENc=",":H2KAGIWfRY==";"l+_aRY-h\\C-";"l%,*\'McX]\'#[0Adj-jbQ;:n38",":6A098T10K/w6Tf==";":ShRB0K1wtO4UwOnK";":V7J61qIW";"l`C,;Kd>";"l;P33gq\'","lMLrRg\\Oh_i","l@0#lX","lS8gb.&^","lNYnLZFU]dp";"l!Ab#^Y6!\"FmKG%!@^","l+#%T","l;M-fM=Gk";":kYDtGwpWjf==",":w7VW63/=";":dTLT2eSBDD==","l\\AMQth+U%4Skc7ouQn",":SoMS0WfLIkqvCQEH",":HVc6Tx0WBzM=",":yDMI",":HZc=";"lmj3?>*q",":sEz1jiQGMY==","l0\'b";":Q6O4RmD=",":2+8mktgoER7=",":ao5p3b9pDK7vYrY=";":/+T8rMUD";":DPOmySnqBUW=","l!3dj&62","lHH(oY/]8";":F9f2ORW=","l[kpS9d+<1";":5vG4mvyMMY==","lBJ]A0p:ES+g#dGAs\'";":lPLj5Hx4uD==";"l&s<\\m";"l`3KTd^PU",":wW+=";"l-;CBpL(3u8";":AfSogJHH0TS=",":gCA+w0BE4/==","lL^pP1TS]";":tYw4ffoZnSg=";"l*`;<8W-";"lnAA.76K$K5*T+";"l`/iLDU/VV9";":ZHgdEXyKN/==";"lC>I_go4jAr",":E+veHziq";":yIR2lsk0xC+7QaWsWAM=";"l497%P";":eoHUASKga/==",":CY3WSQHiQo2=",":pm7HqNXG9XP=";"l>jh4>s[\'P";":ZZRX72xq1d+EHqB3sxIia3P=";"l\'06rl/$4>h!XO^Eo0qPeO-Njq";":lgXsLRnxc0D=",":RqLZQ+DksmS=","l2O<C.`_+\'XR1B,j",":ixYP3D==";"lj7#MSj85\\]L4ldDf>*",":CeJ6cAWcdeY=";"lU!EmA#MCN1*p6",":ldwq";"lT?5J.+GHBkf*",":MY4/";"lI2B!.*ls6S";"lU:\'q!b>mJ","l<!3rQ<Fb0","l(VUn9lh";"l(ii@,s1","laGlNKP@#gElQQr1";"l%9,-lTgU"}for e,X in ipairs({{1499567401%9865575,336200-((359937+-305949)+281980)};{1822977136%7440723;-301578+301746};{-519533-(-519702);300420+-300188}})do while X[1997439049%9649464]<X[30433+-30431]do G[X[533723+(84247-(340391+277578))]],G[X[355551-355549]],X[686788905%2960297],X[982731-982729]=G[X[-929721+929723]],G[X[733663-733662]],X[-774859+774860]+(854477+-854476),X[70803101%(3396227090%18147619)]-(-541789-(-541790))end end local function Q(e)return G[e+(-48934+79822)]end do local e=math.floor local X=table.concat local I=table.insert local y=type local P=G local f={t=-544784+544833,R=1918436326%14210639,X=1683166798%6600654;["7"]=-625409+(78123+547326);f=3175115537%15640963,F=((973802-70708)+((-197867+-1219985)-(-34743)))-(-480057),g=247982916%1758744;B=349398-(1197207-847815);H=-114570+114633,D=4058614240%16365380,y=(109990489663%534011311-(-596686+763029))%3294590-753882;["1"]=316162-316124,J=502364+-502321,i=176711533%11044469;l=-198812+601134342%7804357;b=(269333-712552)-(-1371270-(-928018)),c=2114676404%8702372;E=960939-3074249035%13906281,s=3249600566%15114421,m=1020174+(-1356927-(-336790));Z=56983797%1325204,S=857084+(-539265-(68637+249122)),["4"]=-918691+918749;d=-103571+((1000391+10269286766%(87781521929%((691083400-799362)-(-956152))))%9013588-552625);z=418497+(-828426-(-409986)),o=726521-726467;W=426787-426763;["5"]=13501880%4500626;K=(633717+-579345)+-54369;C=-689007+(-942327+1631353),a=435641060%(15521695-((-420613-(-1300901-(-636872)))+756912));r=((553884956-(92168-231748))-(-1027241))%(8245417-(747559+1316910305)%(5648327-(-716198))),n=-80448+(1085849-1005374);["0"]=((-509065-(-487480))+1277146112)%(15081126-(-122737));G=-320250-(-320259);O=20467410%730978;["6"]=((-928050+531603677278)%2519453935)%10110132,L=643356-643317;["8"]=607719-607657,Q=333638416%((4478097-765807)-(-986842));["3"]=378961225%6423071,u=28558549%14279271;V=36453-36407,h=799730+-799716;["+"]=354442+-354422,U=71298401%334734,p=-254546-(-254567),q=914785-914751;T=822427+-822397,I=-901076-(-901131);k=(240921031999%1331131683)%14318794;["2"]=((26969+-785667)+726925824)%16137046,N=445865097%2933323,Y=-72043+72075;["9"]=499547-499500;v=(153691-1007059)+1085148312%10952474,A=2965617998%16117489;w=219390+-219359,x=866409-866386,j=-558288-(-558301);e=754944+(617713503%9650848+-814158),["/"]=1997588368%10404106,P=-505994-(-506046);M=-685300+(1178899-493595)}local r=string.sub local g={Q=1122339461%10296692,N=425052+-425034;[")"]=884628+-884621;["+"]=490458+-490436;a=1331069678%14160315;["<"]=588893-588833,["="]=-380055-(-380076);G=1089600379%12381822,["4"]=-132019+((-1827668-(-933976))+1025730),["0"]=355954-355877,h=(-339355+265089)+(-803391-(-877681));["&"]=2987416475%14091587,j=52504+-52488;W=-657239+657245;Y=-451374-(-451374),["5"]=548969454%4036540;["7"]=2789229320%11768900,["`"]=54703002%7814707;d=1553636144%10427088;o=121186739%13465188,["2"]=181346951%5495362,["["]=2998456771%(13251912-(-565861)),M=-346629+346637;["1"]=-355465-(-355549);["9"]=-187149-(-187214),C=253491168%13341639;["\'"]=775383-(1011019-235638);e=-946419+946476,R=2972976278%13154762;L=((889093329-(-980901+(-120336-((411053-(-239306))+-1221805))))-532247)%15069336;T=-664402-(-664440);n=-87961-(-88036);I=(61763+733831)+(-1780767-(-491487-493756)),["3"]=-786967-(-552268+-234728);["6"]=155714+-155662;V=-864869+864925,["("]=(-993210+996270)-2997,f=913519662%7136872;l=-744534+744544,A=(-650423+-17438)+667862;p=-1008560+1008600,r=197083378%(1650078053%14677850);g=1029709+-1029705,b=(834767+1227282298)%8899399,["]"]=(1470642-623544)+-847053;H=251069+-251056,S=3503844%875950;["\\"]=-43037+(195366-152304);_=-527494-(-527567);[">"]=958702+-958663,X=-480923-(-481006),[":"]=872146+-872070,B=73268+-73204;U=(303267+1527109759)%7955276;D=87870-(-592104-(-1303262-(-623342))),["\""]=((20596510186-180102)%103573967)%2217114,["-"]=197339+-197330,q=458160-458125;m=1489663398%(130372172%14588192);["^"]=948333+-948264;J=(-111838-501654)+613553;["%"]=(974789-(767546-(496495+-112287)))+-591415,["$"]=542851+-542779,["/"]=133439345%1434831;["?"]=2448938114%14490758,i=470023+-470006;c=-806796-(-806855),K=-330509+(1347927-1017407);t=(-991331-(-200262))-(-791110),u=802446+(-455198-(551779+(408424-488331283%7995382))),["!"]=-730610-(-730691);s=439323+-439243,P=1804097274%11418337,F=-980990+1730532785%13512123,["."]=634121-634073,O=(74592092098%1203266583)%10372439;Z=(960968-850882)+-110007;E=671532+-671509;[";"]=503720849%((-99302+((((728589-(-85956))-(-228830))+-147853)+2727768))-830294),["8"]=395187-395150,["#"]=-990858-(-990900);["*"]=-543658+543736;k=-519328+519383;["@"]=892423651%((-468127+1740523427)%12210267);[","]=987698-987683}local i=string.len local t=string.char for v=-321273+321274,#P,145925-145924 do local m=P[v]if y(m)=="string"then local y=r(m,1938771063%12833735-2631054443%13627862,2415009961%((14624048-(-467688))-455312))if y==":"then m=r(m,196351742%7551990)local y=i(m)local g={}local c=745643-745642 local p=1008750+-1008750 local o=1584068696%9484046+-233014 while c<=y do local X=r(m,c,c)local P=f[X]if P then p=p+P*((3068558214%15116050)^((1943550467%7591994-o)))o=o+(951225-951224)if o==799946+-799942 then o=88784683%6829591 local X=e(p/(-770712-(-836248)))local y=e((p%(92581300%8410524))/(3220126540%13761033+-44562))local P=p%(262199292%1524413)I(g,t(X,y,P))p=329841456%2945013 end elseif X=="="then I(g,t(e(p/(636864-571328))))if c>=y or r(m,c+(326179+-326178),c+(-800244+800245))~="="then I(g,t(e((p%(460481146%2001807))/(29460+(-243202+213998)))))end break end c=c+2062669841%15166690 end P[v]=X(g)elseif y=="l"then m=r(m,120404612%(2866175-636460))local y=i(m)local f={}local c=(795840-891224058%(367319+7725805))-(-184579)while c<=y do local X=(y-c)+30727745%1920484 local P=X>=-247731-(-247736)and 915950+-915945 or X local i=76717488%3196562 local v=P>-385551+385552 for e=1459190867%(6009812153%((1219318387027%7816153711)%31798319)),-94102-(-94106),22691697%2836462 do local X if e<P then local I=r(m,c+e,c+e)X=g[I]if not X then v=false break end else X=-283756+283840 end i=i*(((327595145305-(-395669))%(497229282434%2486168295))%10786193)+X end if v then local X=e(i/(-1006557+(17348509-(-435264))))%(617221+-616965)local y=e(i/(-375934-(-441470)))%(-14773+15029)local r=e(i/(-689227-(-689483)))%(957825+-957569)local g=i%(466406-466150)if P==79310933%9913866 then I(f,t(X,y,r,g))elseif P==4091+-4087 then I(f,t(X,y,r))elseif P==(455342+-109768)-345571 then I(f,t(X,y))elseif P==-964957-(-964959)then I(f,t(X))end end c=c+P end P[v]=X(f)end end end end local D,l do local e=-380417-(-380417)local X={}local I=math[Q(-295723-(-177730+(510972-598115)))]local y=math[Q(-474683-(-443820))]local P=string[Q(-406066-(-375308))]local f=-474474+474476 local r={}local g=table[Q(122008+-152728)]for e=37537165%4170796,-726877+727133,885468-885467 do X[e]=e end repeat local e=y(857897623%15886993,#X)local I=g(X,e)r[I]=P(I-(759671-759670))until#X==251308-251308 local i={}local function t()if#i==(1316600986-853942)%(-113863+12296706)then e=((e*(870928-870891)+(7864238713394-(-194537))))%((105574+(-227503-277234))+35184372487995)repeat f=(f*(2433613101%10864344))%(-565963-(-566220))until f~=1052932126%14039095 local X=f%(602132466%2398934)local y=(21285-21272)-((f-X))/(-489093-(-489125))local P=(I(e/(535566761%5885349)^y)%((275679862176-476288)%4307689184))/(((367510+-1695501)-(-792116))+535877)^X local r=I((P%(475321723%2307387))*(((423567-820944)+51215)+4295313458))+I(P)local g=r%((500402191-869823)%2190644)local t=((r-g))/(696171+-630635)i={g%((-80624+-405595)+486475);((g-g%(79535784%1331343+-986291)))/((930562+-954701)+24395);t%(695378+-695122),((t-t%(1701114819%(2042550425%(((5823303588-459484)-1037783)%(32353750-(-236474)))))))/((((1021503733965-610155)%(-199232+53764242764))%(458181331%9959549+209963736))%2050079)}end local X=#i local y=i[X]i[X]=nil return y end local v={}l=setmetatable({},{[Q((-85166-266616)-(-321020))]=v;[Q(104561+-135220)]=nil})function D(X,I)local y=v if(y[I])then return I else i={}local P=r e=I%(960737+35184371128095)f=I%(374223+(-1176262-(-802294)))+(992343-992341)local g=#X y[I]=Q((-1031351-(-8172))-(-992368))local v=(18419403209%279243139)%14136797 local m=Q(-625126+594315)for e=(1034549+-61150)+-973398,g,(185031869848%1637482476)%(649043162%27590629)do v=(((string[Q((535337+-329832)-236326)](X,e)+t())+v))%(805267106%12988175)m=m..P[v+75179561%9397445]end y[I]=m end return I end end local e=require(l[D(Q((155640-972056)+785684),28708842548421-19404)])local X=require(l[D(Q((398405+-245581)+-183616),874502+(879346+25299523911630))])local I=require(l[D(Q(-238575-(-207866)),((-735223+(15238489107839-142881))-(-570503))-(-668604))])local y=require(l[D(Q(305529-336281),452053+2648636169441)])local P=require(l[D(Q(-449337-(-88542-330084)),692208+((-506423+1422095)+24745265596659))])local f={[X[l[D(Q(-477412-(-446676)),28423074547572-(140676-((-276862+(153507-196136))+870685)))]][l[D(Q((-898071+115085)-(-752279)),1045051+(-110146+16860229577185))]]]=l[D(Q((-987497-(-343324))+613287),-1034990+15313552006682)],[X[l[D(Q(322419-353102),634135+5105197109123)]][l[D(Q(307546-338270),((-1394101-(-836112))+(151498+25396200382869))-59715)]]]=l[D(Q(-605424+574592),25358353107002-757640)];[X[l[D(Q((-520015-(894515-812570))+571098),34562342271354-(-317787))]][l[D(Q(-373836+343161),5537157897517-805186)]]]=l[D(Q((-2044738-(-1035676))-(-350284+-628092)),177334+(-595826+21208607298633))];[X[l[D(Q(312252+-343123),-961143+33873039455925)]][l[D(Q(-305119+274242),952970+19152970581523)]]]=l[D(Q(-167838+137171),18865782772617-320958)];[X[l[D(Q(2943687718%12632453+-356887),-720271+8265218429021)]][l[D(Q(-193803-(427198-590167)),15007311683630-(-617930))]]]=l[D(Q(1008261+-1039062),30846075986209-289226)],[X[l[D(Q(-426276-(-395521)),5946853623114-(-189535))]][l[D(Q(-919198-(-888347)),276342+15145410078549)]]]=l[D(Q(2842155048%12857579-660926),(-138392-(-296915))+20169475679217)];[X[l[D(Q((-426081+354721629%(478020+1933100))-(-108283)),20662265905904-(-855586))]][l[D(Q(-234241+(-547268+750699)),-758976+9394684469221)]]]=l[D(Q((-114263-1832918947%12552513)-(-335568)),704153+18493601298432)];[X[l[D(Q(803547-834425),-121042+12169462440131)]][l[D(Q((460744+-1257531)+(481375-(-284616))),19753+(613747+22459865731872))]]]=l[D(Q((492617-124269)+-399038),(-12170-71854)+21155819697878)];[X[l[D(Q(-523338-(-492569)),8387107158342-424697)]][l[D(Q((932230-457349)-505544),-531732+(34088093693240-381755))]]]=l[D(Q(487217+-518037),201226358%(-354018+3220664)+18633216762809)]}local r={}local g={}local function i(e)if type(e)~=l[D(Q(612984-(234579+2587966005)%10872088),((519317+470098)-826489)+2359150520202)]then return nil end local I=r[e]if I then return I end if g[e]then return nil end local y=f[e]if not y then return nil end local P,i=pcall(require,y)if not P or type(i)~=l[D(Q(731390+-762153),9975343787812-(377668+-956621))]then g[e]=true core[l[D(Q(-115331+84508),23304689774740-129478008%12853694)]](l[D(Q(792065+-822937),(190754+29592058733558)-114771)]..tostring(y))return nil end r[e]=i local t=X[l[D(Q(441346-472044),-142373+10071378579608)]]and X[l[D(Q(-1013618-(-982769)),(-483731+29799946775410)-(-1024443))]][e]or tostring(e)core[l[D(Q(-774034-(-743251)),6206426236612-(-940563))]](l[D(Q((-180509-(-995996-(-798568)))-47762),29131084572032-(724480+207441))]..tostring(t))return i end local t={}local v=nil local function m(e)if v==nil then local e,X=pcall(require,l[D(Q(-928241-(-897366)),-345988+13389074710311)])v=((e and(type(X)==l[D(Q(703204+(-1327920-(-594002))),-87134+538548363073)]and type(X[l[D(Q(962213+-993078),((-99251+(-677928+40429))-26113)+29411851910584)]])==l[D(Q(619209-650051),28353487594991-897691)])))and X or false end if v then pcall(v[l[D(Q(946119-976841),8544373563422-396329)]],e)end end local c=l[D(Q(184423-(109990-(-105145))),4308060053059-38711)]local p=nil local o=false local function Z()if p then return p end local e,X=pcall(require,l[D(Q((211302-(-118970))+-360938),6482526924344-111271)])if e and type(X)==l[D(Q(-57391-(-26621)),9826273126288-(1685093581%6821001+-1116177))]then p=X end return p end local M=nil local n=nil local function b()if M then return M end local e,X=pcall(require,l[D(Q(-394992-(-364233)),1000421+29746436399874)])if e and type(X)==l[D(Q(-102196-(-71416)),-1037160+33356861911014)]then M=X end return M end local function d()if n then return n end local e,X=pcall(require,l[D(Q(782123+-812852),32362126726621-(-439516+309791))])if e and type(X)==l[D(Q(-445922+415043),-481054+4615940018634)]then n=X end return n end local function z(e)if e==o then return end o=e local X=Z()if not X then return end if e and type(e[l[D(Q((-50372-(-172421))-152827),-389949+3054276492563)]])==l[D(Q(84833+-115657),34452982105487-804957)]then local I,y=pcall(e[l[D(Q(-430476-(-399772)),644344+33143501176650)]])if I and type(y)==l[D(Q(916235-(603456+343659)),-1007442+14014216332709)]then X[l[D(Q(4342480972%17094906-405724),869608+(-765022+33641696446497))]](y)return end end X[l[D(Q(-429681+398944),615868+11766110039481)]]()end function t.rest(e)if not e then return false end local X=t[l[D(Q(-749685+718992),22619392750662-(-212908))]](e)if X and type(X[l[D(Q(597528+-628333),((-1980919-(-1038981))-48177)+11629639470392)]])==l[D(Q(((-810925+716699)+727931)-664431),16716920044749-(-531524-(-557321)))]then local I,y=pcall(X[l[D(Q(-908961+(-703400+1581618)),-465563+(33847809976969-889281))]],e)if I then return y==true end end local I,y=pcall(require,l[D(Q(-378143+347401),14787830346018-365065)])if I and(y and type(y[l[D(Q(515448+-546235),5119257847280-(-422967))]])==l[D(Q(-426272-(-395427)),9322373052441-516710)])then return y[l[D(Q(367640-398498),19763573325533-563477)]](e,nil)==true end return false end function t.is_resting()local e,X=pcall(require,l[D(Q(367967-398748),5.5496452156425e+14%(824864+6937055872141))])if e and(X and type(X[l[D(Q(-474817+443998),(16986205133191-(-649357))-433858)]])==l[D(Q(866050+-896911),26931822116324-61066)])then return X[l[D(Q((-178899+-462369)-((-838405+731230)-503210)),-776699+(-986560+31393913078129))]]()==true end return false end function t.scan_range(e)return I[l[D(Q((724567-(56204+-216088))+-915200),(-331555-(-525129))+31169613770451)]]or 226278957%1901503 end function t.supported(e)return f[e]~=nil end function t.module_for(e)return i(e)end function t.active(e)if not e then return nil end local X,I=pcall(e[l[D(Q(-455183-(-424455)),229907+34091453861092)]],e)if not X then return nil end local y=i(I)z(y)return y end function t.buffs_ooc(e)local X=b()if X and type(X[l[D(Q(((266231+460549)+-162770)+-594803),(-149160-285793)+31398900804978)]])==l[D(Q((1624790-704417)-951200),28993804506500-(-359215-(-4007)))]then if X[l[D(Q(-770530-(-739858)),(31128027552293-683320)-(-156957))]]()==true then return false end end t[l[D(Q(991559+-1022243),16750133531457-(-957114+1959337))]](e)local I,y=pcall(require,l[D(Q(529503-560242),(222816+98041446273707)%19608290330950)])if I and(y and(type(y[l[D(Q((-292191-495466)-(431605+((-2367416-(-172547))-(-1006268)))),238582+33949307734002)]])==l[D(Q(750283-780960),22263135149949-619327)]and y[l[D(Q(101346-132073),-129394+(16521514223625-989996))]](e)))then return true end return P[l[D(Q(416267-446948),24918774680560-(-377693))]](e)==true end local function V(e)local X=P[l[D(Q(-298897+268093),36173+21201013986807)]](e)if type(X)==l[D(Q((499746+-543071)+12546),5657893001413-(-501715))]then return X end local I=t[l[D(Q(((194155+-197448)+-534415)-(-506872)),8755+28393764061424)]](e)if I and type(I[l[D(Q(-612648-(-581894)),88555368565086%646389552810-1022066)]])==l[D(Q(-222428+191643),892604+(206119+25650147070453))]then local X,y=pcall(I[l[D(Q(598605-629356),(-1000740+26008128184034)-353007)]],e)if X and type(y)==l[D(Q(-12937+(467728+-485660)),-121093+3448699606636)]then return y end end if I and type(I[l[D(Q(-347153-(-316419)),4227103764019-710947)]])==l[D(Q(497443+-528178),29326181003099-1041190)]then local X,y=pcall(I[l[D(Q(876546+-907431),17271824420144-700083)]],e)if X and type(y)==l[D(Q(-416112+385423),1351906988092-139605)]then return y<=1007194397%4662937 end end return false end local function H(e,X)local I=d()if I and type(I[l[D(Q(471370+-502075),905821440466-(-610139))]])==l[D(Q(-427126-(-396318)),586383+25357422648643)]then local y=I[l[D(Q(-189666-(-158909)),10965695024819-(-685790))]](e,X)if type(y)==l[D(Q(720454-751221),29804574099492-(1255827-516240))]then return y end end return X end function t.combat_range(e)local X=t[l[D(Q(-269020+238256),29333870411414-699824)]](e)if X and type(X[l[D(Q(-200030+169335),((340008+-694540)+1359449)+((-807200-(-467001))+25190453325934))]])==l[D(Q((361550+-1194589)+802336),(119067+-269215)+11383981720164)]then local I=nil local y,P=pcall(require,l[D(Q(921129850%(5554043-442076)+-1006621),(25571633086929-(-550752))-411119)])if y and(type(P)==l[D(Q(897420-928116),(843119+(1027234+-1292102))+12656388483816)]and type(P[l[D(Q(-103908+73061),26111032981127-(-855765))]])==l[D(Q(606700-637500),646869+31497020734830)])then local e=P[l[D(Q((((690441-25630)-604325)-639102)+547790),6043272678689%863326806617)]][l[D(Q(-916481+(450861+434905)),(-241262+(-212085-(-967222)))+26988937682041)]]if e and pcall(function()return e:is_valid()end)then local X,y=pcall(e[l[D(Q(454034+-484753),20336084725148-(-464696))]],e)if X and y==true then I=e end end end local f,r=pcall(X[l[D(Q(-503340-(-472563)),19204815653528-(-1714553-(-1037747)))]],e,I)if f and(type(r)==l[D(Q(-532818+501964),34407207266101-749996)]and r>(-888941-(-442343))+446598)then if r>(-747525+373359)-(-374171)then local e=H(l[D(Q(195158+(-567587+341708)),-570055+32914970223608)],r)if type(e)==l[D(Q(86010+-116856),-895532+9486092850755)]and(e>=2009741742%10747282 and e<r)then r=e end end return r end end if V(e)then local e=H(l[D(Q(781449+-812217),(960443-959312)+(35153443842544-(-450446)))],993984+-993979)if e<-191346+191347 then e=692770-692769 elseif e>-34588+(-388376-(-422969))then e=(-399076+(265289+211752545))%4913781+-326170 end return e end local I=(-451080+-86589)+537699 if X and type(X[l[D(Q(827660-858325),(544983+61218)+27435511404600)]])==l[D(Q(462248+-493116),22809293733505-(71566+-662483))]then local y,P=pcall(X[l[D(Q(205998-1949332290%13535385),7403508173544-(-1001288+142323293)%2068696)]],e)if y and(type(P)==l[D(Q(181552+-212354),406048+(-160554+33753003250017))]and P>-893543+893548)then I=P end end local y=H(l[D(Q(685542+-716386),182192+(4242483889514-668586))],I)local f=P[l[D(Q((-773293+603764)+138723),11381667297423-336084)]](e)if type(f)==l[D(Q(((-127568+-374020)+(-881382-(-425164)))+(1676795-749691)),2251405665583-(-789939))]and(f>-695161-((1228755-223814)+((-1461274-243560)-(-4726)))and y>f-(874079+-874078))then y=f-(1616347680%28556541-530783)%83253 end if y<1825192384%8609398 then y=1112057480%5077888 end return y end function t.is_melee(e)return V(e)end function t.tick(e,X,f)local r=b()if r and type(r[l[D(Q(-961544-(-930687)),28112491230348-(-770184))]])==l[D(Q((610358-(-261402))+-902620),(768203+5962771739562)-(-400707))]then if r[l[D(Q(1753779673%(-1045526+14034632)+-281093),30428742354190-745499)]]()==true then return false end end local g=t[l[D(Q(-946136-(-915298)),19404167641338-(-417778))]](e)if not g or type(g[l[D(Q(526824-557631),7.0507620811639e+14%20737535898833)]])~=l[D(Q(((17175-(-199915))+(523704+-1129713))+358104),-940349+20016067446702)]then return false end f=f or{}local i=f[l[D(Q(-117761+87085),127714+12769205045417)]]if type(i)~=l[D(Q((977521+-1371322)+363028),1511912706%7027878+21211376556237)]then i=nil end if f[l[D(Q((677428-(1000085+-1035133))-(567309-(-175939))),4106934785249-(-406165))]]and X~=nil then local e,I=pcall(X[l[D(Q(((89824+-271555)-1621861766%16887104)+850826),-771104+22194415679903)]],X)if not((e and I==true))then return false end local y,P=pcall(X[l[D(Q(831889+-862755),(643376+-1549172)+((8833203687969-(-641218))-557418))]],X)if y and P==true then return false end end m(l[D(Q(-50945+20112),14739819876750-579683)])local v,c=y[l[D(Q(-403123+372426),622370+34176121779510)]](e,t[l[D(Q(713235+(-950085+205995)),676032+(505609+9411987999043))]](e),X,i)if v then X=v f[l[D(Q(433186-(281291+((258332-(-164551))-240275))),-539393+1466339917154)]]=c end m(l[D(Q(-473470-(-442791)),(124632+(379863+33175995656978))-(-255053))])if y[l[D(Q(-904735-(-874029)),-846870+22892862987379)]](e,X)then return true end if type(g[l[D(Q(-704747+((791184+-137744)-(-20516))),(3683225566917-321876)-981173)]])==l[D(Q((476298+510546)-1017656),607228+(21633802836050-(-752869)))]then m(l[D(Q(((14599+-448179)+642246)-(1249840-1010321)),5433667061737-(-1017095-(-660706)))])local I,y=pcall(g[l[D(Q(-70923-(-40265)),29251833699296-(-170638))]],e,X,f[l[D(Q(-281945+(34683-(-216509))),1378929863534-(-934610))]]or i)if I and y==true then return true end end if type(g[l[D(Q(-1013563+982734),13676662244348-347798)]])==l[D(Q(-288479-(-257661)),18581383862195-(895848+-272798))]then m(l[D(Q(-849627-(-818792)),245084+30660119985427)])pcall(g[l[D(Q(600789-631606),9419081450589-(705482+-1434782))]],e,X,f[l[D(Q(-125900-(-95192)),685431+4897263070128)]]or i)end if type(g[l[D(Q(372982387%10054393+-1000514),-947157+27834789147925)]])==l[D(Q(65991-96739),(-351129-(-221386))+7449130862170)]then m(l[D(Q(117709-148498),(((-1715391-(-963350))+492344)+(27764855380672-(-966156)))-(-699435))])local I,y=pcall(g[l[D(Q((128306+-1047696)+888615),-554784+21545265317269)]],e,X,f[l[D(Q(426551+-457312),(2807158178944-588896)-(412587+(-2042338-(-592408))))]]or i)if I and y==true then return true end end if type(g[l[D(Q(15790387%(-524388+1394251)-(-846050-(-1009770))),25729729869784-(-885926))]])==l[D(Q(-190726-(236721-396560)),-50340+11353014042091)]then m(l[D(Q((980275-601658)+-409281),(-947983+17914673294380)-577871)])local I,y=pcall(g[l[D(Q(1033492+(-407483-656682)),591021+19977656080171)]],e,X,f[l[D(Q(-771376-(521887+-1262381)),596382+((-892034+14548690048028)-(-593430)))]]or i)if I and y==true then return true end end if e and(X and(I and type(I[l[D(Q(-1023734+993063),911652+6675564570961)]])==l[D(Q(-723264+692498),(-765359-178888)+3703604930469)]))then m(l[D(Q(942917+(-729207+-244494)),1021505+(-72992+26574381506921))])I[l[D(Q(-625935+595197),40974862211880%2926776520077)]](e,X)end local p=false local o=d()if o and type(o[l[D(Q(-282750+251952),-826091+4751745476550)]])==l[D(Q(-71343-(-40567)),-279266+2755657222338)]then p=o[l[D(Q(67162+-97959),(26619738084489-(-33270))-978583)]](l[D(Q(979267-1010027),9273588551329-(-334472))])==true end if X and not p then local e=Z()if e then m(l[D(Q(685635+-716309),8339472884389-(-510310+48722))])e[l[D(Q(66038-((-730247-((-631003-(453065+-1391991))-340598))-(-794304))),34141473211514-(-872679-43050))]](X)end end if not p then f[l[D(Q((-830043+((1382184362-(-1204253-(-864549)))%(((-458188+5515663)-36295)-(-712080))+(4495+(4703-923626))))+905192),264864+(1037633+26731883447039))]]=t[l[D(Q((-1287171-(-766449))+489881),19708066389280-336290)]](e)end m(l[D(Q(-858543-(-827713)),816971+21443073936556)])local M=P[l[D(Q(463258-493950),462528+14798193299495)]](e,X,f)==true m(l[D(Q(841986-1150883524%8712202),31890781344888-(-766384))])return M end function t.preferred_food_ids(e)local X=t[l[D(Q((-1515143-(-607750))-(-876702)),36108572889355%18054294450607-(-79352+-939099))]](e)if X and type(X[l[D(Q((980181+-1213227)+202165),239086+30115983287825)]])==l[D(Q(846454+((-415250+((-1126632-(-642610-89671))-(-40361)))-108009)),7157559514171-(809592+-189318))]then return X[l[D(Q(121713-152370),-1021233+6757807830416)]]()end return nil end function t.preferred_drink_ids(e)local X=t[l[D(Q(137911-168610),(-1000894-((-51105+-797407)+1251859457%5792216))+4138443238682)]](e)if X and type(X[l[D(Q((464146-178995)-((-438191-(-363338))-(-1181733-(-790870)))),12487382236794-171486)]])==l[D(Q(190959+-221690),2047746819%15276071+26491396289140)]then return X[l[D(Q(-23860-6934),1034877+22135600143621)]]()end return nil end function t.set_last_action(e)if type(e)==l[D(Q((783247+-367813)-446304),18790816868698-817374)]and e~=l[D(Q(281836-312647),4362812400351-(-404458))]then c=e end end function t.last_action()return c end function t.class_labels()return{{[l[D(Q(((111161+-1467661)-(-387791))-(-937895)),6150473052811-564725)]]=X[l[D(Q(((-999166-(-718678))+1084542)+-834842),22441274432683-(-705491+1244934))]][l[D(Q(((-367363-(1172225-((-1846460-(-881284))+1510492)))-(-817076))-(-146526)),58756580169451%4896382375857)]];[l[D(Q(-880140-(-849424)),(-7816-954387)+17120735460943)]]=l[D(Q(-330999+300252),-706423+15628388686196)]},{[l[D(Q(880195-910951),30941384490274-(-851015))]]=X[l[D(Q(-64064-(-410274+376951)),8061483578156-767442)]][l[D(Q(319339-350064),25224072105970-(-848296))]],[l[D(Q(-206109+175344),27983161302482-(-604565))]]=l[D(Q(-529191-(-1377094-(-878572))),9294529912108-(-944830))]},{[l[D(Q(88453+(-343063-(-458819+234910))),26585710982835-394200)]]=X[l[D(Q((-52745+8445)+13444),23714384046266-(-396013))]][l[D(Q((-368078+(599078+-925858))-(-664113)),(((-994488+1798678)+-165619)+11774731077500)%63647254370)]],[l[D(Q(-399054-(-368206)),33109626111149-404682)]]=l[D(Q(-263017-(-232218)),1.1252470812215e+15%17049198275370)]};{[l[D(Q(1771183899%9522179-89376),7737288000523-497206)]]=X[l[D(Q(-662293-(-631611)),30413884463841-(-338328))]][l[D(Q(((-308297+-686180)+1505936)-542284),-317090+23160781843270)]],[l[D(Q(-236614+205891),1029236+21173960603586)]]=l[D(Q(-767928+((1092911682%((75040375393%(620082028-(-208372))-(-905387+766279))%(12853825-((20287107150%106278096-3234963844%14003548)-(-924596))%590007))-(-481511))-(-81810))),96005739961643%24001435887153)]};{[l[D(Q(604049+-634727),-19277+17702567539748)]]=X[l[D(Q(-580857+1364664191%(211108719%6852118)),12236052595558-286698)]][l[D(Q(901925-932707),-486291+7762239943558)]],[l[D(Q(-34689+3899),(371218+9970297711415)-(120641-(-616764+1202404)))]]=l[D(Q(574940-605753),(11160995223985-(-574569))-251654)]},{[l[D(Q(804041-(546966472%(2918970872%18081556-140334)-(-569947))),160851+27604088752380)]]=X[l[D(Q(410224-440904),-973870+31040085786352)]][l[D(Q(908801+(-475326-464314)),140231+13114362766219)]],[l[D(Q(357807-388635),16922536348774-(-270333))]]=l[D(Q(-789468-(-758584)),-837643+12049073973938)]};{[l[D(Q(833760+-864534),6598764996236-(-586914))]]=X[l[D(Q((-981286+730334)-(-220130)),19845014070564-(-498233))]][l[D(Q((511651+105494)+-647807),((-244671+1448433576%10571833)+1152987267%11528650)+10941523843426)]];[l[D(Q(48853+(-1012824-(-933221))),((98909285-(-871704))%(893212959%9200829)+-127054)+16267378815958)]]=l[D(Q(-761320-(-730587)),-294953+29173091383185)]};{[l[D(Q(58966-(-134888+224542)),-284146+(971015+11921671597599))]]=X[l[D(Q(4239+-34979),-725101+6175441913712)]][l[D(Q(887345445%7265086+-1035817),39751546948-937590)]],[l[D(Q(-637740-(-607080)),((815276+(243078+-1615110))+-92891)+((19446048004911-32158)-432734))]]=l[D(Q(-966577+935774),29206372581664-(-382587))]},{[l[D(Q(541453+-572138),150441+25226225207208)]]=X[l[D(Q(525870375%5104804+-106309),18353532712711-(-934703))]][l[D(Q(-956712-(-926002)),(927777+-877540)+33822406094488)]];[l[D(Q(368988-399774),-100023+25553835926602)]]=l[D(Q(-540101+509261),24940936479964-454943)]}}end return t end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- Class rotation dispatcher
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Forever_Questing
+-- Adding a class: create rotations/<class>.lua and register it here.
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+---@type enums
+local enums = require("common/enums")
+
+local targeting = require("targeting")
+local combat = require("combat")
+-- The rotation itself (2.64.0): built from the spells ticked in the Spells
+-- tab. The class modules below still supply the class's shape - combat
+-- range, melee or not, scan range, combat-movement profile, rest thresholds
+-- and food - but no longer the spells.
+local smart = require("smart")
+
+-- ============================================================================
+-- CLASS MODULES ARE LOADED ON DEMAND
+-- ============================================================================
+-- All eight used to be required here, at load, and seven of them were dead
+-- weight for the rest of the session: a character has one class. Measured
+-- resident, the eight came to 314 KB, of which the unused seven were 211 KB
+-- for a mage and 290 KB for a rogue.
+--
+-- The map below is names only - requiring nothing - and the module behind a
+-- class is pulled in the first time that class is actually asked for.
+--
+-- WARRIOR HAS NO ROTATION YET, and is absent here rather than present and
+-- nil, so `supported` answers honestly without trying to load anything.
+local CLASS_MODULES = {
+    [enums.class_id.WARRIOR] = "rotations/warrior",
+    [enums.class_id.PALADIN] = "rotations/paladin",
+    [enums.class_id.HUNTER]  = "rotations/hunter",
+    [enums.class_id.ROGUE]   = "rotations/rogue",
+    [enums.class_id.PRIEST]  = "rotations/priest",
+    [enums.class_id.SHAMAN]  = "rotations/shaman",
+    [enums.class_id.MAGE]    = "rotations/mage",
+    [enums.class_id.WARLOCK] = "rotations/warlock",
+    [enums.class_id.DRUID]   = "rotations/druid",
+}
+
+local by_class = {}          -- class id -> module, once loaded
+local load_failed = {}       -- class id -> true, so a bad module is not retried
+
+--- The rotation for a class, loading it the first time it is wanted.
+---
+--- Returns nil for a class with no rotation, and for one whose module will
+--- not load - the failure is remembered, because retrying a broken require
+--- once per frame is its own problem.
+local function module_for_class(class_id)
+    if type(class_id) ~= "number" then
+        return nil
+    end
+    local mod = by_class[class_id]
+    if mod then
+        return mod
+    end
+    if load_failed[class_id] then
+        return nil
+    end
+    local name = CLASS_MODULES[class_id]
+    if not name then
+        return nil
+    end
+
+    local ok, loaded = pcall(require, name)
+    if not ok or type(loaded) ~= "table" then
+        load_failed[class_id] = true
+        core.log_warning("[Master Farmer - Forever Questing] Could not load " .. tostring(name))
+        return nil
+    end
+
+    by_class[class_id] = loaded
+    local label = enums.class_id_to_name and enums.class_id_to_name[class_id] or tostring(class_id)
+    core.log("[Master Farmer - Forever Questing] Loaded rotation for " .. tostring(label))
+    return loaded
+end
+
+local rotation = {}
+
+-- Flight-recorder probe (2.68.0). Free unless the Crash Recorder box is ticked:
+-- then each one is a disk line, and the last line before a crash names the
+-- native call the game died in.
+local probe_el = nil
+local function xprobe(tag)
+    if probe_el == nil then
+        local ok, m = pcall(require, "errorlog")
+        probe_el = (ok and type(m) == "table" and type(m.probe) == "function") and m or false
+    end
+    if probe_el then
+        pcall(probe_el.probe, tag)
+    end
+end
+
+local last_action = "Idle"
+
+-- ----------------------------------------------------------------------------
+-- Movement is required lazily so the rotation dispatcher stays loadable even if
+-- the movement module fails; `profile_mod` tracks which class's combat-movement
+-- rules are currently installed so we only re-register on an actual change.
+-- ----------------------------------------------------------------------------
+local movement_mod = nil
+local profile_mod = false          -- false = never synced, nil = cleared
+
+local function get_movement()
+    if movement_mod then return movement_mod end
+    local ok, mod = pcall(require, "movement")
+    if ok and type(mod) == "table" then movement_mod = mod end
+    return movement_mod
+end
+
+-- healing and gui are lazily required for the same reason movement is: healing
+-- requires rotation, and gui sits above this file in the load order. The
+-- requires stay lazy; only the LOOKUP is remembered.
+--
+-- Both of these sit on per-frame paths - buffs_ooc and tick run every frame -
+-- and each was paying a pcall and a package.loaded lookup on every one of
+-- them. Resolved once, on the first call that succeeds.
+--
+-- Cached on success only. A call that lands before the module is loadable
+-- must leave the slot empty and retry next frame, not remember the failure.
+local healing_mod = nil
+local gui_mod = nil
+
+local function get_healing()
+    if healing_mod then return healing_mod end
+    local ok, mod = pcall(require, "healing")
+    if ok and type(mod) == "table" then healing_mod = mod end
+    return healing_mod
+end
+
+local function get_gui()
+    if gui_mod then return gui_mod end
+    local ok, mod = pcall(require, "gui")
+    if ok and type(mod) == "table" then gui_mod = mod end
+    return gui_mod
+end
+
+--- Install the active class's combat-movement profile (§17). The movement
+--- controller owns positioning; the class only supplies the rules.
+local function sync_profile(mod)
+    if mod == profile_mod then return end
+    profile_mod = mod
+    local movement = get_movement()
+    if not movement then return end
+    if mod and type(mod.combat_profile) == "function" then
+        local ok, p = pcall(mod.combat_profile)
+        if ok and type(p) == "table" then
+            movement.set_combat_profile(p)
+            return
+        end
+    end
+    movement.clear_combat_profile()
+end
+
+-- ----------------------------------------------------------------------------
+-- RESTING AND SCANNING - both are the class's to decide
+-- ----------------------------------------------------------------------------
+--- Sit down and eat or drink, using the active class's thresholds.
+---
+--- A class that defines rest() owns the decision. Anything that does not falls
+--- back to the shared default, so an unsupported class still eats.
+function rotation.rest(player)
+    if not player then
+        return false
+    end
+    local mod = rotation.active(player)
+    if mod and type(mod.rest) == "function" then
+        local ok, acted = pcall(mod.rest, player)
+        if ok then
+            return acted == true
+        end
+    end
+    local ok, resting = pcall(require, "resting")
+    if ok and resting and type(resting.tick) == "function" then
+        return resting.tick(player, nil) == true
+    end
+    return false
+end
+
+--- Is the bot sitting down right now?
+function rotation.is_resting()
+    local ok, resting = pcall(require, "resting")
+    if ok and resting and type(resting.is_resting) == "function" then
+        return resting.is_resting() == true
+    end
+    return false
+end
+
+--- How far out this class looks for something to fight. Melee scans tighter
+--- than a caster: see the note on each rotation's scan_range.
+function rotation.scan_range(player)
+    -- One enemy search radius for every class (2.94.0): targeting.ENEMY_SCAN.
+    -- Class differences live in the engage distance (combat_range), not here.
+    return targeting.ENEMY_SCAN or 100
+end
+
+--- Does this class have a rotation? Answered from the name map, so asking
+--- does not load anything.
+function rotation.supported(class_id)
+    return CLASS_MODULES[class_id] ~= nil
+end
+
+function rotation.module_for(class_id)
+    return module_for_class(class_id)
+end
+
+function rotation.active(player)
+    if not player then
+        return nil
+    end
+    -- pcall carries its own arguments, so this needs no closure. rotation.active
+    -- runs every frame, and the closure it used to build captured `player`, so
+    -- it was a real allocation each time rather than a hoistable constant.
+    local ok, class_id = pcall(player.get_class, player)
+    if not ok then
+        return nil
+    end
+    local mod = module_for_class(class_id)
+    sync_profile(mod)
+    return mod
+end
+
+function rotation.buffs_ooc(player)
+    -- Buff casts cancel eating and drinking exactly like combat casts do.
+    local healing = get_healing()
+    if healing and type(healing.is_resting) == "function" then
+        if healing.is_resting() == true then
+            return false
+        end
+    end
+
+    -- Racial escapes (a root or a fear) first, then every buff ticked in the
+    -- Spells tab - in AND out of combat (2.64.0).
+    rotation.active(player)       -- keeps the class's movement profile synced
+    local ok_r, racials = pcall(require, "racials")
+    if ok_r and racials and type(racials.ooc) == "function" and racials.ooc(player) then
+        return true
+    end
+    return smart.upkeep(player) == true
+end
+
+--- Melee or not: the ticked spells first (a druid's Cat / Bear form, a
+--- shaman's Stormstrike), then the class module, then the class module's own
+--- range (5 or less = melee).
+local function fights_in_melee(player)
+    local sm = smart.is_melee(player)
+    if type(sm) == "boolean" then
+        return sm
+    end
+    local mod = rotation.active(player)
+    if mod and type(mod.is_melee) == "function" then
+        local ok, v = pcall(mod.is_melee, player)
+        if ok and type(v) == "boolean" then
+            return v
+        end
+    end
+    if mod and type(mod.combat_range) == "function" then
+        local ok, yards = pcall(mod.combat_range, player)
+        if ok and type(yards) == "number" then
+            return yards <= 5
+        end
+    end
+    return false
+end
+
+local function slider(key, fallback)
+    local gui = get_gui()
+    if gui and type(gui.slider) == "function" then
+        local v = gui.slider(key, fallback)
+        if type(v) == "number" then return v end
+    end
+    return fallback
+end
+
+--- ENGAGE DISTANCE (2.90.0): how close the bot closes before the rotation
+--- starts. Melee: the "Melee attack distance" slider (1-5 yd). Ranged: the
+--- "Ranged attack distance" slider, never farther than the longest ticked
+--- damage spell reaches (1 yd inside it). Combat movement closes to this, and
+--- smart.combat holds offensive spells beyond it until the fight has begun.
+function rotation.combat_range(player)
+    local mod = rotation.active(player)
+    -- A class that switches between ranged and melee by itself (the Hunter,
+    -- 2.120.0) sets the engage distance from its own sliders and the live
+    -- target.
+    if mod and type(mod.engage_range) == "function" then
+        local target = nil
+        local ok_s, st = pcall(require, "state")
+        if ok_s and type(st) == "table" and type(st.target) == "table" then
+            local u = st.target.unit
+            if u and pcall(function() return u:is_valid() end) then
+                local okv, valid = pcall(u.is_valid, u)
+                if okv and valid == true then target = u end
+            end
+        end
+        local ok, yards = pcall(mod.engage_range, player, target)
+        if ok and type(yards) == "number" and yards > 0 then
+            -- A ranged engage distance is capped by the Ranged attack
+            -- distance slider (2.181.0): the shaman's own answer was Lightning
+            -- Bolt reach, so the slider did nothing for it.
+            if yards > 5 then
+                local want = slider("ranged_yards", yards)
+                if type(want) == "number" and want >= 8 and want < yards then
+                    yards = want
+                end
+            end
+            return yards
+        end
+    end
+    if fights_in_melee(player) then
+        local m = slider("melee_yards", 5)
+        if m < 1 then m = 1 elseif m > 5 then m = 5 end
+        return m
+    end
+    -- THE GUI DISTANCE FIRST (2.139.0). The class reach (Frostbolt, Mind
+    -- Flay, Lightning Bolt, Wrath) used to win and the Ranged attack distance
+    -- slider was read only for a class without one, so the setting did
+    -- nothing. Now the slider is the distance; the class reach is only its
+    -- default. Never farther than 1 yard inside the longest ticked damage
+    -- spell, never inside melee.
+    local default = 30
+    if mod and type(mod.combat_range) == "function" then
+        local ok, yards = pcall(mod.combat_range, player)
+        if ok and type(yards) == "number" and yards > 5 then default = yards end
+    end
+    local want = slider("ranged_yards", default)
+    local reach = smart.max_range(player)
+    if type(reach) == "number" and reach > 6 and want > reach - 1 then
+        want = reach - 1
+    end
+    if want < 8 then want = 8 end
+    return want
+end
+
+--- Does the active rotation fight in melee?
+---
+--- A rotation may say so itself (is_melee); otherwise a combat range of 5
+--- yards or less means melee - every melee rotation reports exactly 5.
+--- Combat movement closes melee to 2 yards of the target (2.26.0).
+function rotation.is_melee(player)
+    return fights_in_melee(player)
+end
+
+function rotation.tick(player, target, ctx)
+    -- Nothing in the combat routine may fire during a rest: every cast and
+    -- the auto-attack start below cancels eating or drinking. main.lua already
+    -- returns before this, but a grind or quest engine calling rotation.tick
+    -- directly would bypass that. Lazy require - healing requires rotation.
+    local healing = get_healing()
+    if healing and type(healing.is_resting) == "function" then
+        if healing.is_resting() == true then
+            return false
+        end
+    end
+
+    -- The class module's own tick was retired with the Spells-tab rotation
+    -- (2.64.0) and removed in 2.142.0; any loaded class module will do.
+    local mod = rotation.active(player)
+    if not mod or type(mod.combat_range) ~= "function" then
+        return false
+    end
+
+    -- Resolve the target through the combat engine. The caller's own live
+    -- target always wins; the latch only fills in when that target is gone,
+    -- so a grind or quest route keeps deciding what to fight.
+    ctx = ctx or {}
+    local pack = ctx.enemies
+    if type(pack) ~= "table" then
+        pack = nil
+    end
+    -- A grind / quest / path engine (ctx.no_move) decides what to fight. If
+    -- the target it handed over has died, stop here: combat.acquire would
+    -- otherwise pick a new one and set_current it, and the engine and the
+    -- rotation would be choosing targets against each other.
+    if ctx.no_move and target ~= nil then
+        local ok_v, valid = pcall(target.is_valid, target)
+        if not (ok_v and valid == true) then
+            return false
+        end
+        local ok_d, dead = pcall(target.is_dead_or_ghost, target)
+        if ok_d and dead == true then
+            return false
+        end
+    end
+    xprobe("r:acquire")
+    local resolved, scanned = combat.acquire(player, rotation.combat_range(player), target, pack)
+    if resolved then
+        target = resolved
+        ctx.enemies = scanned
+    end
+
+    xprobe("r:dismount")
+    if combat.dismount(player, target) then
+        return true
+    end
+
+    -- 1.7.9: the class module's crowd control first (Mage: Polymorph a second
+    -- enemy while the target is killed). Optional hook.
+    -- 1.7.15: the class module's escape first (Mage: Blink Away). Optional hook.
+    if type(mod.escape) == "function" then
+        xprobe("r:escape")
+        local ok_es, did_es = pcall(mod.escape, player, target, ctx.enemies or pack)
+        if ok_es and did_es == true then return true end
+    end
+    -- 1.7.28: the class module's pet control (Mage: Water Elemental). Optional
+    -- hook; pet commands never take the tick.
+    if type(mod.pet) == "function" then
+        xprobe("r:pet")
+        pcall(mod.pet, player, target, ctx.enemies or pack)
+    end
+    -- 1.7.25: the class module's ground AoE (Mage: Blizzard at 3+). Optional hook.
+    if type(mod.aoe) == "function" then
+        xprobe("r:aoe")
+        local ok_ae, did_ae = pcall(mod.aoe, player, target, ctx.enemies or pack)
+        if ok_ae and did_ae == true then return true end
+    end
+    if type(mod.crowd_control) == "function" then
+        xprobe("r:crowd_control")
+        local ok_cc, did = pcall(mod.crowd_control, player, target, ctx.enemies or pack)
+        if ok_cc and did == true then return true end
+    end
+
+    -- Interrupts across the whole pack now happen inside smart.combat, with
+    -- the interrupt spells ticked in the Spells tab (2.64.0).
+
+    if player and target and targeting and type(targeting.start_auto_attack) == "function" then
+        xprobe("r:auto_attack")
+        targeting.start_auto_attack(player, target)
+    end
+    -- Facing is idempotent and throttled inside movement, so asserting it here
+    -- is safe even when combat movement is already facing the same target.
+    -- This is a facing command, never a movement command.
+    --
+    -- It used to run in Rotation Only too, on the reasoning that a mode with
+    -- no combat movement still wants to be pointed the right way. That is the
+    -- bot turning the camera under a player who is steering by hand, so it is
+    -- off there now: in Rotation Only the character faces wherever the player
+    -- points it and the rotation casts at whatever is already targeted.
+    --
+    -- ctx.no_move is NOT the test. Every caller passes it - grind, quest and
+    -- the path runner all mean "you do not own movement, I do" by it - so
+    -- gating on it would stop the bot facing its target while grinding.
+    -- Lazy require, like healing above: gui is a large module and this file
+    -- sits under it in the load order.
+    local rotation_only = false
+    local gui = get_gui()
+    if gui and type(gui.is_on) == "function" then
+        rotation_only = gui.is_on("rotation_only") == true
+    end
+    if target and not rotation_only then
+        local movement = get_movement()
+        if movement then
+            xprobe("r:face")
+            movement.face(target)
+        end
+    end
+    -- The engage distance, for smart.combat's "not before" gate - not in
+    -- Rotation Only, where the player decides when the fight starts.
+    if not rotation_only then
+        ctx.engage = rotation.combat_range(player)
+    end
+    xprobe("r:smart")
+    local acted = smart.combat(player, target, ctx) == true
+    xprobe("r:smart done")
+    return acted
+end
+
+function rotation.preferred_food_ids(player)
+    local mod = rotation.active(player)
+    if mod and type(mod.preferred_food_ids) == "function" then
+        return mod.preferred_food_ids()
+    end
+    return nil
+end
+
+function rotation.preferred_drink_ids(player)
+    local mod = rotation.active(player)
+    if mod and type(mod.preferred_drink_ids) == "function" then
+        return mod.preferred_drink_ids()
+    end
+    return nil
+end
+
+function rotation.set_last_action(text)
+    if type(text) == "string" and text ~= "" then
+        last_action = text
+    end
+end
+
+function rotation.last_action()
+    return last_action
+end
+
+function rotation.class_labels()
+    return {
+        { id = enums.class_id.WARRIOR, label = "Warrior" },
+        { id = enums.class_id.PALADIN, label = "Paladin" },
+        { id = enums.class_id.HUNTER, label = "Hunter" },
+        { id = enums.class_id.ROGUE, label = "Rogue" },
+        { id = enums.class_id.PRIEST, label = "Priest" },
+        { id = enums.class_id.SHAMAN, label = "Shaman" },
+        { id = enums.class_id.MAGE, label = "Mage" },
+        { id = enums.class_id.WARLOCK, label = "Warlock" },
+        { id = enums.class_id.DRUID, label = "Druid" },
+    }
+end
+
+return rotation

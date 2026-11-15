@@ -1,1 +1,240 @@
-return(function(...)local e={"/9M>u(aW^beu2Z*VFtMf25\'ZP]\"5$/,Nu!bd>7%,L6_6<@i&","o75ez+CrD7btN0GyOVn0fQZ6SVB8ODAMcIi==";"oXqYrrtL=","oEu8z5EMh","or9A6mqpons8EZPNKy5OKWLW7x3DiMenp8veLUtRRbQvI";"/`<#\"Cg_%S","/`pA@m&)d7","ofErUfql2ZqCF5En4dOIHVmV/JJJPB7OBiD==";"ogZGJ2a==";"/0`<8?@BV","ok4o1WFtresSvf7zLRtxoQ8JrED2L752HdT+6gsJrlNEJuI24/Yp2dWeo7bb9RzerCTRToWA=";"/hY8@D[E";"/2f&BYi:]\\";"/U.!q\'$B","oCOQYxrD1","o5kv30cj6","oAFhA";"/ncC>mLrYb`b/";"/cmJq","oAF82At6=";"/`CpGMhqpS!5B";"/>qBKb,mNpD>o>M";"/Ua]>is.haX<RLqhh<(]D^7R-I(lIQSVBFR-(_.c$4t[l@QhfZZe<5%JXa\'#gR\'As<9X";"o7i==";"/:Qpi#\'`e5J9!\'4KW-V)sB0";"/eSUfLJ+\"NYu)r","/ffQsZ";"oD0D+bWs=";"oSuXKir0E","o9yzRPCR5JcHY","/O7Ieb\'Wm";"/n-X*d_r0[.[5D+!4%]-8<+";"/$Y<I[>_ZcT9!u=EMrr)ukVX\\\'B)";"/gZJmZ1b2VjbOp-.7+4Y.V!jZtKH";"oJU5F/VNwOi==";"/@Y1A.mB";"/Fj)7dl7S`tW`VIWZn3F_\'m","oLuZmtDA=","oKSWNyD==","/MJ<C1UW","/nfLpdcG?-M5UM?)","of7II3eXLh+OSi8dZ8T6ERkA=";"oaiIZfaVWDD==","oI1av2YBjWD7E8rX1A2oPKMup7NXCAs==";"owvVQCQz40ShxBGWr5sm=","/U%%b0W>Rc`cNVWJ[r4!dOjgo";"o7+IJXVWmR7AOstPzj9g0+BomrZB5LgrE";"ofJSYre4T","/%&As<M4m+9";"oINqDg7Aa8/RpWi==","orzvd/Xg=";"/c+m(Q";"oXSFSMGJlDyzMf0QXmJ4mZ1p52wv9","/hRZV*VW","/OOAZXLr!lEDhjS+r\'s";"/@5$k*","/]%9GF7ttnGZbY3D";"oA8wl6AwOVqI8ljToxJdGZHwC7VOnqYonJZL=","ogjK14jl6ZWL2","/aje`Z42TFg*S9(+Cf/MpiY<$=EU4d=8XjKr!\\";"o9oUcBo9wLH7ZPZn1wx/YeAlcPAHiwzw7Y6YUPfh8SHVXMTSzst6o9awGnvQsQfPPlECnC2kR";"/Q7)Wr&\'\"4^RUUC8kqq@<cXFd;A*]$4s^\\C;";"/%\\%j";"oZOudPTEgIh9xYoIT7fbdjGUto5SG8J9o","/%\\bWIOoWN3l^[Y,1FHL0V_=DO]a*>4()27";"ocyaFFcFgb4lWg8lmGWMA9r2NWMhTS/FW";"oPRBD1fQ4BkYru/CiyxnUQhrvKD1ETHPaLbUATkneQ4QbhnYBZa==","/i7t`/:5Q\\pg+9CAA;%lgT)Ap[-+>uJp+^YrW?6W.;g<*J*N/D!cSK_+lM^K_LVa&_48$Lf%TB$3RWPC^OJhM<","/<@\\n2Pk,7d))*WCW1Lju";"oAgFkBs==";"/oZkKsVH","/<o8eS?[sIrjbd58VK$TsW$<","oH2BlixA=","oQYGzREEn6jYyeXeXw+wc9i5Y","/^Y(GLI?:1","o7RSuU9uzvSvos0G+EaIlGhPY","/%1PBcb8h(a`(l;`@Aa!.=m","/s4%>q","oVSA6YxeEcbAdOArrlguUkI7jz19jdi==","oTXlCC3xP";"oiS2Ki6SiQ+uyzkE15s==","/\'6GIO";"/OCN?u$K]","/B(RSo<uME:0ERsCsrej/-l]J.orQsr";"/At#%jK^c\\:<;UD=Mk;MmQp17XOBb6c_b/.IWfBE","oIjbLfi==","oiLEXxZs=";"/H9ug!.1E*t?o%6cLr,nuRKOJV&)";"/8H_(CLTT!.kKonOe3VV;i\\l3dlS<Hb9n6iSF2DXCnkg4/Ku?XV2V=`?g?-TkfO;GJ)1YF";"oKgbZGvTOamLizFSPDDPaxbI=","o8q6u8TzGCgfM";"/Vf6$0?fS","oOLxJLE6=","/[\"8e,49_[";"/n/qb)L3?JR";"/f\"@VN!kYi,b:D.4am]Hn!\\","/%\'","os1jrXiM=";"o+pa9dU3ok0EecUWkzGbwUg41p+COMKpor9Ot+i==","/8@kIi-1","o/Sjqks==","ooD==","/P:.nFOUf(l_N","/X7`21siAuDH$eMf$hr6G>%","/1L[CP[\"8";"/-X9dpJq-FqPG/T-","/#<UM7DrObQfl^/p=\\W]3-F`b\'N.iMD&e";"omW9tNs+oVyoiBns+Di==","o/WeB5cwVZ1aah2hWdPAFUmB8vKH0","/47jjY3%";"oO0/NfO43ohdrRhS=","/WBO?,:X\'Dc\\B5r)Cs\"N1T?1qr/%J8","oXzxaNdLAy10aIL68QtDRhzL=";"/:Zi#Pp-u6SVW","/0.&1)Qs-$E+=P.1\\-GFm7js\"*![CU<7OuH\'","oei==","/:hrk;\\j";"oiZuCm940kjB/zEv7FiptS+3a";"oTgGvqaTbfJlspClzQqfgFISg","o+fbwdJb7GD==","/I%)!&jKL,[\'0kZ=$,hQ>tf:^\"neS<Xl@qPMYcOYF*#U!:e*f[U[pgC;5i7XE?b","oAy4w490GJ4nntokRr7M1g0XbHcun3MwoWtYfSbU02i==";"o";"/W1,jm=,SuG>&)a$X$f\"_MIuE=\"BKk8kKO,WIYp%N#focgm`::6h1qM:C4\\RVrpd%Xk\"Ud";"o4jPBtTNSIsm=","ofRvFji==";"o7ugV2g8/Ei==","/\"VR6ic%\\7mLOl&A\\WacaX,3","owpr/FqJojlt9","/#b/4+1;Vp`n.,g^6%k";"oHrwNzzF2FcrbsRbXk54dqeH=","/H&OGM-eX/UCs\"j+","ozlqcjs==";"oBSNcFALjX+mzk2uQD/2VxGfeHa==";"/Z)5i9\\T8GB!\'>4RcJ","odb2Y","/=RfMfqn","oEGyuNcS=","oATvbWeIIkWb3UwNQC2SRcLLm";"/asP!8!J3E^c]00`1Q9DS=.-&@@nZIOq&],iG\"/a_0\"]/";"oZU2Gq0RIyqtewrwrVceMFtnZI8M9FTCj/TW2BCrgTM6iQHYO/a==","/BneWe/RM8?h4P","ohoRBUKTWa/KJ";"/?<k1P.\\n\"N3Kf3N+.@!k>*?^LZrML";"/ut8:$R0\\_?.YVM4&EisWtM","/;8^pN.ml","ohjO/si==","/_O99g5*+j`Kp)tEG+/","oYZFgNS7yUJ5DDoGmTaMoCbL7I+99ZwHOJcM7xFVi6OPWoHdTQMee69iPM3VgUHfAWNwl83QRTs==";"o+2J3+iCUubvHI1KR";"oKAZKBcMOljdhnCekxdv/kwzZzfcb","o7Zn6iLuU";"/XGsIMOVT4","ofk1MOFm=";"/tFh5sa^1A7o^K+/VH##]fj+\\$2g";"oe7hlJ6UM5D==";"/r<I!>\'sh","oqIsfSgh/+zGfnCiD","o9rZ4GceIY0/OKQjZi4KiWa==","oU4wjksoPKp0Yzk4segGAnKAvjtoNFa==";"/]4%W","oN8cmLATX3a==";"/D%I)Q","/,H+pHYXPWEkGM)r8<R3l\'ss*,C</\"Neppi6MN=,NTI*_Yi3n%^1cju3e15r9MHU;C38qRLLUiiW57N*M5`WSJ";"/t*L4k\'\'f8d7#\"0n%\'","/lJVd0TikMon27j*\\/#djDoEU","/>%","/n&o(uisLZq!\\";"oZjVp9MCp/FaJXZz1iv3+9SxPWOa0Oi==","onWitIrRvHSuS678qyXWD3Ci=";"ofJPXRum=";"/.j2$$7j9dio`c[8","oianteCXibNmaMkQ45Ht28OLbsraYgxxZL9H5La==","/\\4/F";"o9eXyP9KGh6NNQ8me","oH6hoVBM=","ozfkmlAc=";"o6ncITWR9fA+88vQoCRGErTpP+WZh+9e8Uq5H7qUfRoCYB1Vb0XNedCbuhpQI4OS=";"oOD==","omhoGwi==","o7gvTehZ=";"/CC;J(HQ`_cAHW\'bsbAHH>[S","/sO4@ssW";"//4\'.Z","o6GawgvdXfCYp";"opLi93/GF0eK9";"/$?ZnC+iJe","oWY9URaA9ha==";"/K7gI!P8"}for O,M in ipairs({{831435+(-472770+-358664);-449451-(-449640)},{-142587+142588,1415652757%(7236862483%28669694)},{-378860-(-379003);-816285-(-816474)}})do while M[-199869+199870]<M[(1071112429-(-896327))%8786957]do e[M[(614880+-926118)+311239]],e[M[892321694%((-626960+1906369435)%11523190)+(-444567+((-384891+968944)-(-129379+533307)))]],M[302303159%7030306],M[((-606407-(-800557))-740884)-(((-1388400-(-572271))+755193)-(-478137-(-963937)))]=e[M[48577492%9715498]],e[M[1168293121%4867888]],M[86249387%1461854]+(1005966-1005965),M[537686+-537684]-(408759-408758)end end local function U(O)return e[O-((-182587+1174623)+-960750)]end do local O={q=3785779979%14963557;b=((1317367-(-67287))-790141)-594476;N=3106332738%13106889;A=(-14780-(-214566))+-199774;g=2236289058%8909518;B=(103420686455%1641686959)%(9817203-(-158986)),H=-952101+952129,r=392841-392807;["7"]=-153762+153775;["/"]=1623095836%15458055;["9"]=2177006339%(171301+(11628230-341603)),v=-505663-(-505705);d=3355+-3350,I=989773-989749;T=-963715-(-963765),["0"]=(301034072-750894)%((((732451-600106)+886114)+1467500)-(-674916)),K=1531442640%8368539,J=443202-443164,G=-495939+495960,V=(-567018+1305121)+-738088,O=(3097843041-612934)%13236026;h=785463684%8445846,["6"]=(264940-(1002611+(-736850+-30081)))+-29216,a=-279680+279728,x=-243436-(-243450);Q=555154087%9100886;e=2915019%29745,["4"]=1527907025%15915698,["+"]=249953248%2576837;F=-85089-(-85096),w=-74333-(-74363),j=14570+-14531;l=(1229579-838789)+-390779,R=-890540-(-214092+(873226+-1549701));k=-997636-(-997698),C=421471883%10536796,["3"]=1701841272%(2061577643%12003352),P=363160+-363111;u=201962962%3960057;i=259777688%5904038;["1"]=-546177-(-546179);z=(724891536776%3280055369)%14320330;Z=1493721352%((13482443-636487)-701880),c=-679338+679374;["2"]=-1033165-(-1033219),s=826551-(1797543-970992);W=593990-593927;y=-115283+115305,X=(1612052566-(-1038992))%9428642+-793729;p=-429328+429384,f=1386885973%6247234,Y=(1047701-58642)+-989049,o=-920163+394848902%2073309,L=312356353%2279973,t=-95427+95462,["8"]=-79924-(-378602+1247443764%8782712);["5"]=(113155+2994226226)%16362510;M=(-1034521+682558)-(-541530+(521881+-332374));n=741710-741679;E=3011936666%15852298;S=1435705018%7438886,U=281243+-281186;m=2823118377%15771611;D=-768281+768313}local M=string.len local f=e local w={R=(1245760-393061)+-852693,["^"]=12573-((-134097-247699)-(-394341)),["+"]=(708773+59540284)%6694331;["["]=(880170+-1682286)+802145,["-"]=927637-927594;G=66234582%11039086,["&"]=2587106545%10431881,["!"]=-460320+460366;["("]=3526837043%15886653;D=16595688%1843957,["*"]=546473+-546424;o=265390+-265322,[")"]=726249133%((6717957-(-867888))-(-433392-(-532133))),M=160171-160147;["7"]=(48489078224%989578368)%11108902-624218;e=-144856+144928,j=376766+-376755,[","]=((848816+42104259)-(-978000))%175024;["\""]=-768418-(-768462),n=(3251309296-887416)%13267028;U=-586720-(-586796),a=(619540075-342623)%(4351752-813481);["%"]=-439904-(-439964);h=72727+-72724;q=2820662778%11801936;["0"]=574965287%12777006;["$"]=952070+-952032;I=-126706+126769;V=970253+-970195;["\'"]=2223011095%12016276,L=1806864535%10094215,["="]=371663-371592,["8"]=17507695%3501538,u=829531+(-180694-648827);Z=-742549+((923182+(685823+-1337640))+471246);k=849342-((-211280-799629)+3797625710%15881864);d=-985381+985464,g=(((-1589870-(-794259))-(-275229))+-448771)+969185;S=1405049352%16726777;i=92829+((715315+((-1006437-(-661069))-741830))+279062);_=(14528027342%246401998)%3034762;E=3417229396%14179375;H=739329-739287;["]"]=336693160%(-830924+7432750),["4"]=476871+-476791;p=-411293-(-411309),[">"]=-528140+528165,X=-354600+(((493073-(-417457+(904453-(-233052))))+(87380+40474))+453739),[";"]=672604736%7643235,r=4310817%134713;["5"]=(1230256654-858542)%11708553,Y=-4281-(317399+(135637+-457399)),P=580698553%4572429;["\\"]=733609+(436784+(((-281046+-321042)+(582846-910572))-240556)),b=-1025987-(-1026068),N=(-224451-190845)-(-415311),[":"]=-998346+998346,["3"]=488989235%(7993472-802455),["`"]=(81455+-577335)-(-495910);["6"]=177240+(1033929+(-1429141-(364373+-582404))),Q=-356177-(-356190);["."]=645275+-645222,J=802295+-802256;["<"]=717474-717419,l=2629025839%16639404;t=593898766%15228173,f=886311-(437735+448503);s=570535-570504;K=(226844+-1270647)-(-1043807),F=(645346285-(-434547))%5513110+-746908;["1"]=(-86347+266110060%3643376)+-57232,T=-364689+(289895+74846),["/"]=851540159%7958319;W=436786524%4159871;["2"]=(29891828785%(53086735719%500920916))%(1401098119%(5165404-(-545560))),A=607980+-607939;C=-75915+75980;O=1086859636%5434298;["9"]=(1024986-437952)-518682886%4281784,m=1358897066%16177346;B=-843805+843853,c=3374521054%14359664,["#"]=-340174+340214;["@"]=1270294477%(6472162-973052),["?"]=432046+-432037}local o=string.char local C=table.insert local j=table.concat local N=math.floor local E=string.sub local s=type for i=1826464557%(1013738+8701499),#f,787371-787370 do local L=f[i]if s(L)=="string"then local s=E(L,841052-841051,2130602015%(3729366786%(31289083-(((-289191+(-981432+430697))+392222)-267196)))-602506)if s=="o"then L=E(L,3210827674%(14064333-(-464299)))local w=M(L)local s={}local r=161710-161709 local A=2202167520%16312352 local R=(-464356+1776769606)%10387750 while r<=w do local M=E(L,r,r)local f=O[M]if f then A=A+f*((3661-3597)^(((-171695+171698)-R)))R=R+(1204306424-(-30617))%10472496 if R==(-1850638-(853567+-1828826))-(-875383)then R=373619+(-89451+-284168)local O=N(A/(3556909816%16167474))local M=N((A%(965297+-899761))/((26696643870%333751937)%(13255678-1024545)))local f=A%(-384339+384595)C(s,o(O,M,f))A=1463558298%7868593 end elseif M=="="then C(s,o(N(A/(3608952360%14551963))))if r>=w or E(L,r+1499688919%16480098,r+(-737724-(-737725)))~="="then C(s,o(N((A%(((3049368051%13199469-980387)+425034591)%6061134))/(130000-129744))))end break end r=r+(-709392-(-709393))end f[i]=j(s)elseif s=="/"then L=E(L,-328003+328005)local O=M(L)local s={}local r=(53538982724%1071000391)%5071596 while r<=O do local M=(O-r)+(-774233+222523934)%6522050 local f=M>=2576845878%14395787 and(((1537814807-(-112073))-(-640804))-(-713398+138485))%9803456 or M local j=413157958%3171197-902348 local i=f>485651+-485650 for O=985541132%4952468,-487617-(-487621),-580320+580321 do local M if O<f then local f=E(L,r+O,r+O)M=w[f]if not M then i=false break end else M=-663968+664052 end j=j*(-560894+560979)+M end if i then local O=N(j/(17197567-420351))%((-23265-622290)+645811)local M=N(j/((290150+-171303)-(252118+-198807)))%(745324+-745068)local w=N(j/(-337331-(-337587)))%(-823114+823370)local E=j%(266121+-265865)if f==-199072+199077 then C(s,o(O,M,w,E))elseif f==(-67746+-537162)+604912 then C(s,o(O,M,w))elseif f==111807+-111804 then C(s,o(O,M))elseif f==(227829+763189)-(1168483-177467)then C(s,o(O))end end r=r+f end f[i]=j(s)end end end end local k,v do local O=table[U((((-68441+(28294385731101%(128029306947-356203)-959946))-884142)%2133843504)%12171591)]local M=math[U(-427928-(-459338))]local f=(658437+-175400)-3562183461%(15667306-315149)local w=string[U(461454-430137)]local o={}local C=-270207-(-270209)local j={}local N=math[U(225835375%12544662)]for O=(276407+622415)-898821,-949271+949527,-188961-(-188962)do j[O]=O end repeat local M=N(154214-154213,#j)local f=O(j,M)o[f]=w(f-(-1005194-(-1656808-(248319-899932))))until#j==649566+-649566 local E={}local function s()if#E==335358375%(3218145875%16080567)then f=((f*(1485412419%6543666)+((-423172-(-85742))+17958467627583)))%(35184371502887-(-585945))repeat C=(C*(-370+471))%(-487647+487904)until C~=-172338+172339 local O=C%((856922+-1656034)-(-799144))local w=(((-707323+1198033)+237175)-((-809995-(-602009))+935858))-((C-O))/(-178850+178882)local o=(M(f/(185504800%1174081)^w)%(496882+(1042357+(-845747+45585454696868)%318779447199)%4307930422))/(1466565572%(6296588-(-1013475+(479924-(-200803-(502012-600041))))))^O local j=M((o%(-1047871-(-1047872)))*(352458+4294614838))+M(o)local N=j%(1725492606%10149571)local s=((j-N))/((56386+471021450)%8722450)E={N%(-230976+231232);((N-N%(1054003063%4232943)))/(524301-524045),s%(715189-714933),((s-s%(-275421-(-275677))))/(-433099+433355)}end local O=#E local w=E[O]E[O]=nil return w end local i={}k=setmetatable({},{[U(377747+-346313)]=i;[U(1117544502%9977796)]=nil})function v(O,M)local w=i if(w[M])then return M else E={}local j=o f=M%(35184371512547-(-576285))C=M%(501685-501430)+(-89000-(-1039707-(-1972108-(-1021403))))local N=#O w[M]=U(799275-767913)local i=-894402-(-894506)local L=U(2002207076%(12889394-453520))for M=820607-820606,N,1370883645%11617658 do i=(((string[U(768316020%3354955)](O,M)+s())+i))%(753087776%9413594)L=L..j[i+(-842530+842531)]end w[M]=L end return M end end local O={}O[k[v(U(828955+-797536),134352+18408167084135)]]=k[v(U(903849-(-127703+1000206)),25237821391994-474448)]O[k[v(U(878215220%5454558),-351763+24873843182652)]]=157677-157607 local M={[942863+(-1046396-(-103534))]=k[v(U(954704+-923277),(54776-((862996-(-66760+-181671))-(1457038-531901)))+1731864442455)];[439811660%3187041]=k[v(U(794335+-763002),33689480422145-(-736460))],[236194058%1098577]=k[v(U(1899310360%7720646),23529551849597-(-224821-287138))];[(471379+(-1137185-(-559532)))+((798243+-1019940)+327975)]=k[v(U(395873+-364431),17703746670152-816083)];[2047817747%14839259]=k[v(U((92716+742415)-303284393%2479350),-90419+4578635806611)],[1195936919%7868006]=k[v(U(-321717+353113),((-246592+(-832557+17792945170127))-(-90570))-968386)];[995332+-995324]=k[v(U(728992+-697697),18600562632886-(-75080+-595368))],[-97616+97625]=k[v(U(((1006767178%5497492-346092)-549711)+201096),25705444822641-(-837650))];[885928+-885917]=k[v(U(216834466%5287878),29309170981134-336577)]}local f={[k[v(U(1986427869%10028668+-720291),335855+3863688242900)]]=650097-650096;[k[v(U(-569646+((-616008+1304775)-87658)),883816976%15231572+26225903258621)]]=3036198063%14458086;[k[v(U(-532240+563584),-53860+1743483411172)]]=-723720+723721;[k[v(U((398838125847%1838001068)%(15089744-2537152549%12812827)),(-525744+286338)+7987410616950)]]=1572316710%(-552985+10140282);[k[v(U(3692840951%16785498),-242778+15608414547415)]]=((-269440-259223)+1360607)-831941;[k[v(U(-887421+918878),4.6366272139785e+14%10303616382186)]]=114386-114384,[k[v(U(152669191%8978700),23741112107308-(-65320))]]=1029543-1029540,[k[v(U(-284316+(431931-116214)),844603+2341460986540)]]=-894458+894459,[k[v(U(401339-370049),-898057+(-950546+24125008797030))]]=-255652-(-255654)}local w={[((-640396+655695)+(-416675-(-29139)))+(478112-105874)]=(326044721-(-179708))%(-265447+13283207)+-780428,[(37631+-394634)+357005]=221231554%3456743,[(-886699+470618426)%(10398103-(-277618))]=(258078+382656286071%1875792847)%11764756}local function o(O)local M,f=pcall(O)if M then return f end return nil end local C=nil local function j(O)local M={}for O,f in(tostring(O or k[v(U(-314823-(-346185)),773346+(((-951664+-121258)-(-674920-332958))+4381678911320))])):gmatch(k[v(U(320289-(-735296+36707149)%2230182),-329407+((-642070+17740714195477)-(-109511+-209841)))])do M[O]=tonumber(f)end return M end function O.load(M)C={}if M==nil then M=o(function()return core[k[v(U(-636771-(-668244)),-767744+22287967358289)]](O[k[v(U(1282650458%8608182),-249743+8257902552776)]])end)end if type(M)~=k[v(U(988438793%(1727444118%7826049)),-265357+26407342533199)]then return-311452+311452 end local f=90887-1272021144%16100383 for O in M:gmatch(k[v(U(482053174%2563946),14287257611198-856083)])do local M,w,o,N,E=O:match(k[v(U(398581-(403498-36334)),3074726202849-830547)])if M then C[M]=C[M]or{}C[M][tonumber(w)]={[k[v(U((2531224705-(-203836))%((810584968579%(410270785902%3308745191))%(29578946-(-347560)))),17350773660100-89641)]]=o,[k[v(U(-317143-(-348583)),431088+(29122608787418-(-391250)))]]=j(N),[k[v(U(-538374+569739),-734341+2080490930590)]]=j(E)}f=f+(-867867-(-867868))end end return f end function O.available()if C==nil then O[k[v(U(-230306+261773),-1042599+26695657947532)]]()end return next(C)~=nil end local N={[k[v(U(487041111%(-489509+14404074)),(22826201022758-(-913175))-(-558739))]]=-1000134940-(-134940);[k[v(U(-434976+466423),26954615714512-242456651%4742816)]]=nil;[k[v(U(-144799-(-176154)),11931421389307-682222)]]=nil}function O.spec(j)if C==nil then O[k[v(U(966227+((-879719-(-308519-(-265950)))-97691)),34892677686503-970715)]]()end local E=o(function()return j:get_class()end)local s=M[E]if not s or not C[s]then return nil end local i=o(function()return core[k[v(U((496858+3595233291)%16195468-304830),6088039031271-(-232661+-383363))]]()end)or 1517191900%15171919 if N[k[v(U(126361-94986),19842506244661-(-782180))]]~=s or i-N[k[v(U((-441888-(-567570))-94276),15555635358689-777809)]]>581414+-581384 then local O,M=nil,399610-399610 for f=-245948+120062763%9216678,726995523%3029148,1483997832%(5242560659%21787275)do local w=o(function()return core[k[v(U(749177-717818),11473465211411-(-863460))]][k[v(U(544466-513061),(68820389404813-(-381544-(-546631)))%1638580977631)]](f)end)local C=type(w)==k[v(U(920225+-888849),93682+3628430756072)]and tonumber(w[k[v(U((111769361-758363)%917187),(-1102550-(-423767))+6790882722815)]])or-134708-(-134708)if C>M then O,M=f,C end end local C=((O and M>=128372+(-487247-(-358885))))and((s==k[v(U(1338910693%12171630),551391+2955751648504)]and w[O]or O))or f[s]N[k[v(U(964430898%((-492913+(816658148-339322))%5999058)),697624+14263932866393)]],N[k[v(U(2516535985%((-790286+(887989-342121))+10512350)-861200),13951561559388-(751998-737835))]],N[k[v(U((333187-((-607716-206145)+200842))-(382934+531931)),-956579+8589713995100)]]=i,s,C end local L=C[s][N[k[v(U(1540077097%9448133),2041224238143-(-791884))]]]or C[s][f[s]]return L end local E={{k[v(U(-596810-(-628117)),11151072908854-(-90343))],k[v(U(59033015%(298444527%1692399+9251305)),5434860450688-977037)];k[v(U(508291-476921),979106+27169363881731)]},{k[v(U(2848911635%14388284),23397191%(-462640+((-120877+-405238)+((-590298+1887100218%13477318)+2037401)))+7046392926119)];k[v(U((1399550772-(-327941))%7820376),(-136343+18573347992856)-(-173844))];nil,k[v(U((222289+438609229)%(950208+603476630%3300935)),(16704749107696-641166)-(-1472673-(-181223+-267763)))]},{k[v(U(107450+-76090),4.5933758894238e+15%18596663575624)],k[v(U(481372162%11461007-(-21489)),(-1026069+16884831531609)-(-744742))]};{k[v(U((7796584-(-89156))%66563),456873+18318630969172)];k[v(U((-425675+1019773)+-562787),887773+(22339381944120-(-95376)))]},{k[v(U(1309340936%8613879),678845+30161806113801)];k[v(U(-111363-(-142666)),362311+16211973918571)]};{k[v(U(-989658-(-1021109)),-497344+29133055163565)],k[v(U(-383799-(-415207)),-730239+645376978676)]},{k[v(U(((2272944711-(-117253))-1015464)%15146768),-664396+23240507018686)],k[v(U(7119561%2362726),13988738836737-657673)]},{k[v(U(2772194788%(465832+(145239+(15037250-902771)))),29188815510443-38534)],k[v(U((2075801893-175524)%10275223),337209446%(((1519661-728195)+-1712309)+10817634)+9581460684861)]},{k[v(U(-366638+398001),9515687751813-(-349005))];k[v(U((-10287-(-836784))+(51021+(114603+-960816))),-592918+7299434461201)]};{k[v(U(582664+-551225),239478+24834746274326)],k[v(U(626438680%13617548),7974203678962-(-440153))]};{k[v(U((152939978382%1470721354)%9902364),996776+33934991628120)],k[v(U(1452403991%8802258),-673177+34646301325837)]},{k[v(U(2366399701%13445275),-332921+2075624545796)],k[v(U((1712658-(338236-(-423926)))+(-1176757-(-1042544-(-784910)))),10232109562577-2819987847%(14565563-877690))]};{k[v(U(-1004561+1035955),983917+33983475214818)];k[v(U(76595+-45184),151272+(194168181492-(-219266)))]};{k[v(U((212360-(-625637))+(-370585-436032)),3340842792358-(-226009))],k[v(U((547697+-1496189)-(-979781)),((-1536061-(-727108))-(-984047))+12630629078051)]},{k[v(U(-852232+883556),28140599783497-743846)];k[v(U(821569-790114),539472962%5084354+(20261457149742-(-879770-(-415945))))]};{k[v(U((-1048130-(-817621))+(48489-(-213450))),29436838360613-457586)],k[v(U(2613685710%13267281),939786+32275141502016)]},{k[v(U(646295092%(1048016+3148501)),-921616+21752250209899)],k[v(U(285842-254540),25778843027982-(570161+-532789))]};{k[v(U(1229725970%13816794),4.9544215058875e+14%27524564706458)];k[v(U((215098-619113)+435430),(14525744150569-119608)-486387)]},{k[v(U(-201135+232462),24860329755735-(-526715+742787))],k[v(U(540948103%(666310+1635463)),451770+(-1019665+4354899034018))]};{k[v(U((1025303+-1581317)+587450),797383+(14032046957117-(-56736+-739468)))],k[v(U(-90126-(((93588-614691)+-57246)+456799)),((-483689+76030)-(-318744+1458217849%((2423810138-166199)%(382441+(246643+15061534)))))+27591090735830)]};{k[v(U(176169893%14678205),30835262941837-(-965156))];k[v(U(218889+(219165-406594)),599676+14514981189012)]};{k[v(U(353920309%11796296),(-972085-(-868696))+23762143791590)];k[v(U(748227599%5421712),4.2620140343944e+14%17758392386516)]};{k[v(U((467156427-(-482886))%(1084478976%6145903)),9284741860726-(-271321+-215117))];k[v(U((472512+2527827150%10402563)-(218330-(37590+-264660))),334433+21867845288519)]};{k[v(U(112550-81199),24835056812074-10781)],k[v(U(-818648-(-850022)),139007+(-939989+18596906010193))]};{k[v(U(360970596%(180514+5736521)),2520646607768-(-846061))],k[v(U(29980+1193055548%(((-546192-(((-845822-171547)-(-399637+(361144-859216)))+18383))-(-870263))+(12338298-1985093825%8267753))),32951822681451-(353346+678804))]},{k[v(U((777784+(4824952480935%75390105334)%1570498848)%(-852353+9211420)),7.0213244953645e+14%29255519149729)];k[v(U((307629+1158726328)%10256660),7127236836883-2950221159%12607393)]};{k[v(U(2175491179%9218050),9565521539969-903822)];k[v(U(-739406+770856),130309+(481018+15529220231190))]};{k[v(U(-445796-(-477150)),(1032939+24184549126307)-(-343222))];k[v(U(258586-227155),306241+(938483+4518003988240))]};{k[v(U(961215-929825),163288+34921788891791)],k[v(U(434744+((570790+-900578)-73534)),14051962079894-(-397408))]},{k[v(U(-421728-(-453027)),614719+19909544916688)],k[v(U(380656360%(527796516%8658701)),26345425854945-396993)]};{k[v(U(-590827-(-622226)),(-15216-(-982608))+22196284083988)],k[v(U(608185+-576850),21621060404134-225340)]};{k[v(U(422285-390924),19606385248949-(-269419))],k[v(U(428839+-397369),29431196121844-(-159029))]},{k[v(U(-217450+248770),30608305459145-1016097)];k[v(U(3097694004%13706472),28263232055829-(-23771))]}}local s={[k[v(U(2550268870%13011416),-991824+(22427914646158-(-339765)))]]=k[v(U(225934756%5134168),218811+22279525313340)];[k[v(U(2946808969%((50377+13065944)-(476065-116357))),4390355634693-(-1042933))]]=k[v(U(190362+-158967),1036890+32249439172071)],[k[v(U(526896036%2450533),((-705975+1801663434773)-94623)-340625)]]=k[v(U(306472-275046),-587098+17705435625422)];[k[v(U(1920629463%15488694),((819713+26639703982115)-(-181565))-(-673690))]]=k[v(U(-308101-(-339526)),((-1029763+33905500995916)-903904)-(-286027))];[k[v(U(-563558-(-595001)),-599338+19333261968961)]]=k[v(U(2681593379%15236148),-788081+1359117827899)],[k[v(U(1228253661%(-463322+6425566)),(503309+((26107933404575-(484966-921964))-(-766343)))-(1900938242%13016344-(-373816)))]]=k[v(U(-412686+336766933%1900129),(1253257-349285)+10442967168354)],[k[v(U(679868-648487),23526+(214545173870-467832))]]=k[v(U((-1032726+(119653433117%524868471)%2828508)+-923142),327143225283-878206)],[k[v(U(3301307126%13311596),(24780843712671-(-282796))-632491)]]=k[v(U((309725397-(-388673))%16320142),3550599242006-(((-434656+1311237592%15068813)+((-1024583+284508)+176449320580)%1069402544)%12847500+-384796))],[k[v(U(747134009%9001237),(623719700%3247126+(-1759478-(-499300)))+1919059218009)]]=k[v(U(13240070%1467624),449388+12329944679359)],[k[v(U(-679262-(-560445+-150125)),-413992+29021558596580)]]=k[v(U(396721-((-919618+2142179)-857182)),-927790+5498365782472)];[k[v(U(65070-33678),15376444965062-617095)]]=k[v(U(-748551-(-779929)),777179+(533684+27986046729010))];[k[v(U(-819358-(-850654)),-1001098+34243373775225)]]=k[v(U(825660+-794344),-722861+13108728867464)];[k[v(U(828010+-796716),23729289422103-((837591572%(1048809768%7841489)-841111)-328429))]]=k[v(U(274357+-242953),22719956508843-54088)];[k[v(U(168639172%974611),(30356709439565-858143)-(-1018767))]]=k[v(U(136824819%3181241),-721381+30929679802275)],[k[v(U(799258508%4316654-646129),10539945490753-434190)]]=k[v(U(839147-(1423495-615641)),685143+22202670736892)];[k[v(U(619275+-587877),882394+32222421884518)]]=k[v(U((9363510718%139874425)%(-458015+2313893)),-256781+28361386294087)]}local i={k[v(U(27674-(-3638)),-980707+24127290702635)],k[v(U((1446741075-(-1025106))%15909174),7732172433981-38306)],k[v(U(64127349%(1594611743%8705580)),20512001444175-(-303781))];k[v(U(-365915-(-397284)),(18464389301861-367503)-(-798332))],k[v(U(-989350-(-1020695)),-51238+23947977977371)]}function O.stats_of(O)local M={}for f=1045231-(104120865%7402261-(-556018)),#((O or{})),-458841-(-458842)do local w=O[f]local o=type(w)==k[v(U(-494240-(-874300+348594)),226756+20706053499246)]and w[k[v(U(236351+(-999457-(-794564))),23100629665331-1048212)]]or w if type(o)==k[v(U(2342082663%9840552),133478+14602528435286)]and o~=k[v(U(166758+(1011182+-1146578)),((329070+-1003743)+25129378047530)-(-704203-(-2304)))]then local O=false for M=28995058%9665019,#i,162369+-162368 do if o:find(i[M])then O=true break end end if not O then local O=false for f=525217+-525216,#E,1690032433%12803276 do local w=E[f]local C,j=o:match(w[-759152-(-759153)])if C then M[w[-422755-(-422757)]]=((M[w[-952333+952335]]or-618021-(-618021)))+tonumber(C)if w[-26040+26043]and j then M[w[692732495%(7120686-(-409015))]]=((M[w[597409-44048982%10862894]]or(2120183252-(-467876))%(4145748738%20885114)-425596))+tonumber(j)end if w[68400514%492090]then M[w[2916049204%(1398366066%28221534)]]=((M[w[(249114699-(-571467-(1009414+-718026)))%1141450]]or(-343956+-134094)+478050))+tonumber(C)end O=true break end end if not O then local O,f=o:match(k[v(U(1429380007%5834076),644524+33011256470973)])if O then if f==k[v(U(-915146+946621),(132030+(837094+25591039222213))-((412282+(-244240-142238))-(1815353587-(-1006260))%7567811))]then M[k[v(U(175218+-143889),28493241231306-(-201572))]]=((M[k[v(U(-794037-(-825389)),32096744563210-861959)]]or-406991+(923107+-516116)))+tonumber(O)M[k[v(U(746217+-714902),25796051034301-1029567)]]=((M[k[v(U(608789736%6689653),24351085253659-(-503152))]]or 1994902546%10961003))+tonumber(O)elseif s[f]then M[s[f]]=((M[s[f]]or 724145508%8940068))+tonumber(O)end end end end end end return M end function O.score(M,f,w,o)if type(f)~=k[v(U(-545921+577277),27162138354212-571649)]then return nil end local C=nil for O,M in pairs(f[k[v(U(618257809%2443583),31464143826894-(165858-470188))]])do if M>-1042769-(-1042769)and((C==nil or M<C))then C=M end end local j=((C or 1431494821%15905498))*.1 local N=-71280+71280 for M,C in pairs(M or{})do local E=f[k[v(U(2495739992%15125507),-604171+33908957223439)]][M]if E==nil and((M==k[v(U(((172738+(-384508-261282))+231754)-(-272637)),31906069855236-((-1232413-(-54361))-(-868473-(-135488))))]or M==k[v(U(-794154-(-1508151-(-682532))),1041061+4363285661679)]))then E=j end if E then if f[k[v(U(-372753-(-404155)),4761814762526-(-598007))]][M]and(not w and((tonumber(o)or O[k[v(U(-772191+803489),(10842051864399-(-13347))-(8731986345%1455636011)%6758844)]]))<O[k[v(U((-726656-(-210781))-(-547243)),14777666518028-(-483305))]])then E=E*(-733164.5-(-733165))end N=N+C*E end end return N end local L,r={},-520541-(-520541)local function A(M)local f=L[M]if f~=nil then return f or nil end local w=o(function()return core[k[v(U(((-245755-(-128164))-(-982991))-833929),14150570101507-1312806917%5312168)]][k[v(U(589273654%6695934),30762641241699-(-890022))]](M)end)local C=((type(w)==k[v(U(204862761%(885625+5321384)),-631235+28779678473896)]and#w>=800094+-800092))and O[k[v(U(-120112-(-151400)),9472039019261-334346)]](w)or false r=r+584656801%8352240 if r>-76754-(-77054)then L,r={},-1005563-(-1005563)end L[M]=C return C or nil end local function R(M,f,w,C)if type(f)~=k[v(U(2608972497%12306326),23067757997329-34097)]or f==k[v(U(823826-792464),22504154368690-(-250345-728951))]then return nil end local j=A(f)if not j then return nil end return O[k[v(U((176690+-1206264)+(-149105+1210028)),1018745+31976677829955)]](j,C,w,o(function()return M:get_level()end))end function O.delta(M,f,w)if not O[k[v(U(-190902-(-222348)),(-54682+-270460)+18752047418853)]]()then return nil end local o=O[k[v(U(1026156-994719),244962+18344188970553)]](M)if not o then return nil end local C=R(M,f,false,o)if C==nil then return nil end if w==nil then return C end local j=R(M,w,true,o)if j==nil then return nil end return C-j end function O.link_score(M,f,w)if not O[k[v(U(653426249%8597300),560817+25822650285810)]]()then return nil end local o=O[k[v(U(-675040+706349),9566917404845-831142)]](M)return o and R(M,f,w,o)or nil end O[k[v(U(2623715930%12672606+-455056),16114471143530-441314)]]=function()C,N[k[v(U(35839884%3978719),7201848499097-(-788897))]],L,r=nil,nil,{},3091582082%12171583 end return O end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- equip_tbc.lua - Zygor's TBC item score (stat weights) for equip.lua
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Forever_Questing
+-- ============================================================================
+-- 1.8.0 (user spec: "if the existing score does not match Item-ItemScore.lua,
+-- fix the TBC module only"). equip.lua compared item level and quality; Zygor
+-- on TBC (Item-ItemScore.lua GetItemScore 519-615) ignores item level and sums
+-- tooltip stat x the spec's weight:
+--   * weights: Zygor's Data-TBC/Item-Statweights.lua, imported LOCALLY by
+--     tools/import_zygor_npcs.py into scripts_data/fqb/zygor_statweights.txt
+--     (no Zygor data in the product); missing file = no score, equip.lua's
+--     item-level rule stands;
+--   * the spec: the talent tab with the most points (Druid: tab 2 = Feral
+--     DPS, tab 3 = Restoration); under 10 points the levelling default below;
+--   * stats: read from core.game_ui.get_hyperlink_tooltip(link) (documented;
+--     empty on a client without C_TooltipInfo = no score) with patterns
+--     written from the TBC tooltip text; set and socket-bonus lines skipped;
+--   * a capped stat (caps) counts half on an item not worn while the player
+--     is below 70 (548-554); ARMOR / DAMAGE_PER_SECOND without a weight count
+--     0.1 x the spec's lowest positive weight (182-191, 566-574);
+--   * upgrade = strictly higher score (Item-Upgrades.lua 299-301).
+-- Loaded by equip.lua only when gamever.is_tbc().
+-- ============================================================================
+
+local M = {}
+
+M.FILE = "fqb/zygor_statweights.txt"
+M.MAX_LEVEL = 70
+local CLASS_TOKEN = { [1] = "WARRIOR", [2] = "PALADIN", [3] = "HUNTER", [4] = "ROGUE", [5] = "PRIEST",
+    [7] = "SHAMAN", [8] = "MAGE", [9] = "WARLOCK", [11] = "DRUID" }
+-- under 10 talent points: the usual levelling spec
+local DEFAULT_SPEC = { WARRIOR = 1, PALADIN = 3, HUNTER = 1, ROGUE = 2, PRIEST = 3, SHAMAN = 2, MAGE = 3,
+    WARLOCK = 1, DRUID = 2 }
+local DRUID_TAB = { [1] = 1, [2] = 2, [3] = 4 }
+
+local function safe(fn)
+    local ok, v = pcall(fn)
+    if ok then return v end
+    return nil
+end
+
+local rules = nil        -- CLASS -> spec # -> { name, stats, caps }
+local function kv(s)
+    local t = {}
+    for k, v in tostring(s or ""):gmatch("([%u_]+)=(%-?[%d%.]+)") do t[k] = tonumber(v) end
+    return t
+end
+function M.load(body)
+    rules = {}
+    if body == nil then body = safe(function() return core.read_data_file(M.FILE) end) end
+    if type(body) ~= "string" then return 0 end
+    local n = 0
+    for line in body:gmatch("[^\n]+") do
+        local cls, num, name, stats, caps = line:match("^(%u+)\t(%d+)\t([^\t]*)\tstats ([^\t]*)\tcaps ([^\t]*)")
+        if cls then
+            rules[cls] = rules[cls] or {}
+            rules[cls][tonumber(num)] = { name = name, stats = kv(stats), caps = kv(caps) }
+            n = n + 1
+        end
+    end
+    return n
+end
+function M.available()
+    if rules == nil then M.load() end
+    return next(rules) ~= nil
+end
+
+--- The spec rule for `player` and its name, or nil.
+local spec_cache = { t = -1e9, cls = nil, n = nil }
+function M.spec(player)
+    if rules == nil then M.load() end
+    local cid = safe(function() return player:get_class() end)
+    local cls = CLASS_TOKEN[cid]
+    if not cls or not rules[cls] then return nil end
+    local t = safe(function() return core.time() end) or 0
+    if spec_cache.cls ~= cls or t - spec_cache.t > 30 then
+        local best, best_pts = nil, 0
+        for tab = 1, 3 do
+            local info = safe(function() return core.game_ui.get_talent_tab_info(tab) end)
+            local pts = type(info) == "table" and tonumber(info.points_spent) or 0
+            if pts > best_pts then best, best_pts = tab, pts end
+        end
+        local n = (best and best_pts >= 10) and (cls == "DRUID" and DRUID_TAB[best] or best) or DEFAULT_SPEC[cls]
+        spec_cache.t, spec_cache.cls, spec_cache.n = t, cls, n
+    end
+    local r = rules[cls][spec_cache.n] or rules[cls][DEFAULT_SPEC[cls]]
+    return r
+end
+
+-- tooltip text -> stats. First matching pattern per line (more specific first).
+local LINE = {
+    { "Increases healing done by up to (%d+) and damage done by up to (%d+)", "SPELL_HEALING_DONE", "SPELL_DAMAGE_DONE" },
+    { "damage and healing done by magical spells and effects by up to (%d+)", "SPELL_DAMAGE_DONE", nil, "SPELL_HEALING_DONE" },
+    { "healing done by spells and effects by up to (%d+)", "SPELL_HEALING_DONE" },
+    { "Increases healing done by up to (%d+)", "SPELL_HEALING_DONE" },
+    { "damage done by Shadow spells and effects by up to (%d+)", "SPELL_DAMAGE_DONE_SHADOW" },
+    { "damage done by Fire spells and effects by up to (%d+)", "SPELL_DAMAGE_DONE_FIRE" },
+    { "damage done by Frost spells and effects by up to (%d+)", "SPELL_DAMAGE_DONE_FROST" },
+    { "damage done by Arcane spells and effects by up to (%d+)", "SPELL_DAMAGE_DONE_ARCANE" },
+    { "damage done by Nature spells and effects by up to (%d+)", "SPELL_DAMAGE_DONE_NATURE" },
+    { "damage done by Holy spells and effects by up to (%d+)", "SPELL_DAMAGE_DONE_HOLY" },
+    { "attack power by (%d+) in Cat", "FERAL_ATTACK_POWER" },
+    { "ranged attack power by (%d+)", "RANGED_ATTACK_POWER" },
+    { "attack power by (%d+)", "ATTACK_POWER" },
+    { "spell critical strike rating by (%d+)", "CRIT_SPELL" },
+    { "critical strike rating by (%d+)", "CRIT" },
+    { "spell hit rating by (%d+)", "HIT_SPELL" },
+    { "hit rating by (%d+)", "HIT" },
+    { "spell haste rating by (%d+)", "HASTE" },
+    { "haste rating by (%d+)", "HASTE" },
+    { "expertise rating by (%d+)", "EXPERTISE" },
+    { "armor penetration rating by (%d+)", "ARMOR_PENETRATION" },
+    { "ignore (%d+) of your opponent's armor", "ARMOR_PENETRATION" },
+    { "spell penetration by (%d+)", "SPELL_PENETRATION" },
+    { "defense rating by (%d+)", "DEFENSE_SKILL" },
+    { "dodge rating by (%d+)", "DODGE" },
+    { "parry rating by (%d+)", "PARRY" },
+    { "block value of your shield by (%d+)", "BLOCK_VALUE" },
+    { "shield block rating by (%d+)", "BLOCK" },
+    { "block rating by (%d+)", "BLOCK" },
+    { "Restores (%d+) mana per 5 sec", "MANA_REGENERATION" },
+    { "(%d+) mana every 5 sec", "MANA_REGENERATION" },
+    { "%(([%d%.]+) damage per second%)", "DAMAGE_PER_SECOND" },
+    { "^(%d+) Armor$", "ARMOR" },
+}
+-- "+12 Stamina", "+10 Spell Damage and Healing" ... (base stats, enchants, gems)
+local PLUS = {
+    ["Strength"] = "STRENGTH", ["Agility"] = "AGILITY", ["Stamina"] = "STAMINA", ["Intellect"] = "INTELLECT",
+    ["Spirit"] = "SPIRIT", ["Attack Power"] = "ATTACK_POWER", ["Hit Rating"] = "HIT", ["Critical Strike Rating"] = "CRIT",
+    ["Spell Critical Strike Rating"] = "CRIT_SPELL", ["Spell Hit Rating"] = "HIT_SPELL", ["Healing"] = "SPELL_HEALING_DONE",
+    ["Spell Damage"] = "SPELL_DAMAGE_DONE", ["Defense Rating"] = "DEFENSE_SKILL", ["Dodge Rating"] = "DODGE",
+    ["Haste Rating"] = "HASTE", ["Expertise Rating"] = "EXPERTISE",
+}
+local SKIP = { "^Set:", "^Socket Bonus", "^Use:", "^Chance on hit", "^%(%d+%) Set" }
+
+--- Stats read from one item's tooltip lines.
+function M.stats_of(lines)
+    local s = {}
+    for i = 2, #(lines or {}) do                          -- line 1 is the name
+        local l = lines[i]
+        local text = type(l) == "table" and l.left_text or l
+        if type(text) == "string" and text ~= "" then
+            local skip = false
+            for k = 1, #SKIP do if text:find(SKIP[k]) then skip = true break end end
+            if not skip then
+                local hit = false
+                for k = 1, #LINE do
+                    local p = LINE[k]
+                    local a, b = text:match(p[1])
+                    if a then
+                        s[p[2]] = (s[p[2]] or 0) + tonumber(a)
+                        if p[3] and b then s[p[3]] = (s[p[3]] or 0) + tonumber(b) end
+                        if p[4] then s[p[4]] = (s[p[4]] or 0) + tonumber(a) end
+                        hit = true
+                        break
+                    end
+                end
+                if not hit then
+                    local v, what = text:match("^%+(%d+) (.+)$")
+                    if v then
+                        if what == "Spell Damage and Healing" then
+                            s.SPELL_DAMAGE_DONE = (s.SPELL_DAMAGE_DONE or 0) + tonumber(v)
+                            s.SPELL_HEALING_DONE = (s.SPELL_HEALING_DONE or 0) + tonumber(v)
+                        elseif PLUS[what] then
+                            s[PLUS[what]] = (s[PLUS[what]] or 0) + tonumber(v)
+                        end
+                    end
+                end
+            end
+        end
+    end
+    return s
+end
+
+--- Zygor's score of stats `s` for spec rule `r`; `worn` (the item is on the
+--- player) and `level` decide the cap halving.
+function M.score(s, r, worn, level)
+    if type(r) ~= "table" then return nil end
+    local low = nil
+    for _, w in pairs(r.stats) do if w > 0 and (low == nil or w < low) then low = w end end
+    local white = (low or 1) * 0.1
+    local total = 0
+    for stat, v in pairs(s or {}) do
+        local w = r.stats[stat]
+        if w == nil and (stat == "ARMOR" or stat == "DAMAGE_PER_SECOND") then w = white end
+        if w then
+            if r.caps[stat] and not worn and (tonumber(level) or M.MAX_LEVEL) < M.MAX_LEVEL then w = w * 0.5 end
+            total = total + v * w
+        end
+    end
+    return total
+end
+
+-- audit P7: a link's tooltip stats are read once and cached by link (like
+-- equip.lua's red_cache); a link names the exact item, so its stats never change
+local stats_cache, stats_n = {}, 0
+local function link_stats(link)
+    local c = stats_cache[link]
+    if c ~= nil then return c or nil end
+    local lines = safe(function() return core.game_ui.get_hyperlink_tooltip(link) end)
+    local st = (type(lines) == "table" and #lines >= 2) and M.stats_of(lines) or false
+    stats_n = stats_n + 1
+    if stats_n > 300 then stats_cache, stats_n = {}, 0 end
+    stats_cache[link] = st
+    return st or nil
+end
+local function link_score(player, link, worn, r)
+    if type(link) ~= "string" or link == "" then return nil end
+    local st = link_stats(link)
+    if not st then return nil end
+    return M.score(st, r, worn, safe(function() return player:get_level() end))
+end
+
+--- Score of a candidate (bag link) minus the worn item's (slot link): > 0 is
+--- an upgrade. nil when it cannot be told (no weights, no tooltip data).
+function M.delta(player, cand_link, worn_link)
+    if not M.available() then return nil end
+    local r = M.spec(player)
+    if not r then return nil end
+    local c = link_score(player, cand_link, false, r)
+    if c == nil then return nil end
+    if worn_link == nil then return c end
+    local u = link_score(player, worn_link, true, r)
+    if u == nil then return nil end
+    return c - u
+end
+
+--- Score of one item link (for slot picking / rewards); nil when unknown.
+function M.link_score(player, link, worn)
+    if not M.available() then return nil end
+    local r = M.spec(player)
+    return r and link_score(player, link, worn, r) or nil
+end
+
+M._reset = function() rules, spec_cache.cls, stats_cache, stats_n = nil, nil, {}, 0 end
+return M

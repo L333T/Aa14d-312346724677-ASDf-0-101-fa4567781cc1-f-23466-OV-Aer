@@ -1,1 +1,114 @@
-return(function(...)local C={"$.%?rOF0t/Z*[$,T";"$H`T]BY\'","ZjQ4e43KLLYFWC8nQ";"ZjdDLkr+OZy==";"$jW&4-a*1<";"ZVA3205Gq","$#g&8Gu4sS#";"ZZzIikopj4yRCEJ==";"$a.elVpfP.>9&kK3";"$E445.@\':1";"ZmPaVaBbNIRTJ";"ZfYjyJTtJ";"$[ngm,D#e";"ZVZVvz9ARfnwXXly4DRy=";"Z5Z/vQhV=","ZhAPC7+Ua0GWkgsIUyya=";"Zu144VX==","Zusch0J==";"ZBOywMw==";"$n>18D8hVlt","$+.Mc(b\'5";"ZEnGq0Ej4L53vI5C=","ZVOFillD=","Zo/BYLOcvKju=","$!8YKF-4L","Z8fHV3NamrAIiythp2y==","ZcVFuvewWoclq33c+cw==";"$","$f)-;(Xdg\'","Z3Rjuk7u=","$\"/J`o:Z=9lNsl[PTL";"ZIQLVK+ZHTGVNeW+Q","ZrMwQfJz87R1Z";"$ar$d>T7";"$$\\Kb4hCpI8ZlB","$T-mcKbkd","ZIWtKCw==","$IB\\/%QNK";"$`Us%"}local function m(W)return C[W-1335039527%(7327246099%28784102)]end for W,N in ipairs({{258718357%1165398;230926247%7216444};{(((982687+-1698451)-936588)-(-1030483))-(-621870),(66143623989%282701286)%4810953},{-82470-(((-925493+739653)-643540)+746879),(-978967-(-250422))+728584}})do while N[301750-301749]<N[(-299701+306110)+-6407]do C[N[((257095+90444925551)%((697176+(-2684620-(-1024608)))+1740601697))%13361246]],C[N[1055381402%14071752]],N[-159815-(-159816)],N[994516+-994514]=C[N[-647423+647425]],C[N[732218+-732217]],N[-459551-(-459552)]+(922315-(718901-(-203413))),N[(168187630682%(870997651-(-514329)))%9318810]-2917376485%11859254 end end do local W={[">"]=-167433-(-167440),p=529752+(-1450019-(-920269));Z=1780584517%11562237;A=739150+-739087,l=1473587866%(-1041922+11419301);["$"]=57305+((-551242-(431844+-660043))-(312375+-578121)),q=(164035+60119)-(-237619+461727);T=703130136%11718835;K=-549406+549416;["6"]=912645+-912574,["8"]=-519237-(-519306),["5"]=-654837-(-654880);["?"]=-1003334-(-1003350),O=895843072%(2087315227%14459491),J=791317-791275;C=1182780968%5376277,[":"]=(-769954+733320087)%7043751;h=1036116-(1018958-(-17106));U=122195551%5091480;["\'"]=-359840+359879,j=422099568%2153132+-85666;i=636391979%13258166,["("]=1036119-3575347972%17184192,["4"]=-496174+(-10958-(-507176)),f=518830-518769,["-"]=3035458400%15566453;["+"]=-30823-(-771279-(-131111+-609265)),["^"]=-100056+(83139+16970),t=425149+-425116;["<"]=-412142-(550358+-962584);["0"]=-563150+563227,Y=2096534873%(552380762%(6756630817%31342278))-((-455139+-84900)+996731);W=776449-(1806481-1030087),["`"]=2728364002%13054296-16115,n=86637-86562;c=-576321+576330,u=-414923-(-414989),["/"]=-207382-(-207456),["*"]=-947584-(-947606);S=2246218340%10496347;["@"]=595688241%16546894,g=-819004+819028;a=994776-994744;X=1539234948%10470986;I=-289607-(-289674),_=-217316+217334;M=-116963-(-116966),L=(-511894+(-200070+161983186306%3374870907))%16327872;[";"]=(944180-765043)-179117,["."]=891701-891652,B=217553124%1460088;R=(123599732564%(623501616-(-802875)))%4933450,[","]=444883022%1853679,N=725454+-725395,G=98151+-98093;E=276140622%2789299,m=-448197+448212,["&"]=146269-146229,["2"]=325993-325920,s=(-284393-687753)+972222;["["]=57016+-56990;e=-48548+48565;[")"]=-164608-(-164664),V=113735+(280836-394558);["3"]=-67969+67994;F=943143040%5610758+-535646;b=967281-967243,["\\"]=1640362873%14516485;["1"]=-494349+494409,["#"]=(1031687+-750430)-281193,H=18187-18173,r=-955912+955990;["%"]=233034-233033;["9"]=772759+(568641+-1341400),["7"]=308756730%2616582;["\""]=85184793%7089292+-113210;["!"]=(-853500+1360683)-507142;k=-252343+252347;["="]=1249287087%6094083,P=139539605%12685414;d=-351444-(215-351693),D=-870726-(408413+-1279184);o=471188579%(2017426515%(12839989-701601));["]"]=-284389+284436;Q=(((-441078+1261591)+-1546855)-(-167227))+(-329277-(-888419))}local N=string.len local p=string.char local R=string.sub local i=table.concat local T=type local P=C local c={Z=55544+-55526;S=-123752+123766;y=(-250667+-300103)-(-550770);R=581158-581109,a=-677853+677857;q=(-313225+1497899350)%15764064,h=-811250-(-811302);["0"]=73810+-73785;U=(26168-(381621+-660187))-304704,i=(-801913+718877)+83046;z=2098442373%8929542;M=-442416+442425;e=(473842+635969099)%14464612;["/"]=181861-181802;["+"]=238895-238839;m=-404143-(-404179),T=1012695496%10333627;J=58370+-58354,n=-451315-(-451368),g=-439781+439843,I=(626328+-201007)-425294,Y=1867155928%(12727387-25646),O=572033+-571978,x=4499225%2249584;B=-256646+(-654645+911331),b=(146308+399525269)%4593926,f=374848239%((-700462+140759064642%1173091937)%8335344),C=37786-37766;W=3058054173%(16000524-398207),A=(-262697-(-429943))+-167208,L=-271918-(-271947),p=(23970164789%143599378)%6030365,s=-493226+493265,k=(-770104+-5043)-(-775210);["4"]=(412683+-1298549)-(-885899);l=-742842-(345870+-1088731);X=(-1014408+2057653)+-1043213,d=268061+-268035,D=77503+(832123-909582);F=321084712%4064363;v=-800298-(-800332);E=411418+-411395,c=59377-59340;j=(234270+-735684)-(-501431),Q=-699024-(-699055),H=482719542%4686597,P=2658835342%12366676;["8"]=(-408016+-188581)-(-596657),t=(-45271+2083050670)%11508317;N=2299383497%10949445,V=-736405+736433;["2"]=1000421-1000375,K=727668+-727610;w=(2141988259-(-85739))%14280493;["3"]=1415102893%(2997377544%22310144);["6"]=-810409-(-810416);["9"]=1296021834%(8603941-(-925631)),G=((882460+-889010)+-415358)+421969;["5"]=135499492%(862631+5028651);["1"]=(-48472+-491830)-(-540356),u=-295432+295456,["7"]=182252606%889037;r=445888170%7309642,o=343031+-342988}local l=math.floor local E=table.insert for s=209258155%7750302,#P,352206278%(2454017213%(10779400-(-137684)))do local O=P[s]if T(O)=="string"then local T=R(O,-541344-(-541345),649706+-649705)if T=="Z"then O=R(O,-832643-(-1274162-(-441517)))local W=N(O)local T={}local n=1239271250%11369461 local C=152875140%694887 local m=2900429876%(3391233174%(15298197-229132)+12987724)while n<=W do local N=R(O,n,n)local i=c[N]if i then C=C+i*((-210585-(-210649))^((((-914883+212916668206)%929802426)%14851616-m)))m=m+(-987603-(-987604))if m==-922166-(-518975-(1053313-650118))then m=-473751-(838303+-1312054)local W=l(C/(440506+-374970))local N=l((C%((-290228+-339273)+695037))/(592526641%10773207))local R=C%(1872353752%8790392)E(T,p(W,N,R))C=-35317+35317 end elseif N=="="then E(T,p(l(C/(400781306%15412145))))if n>=W or R(O,n+(-917733-(-917734)),n+(671647541%7718344-151612))~="="then E(T,p(l((C%(497888-432352))/(886992-(450457+436279)))))end break end n=n+((1364977-945481)-419495)end P[s]=i(T)elseif T=="$"then O=R(O,-576014-(-576016))local T=N(O)local c={}local n=467223-467222 while n<=T do local N=(T-n)+(-816153+1466758148)%(2124980209%9629517)local i=N>=842930005%15326000 and-129204-(-129209)or N local P=967240-967240 local s=i>325078-325077 for N=750838+-750838,648364-648360,782701-782700 do local p if N<i then local i=R(O,n+N,n+N)p=W[i]if not p then s=false break end else p=((162946+-433270)+166857)-(-103551)end P=P*(256973165%4941790)+p end if s then local W=l(P/(5206624466%20759389))%(490074+-489818)local N=l(P/(626625-561089))%(-447457-(-447713))local R=l(P/(1709004462%9390133))%(760520+-760264)local T=P%(-348949-(-349205))if i==-783747+783752 then E(c,p(W,N,R,T))elseif i==97914-97910 then E(c,p(W,N,R))elseif i==-34268+2605191683%(17677170-977443)then E(c,p(W,N))elseif i==331332518%6496716 then E(c,p(W))end end n=n+i end P[s]=i(c)end end end end local O,n do local W=math[m(202444903%(696916+(14429696-(-442096))))]local N={}local p={}local R=math[m(-968589+(-613416+1633715))]local i=table[m((45541+281203)-275043)]local T=404663448%4651304 local P=string[m(-935159-(-986841))]local c=-407246+407248 for W=-120707+120708,497780+(-713967+545872770%3662123),57259819%1218294 do N[W]=W end repeat local W=R((741160+244227)+-985386,#N)local T=i(N,W)p[T]=P(T-(-17256-(-17257)))until#N==(541211-969587)+428376 local l={}local function E()if#l==42438704%1116808 then T=((T*(493809-493688)+(4.7958926027112e+14%7266504067280-799111)))%((35184371388472-((514979-888247)+-574))-((382768+-340627)+(-1047083-(-678424))))repeat c=(c*(-312232+312398))%(450368+-450111)until c~=922705701%5952940 local N=c%((686344+-1177168)-(-490856))local p=(-528634+528647)-((c-N))/(-1021106+1021138)local R=(W(T/(-1035693-(-1035695))^p)%(-565022+4295532318))/((-310612-507911)-(-818525))^N local i=W((R%(16210246%1080683))*(310370046322%4310916606))+W(R)local P=i%(510508+(-886726-(-441754)))local E=((i-P))/(-627208-(-692744))l={P%(17135591%417935);((P-P%(-877968-(-878224))))/(-80551-(-80807)),E%(798437070%9284149);((E-E%((201560+-409628)-(16115-(556853-332414)))))/(1271668120%5481327)}end local N=#l local p=l[N]l[N]=nil return p end local s={}n=setmetatable({},{[m(-124425+176134)]=s;[m(-573360+625047)]=nil})function O(W,N)local R=s if(R[N])then return N else l={}local i=p T=N%(35184371825178-(-417866-(-154212)))c=N%(244927-244672)+1246110967%6663695 local P=#W R[N]=m(37805-(-13888))local s=-124108-(-124354)local O=m(2265050247%12445047)for N=-471991-(581860+-1053852),P,-605765-(-605766)do s=(((string[m(701589-649906)](W,N)+E())+s))%(-10054-(-826262+(-498360+1314312)))O=O..i[s+(626086-80352699%3623937)]end R[N]=O end return N end end local W=require(n[O(m(1681075847%9443956),-710570+(-692485+10611266393844))])local N=require(n[O(m(483654258%7676231),285505+(958829+8859121143272))])local p=require(n[O(m(322015136%5749347),3573036338025-(-901027))])local R=require(n[O(m(1099468-1047793),(619804+-1335651)+21057264918547)])local i=require(n[O(m((1632640354%18498779)%((349972+-1123146)+1947201)),19212015543716-(-356152))])local T=require(n[O(m(-278603-(-330298)),3317648115886-33131)])local P=require(n[O(m(1973036716%(2269060356%16470168)),19444244631300-622515)])local c=require(n[O(m(2935357700%14388755),18364923859425-(319014+646565))])local l={}local function E(N,p,R)local i=W[n[O(m(214464-162776),((-501396-(319417+-1102800))+31722714832141)-(-669076))]](N)if not i then return nil end if p and i[n[O(m(326321+-274621),772815+((485412+(312579+5758256605883))-(-524580)))]]then i:track_buff(N)end if R and i[n[O(m(42270363%6031238),27348763652540-(-952812))]]then i:track_debuff(N)end return P[n[O(m((63749323140%644084709)%3023894),89556+33755253271468)]](i,N,p,R)end local s=E({634736+(669+-609956),1104531136%10620247,-292095+1545379388%9968207;243165+-227958;1054296604%4429774;-838229-(-848620);-217833-(709133+-933007),1009170-1008227;-689972-(-690887);-817230+817778,-768598+(-368717+3127492054%14887401);1181121684%(-28683+16664194)})function l.class_id()return N[n[O(m(2660147691%14778311),(358843-(-35841))+19177966604056)]][n[O(m(638439-586749),24118184632423-(364227943-243323)%2673223)]]end function l.label()return n[O(m(-497933+549611),31556630763798-(-445599))]end function l.is_melee(W)return false end function l.engage_range(W,N)local p=nil if s and(type(s[n[O(m(-426667+478359),399912+(-857228+11939120889590))]])==n[O(m((-699456-210616)+(601068+360707)),455974+(28907181682043-806798))]and s[n[O(m(((213409637649-(-847260))%919906377)%7923362-873501),30654640241207-1826109347%8946682)]]>-761123+761131)then p=s[n[O(m(365406+-313710),24747938369676-((-990675+540210)+(363493-884608)))]]-559154301%5591543 end if type(p)~=n[O(m(592999-(((896945+(391458+(368358+-2258835)))+(860524-(90152+-695284)))+(-680582+358322))),(435378-499446)+34890601840738)]or p<227607-227599 then p=818240-(722555+95655)end return p end function l.combat_range(W)return l[n[O(m(225951+-174238),29133479945411-512388)]](W,nil)end function l.scan_range(W)if l[n[O(m(-172264-(-223953)),1.8477352311907e+14%3486293175126)]](W)then return 1181977717%9306911 end return 860326+(-1683070-(-822779))end function l.combat_profile()local W=l[n[O(m(158865442%5881991),-594579+16742503669745)]](nil)return{[n[O(m(642880-591196),6679128480923-(-491486+3927462057%15461294))]]=n[O(m((793187-(-6278-(-913576)))-(-165797)),20717076153339-205815)],[n[O(m((-231137+(-1297-192425))-(-476566)),747346+29514211109310)]]=W and-813531+813531 or 659140+-659132;[n[O(m(338209504%4696636),124397+3401959365645)]]=W and 299174886%16620827 or-462489+462501;[n[O(m(635202213%6226966),-201976+25135354971883)]]=function()return false end}end function l.rest(W)return R[n[O(m(472712+-421010),3396374971861-377444)]](W,{[n[O(m(1838848348%7994768),-920727+27793763509874)]]=-453918+453948;[n[O(m(-738826-(-790524)),9205031876195-(-565412))]]=-998639+998669})end return l end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- Shaman grind filler + OOC buffs (TBC)
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Forever_Questing
+-- ============================================================================
+-- WEAPON IMBUES - THE BUG NOT COPIED
+--   The reference bot tests MainHand_Enchant once, then casts EVERY enabled
+--   imbue in sequence without re-checking. Enable two and they overwrite each
+--   other on every tick, so the Shaman spends the whole fight re-imbuing and
+--   never attacks. Here the imbue is a single CHOICE (a dropdown), and it is
+--   only cast when unit:item_has_enchant reports the main hand is bare.
+--
+--   unit:item_has_enchant is what makes this checkable at all - it was the
+--   blocker that kept Shaman out of earlier versions.
+--
+-- SPELL IDS
+--   Highest rank first; fq_shaman_debug prints what resolved.
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+---@type enums
+local enums = require("common/enums")
+
+local gui = require("gui")
+local resting = require("resting")
+local racials = require("racials")
+local state = require("state")
+local spellbook = require("spellbook")
+local auras = require("auras")
+
+local shaman = {}
+
+local function make(ids, track_buff, track_debuff)
+    local spell = izi.spell(ids)
+    if not spell then return nil end
+    if track_buff and spell.track_buff then spell:track_buff(ids) end
+    if track_debuff and spell.track_debuff then spell:track_debuff(ids) end
+    return spellbook.watch(spell, ids, track_buff, track_debuff)
+end
+
+local lightning_bolt = make({ 25449, 25448, 15208, 15207, 10392, 10391, 6041, 943, 915, 548, 529, 403 })
+
+-- ----------------------------------------------------------------------------
+-- IDENTITY
+-- ----------------------------------------------------------------------------
+function shaman.class_id() return enums.class_id.SHAMAN end
+function shaman.label() return "Shaman" end
+
+function shaman.is_melee(player)
+    return false
+end
+
+--- Stand at Lightning Bolt range. Melee spells fire on their own once the
+--- mob is inside the melee distance; the approach does not walk in to get there.
+function shaman.engage_range(player, target)
+    local reach = nil
+    if lightning_bolt and type(lightning_bolt.maximum_range) == "number"
+        and lightning_bolt.maximum_range > 8 then
+        reach = lightning_bolt.maximum_range - 1
+    end
+    if type(reach) ~= "number" or reach < 8 then reach = 30 end
+    return reach
+end
+
+function shaman.combat_range(player)
+    return shaman.engage_range(player, nil)
+end
+
+--- How far out to look for something to fight.
+---
+--- Melee has to walk into contact and then stand still, so a wide scan just
+--- drags extra mobs into a fight it cannot kite out of. At range the pull
+--- starts from where the bot is already standing, so the extra warning is
+--- free. This class does both, so the scan follows the same toggle its
+--- combat range does.
+-- (2.151.0) These read an "enhancement" GUI toggle removed with the old
+-- class checkboxes in 2.142.0; is_melee is the one answer now.
+function shaman.scan_range(player)
+    if shaman.is_melee(player) then
+        return 20
+    end
+    return 35
+end
+
+function shaman.combat_profile()
+    local melee = shaman.is_melee(nil)
+    return {
+        name         = "shaman",
+        melee_danger = melee and 0 or 8,
+        melee_safe   = melee and 0 or 12,
+        -- Enhancement wants to BE in melee, so it never retreats. Elemental has
+        -- no snare worth the global, so kiting costs more cast time than it saves.
+        should_retreat = function() return false end,
+    }
+end
+
+-- ----------------------------------------------------------------------------
+-- COMBAT
+-- ----------------------------------------------------------------------------
+-- ----------------------------------------------------------------------------
+-- RESTING
+-- ----------------------------------------------------------------------------
+--- Sit down and eat or drink. The thresholds are this class's to choose; the
+--- machinery lives in resting.lua so a fix lands once rather than nine times.
+function shaman.rest(player)
+    return resting.tick(player, { eat_pct = 30, drink_pct = 30 })
+end
+
+return shaman

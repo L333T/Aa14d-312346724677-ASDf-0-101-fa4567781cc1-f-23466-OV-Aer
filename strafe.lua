@@ -1,1 +1,219 @@
-return(function(...)local W={"nEj7/Pxr=";"os1]$5L_";"o-cK6iV#";"n+x+uA0kQTam=";"n4jNDEZi3";"oV25<+Js";"o2rWdVXS$\'uBi>#r/V_5S";"nk43EQ3YEnoBGHA9yHm==","n0aepEF==","nnzge/wPlbg6S5pJoAU9rXeBa";"nyDn66Az=";"o87FT._=GoAbpPK5+q-AMil","n/QS6Kev=","nwuUUJIT5YEZKdLuklQ+izm==","nfog/Qb2e2Nga5/i7eyL=";"nYDKFsLlTCp4+YU82ZOzSrP6=","nLPnEtGEfdhgBZt0OoAzrzOxJ","nzpRJ352NrS/3HeCFYXSQj1F=";"oH+pl`(O+N","nx18z380=";"nS0SSmwrt59W4bJ2JLUlHePm=","o=o&\'?,R","ob]I\\5nG,$b:/qc?4&BIYS\"$LL\\-";"o6;\\9m^qK+NW?O";"o@Y$]@^b(Dl";"ny9ifD8p=";"o?eZ";"nuyMr34v=","oKTke";"otCcP6JOa";"nZBLOObB=";"o4\"hrI","ob,qdV4Af>H","o\\41t7]kIEHCS&Zbd/W;","nqMsdGSooW4M=";"n2kx42gm=";"oNY&-69tt<lUhUrK","oq+\")5m]X,#","n32c9f0tEw//flF0ckuD5l4m=";"o(Q!N_T(i";"ok.4U;K\'","ohQ+gC_I]D","oVRVqk-:","nG0SoSFJWaNDETcznMHgt";"ohQ+)]9aR$oNAE5";"n60Q6/Dyb7kjlAEvUZc==","n5NsA5ZBrw5g6iXJDqYaNuuK+";"nrJTQSqbKUU4=","o";"nxagSc9GfTzpAT7yIzqjJBqac";"o1PMc=Xl";"oib^*t@d!^PTfH39";"o\"pA:h\\0GK%","oNm]^u";"nU2EA+Rz="}for o,p in ipairs({{264250+-264249;781220033%5072857},{-906904-(-906905),-366955-(-366964)};{((-444870-201537)-(-366770))+279647;-2694-(720057-722806)}})do while p[-234809-(330359+-565169)]<p[958258+-958256]do W[p[(829930+(549249+((63512364474-1024533)-725980)%2190259845))%9540251]],W[p[-730729-(-730731)]],p[-676865-((-1079206-274852)-(-677192))],p[(451374+366845)-818217]=W[p[(313088+2801116974%13866546)+-387768]],W[p[730891+-730890]],p[413254011%6357754]+(527456+-527455),p[-921841-(728576+-1650419)]-((-264280+262317)-(-1964))end end local function D(o)return W[o+493655926%7154144]end do local o=string.len local p=type local Y={H=-710625-(-710682);T=-718550+718567,E=342751869%1393300;_=(-284178+-522472)+806682,m=-427100+(-765223+1192403);[")"]=744250-1601852883%6991741,e=228982-228979;s=(37985482094%1726965634)%11938915,["="]=544611-544604,["2"]=-832261-(-832302);["#"]=-243806+((-73045-416380)+733294),["&"]=-818656+818662;K=(193230922-(-979015))%6473662;Y=265057427%5890164,S=-422874-(-422902);["!"]=371835728%4706781,J=140166584%5391021,C=2531273825%14062632,["9"]=100896373%(((4627936-492177)-687659)-721172),h=(926423-593563)+-332830;["8"]=171761138%2627467-975734,b=45184756%15061559,g=406887+-406843;["+"]=-498662+498702;V=236115-104822769%((36186+1752400)-1008088);["("]=(-1436981-((-786306+848556)+(-449938-1116933633%13959770)))+897328;["-"]=230291769%4264662,N=908530+-908499;["5"]=(712240+-243076)+-469113,["\""]=-463002-(-463018);p=-764500+764564;B=946207-(-526002+(1141669-(-330517)));G=759523+-759481;o=643882+-643881;f=2002710419%16150890;["@"]=-39979-(-681866-(-641842));M=894622-894574,["4"]=2797495655%10970571,i=636314528%6002967,Z=-747629+747700;I=3171987050%13440623;q=291666-291612,["3"]=-584261+743422046%10175860;a=(27501977353%292677118)%1951761,P=-329984-(-329993),["7"]=922199+(-1554766-(-624355+(370522-1008353081%((-500246-(-293038))+(5083304-892008))))),d=2926543858%14632719,W=1737366019%8080772,["."]=-112961+112961;k=-347145+347172;["/"]=-195845-(-195920),["]"]=661235208%3257316,["?"]=(821525-(797167+-525190))-549496;t=905824-905788,n=-223410+223424;F=-204345+320501249%2224284;D=858819070%7278127,[";"]=-457716-(-457751),j=-316032-(-316044);Q=482388+-482333,A=-276381-(((-1359079-(-283160))-(-1040298))+((-461261+386521)-166073));X=728989+-728927,L=(2563707182-(127110-278171))%14010154,r=679807864%5860412;["$"]=-474886+(380105-(-94805));["\'"]=109655+(-506732-(-397143));[">"]=336720+-336674;[","]=-385485+(((-10180-806509)-(-247518))-(-954699)),l=852384+(-191093+(-647650-13639)),U=1175865148%(149415+8190054);["^"]=-705807-(-705832),[":"]=831940+((28014-(-124650))+-984586),["6"]=461983840%4399846,["0"]=572480966%4084282-(969950-288546),["\\"]=2211100741%14265166,c=-752329+752344,["<"]=278650026%(-159103+6351324),R=-9661-(-9694);O=(-356368+-386456)+742828;["["]=(-826730-(-697064+((-1010593+1725066)+115686)))+959892;u=-693761+(-198642+892477),["`"]=((-106050+256136042450)%1062809270-442078)%9560986,["1"]=(-589296-(426796252%4483165-737741))-(-793913+46708);["%"]=1187022333%5395556;["*"]=37570+-37500}local c=table.concat local T={E=789268+-789243;r=527790-527782;F=2117570191%10535175;A=1810864064%(748582+7445373),["6"]=-344030+344066,e=2370774763%(11367056-(-85962)),["9"]=798288+-798274;n=3903519595%15998031;["3"]=610117-610072;Q=544675+((981404+-1209505)+-316561),O=1619189102%15420848,f=-261508+((-385077+7521461888)%183458405)%11404940,g=-78254-(-78283),K=((-1003544-(-821203))+217493589%(13727702-183426))+-602806,y=-771445-(-771502);M=1603957313%12059829;t=51524-51501;u=-640011-((-158843-20090)-461093);k=-720401-(-720422);["7"]=459280-459231,p=203065+-203013,J=-3443+3461;S=52087514%224515,a=(367904-1042362)+(1016599-(-914153+92082455)%(722708+(1568257992%10587047-79384)));["0"]=900572+-900548,V=573826+-573776;v=((-265506-(-176931))+-207118)-(-295705);Z=848865936%15433926;j=52160048%469910,["8"]=3554882269%14999503;s=-609323+609355;q=117972-117928;L=547409-(-98829+646234);["5"]=-528420-(-528431);b=544081+-544021,i=252456-252395,["+"]=812057+-812050,D=1034938321%9856555;Y=-964434-(-504581+-459888),U=(534115249553%3256832523)%13006193,N=-525725+525730;z=811854-(-968703+(708690706%8118663-586508));P=((-1027488-(58255-207944))+278001491)%1885195,B=90879-90859;X=546164-546154,["/"]=-743668+743715,l=2802483923%15923204;["4"]=3057609388%(15672345-972300),c=406819584%7533696;H=(2353252929-(-663834))%11316178+-151709,x=27309835%4551630,R=(780125+-99433)+-680639,d=-557047+(-858959+1416023),I=-593871-(-593930),h=611699+-611648,W=904760841%5654755;o=-70343+70386,G=2340867114%9144012;w=945116+-945094,["1"]=-220279-(893220191%4484017+-1121090),C=(556702+-843785)+287116,T=(3855479057-(605756-((174253-(-221249))-1831211277%12986174)))%15996299;m=(66980+-340926)-(-273994);["2"]=699200+-699198}local A=string.char local z=table.insert local v=string.sub local F=W local t=math.floor for J=-351897+351898,#F,291781576%15356925 do local d=F[J]if p(d)=="string"then local p=v(d,-166042-(-166043),816804-816803)if p=="n"then d=v(d,-361461+361463)local p=o(d)local Y={}local B=(30652225817%(-1682+214433689))%3438658 local s=3788466228%16052823 local Z=1728293328%16002716 while B<=p do local o=v(d,B,B)local c=T[o]if c then s=s+c*((1091448852%4624783)^((((-142846+27696)-(954426+-1069579))-Z)))Z=Z+(563430+-563429)if Z==1748818372%8367552 then Z=728645908%4025668 local o=t(s/(-803434+868970))local p=t((s%(-826108+891644))/(204911620%6610044))local c=s%(-1001724-(-1001980))z(Y,A(o,p,c))s=(-1191398-(-479436))-(-711962)end elseif o=="="then z(Y,A(t(s/(-288411-(-353947)))))if B>=p or v(d,B+(-9158+9159),B+(-429383-(-840746+411362)))~="="then z(Y,A(t((s%(((((14311156739504-(-874365))-(-390982))%311112474466)%1388843435)%8875015))/((-592488-223515)+917462197%7452406))))end break end B=B+1885587811%8609990 end F[J]=c(Y)elseif p=="o"then d=v(d,2054921846%14890738)local p=o(d)local T={}local B=583916-583915 while B<=p do local o=(p-B)+1640119537%(16093411-(-473453))local c=o>=994807-994802 and 407904+((-1057056-(-51462))-(-597695))or o local F=954791+-954791 local J=c>(110704394254%(-137917+2575034048))%13257807 for o=-340918-(-340918),(402040-(-466718))-868754,856719+-856718 do local p if o<c then local c=v(d,B+o,B+o)p=Y[c]if not p then J=false break end else p=2465783140%14335948 end F=F*(628427+(-155059-473283))+p end if J then local o=t(F/(6226787531%31522895))%(22831+-22575)local p=t(F/(510744-445208))%(454981048%8124657)local Y=t(F/(((296495+592487)+-243888)+-644838))%(2558968512%12302732)local v=F%(956029282%(-120993+(11989+5248945)))if c==-758624+758629 then z(T,A(o,p,Y,v))elseif c==1559571574%6417990 then z(T,A(o,p,Y))elseif c==184764891%(270586+(414186+115076))then z(T,A(o,p))elseif c==-799847-(-799849)then z(T,A(o))end end B=B+c end F[J]=c(T)end end end end local k,V do local o=string[D(-211327+191345)]local p={}local Y=math[D((259352+-777851)-(-498523))]local c=table[D(-749827+729876)]local T={}local A=(248191965-833490)%1099371 local z=663685-(101619-(-562064))local v=math[D(476820+-496800)]for o=-919234+919235,765496-765240,-381517+381518 do T[o]=o end repeat local A=Y(2478523651%(89190+16434301),#T)local z=c(T,A)p[z]=o(z-232894158%8030833)until#T==64652654%282326 local F={}local function t()if#F==456357078%(1891937433%14791458)then A=((A*(692455+(-871089+(631349+-452650)))+(29512678433017-354790)))%(35184373043131-954299)repeat z=(z*(266081-266038))%((289944909720%1725912919)%9039221)until z~=180970751%3619415 local o=z%(904879+(-1441825-(917856+-1454834)))local p=(14857-14844)-((z-o))/(391939-391907)local Y=(v(A/(-941731+181110069%9482544)^p)%(-447323+4295414619))/(2309042439%13662973)^o local c=v((Y%(-576592+576593))*((858552+-1240680)+4295349424))+v(Y)local T=c%(114286041%3263443)local t=((c-T))/(1000524339%7302619)F={T%(414935508%6101989),((T-T%(589180-588924)))/(325765+(662551-988060)),t%(-1035928+1036184),((t-t%(-999503+999759)))/(-922008-(-922264))}end local o=#F local p=F[o]F[o]=nil return p end local J={}k=setmetatable({},{[D(597498+-617437)]=J,[D(-423397+((652406044940-654716)%3837733779)%17089188)]=nil})function V(o,Y)local c=J if(c[Y])then return Y else F={}local T=p A=Y%(279842+35184371808990)z=Y%(1892371255%(3390568129%20006546))+(-580999+581001)local v=#o c[Y]=D(929876+-949863)local J=171383059%1250971 local d=D(712683+-732670)for p=-216782-(-216783),v,541150-541149 do J=(((string[D(-957301-(-937329))](o,p)+t())+J))%(699415-(-1042152+1741311))d=d..T[J+((890069+36745)-926813)]end c[Y]=d end return Y end end local o=require(k[V(D((-1553229-(-683706))+849557),941870481%13075425+13130565718858)])local p=require(k[V(D((-568865+1557406)+(-251762-756723)),24608443107984-793388)])local Y={}local c=p[k[V(D(889365+-909321),(12122907316981-764406)-30916)]][k[V(D(129918-149896),(-103253+(15652475567855-(529391-376864)))-401745)]]local T=p[k[V(D(-633529+613541),(((-326681-(168538-(-400341)))-(-551206))+26651704352757)-(-409289))]][k[V(D(918302-938264),7871099991539-349516)]]local A=.2 local z=446995+-446994.5 local v=.06 local F=.12 local t=.1 local J=nil local d=nil local B=nil local s=2342301976%15509010-441466 local Z=false local I=false local U=262448+-262448 local K=math[k[V(D(-36772-((1016646+-842518)-190959)),-374633+(-1031249+(15593218941338-((-998403-(-261637))+376181))))]]local b=nil local M=nil local function h()if b then return b end local o,p=pcall(require,k[V(D(-145274-(-125322)),32824676974035-(-314140-(-872005+391891)))])if o and type(p)==k[V(D(791795-811754),22463524232314-(362313-251216))]then b=p end return b end local function x()if M then return M end local o,p=pcall(require,k[V(D(329469-349446),(-766580+1555975377469)-894188)])if o and type(p)==k[V(D(-647146-(-627196)),23568912411567-(-436068))]then M=p end return M end local function n(o,p)return o+K()*((p-o))end local function a(o)if J then return end local p=h()Z=p and p[k[V(D(-692877-(-672931)),20417940177778-(-834787))]]()==T or false if Z then pcall(core[k[V(D(-1040931+1020970),12365405%1726781+11816995846354)]][k[V(D(653860-673824),971347+20839192638971)]])end if s<=960824080%12010301 then pcall(core[k[V(D(587829-607799),32055683319041-123553)]][k[V(D(515980+-535969),801533+(982637+(((18291737851498-(-117422))-(252137+710572))-(423262+(476053+-741656)))))]])s=884759-884758 else pcall(core[k[V(D(-695612+675667),25207937724202-1016253)]][k[V(D(348775-368740),862324+17619030031980)]])s=-775891-(-775890)end J=true d=o+((Z and n(A,z)or n(.2,.3)))end local function C(o)if not J then return end local p=not Z if Z then pcall(core[k[V(D(-358237-(-338258)),24595070352508-941845)]][k[V(D((-171425+671751)+-520268),-100185+2183901455598)]])end Z=false if s>-156801+292835876%11707163 then pcall(core[k[V(D(34634-54609),-90638+(570082+4098803901120))]][k[V(D(153730+(10416-184115)),(-1770642-(-816032))+(18571150096732-788073))]])else pcall(core[k[V(D(397914-417869),(-955767-(-335435))+(-880560+23742173915447))]][k[V(D((1310852-360520)-970306),(593254+(19488644906833-(-26768)))-741133)]])end J=nil d=nil B=o and(o+((p and(212315+157381)+-369696 or n(v,F))))or nil end local function e()local p=h()if not p then return false end local Y=p[k[V(D(-841196-(-821213)),882214+14371872184783)]]()if Y==c then if p[k[V(D(-81904-(857536+-919459)),-147069+(-186483+4501978801783))]](k[V(D(-408833+388898),(240143+695625)+6841660039436)])~=true then return false end elseif Y==T then if p[k[V(D((-512445+707403)-214943),-553209+3.5312672013354e+14%(300944+3603333667858))]](k[V(D(-650694+630736),(-733612+-221628)+22291237238653)])~=true then return false end else return false end if p[k[V(D(653234+-673187),35058540450481-(-1008858))]](k[V(D(703440-723413),5554346306248-836881)])==true then return false end if p[k[V(D(-208747+188790),22796448049882-(-61804))]]()~=true then return false end local A,z=pcall(o[k[V(D(-534110-(-514156)),1711227682217-344604)]])if not A or not z then return false end local v,F=pcall(z[k[V(D(880042+-899985),32068015241022-171640)]],z)if not v or F~=true then return false end local t,J=pcall(z[k[V(D(-832193-(-812209)),-4492+10050076670831)]],z)if not t or J~=true then return false end local d=x()if d and type(d[k[V(D(-636342+616405),22846747706980-(-950350))]])==k[V(D(-406249-(-386301)),28404370828234-51926)]then local o,p=pcall(d[k[V(D(-264476+244529),240891+(-74291+12061143230531))]])if o and p==true then return false end end local B,s=pcall(function()return z:is_casting_spell()==true or z:is_channelling_spell()==true end)if B and s==true then return false end return true end function Y.update()local o=core[k[V(D((604781-(-691379-(-491970)))-824139),-440232+18655341107726)]]()if o>=U then U=o+t I=e()end if not I then if J then C(nil)end B=nil return end local p=x()if J then if not p or p[k[V(D((454981+-543456)+68489),497782+3786717811905)]]()~=true then C(nil)elseif o>=d then local p=not Z C(o)if p then a(o)end end return end if B and o<B then return end if p and p[k[V(D(-703310-(-683339)),(507924+(52389+30287374170984))-(-246846+-553469))]]()==true then a(o)end end function Y.stop()C(nil)I=false U=-223999-(-223999)end function Y.active()return J==true end pcall(core[k[V(D(-168375+148407),-889447+((-297169+(185403+2634871423378))-781118))]][k[V(D(-800640-(-780680)),359435+31128499090743)]])pcall(core[k[V(D((-109121+1015714)-926533),26170252889217-836297)]][k[V(D(((-374234+316272)+(888364+-526143))+-324222),8656962422238-617166)]])pcall(core[k[V(D(502579-522517),((15215462335339-(-366477))-553683574%2740707)%5071826386697)]][k[V(D(-336046+316079),31169746064528-(-233465))]])return Y end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- strafe.lua - Rogue / Warrior "Strafe Combat": short left / right micro-strafes
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Forever_Questing
+-- ============================================================================
+-- WHAT IT DOES (2.212.0)
+--   Rogue only, Spells tab "Strafe Combat" ticked, bot started, in combat:
+--   while combat movement says it is IN POSITION on a live target
+--   (movement.combat_in_position - the same hysteresis band that decides
+--   when combat_engage stops and when it chases), tap the strafe keys
+--   RIGHT -> LEFT -> RIGHT, independently randomized 0.20-0.30 second holds
+--   for Rogue, with no inter-direction pause. Range loss ends a hold early.
+--
+-- Rogue taps are lateral only. Warriors retain their existing forward +
+-- strafe behavior. Only keys owned by this tap are released when it ends.
+-- The in-position latch hands movement back to the chase when range is lost.
+--
+-- NON-BLOCKING
+--   Deadlines, checked once per frame from main.lua's update callback. A held
+--   key is always let go: on its deadline, on any gate failing, on a stale
+--   instance (main.lua), and once when this module loads (a reload in the
+--   middle of a strafe would otherwise leave the key down).
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+---@type enums
+local enums = require("common/enums")
+
+local strafe = {}
+
+local ROGUE = enums.class_id.ROGUE
+local WARRIOR = enums.class_id.WARRIOR      -- 2.294.0: Warriors too (their own Spells-tab box)
+
+-- Short taps: micro-positioning, not travel. 2.294.0: a random length for
+-- EACH tap (each direction) between 0.20 and 0.50 s (was 0.22-0.32).
+local STRAFE_MIN = 0.20
+local STRAFE_MAX = 0.50
+
+local PAUSE_MIN = 0.06
+local PAUSE_MAX = 0.12
+
+-- The gates that are not about range (class, setting, started, combat,
+-- casting) are read at the bot's own decision rate, not every frame.
+local GATE_EVERY = 0.1
+
+local strafe_combat = nil          -- true while a strafe key is held down
+local strafe_until = nil           -- core.time() at which the held key is let go
+local strafe_pause_until = nil     -- earliest core.time() for the next strafe
+local strafe_direction = 0         -- last key pressed: 1 right, -1 left
+
+local forward_held = false
+local gate_ok = false
+local gate_next = 0
+
+local random = math.random
+
+-- gui and movement load around this file; the requires stay lazy and only a
+-- successful lookup is remembered (the rotation.lua pattern).
+local gui_mod = nil
+local movement_mod = nil
+
+local function get_gui()
+    if gui_mod then return gui_mod end
+    local ok, mod = pcall(require, "gui")
+    if ok and type(mod) == "table" then gui_mod = mod end
+    return gui_mod
+end
+
+local function get_movement()
+    if movement_mod then return movement_mod end
+    local ok, mod = pcall(require, "movement")
+    if ok and type(mod) == "table" then movement_mod = mod end
+    return movement_mod
+end
+
+local function random_range(min, max)
+    return min + random() * (max - min)
+end
+
+local function start_strafe(now)
+    if strafe_combat then
+        return
+    end
+
+    local gui = get_gui()
+    forward_held = gui and gui.class_id() == WARRIOR or false
+    if forward_held then pcall(core.input.move_forward_start) end
+    if strafe_direction <= 0 then
+        pcall(core.input.strafe_right_start)
+        strafe_direction = 1
+    else
+        pcall(core.input.strafe_left_start)
+        strafe_direction = -1
+    end
+
+    strafe_combat = true
+    strafe_until = now + (forward_held and random_range(STRAFE_MIN, STRAFE_MAX) or random_range(0.20, 0.30))
+end
+
+--- Let go of the held key. `now` arms the short pause before the next tap;
+--- nil (a gate failed, range was lost) clears it, so a strafe can begin the
+--- moment everything holds again.
+local function stop_strafe(now)
+    if not strafe_combat then
+        return
+    end
+
+    local rogue_tap = not forward_held
+    if forward_held then pcall(core.input.move_forward_stop) end
+    forward_held = false
+    if strafe_direction > 0 then
+        pcall(core.input.strafe_right_stop)
+    else
+        pcall(core.input.strafe_left_stop)
+    end
+
+    strafe_combat = nil
+    strafe_until = nil
+    strafe_pause_until = now and (now + (rogue_tap and 0 or random_range(PAUSE_MIN, PAUSE_MAX))) or nil
+end
+
+--- Everything except range. Cheapest test first: a non-Rogue stops at the
+--- class (gui.class_id, synced from the player by gui.sync_player).
+local function gate()
+    local gui = get_gui()
+    if not gui then return false end
+    -- 2.294.0: Rogue ("Strafe Combat") or Warrior ("Strafe in Combat"),
+    -- each with its own box - a tick made on one class is not read by the other
+    local cls = gui.class_id()
+    if cls == ROGUE then
+        if gui.is_on("strafe_combat") ~= true then return false end
+    elseif cls == WARRIOR then
+        if gui.is_on("strafe_combat_warrior") ~= true then return false end
+    else
+        return false
+    end
+    -- Rotation Only: the player steers, the bot moves nothing.
+    if gui.is_on("rotation_only") == true then return false end
+    if gui.is_started() ~= true then return false end
+
+    local ok, me = pcall(izi.me)
+    if not ok or not me then return false end
+    local okv, valid = pcall(me.is_valid, me)
+    if not okv or valid ~= true then return false end
+    local okc, in_combat = pcall(me.is_in_combat, me)
+    if not okc or in_combat ~= true then return false end
+    -- Forever Questing: no movement keys while a navigation walk runs
+    -- (1.1.0: Sentinel, read through movement - never the client itself)
+    local mv0 = get_movement()
+    if mv0 and type(mv0.sentinel_active) == "function" then
+        local okw, walking = pcall(mv0.sentinel_active)
+        if okw and walking == true then return false end
+    end
+    -- A cast or channel (a bandage) is broken by moving.
+    local okb, busy = pcall(function() return me:is_casting_spell() == true or me:is_channelling_spell() == true end)
+    if okb and busy == true then return false end
+    return true
+end
+
+--- Called once per frame, after the decision cascade (main.lua).
+function strafe.update()
+    local now = core.time()
+    if now >= gate_next then
+        gate_next = now + GATE_EVERY
+        gate_ok = gate()
+    end
+
+    if not gate_ok then
+        if strafe_combat then stop_strafe(nil) end
+        strafe_pause_until = nil
+        return
+    end
+
+    local movement = get_movement()
+    if strafe_combat then
+        -- Range first: out of the band means combat movement is chasing, so
+        -- the key goes now, not at the end of this tap.
+        if not movement or movement.combat_in_position() ~= true then
+            stop_strafe(nil)
+        elseif now >= strafe_until then
+            local rogue_tap = not forward_held
+            stop_strafe(now)
+            if rogue_tap then start_strafe(now) end
+        end
+        return
+    end
+
+    if strafe_pause_until and now < strafe_pause_until then
+        return
+    end
+    if movement and movement.combat_in_position() == true then
+        start_strafe(now)
+    end
+end
+
+--- Let go of any held key. Safe to call at any time; does nothing when no
+--- key is down.
+function strafe.stop()
+    stop_strafe(nil)
+    gate_ok = false
+    gate_next = 0
+end
+
+function strafe.active()
+    return strafe_combat == true
+end
+
+-- A reload mid-strafe would leave a key held down: let go of both once
+-- whenever this module loads.
+pcall(core.input.move_forward_stop)
+pcall(core.input.strafe_right_stop)
+pcall(core.input.strafe_left_stop)
+
+return strafe

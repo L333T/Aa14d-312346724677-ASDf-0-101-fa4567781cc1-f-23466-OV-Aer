@@ -1,1 +1,543 @@
-return(function(...)local l={":\\=%6C[ms";":(>;l8","yaoqv1vR1","ynK==",":3h8";"yFllgvdC6f4d=","y6NUU2L==";"yUgH1EQL=";":um&Y$PgS";"y4F+TCb2=";"y8dBZSL==","yTs7BbK==",":J50Tk\\fW",":\'+iBh",":a>;5f7s^[sH)-",":cr>%5K&",":\"WVcp4g","yxCeO",":hOuJPI6p\'l","ybuj74f1tlEH=";"yqYuDaeK=",":L0HmpAG4oXMq;;+?G";":kI.O\\TEp]F\"`",":M%gR-Zpb$c<9",":[PH%?sn:^1",":NNr@3Ohg",":YInF[1WHED?XA8",":iUhjonY+)N";":<BU","y9StodOtzpj==","yGvu=";"yzVYgWCN4ls6=",":WCqQHKm:#PhtY=%t(rB","yUXcB",":[\"91#LbL";"yRB3RQzhAnYRzhj==";"yJAU9RBH3hN2Qdj==";"yyVtq","yHAolqdr=";"yfDq80Tv38vKE";"y2AR3BAv=",":.e8=#&uG>\\&tPoV","y1oUmW9R=",":IkEqo*&";":#-/uAU%cJms,Fru`BV";"yB690ZreL2d3c";":5J1[/M!$Uu+3";"yPhNDTp==","y3BYsS+viskki",":%CGai5&0","ykyh7rPdkOjzrBF2IlLjXIxH=";":C.>\"U8Bu";":9Y?X(-B";":M#NWIH;j";"y7lAQT7fUMGCoOGv=","yGrGA";":egHhUQ:l",":8$Lh.\\G";"ynsntX8j=";":i78pnch",":1r+ud(qj,<TN`q2kk";"ylRwQRL==";"yS9ub";"yeU+wJEtMhwhWzoC5Y9hEbA7Wft0xqPi4B+KEMHqdqFRIbq5CLK==";"y2qCeTGAQ";"ymfk3FjtAgrVctR+Qy2zq",":H..ETDXq","yoe4HT5K=";"yPZfaGY9FpR/eXdY3tjR5R7R=","yqxK32j==";":qbR4IUWfC-AG";"yITMvyGcL";":@Wu?B","yLjUplZ1bl18Ibvsy+lh2Q9bRuCu=",":<;A4!iYq8W",":09Znj`W*AXe)SB",":Udg$\"Cr5",":Gc.h?n,bKS8</J=","yLs5YqpR=","y6/Xf";"ytqXZJd2=";"yMaUd4yIFKtm=",":sLmVo",":jdO-GA!0bIQ:K3:";":E99h","ybMh87L==","yLdLRNRlL",":I9","y7cF9MPu=",":,C7Za\'W\"";"yxW/+7l5h";":)^DF",":s]Lrg/<f";"yrhZGe5IgdSL=";"y2qSQOBT9";"y/KhFJbF=";":M9$r]_G%";"y1Z6VRwL=","yqVyzWK==","y1JJDmj==";"yGdIEhmoJ";":t]$lmMO(sDCc:",":_p?4%]>K";"y8T0/SfiydJF=";":Lg^JY",":#T","yaLBz";":CW0VO\'\'lmG=4aU^ch",":1/2c.N=@Jr";"yZK==";"yk7EeZWcMh2d=",":`q<,uK[quL+gO",":&:";"ye+xdvIIOH/H=","yvqiQvYYc";":/V)V\'>M[D<$1h";"yemL5";"y0MY73oLw","yveBq","y9hybgqGIyVJePp==";"ytUuuAj==","ygkWm93stFgKeSaKk50p=","yiBoBCF9W1xcO1qTb8Gv=";"y2QnjuFH=",":nA_qkEj5";"ypyt8ucaHC3Abzj==";":RZ28F]l/qS!`E","ywPjmJC1saNR=","yA1liaL==","yGXPjPSc8";":W4*8ORO2",":@`u`T&tD!<";":-9gCWUM\"Kc<>Ac";"y7lA3Oqf9+p==",":3\"dlZMms\'&";"y9o8wegrd",":3&blDG$";"yYyPrDSr=";":#gL^:","yuzRxUj==","yk5GE/K==","yJWWI2Yp=";":Wh>pX)r","y8c6m0yPy9+J=";"yOcppUciep/hBXK==";"yxK==",":VfQti$T6ZO1`?PH\"3","yLTUGIp==";":/tGDF";"yoHMwCfkE","yjj==";":S`#I-A)",":72aEWiZp";"y+dNDFn6=";":0\\/NK5q","yHK==";"yfDna/Hge","yRyoVbV/Z";":&]q\\-)MJRDr&","yIH7z",":#rh?qC!U","yhUqRm8S5O5K=","yZfFnXsJ=";"y+pj=",":;mThZ9Qo",":k\"mS","yNm2kze/SzY2=",":]?BmOt#";":W\\?4`tX#PX]!f",":f[g--kk>aT]0_A9";"yWqCq";"yGcwP7Qj=",":*&6MG\'\"cX";"y9hCsoL==","yr+Rw";":)GT=L+7";"yOBi99K==";"y66huRp==",":PH`nM<gaiA%!tM",":&?","yESLnkj==";"yu9jld3ns3j==";":Bs%Y.NDj","yGp==";"yAft2bVS4";":!N^>bU4";":UW)9Onfd/sk)",":\'!iTVDgU0B@i","yV6EHVyzcRXK=";":FS\\Yihq";":VsugTuS_",":o5q>,ZkM\\r",":\\ST\'GQV",":&Nnc!",":?r","y2pMXmL==","ypCwkaItmJbu=",":sd\\G&Po\"$f49fhC?,uCUftSYtDs@V+";"ybWu2ReRv";"yZ2f4";"yG0R2JFiv";"y096xFIIh1GJ=",":+pE]mZ=Q6XB\'ljL5d28q";"yWZvx";"ysBmLpfZENp==";"y19NaByYkrv7WMrXodRtHSf5+MPaQ41gRN9i=","yY5v2LRoK";"y";"ybEAJap1nEvgb5j==";":0mudd"}for X,s in ipairs({{-623934+623935;95300296%13614298};{-360417-(-360418),(245735+59349811727%(23183556735%(11801149414%236108261)))%4594184};{-840563-(-840666);2654462052%(994182+12688611)}})do while s[207527+(236035-443561)]<s[230189+-230187]do l[s[(2398349872-347475)%12892486]],l[s[370152-370150]],s[230644501%1845156],s[363131039%6851529]=l[s[28140568%14070283]],l[s[2243319409%15798024]],s[-91991+1963271952%14022714]+(-524948+524949),s[(-141706+-504763)-(-646471)]-(((-495739+245199)+560035)-309494)end end local function V(X)return l[X-(-598099-(-611681))]end do local X=math.floor local s=string.sub local U={o=(194373204%32657245)%2072463,N=2454301%(3325526-871279);["5"]=515746-515696;c=1443654769%6015228;H=-229573-(-229629);u=81374327%2086521,T=400848-400823,y=875540607%6632883,["6"]=5567+-5543;n=220294-220293,j=-774416+(131266+643166),f=2676562523%14390121,S=-824127-((160126+119142)+-1103416),["/"]=-770495+770558;Y=-241275-(-924493-(-683183)),b=524473-524464,P=338947+(-882061-(-543128));["3"]=-307471+307512,K=-432779+(-181952-(-614779)),F=-877914+877958;l=1334510780%7136421;["1"]=2540060782%14767795;s=-1029265+1029276;["0"]=785378-785363;w=607551598%14465514;r=947044940%4404860;W=(-489245+(45533908270285%474311564702)%(((184726+408368)+-888912)+(2313610895-(-424067))))%12466751;d=-502488+(-366399+(146309-(-722630))),M=(-568354+894664)+-326281,Q=32197+(-440207+(875260-3785492147%(-503141+15404814)));["9"]=-643635-(-643672);U=203792-203759;g=(37688+1161015076)%(9358740-358331),Z=-728760-(-923118-(-194340)),h=209586-209584,z=-625909-(-625971);E=900215+(542968+(-1821043-(564639-942506)));G=-431772-(-431778),a=99364548%457901;p=2799809720%(10488426-((828776-((((-923521+559970)+(-105646-(137911-(-78744))))+(932638-555340))-(-336948)))+-1786586)),v=255449500%1964996;O=346862663%1514684;q=(28890-857326)+828474;X=2540404543%(12503164-632115);C=925625+(-10816-914804);A=692474811%13849495,R=-18736+18772,["2"]=898449-(-211207+2248013931)%10259837,J=1115405944%4867093-841587;D=-155463-(-155482);t=961363+-961316,e=-788952+(889290+-100292),["7"]=(-822587-((-255315-287995)-(-278386)))+557686,m=((79851504020-80354)%858637656)%(6810317-10640);k=-556833+(481853+75038),["+"]=(-833445+1859789)+-1026314;L=-590624-(-590656);i=-970723+970727;I=80715670%(25296436%7961856-(-770636));["4"]=602626983%2802916;x=353631601%17632561+(246889+-1227211),["8"]=816706923%6921245,B=-799356+(1393927-594516),V=(1001878+(1008191+-1518764))+-491279}local o=table.insert local v=table.concat local K={["."]=(-50838+832635)+(-391459-390318);["\\"]=734673123%4296334,["8"]=3297378808%13189515,q=46521633%845847,["-"]=1588316191%13575352;t=-768971-(-768995),H=(983873+-790617)-193219,l=502463-502441,Z=1466130546%11919760,["2"]=907004+-906958;r=1972071114%9481111,P=-836784-(-1031593-(-194730));[">"]=(341091+458113927)%7163359;["6"]=(703183+((1161424847%13655019+(-1306883-(-220969)))-3251156801%((-1263412-(-133258+-95298))+14580045)))-54015;["\'"]=-861912-(-861943);D=754787-(-210566-(-965318));C=43654068%(950124+9963377);["5"]=1056046229%11604903,I=(86292580103%(925601+371095669))%(4440093-773426);i=352059-352041,e=(-468613+927406)-458718,j=(((896622222%8449728+-873584)-537341073%3295222)+166561712)%4754837,b=(2042403059-(-520088))%11347188+-429255;a=968009145%6368481,M=-228981+229046,O=2806349315%11742047,["("]=-146303-(-146322),["^"]=472414+-472346,L=(-974153+(1122204-633217))-(-485210);["\""]=-862045-(-862046);["&"]=717214+-717157;["$"]=235958-235905;["`"]=(-559963+1154622)+-594581;[","]=819006819%12223982;["1"]=35672818%5018098+-546072,["<"]=-935317+(-237338+1172725),["="]=84912474%1602121,T=237210806%2578378,s=2871900960%13736260+-1022610;d=((44986-((-926962+-35818)+1165542))+-837808)+995653,["!"]=(257699+3339262654)%15605235,o=-647606-(840234+-1487869);Q=218152607%12119587,f=((-967569+1629100)+-1018360)+356902,[":"]=(12443435577%778524512)%(2703469328%16959180);["#"]=919732+-919724,K=154782935%8599048;["7"]=2816345555%12191972,_=2725294905%12058827;["0"]=-860025+860041;["+"]=-179874+179929,["/"]=534959087%((358570-285854)+11815262);["?"]=2743519784%13926496,m=396048-395964,[";"]=128939233%842740;R=(-912547-(-605503))+(-1020598+1327722);["]"]=2379903658%11121045;N=927879-927829;U=578774-578734;["3"]=-72197+72248;u=(39955173862%832654041)%3204820;S=(-695685+142630)-(-553087);J=3825468239%16209611,g=396557901%10168151,Y=356373-356324;["*"]=-625528+625590;["9"]=-937626-(-937631);k=975633-975606;["["]=209321238%4757300;X=-456365+456369;E=(-1544006-(-586390))-(-957683);["%"]=139550422%7752797;G=-384198-(1038638+-1422917);A=1328649687%9038433;["@"]=646496+-646475;W=265919936%(12427050-(-235804));F=413623736%2336857,["4"]=2981620874%13868004;p=530559-530476;[")"]=-162184+162238,h=-513334-(-1115593-(-602248)),B=-693555-(-693561),n=687666638%(1083722326%12382594-69365),V=198213210%1172859;c=1858000854%11539617-122458}local e=l local x=string.len local R=type local m=string.char for L=624699+-624698,#e,-991959+991960 do local P=e[L]if R(P)=="string"then local R=s(P,-937581-(-937582),1175197965%16552084)if R=="y"then P=s(P,365299202%7305984)local K=x(P)local R={}local N=775223+-775222 local H=846320+-846320 local A=-329558+329558 while N<=K do local v=s(P,N,N)local e=U[v]if e then H=H+e*(((-222247+104891)+117420)^(((1471366103%6127284+-817940)-A)))A=A+348181487%(413187+2871544)if A==1315639345%5241591 then A=500055+-500055 local s=X(H/((519581986%8957516+465044686784%2688134570)%13036511))local U=X((H%(65654-(787427-787309)))/(507887548%(2443162785%11746956)))local v=H%(544468411%3703865)o(R,m(s,U,v))H=-53060-(-53060)end elseif v=="="then o(R,m(X(H/(3546401076%16119707))))if N>=K or s(P,N+210490798%6378509,N+2774805517%14157171)~="="then o(R,m(X((H%(279627+-214091))/(1044499+-1044243))))end break end N=N+(-672195-(-672196))end e[L]=v(R)elseif R==":"then P=s(P,-921777+921779)local U=x(P)local R={}local N=683369+-683368 while N<=U do local v=(U-N)+((715295+323623)-1038917)local e=v>=32804324%10934773 and 848344-848339 or v local x=34341+-34341 local L=e>(293396370059%1756867927)%11258296 for X=805520+-805520,389044-389040,-378047+378048 do local U if X<e then local o=s(P,N+X,N+X)U=K[o]if not U then L=false break end else U=-1008030-(-1008114)end x=x*(2294193710%15822025)+U end if L then local s=X(x/(1507189568%23287693))%(-988794-(-989050))local U=X(x/(1029173-963637))%(-556898-(-557154))local v=X(x/(1962809704%8841484))%(-427998-(-428254))local K=x%((((283991+(-198688-49867))+40221273724)%437260884)%10251630)if e==914225+((-906245-((212444-(-413447))+(((-2238247-(-858657))-(-611004))-(-755803))))-(-605133))then o(R,m(s,U,v,K))elseif e==-12770-(-12774)then o(R,m(s,U,v))elseif e==979531+-979528 then o(R,m(s,U))elseif e==(412362371882%1732652876)%8449217 then o(R,m(s))end end N=N+e end e[L]=v(R)end end end end local g,S do local X=math[V(418198775%3836561)]local s=-634138+(615100-(-19040))local U={}local o={}local v=((-474359+-221875)+901210)+-204976 local K=table[V(70796-57017)]local e=string[V(262477+-248786)]local x=math[V(1523812462%10226837)]for X=-304698+304699,864256+-864000,-192493+192494 do U[X]=X end repeat local X=x(1867710912%7876562-965717,#U)local s=K(U,X)o[s]=e(s-(((1769561-703764)-229924)-835872))until#U==-576330-(-576330)local R={}local function m()if#R==1002311+(-362579-639732)then v=((v*(-112984+113013)+(15431843470074-(-337527))))%(-794376+35184372883208)repeat s=(s*(236249-236246))%(3335833589%14255698)until s~=689420822%(10510206-220343)local U=s%(-158236+158268)local o=2011715320%16355409-((s-U))/(475489292%4029570)local K=(X(v/(-950510-(-950512))^o)%(88623+4294878673))/(-164586-(-164588))^U local e=X((K%(807244697%3479503))*(4294106386-(-452224+(-272491+-136195))))+X(K)local x=e%(931744+-866208)local m=((e-x))/(-831874+897410)R={x%(26486-26230);((x-x%(641108217%2900941)))/(((-270134-(-697001))+-1222451)+1414981288%5795842),m%(292270-292014);((m-m%((840152+-224903)-614993)))/(-1031285-(-1031541))}end local U=#R local o=R[U]R[U]=nil return o end local L={}S=setmetatable({},{[V((-1196137-(-1353782-(-405776)))-(-261739))]=L;[V(455996-442257)]=nil})function g(X,U)local K=L if(K[U])then return U else R={}local e=o v=U%(-519684+35184372608516)s=U%(1404656275%7354220)+(53389+(888703-942090))local x=#X K[U]=V(21919322%304245)local L=711247-711120 local P=V(821747882%4891275)for s=966481-((-247893+-121065)+1335438),x,134427982%2536377 do L=(((string[V((-1210914-(((-538232+-370665)+-239822)-(113556-1016265)))-(-718149-260453))](X,s)+m())+L))%(486869+(1014586+(-2371711-(-870512))))P=P..e[L+(17731329339%(-551409+(349405852-981048)))%1424724]end K[U]=P end return U end end local X=require(S[g(V(70043264%(3429318-(-256447))),(876755-(639923-(-300447)))+20337701209314)])local s=require(S[g(V(392586+-378885),(7725069687761-(-297967))-(1065687317%10046443+-1288583))])local U={}local o=-154685.5-(502044+-656731)local v=nil local K=false local function e()if K then return v end K=true local X,s=pcall(require,S[g(V(-389928-(158516-((176676-(-1355026-(-969281)))-297))),(803232+-1655074)+30206428872395)])if X and(type(s)==S[g(V(894562909%8601434),7748076049384-(-490001))]and type(s[S[g(V(430033-416288),16022716740683-884945)]])==S[g(V(-889405+903023),(-146180+23422444477207)-(-346128-(-119874)))])then v=s else v=nil end return v end local function x(X)local s=e()if not s or type(s[S[g(V(25578771%2130420),38148+18278337838976)]])~=S[g(V(-45467-(-59065)),-8295+((-66805+-500592)+1815069460540))]then return nil end local U=s[S[g(V(908965-895235),58801580528324%332212398332)]][X]if type(U)==S[g(V(-541619-(-555278)),-950247+11680884165055)]then return U end return nil end local R=1147476342%11140547 local m=285535+(312959+-598484)local L={[S[g(V(1115863039%8389845),(28053898427206-917288)-(51918-(-939538)))]]=(564821+-999591262)-24813919%5960090;[S[g(V(507333-493644),34638779088766-(-534265))]]=false}local function P()local X,s=pcall(require,S[g(V(173270+(119916+-279418)),23415146436925-(-682790))])if X and(type(s)==S[g(V(485537-((49110-1033398)+1456175)),17480003299367-178781)]and type(s[S[g(V(944256594%6557243),5438211850879-(-214611))]])==S[g(V((698779-994383)+309298),(451889+12607415054810)-163753)])then return s[S[g(V(452586-439001),(-331082+15742209530350)-222700)]][S[g(V(1002810-989137),1490+20846356801375)]]end return nil end function U.handler_allowed(s)local o=X[S[g(V(463514-449923),949899+(30914537058542-1013622))]]()if(o-L[S[g(V(1553102972%7964560),-763818+(26269557497058-3738))]])<R then return L[S[g(V(171389942%10076686+(-934683+862116)),20759076032601-(-367432))]]end L[S[g(V(-41254-(-54912)),30544042189110-671230)]]=o if not s then local U,o=pcall(X[S[g(V(17393-3755),659360326%3216181+28504781784709)]])s=U and o or nil end local v=false if s then local X,o=pcall(function()return s:get_class()end)local K=P()if X and(K~=nil and o==K)then local X,o=pcall(function()return s:get_level()end)v=X and(type(o)==S[g(V(307600087%(177512+2263650)),32599467828337-220910)]and(o>=m and U[S[g(V(-1001780+1015472),1.4121502892275e+15%(-730441+5494749000014))]](s)==true))else v=true end if v then v=e()~=nil end end L[S[g(V(-46516-(-60231)),(603154+7249325342456)-(656285+260462))]]=v return v end local function N(X)if not U[S[g(V(2855033850%11194887+-323915),6070100681995-458193)]](X)then return nil end return e()end function U.set_state(X,s,U)local o=N(X)local v=x(s)if not o or v==nil then return false end local K=pcall(function()if type(U)==S[g(V(-173135-(-186822)),442978+6775351558402)]and U>-711184-(-711184)then o:set_pet_state(v,U)else o:set_pet_state(v)end end)return K end function U.move_to(X,s,U,o)local v=N(X)if not v or type(v[S[g(V(1040006+-1026248),(-1108841-(-380392))+19907826808018)]])~=S[g(V(-89924+103530),11235431948694-(-183282))]or type(s)~=S[g(V((149193+-830603)+695047),289543+4269344572458)]and type(s)~=S[g(V(-489420-(-503123)),345057+22483637906659)]then return false end local K,e,x,R=pcall(function()return s[S[g(V(191359-177734),630402+(31445459900262-(502592-631595)))]],s[S[g(V(952246520%(-637498+6551988)),25027594642478-(-236028))]],s[S[g(V(((770365-616002)-(-141268+-105273))-387284),(470504+-864960)+23392173143459)]]end)if not K or type(e)~=S[g(V(1467012239%15945637),21680965988834-(-728865))]or type(x)~=S[g(V(752452-738696),-236403+(-898837+4418136790230))]or type(R)~=S[g(V(213442651%(2501730170%18240572)),3322973383939%(889244+19778799775))]then return false end local m,L=pcall(require,S[g(V((-819841+849062703)%7375906),12626112031129-1043769)])if not m or type(L)~=S[g(V(-548591+562356),411386+12604948053612)]then return false end local P=L[S[g(V(-468997+482675),9959131853057-(1876943151%17534178+-807895))]](e,x,R)local H=((type(U)==S[g(V(765779957%5890509),-857118+19709639844767)]and U>-392544-(-392544)))and U or-599735-(-599735)local A=pcall(function()if type(o)==S[g(V((-167769+594382801)%(7672855-337037)),9233759266846-500583)]and o>-916029+916029 then v:move_pet_to_position(P,H,o)else v:move_pet_to_position(P,H)end end)return A end local function H(X,s)return U[S[g(V(107324597%492252),15107714638560-216110187%5677142)]](X,s)end function U.on_render()local X=N(nil)if X and type(X[S[g(V(-563928+577590),9886306435720-(445467+-241352))]])==S[g(V(111898+(448857+(-532069-14898))),(3966598761341-(-851834))-933143)]then pcall(function()X:on_render()end)end end function U.has_handler()return e()~=nil end local function A(X)local s,U=pcall(X)if s then return U end return nil end function U.get(X)if not X then return nil end local s=A(function()return X:get_pet()end)if s and A(function()return s:is_valid()end)==true then return s end return nil end function U.alive(X)local s=U[S[g(V(1490409464%9032702),-439119+(2094423790552-(-637421-(-909581))))]](X)if not s then return false end if A(function()return s:is_dead_or_ghost()end)==true then return false end if A(function()return s:is_dead()end)==true then return false end return true end function U.exists(X)return U[S[g(V(392456-((-1039150+440444)+977371)),349362+20740341097533)]](X)~=nil end function U.health_pct(X)local s=U[S[g(V(-386386+(-871717+1271696)),12745023789473-73269)]](X)if not s then return nil end local o=A(function()return s:get_health()end)local v=A(function()return s:get_max_health()end)if type(o)==S[g(V(817207+(-869420+(-50126-(-115996)))),149612+13409286183410)]and(type(v)==S[g(V(887146-((-786251+((((-781074+(-965444+2460402))-(-21409))-((1067179-205601)-86833))-(-57672)))+1641443)),30785222489376-(-712905))]and v>-78078-(-78078))then return((o/v))*(130077922%610694)end local K=A(function()return s:get_health_percentage()end)if type(K)==S[g(V(542430605%3499464),200683+13847869590413)]and K==K then return K end return nil end function U.happiness()local X,s=pcall(require,S[g(V(-825940-(-839596)),-1000422+9409268381281)])if X and(type(s)==S[g(V(-1006187-(-1019829)),23763657172567-18860)]and s[S[g(V(-1000165+1013759),868979+2576337268384)]]())then return nil end local U=A(function()return core[S[g(V(-110829+124512),34376922186358-283460)]][S[g(V((392196+-1101535)-(-723074)),966512+25017469863085)]]()end)if type(U)==S[g(V(-407347-(-421118)),-257625+31363437321351)]then return U end if type(U)==S[g(V((642334+263535)-892144),-1024421+(28682366871707-(-646098+1600512)))]and type(U[S[g(V(1210940219%13760528),1026148+10772419671780)]])==S[g(V(76844193%((68952117476%(357380660-65497))%3529184)),8127522612629-(-34320+(3703802315-729039)%14463539))]then return U[S[g(V(-664966-(-678673)),5188876725031-(-890248))]]end return nil end local J=-605112-(-605112)local q=-999178798-821202 local b=nil local r=2878758%479792 local function a(X)local s=U[S[g(V(328754+(-733284-(-418306))),156401+32803623419426)]](X)return s~=nil and A(function()return s:is_in_combat()end)==true end function U.passive(s)if not U[S[g(V(-546856+560583),(-1032782+21509611698428)-(-154739))]](s)then return false end local v=X[S[g(V(403046-389282),26964462447814-733)]]()if(v-J)<o then return false end if(v-q)<r or a(s)then return false end J=v b=S[g(V(-690718-(-704432)),-338859+32467245372544)]if not H(s,S[g(V(579625+-565946),208641+(22718668960597-((((-121072+(1228218-219745))-289434)-773559)-(-168949-24900))))])then pcall(function()core[S[g(V(843064491%4632147),841654+3001175152452)]][S[g(V(3356404493%14402698+((1027634-860654)-729122)),28396033709721-(-279731))]]()end)end pcall(function()core[S[g(V(-481539+495150),(24388075439566-(-656157))-(330195+-571477))]][S[g(V((953387+-1298973)-((-693072-(-374605))-40715)),(-167728+14432003218980)-(176689-(-587971)))]]()end)return true end function U.attack(s,v)if not v or not U[S[g(V(420312+-406584),704909+27146602708855)]](s)then return false end local K=X[S[g(V(-64208+77926),1006872+25882833311843)]]()if(K-q)<o then return false end local e=U[S[g(V(-234098+247838),-4451+(47136936741527%15712312957570-834493))]](s)local x=A(function()return e:get_target()end)if x and(b==S[g(V((773100+128236373)%(-759279+6901935)),(-67096+34354510272142)-505086)]and a(s))then local X=A(function()return x:get_guid()end)local s=A(function()return v:get_guid()end)if X~=nil and X==s then return false end end q=K b=S[g(V(657201+-643602),(-222406+-443254)+32830099684874)]if not H(s,S[g(V((211687+390048011)%7651883),-174570+33236106548643)])then pcall(function()core[S[g(V((83727372-994315)%11817063),209678+11463176707184)]][S[g(V(1981480621%16109488),(472545874%((6242951-693816)-(-664386))-(-231897))+22148474012960)]]()end)pcall(function()core[S[g(V((141070333196%779440871)%4589064),4676099281172-(-900167-(-40759)))]][S[g(V(30866361%964144),508126+7478267456347)]]()end)end pcall(function()core[S[g(V(((-1575155-(-999604))+-284940)+874273),32187707941025-(-31866))]][S[g(V((-704373+1260494779)%13997518),26191411199275-(-887277))]](v)end)return true end function U.maintain(X,o)if not X or type(o)~=S[g(V(285571323%4184875+-986080),897133+24313198571438)]then return false end local v=o[S[g(V(1029464-1015817),5294718717690-(-74564))]]local K=o[S[g(V((685765-12818)-659214),18392357220631-(-525843))]]if type(v)~=S[g(V((-364296+-336318)+714380),9778686696854-54671)]or type(K)~=S[g(V((-415235-(-114812))+314099),7294714128712-(-642249))]then return false end if type(o[S[g(V(816040143%6229210),333046+5031529376278)]])==S[g(V(334071925%3093131),773763+31622448996845)]then local s=A(function()return X:get_level()end)if type(s)==S[g(V(2369128982%9749446),11981706964990-412060)]and s<o[S[g(V(-380039+393747),(20355973909089-(-470353))-764569)]]then return false end end local e=U[S[g(V(-564986+578761),24105871629693-479223)]](X)local x=U[S[g(V(545275-(-765916+1297563)),22252760670256-(968166+-1229202))]](X)if e and not x then if o[S[g(V(894341-880717),22044825899310-(-950078))]]and v(o[S[g(V(144765+-131134),191795+31639156598685)]])then s[S[g(V(((-271760+751169897%2942315)+-1512780)-((1128712-851711)+-1195678)),(210531+26518736088449)-478268)]](S[g(V(182571037%(11151159%3343725)),-202233+(-505959+(27051793223310-1003253)))],S[g(V(-793811+807537),19720096243785-695496)])return K(o[S[g(V(311820-298215),5808667984447-(-222599))]],X,S[g(V(864748-851147),158664+27886286541051)])end end if not e or not x then if o[S[g(V((1044892+(422714+-1626393))-(348780+-521303)),(1773713990-59485)%(-543183+(408151+11959163))+32618241290569)]]and v(o[S[g(V(657054+-643444),511171+22841300383371)]])then if type(o[S[g(V(-844648-(-858369)),913335+(-163872+26344016124313))]])==S[g(V(688692-674976),6808536458034-(-186967))]and o[S[g(V(446723-(1294073-861049)),3779701315777-191493689%1144961)]]()~=true then return false end s[S[g(V(308721311%5060782),25710434658064%108482910075-484219)]](S[g(V(-437406+451080),374537+20723998206675)],S[g(V(232678-(868540+-649568)),6295223019909-278786)])return K(o[S[g(V((1119168940-(-473556))%7041691),(620834+-1385983)+32953926629075)]],X,o[S[g(V(-36436+50198),((1061785-676463)-(-199554))+24727680157957)]]or S[g(V((1452730-451427)+-987583),-947979+(-764152+14058360272222))])end return false end if o[S[g(V(436040376%3354051),814537+25854511702956)]]and v(o[S[g(V(554962-541367),-446070+(2346377222417-(-488513)))]])then local v=U[S[g(V(791243+-777653),660749+25092300296032)]](X)local e=o[S[g(V((-1018024-(-362638))-(-669027)),848062571%7183769+(((2278575724443-(-372582))-834650)-(-953615-(-826826))))]]or 648058713%(4593273159%(5215812741%22893775))if type(v)==S[g(V((704770+2375940333)%(4679248362%23912667)),-1015607+(2833800400817-226256))]and v<e then local v=U[S[g(V((1874571-925970)-934952),33417187070863-(-13818-463091))]](X)local e=false if o[S[g(V(1016793+-1003034),56233+8555879179096)]]and v then e=A(function()return v:has_buff(o[S[g(V(948297732%(1240684958%5724824)),2954193933%(16568497-517356)+7680437527602)]])end)==true end if not e then s[S[g(V(-220108+233771),-87422+646596662089)]](S[g(V((-954420-(-863299))-(-104823)),21718348984016-(-400872))],S[g(V(114468-100815),33143480983929-(-537164))])return K(o[S[g(V(-1002029-(-1015786)),26042643613297-825186)]],X,o[S[g(V((73676-767119)+707086),31074476622195-(-429099))]]or S[g(V(485505+-471839),1025815+16506438286922)])end end end return false end U[S[g(V(124411-110700),7797823905854-127327)]]=20542963%256776 U[S[g(V(568128-554336),7027891549293-722745)]]=380967-379985 local D=531473-(559701+(207819+(255723-491773)))local u=(-627896+1182957)+-555048 local n=-815558-(-815618)local G=1517386816%16315987 local E={[S[g(V(-521723-(-535383)),29365106363860-(-363509))]]=nil;[S[g(V(258159+-244473),19050075586828-270815)]]=-988628-(-988628);[S[g(V(-812954+826623),-849323+19525442636249)]]=(313615935-991515)%5210407,[S[g(V((-1625639-(-944999))-((1037076-290680)+-1440732)),33294006651462-(-587468))]]=1885836942%10654446;[S[g(V(253435+-239731),9759495189283-(613391-433136))]]=nil;[S[g(V(355457834%1786151),1004398+(9100662224215-(-658375+-203381)))]]=(948783+-1001184146)-(-1166963-(-1768824-(-1179083-(-341859)))),[S[g(V(479557-465944),16362394221101-(-1082005-(-401824)))]]=false}local function W(X)if A(function()return core[S[g(V(-755640+769226),22671662849316-892560)]][S[g(V(2513933500%15422821),914422+(-693135+9.5748818650887e+14%(-1016481+7721679980215)))]](X)end)==true then return true end return A(function()return core[S[g(V(-580125-(-593725)),24653127774858-(-153064))]][S[g(V(614623484%(571046454%(1246234631%20250856))),26924480157801-(-803369))]](X)end)==true end function U.hunter_pet(o,v)if not o or type(v)~=S[g(V(89093310%((411787+((-503195+387457)+1085564494))%10191444)),-502997+8847904628312)]or type(v[S[g(V(-430804+444452),10505321030685-130233)]])~=S[g(V(-598447-(-612225)),10733073782933-(-1028016))]then return false end local K=X[S[g(V((1134567061%5969040-492072)+56358),-231728+((22935167954615-(848262+3247711705)%14122776)-695378305%12870607))]]()local e=U[S[g(V(42053577%5254976),29756682150513-230796)]](o)if e and U[S[g(V(-389885+403552),-376154+3314829789697)]](o)then E[S[g(V(-288073+301836),21057673218369-627997)]],E[S[g(V((437704+56677815215%390922126)%6883092),640928+24329517611399)]],E[S[g(V(-621207-(260160-894982)),(740815-269200)+18851404141369)]],E[S[g(V(1782861219%(3524367536%25101698)),225529+709088873937)]]=nil,-755550-(-755550),false,110444-(-406681+517125)E[S[g(V((1027064-241882)-771492),-31173+30675588368367)]],E[S[g(V(-480437+494175),146079+1405526537278)]]=U[S[g(V(371289-357670),14676009944019-(-870525))]](o),K return nil end if e then E[S[g(V(2850771813%12235013),5746945094672-((-285853-(-863727))+-614665))]]=true end if not e and(E[S[g(V(-873521+887263),369414+32503429425490)]]==nil and(E[S[g(V(105934282%1069906),(31671805163440-440873)-560948)]]and((K-E[S[g(V(166756-153124),23863491429785-(-248250))]])<-358916+358946 and E[S[g(V(-1014370-(-1027953)),25271556067237-(-575229))]]<=G)))then E[S[g(V(2342250150%14638978),-72141+(-458068+10905921170683))]]=true end if K<E[S[g(V(-156014+169636),-576794+24545627161365)]]then return false end if A(function()return o:is_channeling_or_casting()end)==true then return E[S[g(V(2031700890%9493865),125991+2522260224145)]]~=nil end local x=W(U[S[g(V(746192754%6270413),654092+26520174366913)]])local R=W(U[S[g(V(383541414%8919251),8295938914024-348561)]])if not x and not R then return false end if E[S[g(V(-79305+93005),29405306868039-1047547)]]==nil then if E[S[g(V(257369+((285617+-762717)+233514)),414149+33895368728354)]]or e then E[S[g(V(-192695-(-206312)),8641500277688-(-522162))]]={S[g(V(971026+-957307),16183202276518-371716)],S[g(V(((334045+1056793439)-(-920008))%13225423),(834076+1887329590197)-(-214021))]}else E[S[g(V(90554996%(811195-(-1459882-(-423294)))),652833+(5209406006467-(-32897)))]]={S[g(V(-623108-(-636875)),31159673922105-(-911290))];S[g(V(139662062%(464106724%9899537)),(1966112-1009010)+(34875061015012-(-609285)))]}end E[S[g(V(538360+-524709),467576+(6526500543671-(-788655)))]],E[S[g(V(384170-370380),5767449857288-609626)]]=(((514697-325027)+3387620592)-((422353+-1792305)-(-811604)))%16212290,-1000621597-(-621597)end if E[S[g(V((-436507+1438994936)%(10367315-(-871315))),2376273999398-404208336%4345945)]]>1003370+-1003370 then local X=(E[S[g(V(((-23762-(110221985673%483438557)%(2292116207%19178690-232669))-241972)-(248671-989962)),244565+582492893372)]][E[S[g(V(758753-745085),32359043225902-981465)]]]==S[g(V(147601636%617523),(721684+22399692236615)-(-656539))])and u or D if(K-E[S[g(V(1480488874%10140241),844883028%13190182+18742917724306)]])<X then return true end end local m=E[S[g(V(348920+-335166),866870+22011160326971)]]+3372050353%15189416 while E[S[g(V(2752293619%12232355),1220070252%(523205506%15168425)+3281029273191)]][m]do local X=E[S[g(V(1169679800%10083328),(-230454+-680116)+(15117432478314-(-420256-(811847754%6647709+-819282))))]][m]if(X==S[g(V((341880-644365)+316099),-1012713+19500861115970)]and(x and not e))or(X==S[g(V(-805777-(-819558)),754808+8139189520369)]and R)then break end m=m+321971798%6570853 end local L=E[S[g(V(552589-538977),33421102423935-(-565981+336054))]][m]if not L then E[S[g(V((-236782+-106654)-(-357141)),10939130356250-(-83237))]],E[S[g(V(43870-234017738%4178350),34601253253276-(251690-483949))]],E[S[g(V(156134+-142439),21964220324789-832936)]]=nil,-507121+507121,K+n s[S[g(V(-521319+534955),(682530+-373622)+21902163065818)]](S[g(V((733628+-1220294)+222918688%2224183),948740+2516425104482)],S[g(V((((266260+-783095)+(523793-(-642206)))+251470)-886886),366260+9162058668658)])return false end E[S[g(V((60908272348%282047527)%3481044),68912282582029%2297076387509)]],E[S[g(V(-743269+756856),-153645+24921341442310)]]=m,K s[S[g(V(-903119+916790),11726848496083-(-997686))]](S[g(V(735444+(-59209+(82484-745079))),(547677+13466939375508)-287577)],L==S[g(V(-375403-(-389154)),34605198582066-2381851594%10925811)]and S[g(V(2014163629%8570851),27060870451085-(-303251))]or S[g(V(411672+-397912),8047807290572-929567)])if not v[S[g(V(3694059132%15521199),3626362058143-(1096005-763053))]](L==S[g(V(1114522602%15697310),((9910490764044-549873)-(-877120))-(-872641))]and v[S[g(V(-172307-(-186068)),1.7106325102436e+14%1357644943625)]]or v[S[g(V((716176+47101)+-749593),(((2467295268%(-901704+17342233)-(-351736))-935004)-360994)+3343939192031)]])then local X=(L==S[g(V(934371+-920678),3470883609259-28104)])and u or D E[S[g(V(1065046368%7396061),16990322048095-60202)]]=(K-X)+(-341025-(-341026))end return true end return U end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- pets.lua - shared pet handling for Hunter and Warlock
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Forever_Questing
+-- ============================================================================
+-- Shared on purpose. Hunter and Warlock both need summon / revive / heal /
+-- attack / stance, differing only in spell ids and in whether summoning costs a
+-- reagent. Duplicating that in two rotation files is how the two copies drift.
+--
+-- API (confirmed present in the reflected reference):
+--   unit:get_pet()                        the pet object, or nil
+--   unit:is_pet()
+--   core.spell_book.get_pet_happiness()   Hunter only; Warlock pets have none
+--   core.input.pet_attack / set_pet_passive / set_pet_defensive / set_pet_follow
+--
+-- THE ORDERING RULE THAT MATTERS
+--   Out of combat the pet is set PASSIVE. The reference bot does this too, and
+--   it is not cosmetic: an aggressive pet wanders into neighbouring packs while
+--   the bot is pathing and pulls everything. Combat sets it back to attack.
+-- ============================================================================
+
+---@type izi_api
+local izi = require("common/izi_sdk")
+
+local state = require("state")
+
+local pets = {}
+
+local ACT_GAP = 1.5
+
+-- ----------------------------------------------------------------------------
+-- PET HANDLER
+-- ----------------------------------------------------------------------------
+-- common/utility/pet_handler drives the pet through a state enum - PASSIVE,
+-- DEFENSIVE, ASSIST - rather than one-shot key presses, and ASSIST is the
+-- interesting one: the pet follows whatever the player is attacking on its
+-- own, so a grinding bot that changes target every few seconds stops having
+-- to re-issue an attack command (and stops resetting the pet's swing timer
+-- every time it does).
+--
+-- IT MAY NOT BE THERE
+--   The reflected API dump for this TBC build enumerates twelve
+--   common/utility modules and pet_handler is not among them, while
+--   core.input.set_pet_passive / set_pet_defensive / set_pet_assist /
+--   pet_attack all are. So the handler is resolved optionally and every
+--   call falls back to core.input, which is what this file used before and
+--   is confirmed to exist. Nothing here depends on the handler being
+--   present.
+--
+-- DELAYED COMMANDS NEED on_render
+--   set_pet_state and move_pet_to_position take a delay, and a delayed
+--   command only fires if pet_handler:on_render() is pumped every frame.
+--   pets.on_render does that, and main.lua calls it from its update
+--   callback. Nothing here passes a delay today, but a delay that silently
+--   never fires is a nasty thing to leave for whoever adds one.
+local handler = nil
+local handler_tried = false
+
+local function pet_handler()
+    if handler_tried then
+        return handler
+    end
+    handler_tried = true
+    local ok, mod = pcall(require, "common/utility/pet_handler")
+    if ok and type(mod) == "table" and type(mod.set_pet_state) == "function" then
+        handler = mod
+    else
+        handler = nil
+    end
+    return handler
+end
+
+--- One of the handler's state constants, or nil when it cannot be reached.
+local function pet_state(name)
+    local h = pet_handler()
+    if not h or type(h.pet_state) ~= "table" then
+        return nil
+    end
+    local v = h.pet_state[name]
+    if type(v) == "number" then
+        return v
+    end
+    return nil
+end
+
+-- HUNTER GATE (2.223.0)
+--   A Hunter uses the pet handler only at level 10 or higher and only with a
+--   live pet out; at level 9 or lower (no pet yet) the handler is ignored -
+--   not resolved, not pumped. Other classes (the Warlock) use it as before.
+--   The answer is cached GATE_TTL s, since on_render asks every frame.
+local GATE_TTL = 1.0
+local HUNTER_PET_LEVEL = 10
+local gate = { t = -1e9, ok = false }
+
+local function hunter_class_id()
+    local ok, enums = pcall(require, "common/enums")
+    if ok and type(enums) == "table" and type(enums.class_id) == "table" then
+        return enums.class_id.HUNTER
+    end
+    return nil
+end
+
+--- May `player` (default: the local player) drive the pet handler now?
+function pets.handler_allowed(player)
+    local now = izi.now()
+    if (now - gate.t) < GATE_TTL then return gate.ok end
+    gate.t = now
+    if not player then
+        local okm, me = pcall(izi.me)
+        player = okm and me or nil
+    end
+    local allowed = false
+    if player then
+        local okc, cid = pcall(function() return player:get_class() end)
+        local hunter = hunter_class_id()
+        if okc and hunter ~= nil and cid == hunter then
+            local okl, lvl = pcall(function() return player:get_level() end)
+            allowed = okl and type(lvl) == "number" and lvl >= HUNTER_PET_LEVEL
+                and pets.alive(player) == true
+        else
+            allowed = true
+        end
+        -- Resolved only once allowed: a level 1-9 Hunter never loads it.
+        if allowed then allowed = pet_handler() ~= nil end
+    end
+    gate.ok = allowed
+    return allowed
+end
+
+--- The handler when this player may use it, else nil.
+local function handler_for(player)
+    if not pets.handler_allowed(player) then return nil end
+    return pet_handler()
+end
+
+--- Set the pet state through the handler: "PASSIVE", "DEFENSIVE" or
+--- "ASSIST", optionally after `delay` s (needs pets.on_render pumped).
+--- Returns false when the handler is absent or not allowed, so the caller
+--- falls through to core.input rather than assuming it worked.
+function pets.set_state(player, name, delay)
+    local h = handler_for(player)
+    local v = pet_state(name)
+    if not h or v == nil then
+        return false
+    end
+    local ok = pcall(function()
+        if type(delay) == "number" and delay > 0 then
+            h:set_pet_state(v, delay)
+        else
+            h:set_pet_state(v)
+        end
+    end)
+    return ok
+end
+
+--- Send the pet to a world position (optionally after `delay` s, staying
+--- `duration` s). Position is copied into a fresh vec3. False when the
+--- handler is absent, not allowed, or the position is bad.
+function pets.move_to(player, pos, delay, duration)
+    local h = handler_for(player)
+    if not h or type(h.move_pet_to_position) ~= "function" or type(pos) ~= "table" and type(pos) ~= "userdata" then
+        return false
+    end
+    local okp, x, y, z = pcall(function() return pos.x, pos.y, pos.z end)
+    if not okp or type(x) ~= "number" or type(y) ~= "number" or type(z) ~= "number" then
+        return false
+    end
+    local okv, vec3 = pcall(require, "common/geometry/vector_3")
+    if not okv or type(vec3) ~= "table" then return false end
+    local v = vec3.new(x, y, z)
+    local d = (type(delay) == "number" and delay > 0) and delay or 0
+    local ok = pcall(function()
+        if type(duration) == "number" and duration > 0 then
+            h:move_pet_to_position(v, d, duration)
+        else
+            h:move_pet_to_position(v, d)
+        end
+    end)
+    return ok
+end
+
+local function set_state(player, name)
+    return pets.set_state(player, name)
+end
+
+--- Pump the handler's delayed-command queue. Called once per frame from
+--- main.lua's update callback; a no-op when there is no handler, or for a
+--- Hunter below level 10 / without a live pet.
+function pets.on_render()
+    local h = handler_for(nil)
+    if h and type(h.on_render) == "function" then
+        pcall(function()
+            h:on_render()
+        end)
+    end
+end
+
+--- Whether the richer pet control is actually available on this build.
+function pets.has_handler()
+    return pet_handler() ~= nil
+end
+
+local function safe(fn)
+    local ok, r = pcall(fn)
+    if ok then return r end
+    return nil
+end
+
+-- ----------------------------------------------------------------------------
+-- STATE
+-- ----------------------------------------------------------------------------
+--- The live pet object, or nil. A dead pet still returns an object, so callers
+--- that need "usable pet" must also check `pets.alive`.
+function pets.get(player)
+    if not player then
+        return nil
+    end
+    local pet = safe(function() return player:get_pet() end)
+    if pet and safe(function() return pet:is_valid() end) == true then
+        return pet
+    end
+    return nil
+end
+
+function pets.alive(player)
+    local pet = pets.get(player)
+    if not pet then
+        return false
+    end
+    if safe(function() return pet:is_dead_or_ghost() end) == true then
+        return false
+    end
+    if safe(function() return pet:is_dead() end) == true then
+        return false
+    end
+    return true
+end
+
+function pets.exists(player)
+    return pets.get(player) ~= nil
+end
+
+function pets.health_pct(player)
+    local pet = pets.get(player)
+    if not pet then
+        return nil
+    end
+    -- 2.306.0 (audit IZI-2): exact first, then get_health_percentage as is
+    -- (1..100); the old x100 rescale read a pet at 1% as 100% (no Mend Pet)
+    local cur = safe(function() return pet:get_health() end)
+    local mx = safe(function() return pet:get_max_health() end)
+    if type(cur) == "number" and type(mx) == "number" and mx > 0 then
+        return (cur / mx) * 100
+    end
+    local pct = safe(function() return pet:get_health_percentage() end)
+    if type(pct) == "number" and pct == pct then
+        return pct
+    end
+    return nil
+end
+
+--- Hunter pet happiness, 1 unhappy .. 3 content. nil for classes without it.
+function pets.happiness()
+    -- WoW Forever (2.123.0): the core returns a placeholder table there
+    -- (happiness 0, damage 100%, loyalty 0), not the pet's real state.
+    local ok_g, gamever = pcall(require, "gamever")
+    if ok_g and type(gamever) == "table" and gamever.is_forever() then
+        return nil
+    end
+    local h = safe(function() return core.spell_book.get_pet_happiness() end)
+    if type(h) == "number" then
+        return h
+    end
+    if type(h) == "table" and type(h.happiness) == "number" then
+        return h.happiness
+    end
+    return nil
+end
+
+-- ----------------------------------------------------------------------------
+-- CONTROL
+-- ----------------------------------------------------------------------------
+local last_stance = 0
+local last_attack = -1e9
+
+--- Park the pet. Out of combat an aggressive pet pulls packs the bot never
+--- chose to fight, which is the single biggest source of unattended deaths.
+-- PET MODE (2.225.0): what the pet was last told - "passive" or "assist".
+local pet_mode = nil
+local ATTACK_HOLD = 6.0      -- no recall this soon after sending the pet in
+
+local function pet_fighting(player)
+    local pet = pets.get(player)
+    return pet ~= nil and safe(function() return pet:is_in_combat() end) == true
+end
+
+function pets.passive(player)
+    if not pets.alive(player) then
+        return false
+    end
+    local now = izi.now()
+    if (now - last_stance) < ACT_GAP then
+        return false
+    end
+    -- Not during a pull (2.225.0): the hunter sends the pet in before its own
+    -- first shot puts it in combat, and the out-of-combat upkeep then called
+    -- the pet straight back. Nor while the pet is still fighting.
+    if (now - last_attack) < ATTACK_HOLD or pet_fighting(player) then
+        return false
+    end
+    last_stance = now
+    pet_mode = "passive"
+    if not set_state(player, "PASSIVE") then
+        pcall(function() core.input.set_pet_passive() end)
+    end
+    -- Follow is not part of the handler's state enum, and parking the pet
+    -- means bringing it back as well as telling it to stop.
+    pcall(function() core.input.set_pet_follow() end)
+    return true
+end
+
+--- Send the pet at the current target.
+function pets.attack(player, target)
+    if not target or not pets.alive(player) then
+        return false
+    end
+    local now = izi.now()
+    if (now - last_attack) < ACT_GAP then
+        return false
+    end
+
+    -- Only re-issue when the pet is not already attacking this target:
+    -- pet_attack resets its swing timer, so spamming it lowers pet damage.
+    -- ATTACKING, NOT TARGETING (2.225.0): a pet parked passive keeps its old
+    -- target, so "same target" alone skipped the command and the pet stood
+    -- by while the hunter fought. Skip only when it was sent in (assist) and
+    -- is in combat on this target.
+    local pet = pets.get(player)
+    local pet_target = safe(function() return pet:get_target() end)
+    if pet_target and pet_mode == "assist" and pet_fighting(player) then
+        local a = safe(function() return pet_target:get_guid() end)
+        local b = safe(function() return target:get_guid() end)
+        if a ~= nil and a == b then
+            return false
+        end
+    end
+
+    last_attack = now
+    pet_mode = "assist"
+
+    -- ASSIST means the pet tracks the player's target by itself, which is
+    -- what a grinding bot wants: the target changes constantly and every
+    -- re-issued attack command resets the pet's swing timer.
+    if not set_state(player, "ASSIST") then
+        pcall(function() core.input.set_pet_assist() end)
+        pcall(function() core.input.set_pet_defensive() end)
+    end
+
+    -- Still sent explicitly. ASSIST decides what the pet picks up next; this
+    -- is what puts it on THIS target now rather than at its own pace.
+    --
+    -- core.input.pet_attack(target) takes the target. It was being called
+    -- with no argument, inside a pcall, so the pet was never actually sent
+    -- in and nothing said so - it only fought what hit it first.
+    pcall(function() core.input.pet_attack(target) end)
+    return true
+end
+
+-- ----------------------------------------------------------------------------
+-- MAINTENANCE
+-- ----------------------------------------------------------------------------
+--- Out-of-combat pet upkeep shared by both classes.
+---
+--- `spec` supplies the class's spells and rules:
+---   summon        spell   cast when there is no pet
+---   revive        spell   cast when the pet is dead        (Hunter)
+---   heal          spell   cast below heal_pct              (Mend Pet / Health Funnel)
+---   heal_ids      table   buff ids proving the heal is already ticking
+---   heal_pct      number  threshold, default 50
+---   can_summon    fun()   extra gate, e.g. Warlock soul shard check
+---   learned       fun(sp) spell-known test from the calling rotation
+---   cast_self     fun(sp,label) cast helper from the calling rotation
+---   min_level     number  do not try below this (Hunter pets start at 10)
+---
+--- Returns true when it acted, so the rotation can hold the cascade.
+function pets.maintain(player, spec)
+    if not player or type(spec) ~= "table" then
+        return false
+    end
+    local learned = spec.learned
+    local cast_self = spec.cast_self
+    if type(learned) ~= "function" or type(cast_self) ~= "function" then
+        return false
+    end
+
+    if type(spec.min_level) == "number" then
+        local lvl = safe(function() return player:get_level() end)
+        if type(lvl) == "number" and lvl < spec.min_level then
+            return false
+        end
+    end
+
+    local exists = pets.exists(player)
+    local alive = pets.alive(player)
+
+    -- 1. dead pet -> revive (Hunter). A Warlock has no revive; it re-summons.
+    if exists and not alive then
+        if spec.revive and learned(spec.revive) then
+            state.set_note("Pet", "Reviving pet")
+            return cast_self(spec.revive, player, "Revive Pet")
+        end
+    end
+
+    -- 2. no pet at all -> summon
+    if not exists or not alive then
+        if spec.summon and learned(spec.summon) then
+            if type(spec.can_summon) == "function" and spec.can_summon() ~= true then
+                return false
+            end
+            state.set_note("Pet", "Summoning pet")
+            return cast_self(spec.summon, player, spec.summon_label or "Summon Pet")
+        end
+        return false
+    end
+
+    -- 3. wounded pet -> heal, but only if the heal is not already running.
+    --    Re-casting a channelled pet heal clips it for no gain.
+    if spec.heal and learned(spec.heal) then
+        local pct = pets.health_pct(player)
+        local threshold = spec.heal_pct or 50
+        if type(pct) == "number" and pct < threshold then
+            local pet = pets.get(player)
+            local ticking = false
+            if spec.heal_ids and pet then
+                ticking = safe(function() return pet:has_buff(spec.heal_ids) end) == true
+            end
+            if not ticking then
+                state.set_note("Pet", "Healing pet")
+                return cast_self(spec.heal, player, spec.heal_label or "Mend Pet")
+            end
+        end
+    end
+
+    return false
+end
+
+-- ----------------------------------------------------------------------------
+-- HUNTER: CALL PET / REVIVE PET (2.222.0)
+-- ----------------------------------------------------------------------------
+-- Hard-coded ids: Call Pet 883, Revive Pet 982. A dismissed pet and a dead
+-- one can look the same from here - player:get_pet() answers nil for both
+-- once the corpse is gone - and Call Pet on a dead pet fails ("Your pet is
+-- dead"), which used to set the 15 s fail gap and never revived it. So:
+--   * a pet object that is dead           -> Revive Pet
+--   * no pet, and it was last seen dying  -> Revive Pet first
+--   * no pet otherwise (dismissed)        -> Call Pet first
+-- When the first spell has not brought a pet up within its wait, the other
+-- one is cast. Both tried and still no pet (none tamed, stabled) -> wait
+-- NO_PET_HOLD s before trying again.
+pets.CALL_PET_ID = 883
+pets.REVIVE_PET_ID = 982
+
+local CALL_WAIT = 3.0        -- Call Pet is instant: a pet within this, or it failed
+local REVIVE_WAIT = 13.0     -- Revive Pet casts 10 s
+local NO_PET_HOLD = 60.0
+local DYING_PCT = 25         -- a pet last seen this low that vanishes is taken as dead
+
+local hp = { order = nil, step = 0, t = 0, hold = 0, last_pct = nil, last_t = -1e9, died = false }
+
+local function hunter_knows(id)
+    if safe(function() return core.spell_book.is_spell_learned(id) end) == true then return true end
+    return safe(function() return core.spell_book.has_spell(id) end) == true
+end
+
+--- Hunter pet presence. `spec`:
+---   call, revive  spell entries for the caller's cast (ids 883 / 982)
+---   cast          fun(entry):boolean
+--- Returns true when it cast or is waiting on its own cast (hold the
+--- cascade), false when there is nothing to do or it cannot act, and nil when
+--- the pet is up and alive (the caller goes on to the heal).
+function pets.hunter_pet(player, spec)
+    if not player or type(spec) ~= "table" or type(spec.cast) ~= "function" then return false end
+    local now = izi.now()
+    local pet = pets.get(player)
+    if pet and pets.alive(player) then
+        hp.order, hp.step, hp.died, hp.hold = nil, 0, false, 0
+        hp.last_pct, hp.last_t = pets.health_pct(player), now
+        return nil
+    end
+    if pet then hp.died = true end                      -- a dead pet object
+    if not pet and hp.order == nil and hp.last_pct and (now - hp.last_t) < 30
+        and hp.last_pct <= DYING_PCT then
+        hp.died = true                                  -- vanished while dying
+    end
+    if now < hp.hold then return false end
+    if safe(function() return player:is_channeling_or_casting() end) == true then
+        return hp.order ~= nil                           -- Revive Pet still casting
+    end
+    local knows_call = hunter_knows(pets.CALL_PET_ID)
+    local knows_revive = hunter_knows(pets.REVIVE_PET_ID)
+    if not knows_call and not knows_revive then return false end
+
+    if hp.order == nil then
+        if hp.died or pet then
+            hp.order = { "revive", "call" }
+        else
+            hp.order = { "call", "revive" }
+        end
+        hp.step, hp.t = 0, -1e9
+    end
+    -- The current step gets its wait before the next one is tried.
+    if hp.step > 0 then
+        local wait = (hp.order[hp.step] == "revive") and REVIVE_WAIT or CALL_WAIT
+        if (now - hp.t) < wait then return true end
+    end
+    -- Skip what cannot work: an unknown spell, or Call Pet with a dead pet object.
+    local nxt = hp.step + 1
+    while hp.order[nxt] do
+        local k = hp.order[nxt]
+        if (k == "call" and knows_call and not pet) or (k == "revive" and knows_revive) then break end
+        nxt = nxt + 1
+    end
+    local which = hp.order[nxt]
+    if not which then
+        hp.order, hp.step, hp.hold = nil, 0, now + NO_PET_HOLD
+        state.set_note("Pet", "No pet answered Call Pet / Revive Pet")
+        return false
+    end
+    hp.step, hp.t = nxt, now
+    state.set_note("Pet", which == "revive" and "Reviving pet" or "Calling pet")
+    if not spec.cast(which == "revive" and spec.revive or spec.call) then
+        -- Refused here (not usable: Call Pet with the pet dead, say): the
+        -- next spell after 1 s rather than the full wait.
+        local wait = (which == "revive") and REVIVE_WAIT or CALL_WAIT
+        hp.t = now - wait + 1.0
+    end
+    return true
+end
+
+return pets

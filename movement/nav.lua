@@ -1,1 +1,2774 @@
-return(function(...)local Ey={"0Eb&5";"vksUz";"vWT==";"vvopnGdH8","06K8*";"vC+o/v6aZ","0N/,bq:d","0&ei$lkSMXI.]N`GU5O#)CeR<i&O\'.(\'X^=9=12hZpD","03_0bkO%B","0a\\0r&l@g?F","vgMC56Ap=";"vnB+NnLnD3zaRMYauIkL=";"vRWH66O==";"0f5";"0qIH\'bTDK";"vqgiWWCiI","vRHOMEPJxdf10","0J#r!+[Cm";"01*Un";"0\\IQIGAP79[Z5r","0H+iF:";"vSmW=","vtODsoPI2/cR=","0kt:\'bBL?";"01rC7t@1","01[r:Hk!d","0T%?jgll","0F>63=$R,";"0S:\';mPj/o","0<dC@uWB2,A5nd6","vs/nQCANVtCOhaIlWBRDh/iQj1O==";"vOHb0","vmL==","0;pf/c/Y","0u&7i<<%";"0<tdb:$,","v0T==","vL9mdgTBJntu+aO==";"02QB","vF3VaTiY=";"vkr/IxT==";"0-#giD;%";"vTxwpe62T";"vBT==";"vBs2BFY==","vcL==","04dBXqIHP","vSxYr","vzbM5DT==","0q-";"0T.8!q;lD","v+TR2","03D+f3";"0gob+=";"03`^*\'L!","vZjgO4YQPkT==","v4T==";"vBL==";"vXNqbkIT=";"v6+U3UVJ=";"0kbLK";"0pq%";"0Hc2[","0]\"m","vPinuN4nloomcLTwR5T==","v+L==","0i>.T$aT#@)MFJ)5";"0aba:TLTs?M:$=\"u3[","vqrltCZ5o";"v5TzQ9T==","04j4p\'J@";"v9ThtuUJ=";"vh+J=","vkenEAz4Y","vMnVL5IdrKy5mJUmV9SZO2uerHIJC8cxNqO==","vYwXtKdbd","0%9Y\',!\"","0[I+o";"0jt[5sLZ";"v4Y==","0O@cTO","0uSO@LuR;";"0d=7U@TCt","0DgSKY7Y";"vPO==";"vkO6VfwbL","0M>QI","0j^D_bA$","0F#B[";"0L@R,","vVT==","v9bW=";"v6lMuVXZ2FY==";"vr/q=","0O@EOlqQ%=$)?>O5i]","vCi+ApOwiQcdrmA+o/ZzkqGZiQOZUumz5","v8scZ";"vPeq=";"0-;","0.MUX","vejvk";"vnr3NCHiu";"0;NHFh6=D","0:ermq","vdQff","0<Fk#+","0H1]4<M:r[Co&Fb*n[","0k_7..@\\FF","vrvZ4juyVr+lDP9O=";"vCV0tSIq=";"vUjMm/O==","0(n1;2";"vcuxZ","0Oq\"HpKYc)OVU@:9Q/tuTZm!D]hb-","v3Eo+","0]k@(\'$mUi";"vbb2k";"0dj56iJEN:-fUGu";"vnDB+";"vbMPnUOq=";"0Ea\'Oo#puHd5p";"0n:K,","v8lF8","0a!YHV]!&","v","vB9rVZeJYET==","0U\"";"vBqp9ONQPr9MzD5p/JyMaEYkJwO==","0GEa\\G\\)4";"0>lMD";"v4qfM","0Vu+%O";"0=X8iHVXMU4aoon","vAfc2TqpqJ4k=","v+99z0uG=";"vkGFW3L==","0l,G]+=Y","vdicfurG7p03wlU+Fz36U28T6iK67VLTWcl5lYaFV2A5rZFYSgJMk99XhDbSlTMVXTtHp2nE77rKlft9ceFTwuL4CwIwUXXKi9L==";"vafw2JlU6W9wB1O==";"vzk7w9bJghrtd+wsxtO2lDYopTBgdDl/4UbBhGOugInUF6+96kTkNMoSFudKqBCYYkKqqNaK50gCbCLFl9xqtdXDm";"vWwVaNITJ";"06)\"*JA6&","veI9YoMp=","vRerj";"0i?ppV!\"";"0K\"K+8V&d*";"vwpF3u1NgsT==";"0/>dI";"02D!Ztr=eG7?^N%5";"vmEAzaeW=","07N";"vnNTSWsO=";"v9rYq";"vhkflu1O=","0n;EO;No(";"0@H<D#\'\"","vTrDfkFG=","vM9j5rlyU4520b4K1ioF6F03uTO==";"v5Uw1";"0I\'";"0G$sE%,#[","0Z1","0*8XSNOiT";"0(5","0*U";"0BZ";"v14Ohrs3t","vXwQsIUGB";"vWJnJgoNxAsl/40D3K/GqzYO=";"v+xccEbdt7DOf+WV8/iU=","0%ZI";"vdY==";"vuT==";"vmai9GT==","0[17=!";"vN9UbUn/b","vfb22","0N$","vmnwuBL==";"vaGX9jL==";"0B!]sHCB9","0tpA\"JJM@";"0\'+_*4s_Mk;]*kF6:PP";"0n+<]`NU","v0QSmlL==","v2L==";"vGRNV","vm0Kschfu";"v6Jf8heJ/HL==","0%p","01Is7\"u)";"0?!ild";"vISXg";"0>T\".","0t+(FE";"vxztTaT==","0c(";"0W_\'_1Z=\'","0]uWT[<XPqnuJ6(";"0q&8#";"vmZX=";"vHO==";"vBpALYsk=","vokyq","0\"Y8I","vrQaZbWq=","06L","0L6Q8p]A<Ch-JBt+e/,dCb(u+N5oe%H>[","0t;";"vvYjkFaYbIY==","voQF/SCrh93gHLIWp";"vfT==","vsRDsZ6M=","03!\\l;:2C444(","0r/_^42[)";"0:`#.pc]","0Q[;jtM)";"00RMg4.pX","vl6RTFo46DAPqET==","v1O==","vRDO8X+vO";"0gmKDnU,","v0i62c3J=";"vdXPclT==","vb0ccH5k=","vFL==","0THb)g(R!Gr";"0i2O)r";"06&G0_fJ:X";"0j%maFpZ","0f5^K:mGF","0*99#)J@","0iN5foGn>WhA-AXrgR";"vxcSbIGXvRY7ppZG=","03[","v3PYl8Y==";"vRWZshT==","0Ho[2J?rFP*?EP>","vR+zGk6+I","vXaRpZ6mLHXrJUke=","0hY3>[";"v7TgI";"0Mt)u^5p";"vWcf5gbb9AO==","05p";"vIL==";"vw2Utae16","vOh0JfHf9+Y==";"vWa+Vi9ZQ";"0EFk1k<K3Sd\'%\\60o;\\","04^^/","0;l";"0*jm";"0eF1VrJ\'";"0m3(GduG$78$Y`";"0l-/G^F3R8Hj<04LoN764","vLvR1","0JT(?","vo46MghrK7xC1XXaJ9qUtALlKbtkCWwMI0RJpcA9o3L==";"vPKzV+oz7der8UH1oesTdg7DW/qO=","vwIdqmL==";"vH1SclNT=";"0KPa>>LVT5fFt","vBJOZ+8TpxT==";"vxdeL","vw/W=","0dKMT";"vOP4l8p99GVhwcxRjgZimXa3ic7H3p9MEMsBXmM9S2McaeACPlB+LW9duiBdmXRXIew67JdI3BR3AferMRY==","06Z<1m*$";"0t.","vnI4SEfYAnJjmJc2WDZ6v";"0HikIg","0s_&i@,BZ^%//;E";"vGzpK";"0-;htK";"0#(","04;a.e";"vXxCPm5c4";"v9Y==","vzVG=";"vGHSOCI+VmiQVIvHu";"vhtmO";"0-B0Wqo]";"vjyHiVQgM","0WR","0&tq3";"0*d";"vBalPFxX=";"0GI#t","0K;RIeZlZ-","0WZ1TR","0GP/";"vCsKOSPD+";"vek6kFY==";"0/N","vDL==","0LZ","085Z.Sc&.lIg6TgL,%";"vkSp=";"vAJK/kcN7q2ugQthXqL==","0\'l-q^r$","vaHcxY0J=";"vtK0MST==";"0Z7\\aP?6Dhc","0B.:","viWWcfkYzz4v4eFT=";"0dXjdIT:\"q*/6iPTY3/aqYEh>j%2[uNTO8<@3s_1oCW3A!:I<","vOuu8","0Hka,","0;<RZ";"0bd";"05p>o";"0hNUWR2gu\\","vTuH2EY==","0.irI+93ua?=a`.k#Uc[?drP","0CkN:","0)Rja+-F`","v3FMSyI5MJ5ajML==";"0SSM.";"vgFO=";"vV3pw";"vkEqdGRO=","01QsuI8o5&";"vXZYsgnX=","0q!hn2IR";"0CLBD;rj\"\\DR]l51Ad";"0iDt1d","0L>J&";"0G[R)*J3/YT","0\'X6s0!\"","vwNnixxNJnL==","vy/vNlfPj9L==";"0L_";"082pcVI&S";"0tCfnkK/&pAWDi4","09T=O)po7jk)&Od";"0&,";"vAT==","vtkj0ZNT=";"0pDlW7;q?";"vksXL";"vLY==";"0O@&h@\'\"","0pZ";"0c)","0nGI3rc@7";"vl3+8L6SqKFwbw1nH","vITgt9TW=","0OHr","vgT==","0N*Y9DF(";"055/j>Z$IZELVnAPjG";"vsVagWhyqQT==","0d_DsUrfYVk\"DZ@:W\'","vhw9lmvbucx/lUQv/0WY=";"06&tc","v/q16FudYNL==";"0>K7tZa4/B";"vZWnDGgSqV3orbTJp","vNY==";"0.WG`bt5Bj4l\'fi60]Z","0M9EBcO@.+sk\"Ud","0KNlR()U","0mBCr9R\"";"0i8$bX","vQbF5XkE9xO==";"0H9?70","0@+`?V*`!-b","v/6EAuTDrOY==";"0=F!2";"vdMH2GYs+0usSYsQJ53yf";"0#gu4r&5&","0Ij<3(9K0<eUdh";"vJljU/Y==","0PQdWgchZcg/&Kg";"vdNmybO==","0Dm[Wr)@X]";"0n*s#";"vmiBu";"063I","0*\\-_uOAq.t,CC7W<O*Zj";"vqBdf";"0a-";"0Su&*9","vTYScGu91q25jQfOt";"00(P^";"0\\.=LbdR";"vDrU=","0jn2@t9g]#W-QQtBR-\"\\4";"vG7UjkoR=";"vwT==";"05F_NhU[V(","vXmeU58VA8wHnuFcA";"vfZnPDnuf";"vWxw34lzvuMuWnIP1","vccj1SEKyNCdfhrF54W6KPkhT0OOLxTPIwCUaM+27cZjOfjNw";"vJ2Tt","02)dl?u=u(","v53HuWpTdSoRZEyL=";"vU7bfcnAe";"0-]%I9@1","0j_EL=kC+?B*^lhogmn8t";"v0JvDAqe=";"0=*Var,S;]1TZ2t!m0]Qs*K`gmb_iXu\\XeZ.]D;Z.ZP5.TdH64\'#(>s0R3\\Q<C#<`2";"0ulLUnl%","0OZ7\'GF]";"vYZEsGClo";"vjZodN/vUZY==";"vMu2wGizU";"0-]oS*";"0O8?Q1@!b";"02AThs=f","vuL9d6SNSNL==";"vTGZOmmkb";"0AThIrH!udV","vEH+M","vJ/fWt1nc";"vBrCx21e=";"vDsG=","vnI0nMxq=","v21X+gBphGT==";"0+mgR","vgLpzmKng";"v+sErmBkV";"0MP76Ugjc","vUHwcsP9MyBiyR9AoGL==","v2bn88IJ=","v22Qy1M5k5GJ=";"vO6Re";"0GeQ0lqr";"0#`V6","vqcygy9DYTKq=";"06ai)Pj,-T=n]\'","0k6\'HDO-R$>6_ErnPghQRLr).0IP\'!3+/ON/ol:17F$[o]YfT","vj4F+";"v6AcLQyp=";"vmY6HhhG=";"0rM`-Afd<]ZBDr:JfZ&D_";"v11boeOU=","03RM-@Ch","0E3IlC8[";"vMxmtXO==";"0rnu[","vrDFKPgKYJlO=";"0&O+E4V!k)XhqEoZD$[-oI<Z9S0Y@ZiD\'$/bsda5p8:gsT@gWL7=7%Scq!39%!2X*\"VsOfr.gL$%ZORc%BXGU@";"vuL==";"vTUe=","vflLm";"vgUnM5XY=";"02(S5>a$ZP=As@d";"vcMzynNfo","vrh8vO9WB0VPitYkabMdJ/Y==","vkivg/OUm9ty/M2ugEO==","0TLR0\'a5^9LS3>jV?\\sZR]9#]:G\\>.Pn)H","0];";"vjdZQmYk=","0l%","0gn\'VJ2Z","0=bFd*";"v1s/BTT==","0%D^ERHEc","vqnbsM9vu/jlGQAJM";"0W^EJ","0-(n,#!9";"0gV]m=";"0.#rI;\"64R5p*2p.";"v/UP5VjSZBhY=";"vc2/mTHM1XDJ3L3J=";"0I.Ti\"","0u&MCP&QNaU4os3n(PmoLElR3)Vc#HJb<<";"v07YYKxU=","0](N^m6A^";"v+I+4gDxy";"v/buKwNk=","0Dlp+fq5OQ_Jd/lF;KI[%MG+/J?.>b";"v38xuWO==";"vyz6qQj0uM3Oe1frhWl+u0r2NHovFNKr5cT1KPkTi3hffI2HB99Y0/pn1Ew/4WKS1Eia4KKv05lU=";"vphya1oITsK/QDqlVfY==";"0hfB@tk1&URr?2GuW-h]r1`$\\<R6@h\\075cGlF%,Rs-p_\"IOK\\-:<A_+akX0=!dnkUZ_%g\'","06M4m#";"0/&u&=W\'T58Cqqr\'bm";"vEdMgiPwZ","vShY0I5mJ";"vHWBvuCX=","0`0KJ]H0J5";"vflJf7O==","vOVsT","0d&\'YgUN\"";"vfbY=","0:C=:=)W82`";"0:BHs","vymFGTKrJ0en4acced8df7QWr20ILBRrnNC0SNdUjGOKKfWiC5ASswgq9Xmd6ZYMAVJH5Qp6lXF9bTD3AmEBkAf2j+vtxDCac7DtCt6yO","vRNX=";"0PAd9g`0XSOfEp","0tR;<\\","vcxbLfjnLnpL=","vvIukwPZe";"0Rj3N","0jr";"vOK4In5vXNFMAMO==";"04$O?/L7b_)j<d(&/N","0u$]$\\-.","v8T==","04YN`=pZ";"vXY==","v61GZzKmahjenHSVj+uNSL/uepk4HiWMJ2zPwaBY8IqD405ZMAqOztcm4RFL=","v5Vmw";"0-5";"0jbt_n<Fg:u","vFxe=";"04CW$2\'$o*4";"vXHJ=";"vcowX","vc9/iVmG=";"0ls=!?Cf";"vaAHIO2X=","0PP";"vaL==","0FZOTs","0<<AgI)$";"vm/pn7SU=";"vAO==";"vLF1tkyuG";"vW9Lk";"0a+>Q";"vyBOHCO==";"vGn12","v4hg7lO==","v1SY+","vJeY=","0kjBNb7BZK\"i0bfRMRA`\"N(S?cO4S@>YR]p&+i2<kOLOYHuBl#2F/ffo`*(X0`7,hcbibuU<o^t1OL/IAES.g]78iT+%Z*L","0Zu<pb-Y!","0Q$:";"0$Bs)gU,";"0RLWq;I#LCAdWP,0[m#","04Z=$";"05%","018E$UK[","v6WXS","0-\\2t)gKE1","07K4O#J+t";"vwhxEo4tGPgNqHxL=","08;N6#T2b0fqUnC;$eK";"0C>ge","v33+rMYbYWntCLzL=","vFT==";"vJQ9AzT==";"0Sp;","0h09O","0R$h";"0<+Z%2","veO==";"vY9q=";"0j\'0\"\"aNl","vGLD6","vMVT3ike=";"0+_";"vDT==","vyY==","0RG^BNm@";"04X;HT6j>%";"vTW1IVQJ=";"vDuXzHeR=";"0g<\\dd";"v8cHw","vIT==","03.fB^";"vB9I=";"vqyBn4vK7xoEtDlp=";"vINs5y7jez/Za";"vOlt5WFz0mjYxG4BElnU=";"02%(`nD(iLi";"0W[7HOTj5+Ls1t","vGBgcF0IDM+OCNy5lCO==";"v3L9SAEJ=","0Ne.3*=6)6@2_";"0V9$V_hm7","05iMNtf+";"0IA=L","vtT==";"0VX4,O","0VmuP]&,","0\'@,*,iu>nK","vbY==";"vPL==","0*\\+","0:ZR1*&2hhk","0m-Zk";"vH0p=";"0Yi-DqlnF","0U83+VQh";"v0U+1","0N,\\SnulC";"0f.","0oUHM@","0tE.5*q+OS=BulUPM\"25`[V,s.";"v1vc5YL==","vWL==";"vAeQXS+m4";"vnK8P","0`>go&DddL";"0CY","vEDc6";"vr7O=";"vqa5C";"vQMvibDV3uT==","0=rrTY";"vxymB9L==","vKRmYjP4j","vVPHBTAW=","vGquOzlaK","0:G+";"vy5jO";"0!4O(g";"vsT==";"vUfT=";"0S1nJD#V\\TfQY";"vJDEUwU9vI7LlFj9L","vhiCbIle=";"0;$ur","0FA:Lfqsu\\","vDdQiIetj";"0m4DHrDXf","0:tW%cAKI";"vYgnMzz6Sg9U=";"vvsW=";"0J(T%N";"0%l<";"02Z","0\\@qb","0D)!&P=h&r&@(k(!T!H5_(Tu";"05;)BXVE:";"vItR2y0q=";"0+j)M\'b9!OGEE?f=";"0qBfQT","0kUrE<.ZW=hP6","vRXRt";"0g`2%*4r>B.","0HN";"0]\\F\\35Mcn)cS)M";"vQ/PtcRSYvrUs5DZtTL==","vvvjKODDU","v0sftN4U=","0\'dQ3=","0m;[6";"0p(-pmVm*\"G","v4Ns2";"0T1M3+/Y","vLib0jL==";"0PWS\"D";"0<E8%Ft5";"0Re%>","0t*Wb2boqnb\\[";"0K5@Y`o(";"0LJW4","0@1","0DWE2R\\\'H";"vpaGq";"vkQ+WlO==","0`s94.<l";"vHBmMQCBwrgdttT==";"0*:]W]L#C2Ek$.";"vF45Tywrhque+8FF9suqiWlsyRO==";"0-=)2mB()","vJMXv1iJ=","vQgmfTt0dhQP8STp=";"vwKbuZL==","0=Z)";"0F]","vhkrzRTXN","vqlld7YRQ+L==","v1G+AE9I=";"0)`Wo*","0el","vcIpNjsBdFYIyxN0/bO==","0s,9:DrBe8rm!^0;U!:Re0/i\\`>tWa\'\\9N:iPL_)\\$No69\\e]N[K)$q=)[[r*GabD\\ic/UgIlUW5/_j94.+W`a9o2!ISnFme4)nj8gE\'Ld-4Q#aa-","0u\'FGI!TpZk?qjk","v6Bqj5mp=";"0>+h[.?2:";"vpL==";"0oQL\'`","0D*Wjn+9F","vyO==";"0nd-Xk";"0k9RIo(RS";"0/:Yl^%4.","0pfV0&&9";"0N$`m^Acin";"03>C","vuO==","vPNCs9L==","0(?o`l","vzXn8bVJ=","0#frsG-#-t","vzzecR7W=";"v0LCBXT==";"0Z=Q(F","vaT==";"0JtFuHLg","vAc84dY==";"0RK.Lg84>";"0\"l-$)","0dtQoRU\"","v0Bq=","0r$";"0!]7ioc/jW","vO/TUMf5maY==","vdZIdiY==","v59vR9pnI";"0)5;\'PH^?5V3V5$q+e4L+.%?cnc7L!hc@Y2@%X-YpY/-8HR?UXl&>d0&\'sIaDDU]55n/$do3<X_e?.tFR+gj4-M;s`i7=TMOkFd+C;_\'oGq6=EM<mK*mr$","0E8@dkIjOd";"vYe3s0OAsTY==","v1bbDk6I=","vzv1c6L==","vXuJ=","vbZhgOA7pp1ek0qjxv6fEpL==","vaZNm9Y==","vWST/KbRn","0jDZ_]A$","vo6W=","0Ji&%s","0n&>F";"0cB?PSA$","00GlML[5","04`NT","vWoPpwTEg";"vaY==";"vLO==";"0(QVp","0QLsWu";"0&<","v9HJ=","0u8%E";"0YU";"vht0cqHY=","vVoL0k0O=","v6s5fvY==","vYJC1o/2f9T==","vq8pO","vbxIeq98dbHFDfa0DDIT=";"0u*O)g*d";"vyhCq","vYAWE2Y==";"v234WMUY/","0+4Gd4Wp\'";"04ed!g.#,AO","0okgj(@F@";"0uldB0k)#s_MN[c^)d";"0.XHA<L!";"0aWUl)W@","0V]","vROqGorsRBIar";"vn81SZo9vz2GWKnCXtY==";"v6O==","vprsLMMKNS6G=","vjDCN1eA63XL=";"0)9>!]8r","v0LJ=","01kZT9\'!U.ReRAbr:=qh,lm(mh7@7\"#d\'";"0HAgI)6RJ(","0)d";"vuwEa9mdANqIqzxdZo8U9oeBzlWXJ0zYcVBhFK6x6D/7CKjEEoZ2LPIxOMjmQozFBff3vSOCrwua/l80y0LW0G7j59q2Xiio/STv7","08O!";"vO+1dgYRrMj3MxkjLuTW=";"0o#3p\\3g::0;ft]MP;[","vmx8yKhiWQ+OESE8ORL==";"v/6ZFtfk=";"0G84`d!NG";"vtKU=";"v6zuU","vas0FjKKv","vyYexuEUO";"v1JS5jKY=";"v0/CyXZz/giCNj2nbvLSc06qUhNPqRrflwjz2JxaWDxzLsQ6aU40s40Hl7vYdAaRORse6AQO9DHnGQuirvp53WT3OqT==";"vvWKbj3jDcT==","v+LU/oqgk0L==";"veQgC";"0[bF9";"vyL==","vD9e=","vBLVw","vdT==";"vOT==";"v/KHA","08`;\'V)*]#","vIE9iLO==","0>!^-Ma[","vD2V4TAwcNO==","v4O==";"v9/3KYL4Nqv7wCnd/KxSFwL==";"vDyn5UL==";"vn6BD","0J2Nlig0X](";"0RIP";"0M(","0/R@-U";"v8O==";"vKXhRwBBPfyL=","0`_","vGO==","vzTiArIe=";"0b/+\";e%";"vXfJNDeBs","vPzx22Re=","vrDMrCAt44GnmZL==";"0L]h\\@t^u";"0geM(6P%";"0eNq1+/X>T#<e/s/0[2`Sms[Hfba(_<r4^LNqcgco<f;_L%#CZV,83ol6T`R3t3UFd<Fr)kg5%IUNd";"vSY==";"vmLcEZUM=","0`n[_JItO:;A+tS!6p";"vTY==","vxck0IY==";"0t^>dkA+s";"00RQZdbDD#","00s?Joq?PA0k7Pq3!BD#2VpYRgVU32OBhD6XZ6DFgdHJ6+arq\\Uh)K6A1.OfF.SKLoO2J+/gGk.]","vb8q6QN3NOxuENL==","0W&2*]KsHJW2IUfW$mt";"vDl2EJcFl4L==";"0#N#n=N9*-";"0=L\\\"TT\'","v6FZ9WsRX","vnZT=";"vBgYp8y3rEL==";"voBRNSK4t","viIgIMfv/cT==","0KR]?S5%","vJojl","0J>7f";"v7jmjY5G=","vxjgx2ko1eEMxc5hX";"vcXMkkhkMo/v/rQR3VO==","030";"0Bu9?=Tq1<+";"0L]+<+`7%W";"vat7W25ObtQHVvLG=","0Lg";"0!c#(X:d";"v2WZs+LC2YgX=";"0o]","vK8RLxyHJuwIx70U=","vmNG=","085.in/N";"vHtXY","0kf%sYZS/D","vbZq7","0T9@>cFgX\\","vLwhlWL==","v7pAx","0O/TkRZ1#","vX/mP","0/0-`Y","06O%<Q";"vh4OBxz19GY==";"0NEm-Y>)cW*k1GDUp7PQ4\"ROr-KKG>1","vnKFfjL0HgT==";"0U,";"0,`0JsL_","vh4ywxT3qG9PxilFue7gPQjex7CplfKNCjgUViSeeh+YPP0yw1TV9yY5SBbokYZxqOJ6VR5+Ee78IMd5/pRJ+BM3231F9M0cp","0#DBkiN$";"0-K?ogI@\"";"0RCI","vBWI4aT==";"0+n]AK";"0<8.c+0@=";"00e2M";"0EY","0L@T-%r,7M>01s;,DjOT84/n^RLg";"0p]?9@05","vGmYvkRir","vMYLMATgnE/vLU1q=","0ltl3(R\"","vA+XfBvrl";"v8vD1jwrTYLeH";"0PJG";"v1/rjvFY=","0it","03>\"+eYU";"vHCufvWzhkO==";"0)aoSotDLkHtXC";"vItW=","vZO==","v9Eve7s1w","0j[";"0bgWjSq;P95","vC7T=";"vouF8YI51";"v9QqHDxR=","0#N);";"vDO==","0Q_`aT73>>DnWb";"0P>oh\'N8[&guW*-e","vEKMEIT==";"0[!A[0Ba%";"0l\'k>";"vU/dyvR/lQT==","vBzen","vwhACRiW=";"v5Kv6","0\"K6","0FOJAG>[";"vIl083dR=","0V=u>";"vGaTAw2Vn";"09`Q?&QY";"vDT/iWDdT","vc/HK/S6ctL==","vjv5Hl3Y=";"0qVIX*e\"9";"0$%87cU,";"0UI\">$>03IG`lqu.!(b,&cI\"8(lr;_\\FbFtkS<)9i96Z$Rg^Kkj$d*m3L/eb9O00o&lrYm)","0,RtO09;Q:t11KHH[+";"vsvJtt6q=","0@e\\(D0.I";"0n.\\05\'\"","0W5*XLYrjG";"v1Rin";"v7QTaCY==";"v7HBThbR=";"vNvCPXLuMVmMU1h843T5/MAJh7W9OvtSMYrhdtTrg2Kuj7vhXIR7/o62ZatW=";"0\\j;\'";"vMtny";"0R9";"0C>uQBp4c&";"0sCj=H-I^";"09=5_BpZ","0<qc";"0R\"";"05@8MeN$<WW<d7:SV[t(:B#mX+Q+Ru[2Z2s367,t)d,MX_+%Z+PUPhN7?5%d&HT>e\\2KA]:4lnT?5e)OQV<[k`i`iIQA235jm@","vrZ3aIY==";"0$h;+\\HN";"00.V<","0D>`okojV00>gc";"0q[";"vazKMpT==";"voUjp+keY7O==","vdoqa";"vHoEQKRM=","v/k1m4BiVbLpluY==","v2j8+","0*lR$Gm@","0p_";"voyW=","0`FKq/P*tZ8p_","voO==";"vxk/Odz5P","vuzNtklT=","vWKeZYYn3678Sk6Ims05b","0msH+I+!";"06mBUA";"0)AHRR";"v8wQe";"0M_\\c";"vBzSH2JR=","vxnL6eyW=";"vem6/";"0<;!","0I@","vZY==";"v1XAh56L8","0Y8Iu3","0((CIP";"vxhqemO==";"0g!`j?n[";"v4dpXOO==";"0nSutc";"v5EnMaT==","0Gq:f+56@","0&9","0-H&-";"v2mfl7TX=";"vQbAKUUU=","vW2bOYSnS7MGxcvP/bU/oUjWeRE1Y/XmJkkpvt1UrHV6G","vIfiFLauq","01<","0nXb?WK[","0;-Q;U];?AjM7k_G";"vbqG=","vxY==";"0\"D","vMW0DST==","vsEaDMLE8rfqoNL==";"02oQ\"";"vsIA7v6fF";"vr9BK/rwvD+zh4+W=","0g1","vD/p=","0O>.4A%XP@";"vTr+RUiXs4L==","0M,E","0ehR4","0mN\\";"0Os1#","vtriFI/3jgpuq","00;","vmGw+FUI=","0`M@7-Zmrn","vP45Y";"vQaW2QL==";"0s_cN13;.","0@\\?a7";"0nHLLis;u";"0?YB$%u3/(","vAzYwgWI=";"0/_Qj";"0IRWP";"vwe7z5DI=","0ZnH<";"0h.";"vtNHVlL==","vV2JRqL==";"0D,","vUce=";"0=Kr>^/Y$^Ai(","0o`+Su","vliKd";"0do\\H\'","vA5L=";"0Ft","0/%C1","0Ci;VZ","0DMn2INKf_";"vOgU03bxj";"v+kM9","vqdCrEppX";"vi/oScme=";"04KtI";"viGXtMhhb","vfOhi5dL0RWUco5yx";"0iRV4LKI\\","vQoR4","0ER&THcY\'","vaqB26IL=","vFdOFoY==";"0N)SdP?Z","0FKg):d\'","0iZ1),/Y","0PL@j","0+2nR","0jlW","0QY","0Am","00\\PVB";"0Ef","vBOW=","0=%Zh\\","0mBHV\"N[=";"0QMM#0L.)","vSVE4AO==","vKq4BXB4X";"0rk%f5","0hYUg","0U!9P)Lg";"0ZkJRF5uA;k1,","vw+EhAY3YVRgC";"0\'\"","v/ypVkWS8","vuL14","vSwEwrL==";"01X[5-E`7p$";"vj+VEQhdL";"0!CP.FIH5","vgpE+xyBV";"vLfeY";"0bu5:f","vYY==";"0B!";"0`Z";"0S6%khflH5,\'\"9uG";"vDUJOrV1gUGDahHL=","vmO==";"v9vW=";"veL==","vUFMDuUaBmih5EvsKd337Uq4jTQ+j5YOGaa6DDOIG+PNFd8EqmI0m503OhoLJHsF/7cvQ+oX=";"vFe5TWH4ROely57pUvDI=";"0i](1R","v132wyO==","0.%2\"Wd7,","vXL==","0MMB>P%bpIn!/t1C","0jX%UX6/Nf!";"vYT==","0V`B;G";"vdrDn","vS85H+L==";"vvBcH","0(AehhSaPCE","0HD?$*dg:";"0\\Ym,HrcB$","vMuC+A462QT==";"vg/p=";"0JG47";"0i*>\"b";"09%","vN37BrL==","vWLq=","0A(NSQKW?($51E>rn[","0FX.Va\\-","vSf2k2tI=","vs0m15HX=","0gdW<5\"SA7";"vAUE8";"0[>IkeAtR+U88ZX%","vH6gs7vI=";"vRGfEdxT=";"0P6","vtPLbB6L=";"0Qh","0Y%!","vyhfyggXZgm2rpT==","0J\'";"0<?RW!K^m";"0\"_","vYm+khLe=","0sZ29q\\t;P<2.Z","vrmacvO==";"vZhNcuuM=","v5mHQsIal";"0Sbl$SB7%KPEStR).0J","v7jO=","0/E]X";"0m7l4IY$";"0=Y","0?<KU4L<1\\Nnd@qSD*[96kO","vRT==","voL==";"vXbV7EWyf","vWGj/ET==","vtBxN4L==";"0tOt)LRhTB","vNT==","vKKGJ","v1HFMtBYe";"0Gd";"06[7>";"v0Y==";"0*keZD","0[.";"0t]\'#","0qN9";"vpn0nmo0P";"07;*2I","008/s>r$","vAEoUJY==","0D-p","vSWqxFFY1","0]HX%YkHe";"0b\'JY[";"v2Wt5";"vsHWzp4e=";"vNte1WPwREL==";"vO5X=";"05&NE&ZJeLE4b\"2";"vGZTMZO==";"vQbVY/ZI=","vj6KZ","0=%Ac6Oj\"GYl\'#aI4cY#u4`P@<RlQKUC@Si\'?)Ru\'39*ZQ>Ci+&p,EEr;i?CV","0&j7K#;,6\\0pXTm.dOpf";"vG/Qj3xyf";"0NV.XL\"a]","0NU";"vTNK5","viD61fL==";"0u]";"0gR","00M#S";"vwwEiBL==";"vGOutI2q=","vS88RuO==","vaO==","03B_6i","05ugT";"vcdPqdwcoQmhi","vqY==";"vIuEAOF23RL==","v2Xn5OT==";"vrcOtt2ps";"0/7R67";"0&c8`<n0n/;","vi63CEY==";"0M`IZ.[k;*";"vwxCHCYwkZL==";"0F]n/f";"vzYHg";"vCyrA7pQTNY==","0],ZR*","vRI3evL==";"v5O==";"vKSHY";"vgO==";"0d2G[s32p";"0i3\"OO`j&";"0ll";"vn1tO";"v/T==","v7r/J";"v3rqwVvS+SGX09xG=";"vPTseWUq=";"vqLRT";"0ubZhWP?-TL","v/Ux0ox/EGY==";"0?T#o1ZPoo_l%";"0#/u/o","0G[X","visbo8T==","0D9","0p!";"095fg<)Slb;NdU";"0MRL=9>-","vwY==","v4L==","0\"@gWhC,e","0PQsD","vMY==","0h`?m";"0YQ/)`2_","0BNBK.TrQWQ";"0D\'@A<?V2oWn#KH15YYB[g.c!E<Z!*qn\\9WX`ZZ/-M7)K2No*Z(aY#dMBbQ>\"o^_K$A`?\"";"vnh0qPjHNASzAL+R=","vVolBRL==","0S;$VHC?>tnWtRhPE#h","0E9+5[tsgD","0SBSN0Hf";"0\"K7Cqu=I";"0U3O85";"0=>IZE","0(.";"08t5(","0K3..KM[\"","vHAsk9lp=";"v5k/O0Q4IDL==","v0O==","viuMJalEU";"vg7RcKG3tVO==","066";"0,:\"C<MTUW&./Lu)g/,+(O1HR^b>GccaU8+RP#IbEgj=SHO0I4CD\'HmO(*t%1aXH;&>+%1NAaR?5.k(;uP0io_u]";"vIHORtQX=","vPBBQ+dYv";"vUz6JndWMbzVYhpguK4pE2qtiBgQs+2vzb1YHB6IpZSwNtfQiiR92";"vjMz4","0B_","vZL==";"vGdMU","0`8\"2k1j])A";"08t?@;c0e58RBn","0*,1","0j1F&1&:5j;:$","veN2VfY==","vH+p0","v+yDACERhkXiDwO==","vEi6AuY==";"0T\'";"vwL==";"0Bi++","0Y$","viO==","0O-\'","0#\">J1rnE!MP<$","0%0a";"vJ3550Kp=";"0hoYUCjH:F(.?Y?Q","vEO==";"vEH0ktG5vp9khcawLkL==","0R\"9W%S,gPD.p8j";"0[5";"vkf46umDJqzVd","vtY==","vU1y85cBOz7RDkT==","vlS/I6J3ZCoaMLZDR";"vpH9VCrM=";"vsL==";"0KV(9k3-";"vmY==";"vdRYW30p=","v5L==","0HAPm";"0Gmb98RgT#","00.";"v5qO=","v7Be/RAk=","v1WZ2";"vfso1sNk=","vAehaYT==";"0[6gG";"vDDtovT==";"veTdh3UY=";"0l5oCQ","vNa88xdL=","0suh7\')U";"vJtiwLlG=";"vmPF5lRk=","vUXiZBrU=";"vqyLTcAaZ4USG","0\\\'HUUf+";"viFKgBzA0","v9NyQ","0Oe";"07!.(\'3.g";"0O5","vOO==";"vZfn9pXo0MffG+oJ=";"vPZNFLYDOYY==","0@X`H","0/IgR\\9r@BG","0DB7L4SD4?";"0i\"K","v+p7JOL==";"0BMo2k#hf9HEH@6r";"vKhM+2MX=";"v1q76qDtj";"vit/G";"0ao<1qs,";"vQ6egoklNdsYBkdz5rLoTNpjZhv2n","vXHc0oFp=","v0JRBkGL=";"vFwAYT1e=","0ZI4h";"0A$X5(;86HK","01@C\\+Ho`a","0L^GO","vcBO0rY9+xbW=","vzy2mqep=","0=D\"H(\\r";"vB+JCvgU=","0Fa3dB8r";"vT1a+0IHQhT==","0j]70sB=\'5s","0+3^I4>1e_/";"0b?((";"0>E\\c","vzEWU";"vfJpFuBin","vgo9pDKT=";"vumzReKL=";"0Eaj4#E0s1V`g";"0*2U6i";"0dE`Nt*d";"0AA@AF%*aaak8T","0#:c:>W\'";"0Gh@b","vbFjrFoiezu75+Y==","0I+IVAIl\'";"vNggyvuX=";"0tG._HCsN","vOw1xUT==";"0QX?f","0q#`";"vcIJQ","v1SyQ";"0O;";"vQkskJZ5iF9S9xLUX","0?-n=","005Jd>`AH\'>;3K&";"010a2Cll";"v3T==";"01-Ip3";"0nr";"vZUHA","07Zd";"vS4nlQoM=";"vieHd";"0p90Z+";"0mR";"029n]";"0uPG!`j`kiCY4Z#ko--QTPc22\"N+=ch<VM/.IT&7uKgTc8$e&/Sl/g%Sab!!=6iYH9hS0[";"vuw3jpzxW7DBV","v8xPNncjWENp=";"vJF9mcO==";"064k\"","0JjR7jGd","0,,%";"v6pTw";"vGkL=";"v/07sgnH4";"0!9","vEDY=";"0=h";"0.3N\'XkbX";"vxsR=","vCYpSV7iWmi3McEG=","vXIiECBlyWY==","0lNo";"vB/FmUrTe9/iZg2QWVRk=";"0+UCP","0&_?d14kns$(OI7S#]";"vRLfNo4Wg";"0\'K.";"08$cr222I`d";"v+T==","vHHX5","0\\Kj9[k6s","0YE\"-DJH/@";"v0idrGHJ=","0hKb`","vUh2uUznxuuU=","vjCoH";"vWiF/kQ5n";"v+CpHjL==";"0P%";"0q1#","0DW2E4B4Q\"uZ[GF\"R\"";"0M]","v+O==";"01\\>^N30";"0f+";"0P3e/6","vxO==","vyxY18iq+","vRPhYCsW1";"voT==","0MLUAeWh]>";"vZt6R","vl6W=","0\"b33FoWe","vkoz3/+BK","0Y\'b";"0;%","03#D]M","vjToGrT==","0l*j","0)URa;f0-WIo(","0drheG\"D";"viMTvElj8BmU=","0f$(Tq","0Vm<</@odXE","vojaRS4p=","v5883","vizBgvxbf4K4zNuYI+xY=","0.CVG3fXMu";"vHL==";"0:F\\%";"vA0SfNiiZ","0-DZetG$";"vSy4psFbEJY==","v0u4+oY==";"0D\"","0Bi#)CFcn","vQO==","vSJV/hZR=";"vXTDG";"0bX9";"vRM7dwGk=";"0#iR]i%*,KN","v3QNOG/wQ3+Yjax8J";"0\\`&r","0GG8H+uqh\"DbJZY(ZIrNVWetW";"0p_Z*2=h";"0*sW?bk\\m","vNP4qWNKW";"0tJZrDE%O";"0fMn8_=nCd[B5o$JHf";"031&goWVN";"0n-";"vPT==","0A+s04";"vnO0WSEI=";"09drAd","v3L==";"vgw7yZ8YN";"vCYH6VL+ikL==","01ks.^9p";"vMJ3/3JHomY==","v1tjlbgHX+O==";"voEksWO==","v1KrB7yBb6wsXhbjj6T==","0SZal";"0g$K";"0bFD";"0,)JXHA$";"vNu8TaL==","vrQ4rjhG=";"vThLNv7BIEztz1ZpZcO==","vbBR=";"0e(a";"0n!ZXZ","0O_@3M1<3","vtA4x";"0#q@:!0;","vBO6u";"vpY==";"velnpH6iD","v1XY9Jjh97L==","v2Y==";"08c/-N\'%WX";"0\\akS+g=;A^";"0gk9Mk;mlgH";"0`nc]\"afXKjn7;_HStO$(E%\\#$1Zd1)$`sD%nVi-T05","vKO==","0Ag?E","0JR","v4PJc/2k4jW8XG2uL+1Lcki8cMivm","vFFJcUO==","0K4ebM","0s\\>s(,Bep4$^`[dk>V_K7QGbZai;dReP)^**H2Tl5An-T;TT>i0ufr,P]KCcFZi$_O],UYDPn9D+\\4V1Zn\'KOJ#s-P0;";"vy8AzgVk=";"019","vB0JIk3xsg8P00AIo3pBtc24VLQldx+UE6vL=";"0CaT","0pbJ`","0..H)m1cP";"0iig+56Sg`","0ar","0F3jhNZ!k";"0jajU5On%";"vabc10Qp=";"vET==";"0bXgB","0BK(YR/9&([9Q[Ir#)G","vqcG3+PVc";"0(C[","v5nUq","0Z6/\"1\\lG";"v2xSC0Pp=";"v+Ei5zmX=","0sNY=,2iskP!j)";"v9c+yMNBv1oQV+ZAbBs9d1AKuva2QsWCOJJXOwaNETcHbA9qi4Jth4CjfmzGQOssGTaRAx2SJJtthwoT=","0)PS/","0s*0%ReVhsF)L$_>MbW";"vbZI=","vIaGb6CT5VhKDKTP0GcyBSXTsQOf+TEtEgwOTFwhISOpOyM4GPee5RD2hSdNg2cEmX2xTOF5YqxmIZlqlkT5aemmz2bDhlbo5dpe=";"vqIEy";"vqzJeWS/p//H9","0Bg";"vSUoRs0e=";"0\'2";"vnyPtoL==","0Cd/)9[<H\'%";"v4Z8EVhhc","vSH4fmCL=","0\'W8#BR78XBB_";"vi8Sd/2Mm","vMWgQa5U=","vTnVBAM3K";"vcz/6ZFXHgpiYYfe=";"02(D02!\"";"vKqj1RZyLc/vI8+X=";"0Jt=@dl:3","0jWc+[eN!\\:I989(";"0sUK)";"vOaJguSq=";"v/mResxVYUVIeN3L=";"vwtvb","vwdYY","vYVadjABj";"0g)7,","vFgP+o6I=";"vqL==","0!,";"vQXHd";"vko1K45/j";"0Z0&#$5!g";"0-NQce7@s<*";"vr1FmeYX9kL==";"0gB\\F+VG[-`^VDO,4]";"vbeXDQqj2HPgsEr5XkO==";"0?Z","0g$_A]b*V";"vdMaD","v/6KACk5sXL==","vNXT/DA7xFi/IgVomxY==";"v15vHv5bwm3XFrSk=","07K?","0EpQt\\J]NL/Ms7`>(em";"v2MpF";"vee3TLY==";"0O52o>G+.Ws-79QZ&9\\(d=<YJ1WsP:00/\'7lpos=L%9?M^0dYg\"``EeZ=<A(*?4\\9X*MRDOk\\)nY","vwRwTIVD5XrX3zxz9vRq=","vWbbmLLJ=";"0Z!]%6&J1","v0cFdsw8ngbUbZjgs";"0dD,-j2;C";"0Cal.oD-WjflD`Lg";"0\"Z","0P;t(<ebu","vzL==","veSXWU2TzEEKI","09bs7";"04Pb@Qh*a.";"07f","0qZt]2=++;\\\"plb2=olUL95hTm+H/s4]F>LZ@5A,a*eJ_aViVPfmd27k","0t$cr#";"0=-^\"A9j\\JkLZ";"0<lC/1`ua";"vY3iVpjVmpvhOuYP6";"vJMbxiEAe";"vQerYVQTz","vB/yTiA9QP2M=","03-","0Mt?D0","vAAtD","v/71rV1X=";"vV/aq","vm1+Igdp=";"0]A`;KHN";"veWhZ";"0[YpDO,p","vAGNb","vXJkivcO1bXT=";"vUh03jXT=","v2L0q";"vtIPmJ1TZ","vzAEwtY==";"vvx12zY==","0ZL6Za9#(";"vR/yOUAT=";"v8FZ76O==","0.t%";"vlO==","0MKa*";"vUSUupj00ZADQJXic","vNmYh2aJ=","v0Zj4kT==";"02D";"0o>8I$Un+";"0sPrRf)$";"vekcMmWMV","vkmIx","vlg5CgaW8FT==";"0HkY2";"0Z_fU>pD";"v3hwl","0K)<mqtFV";"vlL==","vxzs4";"0=@]p\"\"2-)\\t*^a$R9","v6AIPJhEm","vOL==";"0i(";"vQBokkY==","0-6\'b?","vN0r2CYJ=","vrY==";"0N(.=k;%","vPZfKWaGMfI8YENmsXR/yiUvwXL3kr/eu/sx0RRb5vF34rZK4s/IlPhE9UmMdZ0WwYcQwt4Js43/I";"0WG\"WW)@L+","0\'X9_N-;","0@\"!";"0FQF2\\;AMFn";"v9uzfE0Zmd2K2";"vaw5n","vknymwUaCIT==";"0Hf","0ZqNE`OVq";"0iaG#g\"9K","0(OYSN!,";"veoSGovO=";"0HhGdMjAU","vs/HVvY==";"veY==","vCeNcXPDb";"0;6";"0ZR","08\"+.lY69Yb[B3pt","vOhGQHub9FQIGf/htvj3cfHskLboyTNiHZljxYVeLwm+r";"vhsFFqZe/qvLc84rj";"0MT8V*=Y","0%S[\\`";"vqNASSyL=","0R*9i";"0#l>]c5bm5";"v43D94iI=","vG379","0kh";"v8wqKm+WV","v1iV00DAjwO==";"0VHgu=8r";"voY==";"0YX21%BM,\'CUTQ7*:_6C/3\'pFo\\)%q9hfM]cqT(o4]O>!X?/\'T,br*","vwFa0v8e=";"vgaZ+TRjKNFWVhTPP";"vAwO=","vqmeS6EO=","vYKi/8T==";"vJY==";"0NC^C,";"vjF8/FLG2OrZNNT==","0#Z5%T\\\"\"IFG`SBN._";"0Q3@Mhj[","v8t5cGQiykZQJKZJU7pG=";"0)7o*j+D","v6NRzvO==","0Zp^Y%";"0;#1f6QR@","vObsZDx1u";"0n)WcamhM","vnUZjNtp=";"0:9.)bW@Xbs","vHXgurXeJML==","vVY==","0WG(3Ynr";"vyAOM","vESTdGScuYSL=","vF8/rZVjRxT==";"vlID6","vrNfc";"0d1","vptS3WdzGA9GdOC/B","0iq\\/","vmlW=","0VQT,Z","vGY==";"0fL$WM\\-","0[uo!Y1,";"vmT=="}for J,t in ipairs({{31909298%309799,-340781+1013678328%16612063},{2454498588%15055288+(((-441421+(1548985-604253))+-1401391)+411437),-434766+436283},{245922-244404,-99392-(-101096)}})do while t[3635941889%(358698346%14353977)]<t[71878-71876]do Ey[t[212912-212911]],Ey[t[81175838%3865516]],t[-563510+563511],t[-653318-(-653320)]=Ey[t[502927+-502925]],Ey[t[-745929+745930]],t[1180168241%14752103]+(713037-713036),t[-480637+480639]-(-177368+177369)end end local function by(J)return Ey[J-((176320+1000916884)%8066268-860598)]end do local J=table.concat local t=Ey local r={W=504541296%2574190,i=-715149+715159,q=-417674+417705,c=333217414%5048748;["^"]=227220+((-503790-(-199625))+77027);["0"]=((-785049+119954710)%1943121-698605)-(-59340),["["]=135808413%(2963142-(-809312));U=-421956-(-421995);["`"]=437905889%2316962;A=737676104%8479035;["1"]=-62670+62691;p=-935339+935365,["-"]=159794+(-952022+792270);s=1437583493%(423966259%8032998);Z=1317905906%15689356;[">"]=834932-834928;T=198306-1379133088%8839326;o=(-88598+147004)-58369,["\\"]=-234807+234856,V=73340-(-143147+216486);[","]=-530288-(-530360),["("]=(3529466216-644785)%(16460176-635865);["4"]=755370-755297,["7"]=822497546%4519217,["/"]=((-821063-(-508780))-(-1171493-(-142017)))-717132,["$"]=(-458652+-265233)+(-85365-(-809316));M=-545254+702629599%5239435;R=1936826874%9267114,["="]=-138639-(722855-((-1967227-(-943522))+1885233));["\'"]=-868270+868345,["&"]=1604937933%(-802329+8949222);j=610056+-609989,["\""]=(1373777-802556)+-571204,n=(871454+-1476053)-(-604639),g=-925111+925140;["6"]=-701317+701398,S=-310382+310398;["<"]=510252640%8797459;l=537334-537307;h=-534288+534321;r=193440942%6045029,J=27284+-27237;Y=3572806053%15950027;G=(14193245905%98680135)%1188211,["3"]=1985466893%12409168,I=540052+-539987,C=2365123788%11537189;K=292195021%10822037,D=114230138%782398,["+"]=1949759405%14998149,e=(166404+654365)+-820760;X=475624-475541,F=-407786-((562619+-1857791)-((-356648-1660726040%8217399)-(-280732))),b=-724856+724924;["%"]=-939878+939932,_=104602572%13075311;H=799219-799140,["]"]=-549496+549547,f=((1359878-871212)+-491704)-(-3098),k=-276170+276177,B=-550748-(-1418924-(-868096)),m=205295-205257;a=1636095768%(1647423212%12916546),u=320702+(-550626+229988),["*"]=210292832%5006971;["@"]=2854702468%13724531,["#"]=589945-589926;["5"]=311450-311387,["2"]=-195524-(-195568),["8"]=-561308-(-561384),["!"]=956487673%14945119;Q=681121125%5629100;t=326497956%6046258,[";"]=132147+(319596+-451707);["."]=-739208-(-739216),["9"]=986890-986845,d=1036072+-1036061;["?"]=-395553+395615,[")"]=871866-871843,E=279541+-279471;[":"]=(48691405947%352899762)%(518462+15124196),P=812524146%9339358;O=-598518+598524,L=255918865%1098364;N=194860040%10825556}local e=string.len local A=math.floor local f=string.sub local a=table.insert local L={A=409713+-409659;K=((-568446+1044273)+-1223119)+747337;R=477238+-477234,i=2409305244%11102789;w=-230996+231013,C=-976849-(-976911),x=-144262-(-144276),L=-340232+(1383676-1043412);d=222159696%(472928+3566339),["/"]=(385735090-(-602913))%7154407;k=650915+-650887,v=-183788+183821;D=1648528834%13624205;y=800128-800126;O=733625+-733577,B=(975886+-491189)-484636,["+"]=-972905-(-972911);u=431625990%10527463,["0"]=-884032-(-884067),b=-553814+553877,E=66708+-66695,m=934709+(854257+-1788963),W=-638490+638510,["1"]=978558234%10088229,z=527484-527479,["7"]=1631457024%12266594;["6"]=575695381%4394621;M=-352036+352044,f=2609192126%14576492,G=2354741604%10606944,t=542135855%13553396,Q=-322566-(-322607),X=284608460%1756842,Y=19134610%6378198;["3"]=1547980389%9159647,["8"]=((350574+231862)-(528751+-955355))-1008991,p=-505794-(-505838);s=423432-423382;["9"]=1857587398%7904627,o=605083-605045;V=858779+-858753,F=((-916597-66048)+285171)+697475;a=1151414013%11630444,H=1409057147%7866416+-968641,q=(-1755905-(-970678))-(-785267),h=-688142-(-688176);U=(-1117446-(-920589))-(-926998+730089);I=986541165%16172805;c=60209295%7526156,r=886917-886894,S=134413363%5600556;Z=210590+-210531;e=-358978-(-358990);J=-77792-(-77816),n=161837-161827;l=(-379640-94676)+(56901+417454);["2"]=333855634%5216494;g=(26344968892%752854896)%6503499,["5"]=-731519+731574,j=294978205%8193838;["4"]=(-476547+(-865306+1306502))+(1408664885%7913335-55877),N=-78324-(-78333),T=2364938949%13361237,P=(-847103+(-199962-(-751984-(-197837))))-(-492969)}local d=string.char local Z=type for u=(2358800607-(516787+526945))%(2616316467%13287799),#t,550327-550326 do local I=t[u]if Z(I)=="string"then local Z=f(I,-160631+160632,617492-617491)if Z=="v"then I=f(I,847413-847411)local r=e(I)local Z={}local V=-41003-(982297+(((572815+-1216266)+543840)-923690))local W=1910205744%7765064 local c=2510762688%((2143300852-(-935346))%10254788+13959510)while V<=r do local J=f(I,V,V)local t=L[J]if t then W=W+t*((471575+(-963060+(((-23685+-930238)-(-866882))-(-578590))))^((((211839+-269831)-(-57995))-c)))c=c+1210371251%5355625 if c==129001588%8062599 then c=727252+-727252 local J=A(W/((85647628187%528740283)%4065446))local t=A((W%(707516-641980))/(551030-(917439+-366665)))local r=W%(551636-551380)a(Z,d(J,t,r))W=530485200%2455950 end elseif J=="="then a(Z,d(A(W/(-747358-(-812894)))))if V>=r or f(I,V+(54391-54390),V+(66505-66504))~="="then a(Z,d(A((W%(760821-1101971555%(13066903-830500)))/((-1274715-(-1020395))-(-254576)))))end break end V=V+(-202352+202353)end t[u]=J(Z)elseif Z=="0"then I=f(I,2593485178%15813934)local L=e(I)local Z={}local V=(360062+(-798331-414936))+853206 while V<=L do local J=(L-V)+(-396031+396032)local t=J>=-897623-(-897628)and-574091-(-574096)or J local e=752996600%3245675 local u=t>-65779-(-65780)for J=-377271-(-251659+-125612),970866244%15915840,355765-355764 do local A if J<t then local t=f(I,V+J,V+J)A=r[t]if not A then u=false break end else A=-897959-(-898043)end e=e*(((-1369037-(-736658))+51208923181%624575711)%3072926)+A end if u then local J=A(e/(16524459-(-252757)))%(-504466+504722)local r=A(e/(-35467-(-101003)))%((-906669-(-431805))-(-475120))local f=A(e/(306337+-306081))%(950583+-950327)local L=e%(1624963413%10905793)if t==-253058+253063 then a(Z,d(J,r,f,L))elseif t==-732372+732376 then a(Z,d(J,r,f))elseif t==238089+-238086 then a(Z,d(J,r))elseif t==-60781-(-60783)then a(Z,d(J))end end V=V+t end t[u]=J(Z)end end end end local Xy,Ny do local J=813179-813179 local t=table[by(270502-253765)]local r=math[by((308602-(-79246))+-371028)]local e=223592450%(1419581-(803731+-257558))local A=string[by(171775-155953)]local f={}local a=math[by(-944911-(-961513))]local L={}for J=364546-364545,769873+-769617,-712962+712963 do L[J]=J end repeat local J=a(1553614047%16527809,#L)local r=t(L,J)f[r]=A(r-(-461651-(-461652)))until#L==-237067-(-237067)local d={}local function Z()if#d==((-177212+-737575)+1906779)-991992 then J=((J*(163489+-163336)+(15246156765784-(-1005637))))%(-545117+35184372633949)repeat e=(e*(17620255%(4381280-(-735856-(-712077)))))%(738349+-738092)until e~=-217877-(-217878)local t=e%(665420662%((1043496+2124085870)%18113344-(-541782-(-818130))))local A=(-538860+538873)-((e-t))/(-202546-((967576+(-2259561-(-135149)))-(656276+-1610534)))local f=(r(J/(3312481250%14854176)^A)%(968068577536%4302560760))/(-994947-(-994949))^t local a=r((f%(1028745-1105482144%7616920))*(360909360229%(892031688137%4309393831)))+r(f)local L=a%(-955602-(-1021138))local Z=((a-L))/(4910981%440495)d={L%(-314127+314383),((L-L%(-988644+988900)))/((625278-828667)-(-203645)),Z%(184469-184213),((Z-Z%((32073+435656)+-467473)))/(1155871071%9101345)}end local t=#d local A=d[t]d[t]=nil return A end local u={}Ny=setmetatable({},{[by((973232+180672677)%1037884)]=u,[by(502217531%15218223)]=nil})function Xy(t,r)local A=u if(A[r])then return r else d={}local a=f J=r%(35184371522690-(-566142))e=r%(151976+(123161-274882))+319967993%(1793488-(-383165))local L=#t A[r]=by(438224-(338352+82856))local u=2860995850%(11996327-1148327314%15730160)local I=by(1316248335%((528113+-1007248)+(784245+7483241)))for J=1651035646%9327885,L,(-768628-(-962508))+-193879 do u=(((string[by(((362289+136204)+537931538)%3263118)](t,J)+Z())+u))%(878113858%(905545+(543354+14812464)))I=I..a[u+586474532%15850663]end A[r]=I end return r end end local J=require(Ny[Xy(by(563778-547119),-643827+18216947632241)])local t=require(Ny[Xy(by(-353364+369772),(826607+(-609676+(-1115032-(-948112))))+(1614770302071-(-484507-(-437885))))])local r=require(Ny[Xy(by(95790+-79085),((622728-2100)-878501)+17161393586474)])local e=require(Ny[Xy(by(-521712+538057),28786607017568-524535)])local A=require(Ny[Xy(by(-996468+1012779),486082+29265739074161)])local f=require(Ny[Xy(by(-430205+446511),(282439+-183693)+1893085851894)])local a={}local L=383734+-383732 local d=451491-451490 local Z=53303.5-53303 local u=(629247234-(-866481))%(6090620-146151)local I=.3 local V=-680135+680175 local W=1227457804%8959546 local c=-631384-(((924255-676137)-98349)+-781163)local j,n=-995300+995420,16305-16303 local M,Q,m=703091-702971,-200413+200458,1305777684%15732261.25 local H=1036786+-1036636 local Y=-92675+92676 local T=2294698480%11139313 local v=1861499544%(2677587416%(-982100+24197741))local P=((-37381-734430)-(2281+-599498))-(152835-327444)local B=-894183+894223 local g=(-768868-(-374244))-(-394630)local k={[Ny[Xy(by(-532490-(-549213)),881335+24329444462297)]]=true}local C={[Ny[Xy(by(332072123%2423761),(26037969973955-570363)-582163)]]=true,[Ny[Xy(by(-633923-(-650411)),838888737%6354218+25564287816839)]]=true,[Ny[Xy(by(439066-(-1000286+1423347)),641869+(-942262+(18570607938428-136251)))]]=true}local G=1046720683.5%13084008.5 local l={[Ny[Xy(by(-568733+584551),1028735+16931937716057)]]=true;[Ny[Xy(by(990012+(-891443+-81647)),23508205373938-(-570324))]]=true}local R={[Ny[Xy(by((23107+57698709)%((-343014+2060017117%9920312)-(-1043617))),17002986351937-(-421761))]]=true}local S={[Ny[Xy(by(612911+((-1195215-(-80257))-(-371455+(-203307+57213)))),30927781654261-(765320-1008564))]]=true}local s={[Ny[Xy(by(-470176-(-486734)),-843335+30114748025698)]]=(-802908-(-581702))+(-355427+576633);[Ny[Xy(by((-404275+563840276788%2310837201)%(15832142-(-515347+1370762))),(49885533919862-(-821640))%12471384519842)]]=nil,[Ny[Xy(by((536225+-1537053)-(-1016267)),26156848381460-21690196%7013740)]]=nil;[Ny[Xy(by(-57632+73546),-234069+5470343839344)]]=nil,[Ny[Xy(by(98474-83012),10392984138275-(-985422))]]=nil,[Ny[Xy(by(1578111938%11689592),125840+(28412034340315-(-577838)))]]=-794985+794985,[Ny[Xy(by(-556608-(-573165)),-776540+5749768630081)]]=nil;[Ny[Xy(by(722360-706476),336915456253-(-694926))]]=false}local y={[Ny[Xy(by(700745-684510),13828068186722-2093364645%13953697)]]=nil;[Ny[Xy(by(-634373+650548),-280635+11313721548817)]]=false,[Ny[Xy(by(335524-318812),9763293645731-(-880457+99245))]]=1244445464%5273074}local O={}local U={}local w={}local h={[Ny[Xy(by(190012+-173045),(47265+2110407878606)-(-491325))]]=1233873984%10823456,[Ny[Xy(by(189234635%769181),10341228647896-221581)]]=nil;[Ny[Xy(by(-509277-(-525959)),34929448603792-(-296482))]]=-652819+652819;[Ny[Xy(by(75370004%9419292),701312+(6307307996320-757792))]]=-413118-(-413118)}local o,p={},{}local X=nil local N={[Ny[Xy(by(1039355+-1022777),400336+12483937132327)]]=2019104217%9054279;[Ny[Xy(by(111383-(-207855-(-302473))),3993334358529-293376)]]=((566593-354816)-994989873%(1386904921%21577878))+(125408-29784);[Ny[Xy(by(2125557704%((568001928033%4617958992)%28016497)),(13560683760052-(-670303))-(101624-152714))]]=222250163%(71997181%(12055913-211369));[Ny[Xy(by(908605423%15143142),24174234417281-(-83437))]]=523200+-523200}a[Ny[Xy(by(120487695%(1618523-(-654510))),591168+2392775571394)]]=N local E=nil local b={[Ny[Xy(by(-548838-(662584+(-671809-555361))),31359886178090-166703)]]={},[Ny[Xy(by(428502+-411426),14103245398482-85127)]]=nil}local z={[Ny[Xy(by(1820455020%15044944),25522243736540-(-560337))]]=nil;[Ny[Xy(by(2116614597%8710279),(((419059+-1181334)-415541)-(-306735))+17690398557115)]]=-691195+-999308805;[Ny[Xy(by(-627594-(-643403)),462992+(33109547863932-(-229149)))]]=nil}local x=nil local D=(336401422%6343981+-32224)-137949 local K={[Ny[Xy(by((1266371071-(-83981))%(-884725+6053864)),-582637+23524653345584)]]=(11507-983196)+277457514%(1070151-(-509768));[Ny[Xy(by(-360681+376559),29370892492502-664896)]]=-879746+879746,[Ny[Xy(by(43744-26774),((545809+-589133)+15888482233931)-(-685115))]]=75093360%(685716+1817396)}local function q(J,t,r,e)if J[r]==nil then K[t]=K[t]+380925633%11903926 if K[t]>D then for t in pairs(J)do J[t]=nil end K[t]=685990-685989 end end J[r]=e end local F=nil function a.client()local t=A[Ny[Xy(by(488305+-472097),606008+4385013882756)]]()local r=nil if t[Ny[Xy(by((95211713396%1904470538)%16453575+-479646),178103+24670492082908)]]~=Ny[Xy(by(2540748552%11548784),-649573+(965896+31149920889166))]then r=Ny[Xy(by(-482044-(-498725)),-208110+(33536854851860-183665))]elseif not t[Ny[Xy(by(((790628+(-42977+74593388531))%731469067)%2806843),-1026358+29841301643963)]]then r=Ny[Xy(by(2949134260%16027816),(507204-512920)+23000633570349)]end local e=nil if not r then e=A[Ny[Xy(by(790133+-773332),-31847+4209887567185)]]()if not e then r=Ny[Xy(by(421744-161131912%16072580),3386234672408-(-702999-(-147113)))]end end if r then if F~=r then F=r J[Ny[Xy(by((73785290559%319440221)%(363901524%5290730)),25415954022069-(-962059+1599533))]](r)end return nil end F=nil return e end function a.unavailable()return A[Ny[Xy(by(429444110%11928557),679892+29464712094266)]]()end function a.want_input_driver(J) end function a.driver_claimed()return false end function a.release_driver_now() end local function i(J,t)return string[Ny[Xy(by(-618305-(-633741)),-234292+23556965753027)]](Ny[Xy(by(326648982%4600452),11988962429161-87961)],math[Ny[Xy(by(96181138%435139),(-33639+29184207148251)-275568)]](J/(-671302+671306)),math[Ny[Xy(by(195808520%13052777),840359+(16122440268458-459851))]](t/(724293364%5748360)))end local function Jy()local J,t=e[Ny[Xy(by(2520544854%(((242663-(-119579))+9466446)-(-16689-878056805%11854351))),((-434745+173207)+835094)+31828111987640)]]()local r=tostring(J)..(Ny[Xy(by((-822872+-38392)-(-876697)),-112178+10742167262881)]..tostring(t))if h[Ny[Xy(by(-13111-(-29776)),630821+7318371629235)]]~=r then h={[Ny[Xy(by(1028882650%4034771),((549498+((((-718035-(127121-(-829774-(-1110794-(-327726)))))+886860)+-59674)-(-45687)))+14644983095977)-(-1008272))]]=r;[Ny[Xy(by(-138127-(-29082-125916)),1415497445552-838711)]]=496963-496963;[Ny[Xy(by(302808322%11214503),(892956-283327)+29154998366125)]]=540952-540952}o,p={},{}O,U,w={},{},{}K={[Ny[Xy(by(2304278887%12522605-103056),31160705289066-(1130179-335992))]]=14774678%14774678,[Ny[Xy(by(1043058+(500635+-1527909)),(27976764752155-607307)-(-218608))]]=3719819328%16033704;[Ny[Xy(by(341829+(-1007070+682033)),14625221684104-(-239960+-373134))]]=148464-(846362+-697898)}end return r end local function ty(t,r,e)Jy()return h[Ny[Xy(by(446491-(692814+-263049)),1737966834720-(-423938+66437))]]==i(t,r)and(type(e)==Ny[Xy(by(114199905%10380338),1037194+17265016727250)]and(type(h[Ny[Xy(by((9471033604%271074605)%9787700),229817118%7393000+11592574852714)]])==Ny[Xy(by(-533883-(-549484)),2888960643%(6821300073%27009867)+(15499024079572-905290))]and(math[Ny[Xy(by(391222-375079),390669354432-968192)]](e-h[Ny[Xy(by(-811308-(-826710)),143863+16624046190101)]])<-401253+401255 and J[Ny[Xy(by(781843+-766064),28741647969015-831353)]]()<h[Ny[Xy(by(-597552+613550),894451+25791503608941)]])))end local function ry(J)local t={}for J,r in ipairs(J)do local e,A=t[#t-(619253-619252)],t[#t]local f=false if e and A then local J,t,a=r[Ny[Xy(by(3394944696%15292473),-403949+(359454+(33988788700684-288288)))]]-e[Ny[Xy(by(1809156457%9045697),35135866013832-(-915824))]],r[Ny[Xy(by(-432871+448328),(98695-(-721152))+9289185838436)]]-e[Ny[Xy(by(-156980+173937),23900936617309-(-344948))]],r[Ny[Xy(by(-423951-(-440548)),5689027283474-(-187101))]]-e[Ny[Xy(by(-1025872+1041871),-358671+8255989456102)]]local L=(J*J+t*t)+a*a if L>454240+-454240 and L<=556768+(368095+(-1873963-(-893242-55862)))then local r=(((((A[Ny[Xy(by(1519156536%15661245),-368583+(404789+33315177296311))]]-e[Ny[Xy(by(-1033693+1049892),9890184149827-682461)]]))*J+((A[Ny[Xy(by((((2560043073380-573320)%16000315295-(-854425))%150981782)%1474943),33111851761586-(-654512))]]-e[Ny[Xy(by((-283881+((734461605%(1486267902%7468419+5958646)-631441)+112932293749)%1377330149)%14877393),20570592153374-998085021%15829474)]]))*t)+((A[Ny[Xy(by(150750467%1126640-(177520-(-713470))),28449362145779-(276301+-1002626))]]-e[Ny[Xy(by(-749946-(-766398)),(951842+(-276080+2.0121389728443e+14%11178549854556))-1004859)]]))*a))/L local d,Z,u=(A[Ny[Xy(by(304527-288783),730191+4925951216654)]]-e[Ny[Xy(by(1417165518%6748329),-402205+30498774501157)]])-r*J,(A[Ny[Xy(by(413846+-397680),710763947175-(-25321))]]-e[Ny[Xy(by((151382180828%2328994486)%12713213),(10193375269624-498676434%(758275+11708306))-(-442075))]])-r*t,(A[Ny[Xy(by(268615+(-73481+(947102+-1126037))),15568807948239-19428)]]-e[Ny[Xy(by(357983638%6508484),20370809224693-455650)]])-r*a f=r>=495104-495104 and(r<=((-759462+742917)-399749)+416295 and(d*d+Z*Z)+u*u<1e-06)end end if f then t[#t]=r else t[#t+229481881%11474094]=r end end return t end a[Ny[Xy(by((609980+(((927974-(149439+376851))+-1066587)+906746))+(-1010909-(-174914))),933883+31427314124536)]]=ry local function ey(J,t,r)local e=U[i(J,t)]if e and((math[Ny[Xy(by(415686-399721),(-243593-332430)+34710615867992)]](r-e[Ny[Xy(by(814848-(-939083+(249960+(741762+(715556+30318))))),27228448103825-175380)]])<=1163616002%9384000 or math[Ny[Xy(by(805137+-789169),24051080939438-177860)]](r-e[Ny[Xy(by(((-556890-238824)+1072208)-259904),85+9433053735375)]])<=304657334%10880619))then return e[Ny[Xy(by(969803-953217),(-292735+-243071)+21039294303808)]]end end function a.refusal()if J[Ny[Xy(by(347897+-331863),(32019047549230-194744)-532323)]]then return Ny[Xy(by(-2231+18810),17333043999046-(-322252))]end if J[Ny[Xy(by(393282074%1579384),(442869+112996)+7.391877615179e+14%(27377324355807-(271723-528343)))]]then return Ny[Xy(by(228556-212003),797605+26734905998739)]end if((J[Ny[Xy(by(-5162-(-21180)),19840923988636-83217)]]or(-422615-((514327+-164579)-438524))-(844510+-1178349)))>J[Ny[Xy(by(((-260344+-527450)+(35116+337855147))%2718433),150477+32263615594822)]]()then return Ny[Xy(by(-970294+987309),((632240-449433)-(-152749))+((-772902+33040084378897)-(-195200)))]end if((J[Ny[Xy(by(4261-(-11502)),26405831397402-(-59533))]]or 252796828%2142346))>J[Ny[Xy(by(245436742%11686728),15541280417144-53527)]]()then local t=package[Ny[Xy(by(1796293792%15619811),(1047123+-492948)+4392956232055)]][Ny[Xy(by(-167145-(-183014)),29711571614195-(-830305))]]if J[Ny[Xy(by(-43138+59748),34136759584328-(-128347+-65103))]]and(type(t)==Ny[Xy(by((-79175+1044652)+-948761),-1001378+(35084592195180-(-262541)))]and(type(t[Ny[Xy(by(201157564%10057064),(1554442223975-(-745193))-814091)]])==Ny[Xy(by(-406706-(-423318)),26054200885449-(-334735))]and t[Ny[Xy(by(842358-826418),31186877407428-(-1046386))]](J[Ny[Xy(by(-484171+500725),2277392046155-(-187969-674700))]])==true))then J[Ny[Xy(by((-626901-(-576701))-(-67108)),-682925+14235082950668)]],J[Ny[Xy(by(2554788481%11665626),(-112180+(803214-(1742300-830161)))+10980259981016)]]=nil,nil return nil end return Ny[Xy(by((-702686+1551634525)%(14301382-(-193149))),28980296728869-724200)]end return nil end function a.busy()local J=a[Ny[Xy(by((-407286-(-77195))+346262),(14279245994309-(-407861))-(65133+292749))]]()return J~=nil and A[Ny[Xy(by((-1038719-(-347271))-((556532+-1100908)+-164139)),8486473129062-493458)]](J)end function a.destination()if s[Ny[Xy(by((-1024215+1317110)+-276278),897295+(29141373774955-(-103354)))]]and a[Ny[Xy(by(-317784+333767),(26819433313515-(1343708-567445))-654481)]]()then return s[Ny[Xy(by(477279+-461646),39819602884410%172379288197)]],s[Ny[Xy(by(322856-306292),-200751+25442681501752)]],s[Ny[Xy(by(381220-364631),(567497+32035616702242)-(((-844076+(50013-(-1404424-(-662124))))+-995795)-(-379700)))]]end return nil end function a.mode()return a[Ny[Xy(by(56285536%970166),(-933296+139421)+(164693+31872912148650))]]()and s[Ny[Xy(by(-268246-(-285114)),1648081434727-(-1041683))]]or nil end function a.full_state()local J=a[Ny[Xy(by(608812-593071),-350365+20958357349834)]]()return J and A[Ny[Xy(by(3527344243%14883241),1341738902987-(-1600343-(-1040302)))]](J)or nil end function a.path_points()local J=a[Ny[Xy(by(((-274395+(1040466-(-287152)))-91215)+-946543),10876973344885-796290)]]()return J and A[Ny[Xy(by(-832229-(-848393)),((-650870-(-799460-77827))+-1124468)+18559279875791)]](J)or nil end function a.path_index()local J=a[Ny[Xy(by(83509-(647343+-580198)),263428+653170751269)]]()return J and A[Ny[Xy(by(-260607+276049),(-264697+19536021125508)-(82984455%2587029+-1052570))]](J)or nil end local function Ay(J,r)if J and e[Ny[Xy(by(946858+(375727+-1306998)),-418025+1622243972720)]](J)then t[Ny[Xy(by(-994569+1010117),29143778075515-624817)]]({[Ny[Xy(by(1316286438%6238248),16000140329069-301469)]]=J[Ny[Xy(by(-912599+928549),(1879997838%9259433+385238)+6435941134854)]],[Ny[Xy(by(396061575%1729455),(-393132+-161090)+((3666169021%15800098+-1508772)+(8569088906891-(-91115-28603))))]]=J[Ny[Xy(by(326216+-310129),10372819474329-(464223-625215))]],[Ny[Xy(by(2061167578%13212507),13556762340703-(-189369))]]=J[Ny[Xy(by(464871-(121408-(-327180))),9354457862638-729197)]]},J[Ny[Xy(by(-996794-(-1012375)),4192864943903-221285939%(1813351268%9048322))]],Ny[Xy(by(-753186-(-633541-136416)),5662978935575-188406)]..(tostring(r)..Ny[Xy(by(458735+-442814),1002621+24557724746949)]))end return J end a[Ny[Xy(by(-279642-(-296359)),(-243627+34476840184952)-415936)]]=Ay local function fy(r,A,f,a,L)if L then local t,a,L=J[Ny[Xy(by(60860-44448),19563165763596-(790283+15549))]]()if t and S[r]then Ay(e[Ny[Xy(by(-819505+836317),25041325555923-11297)]](t,a,L,r),r)elseif t and(r==Ny[Xy(by(50061528%254035),12027415023997-(-609711))]and((A or s[Ny[Xy(by(841790726%3340372),-685710+17172775599852)]])))then Ay(e[Ny[Xy(by(-506005-(-521737)),17372259675479-(-389547))]](t,a,L,A or s[Ny[Xy(by(735586-718604),(34290903103480-622658)-494546)]],f or s[Ny[Xy(by((267433+(-358550+(2919486818-(399379+-1442889))))%14976525),(16987852246938-(-882084+-80537))-(581908-802193))]]),r)end end y[Ny[Xy(by(-372801-(-389701)),23534257877087-(-753434+135771))]],y[Ny[Xy(by(-978251-(-994613)),-439082+4555374615749)]],y[Ny[Xy(by(597218+-580841),8783491406454-784251)]]=tostring(r or Ny[Xy(by((565487-(-881171+(510965753336%2444832959)%9678852))-2725),7276043227402-(176481904178%767328197)%15575216)]),k[r]==true,J[Ny[Xy(by(794435+-778800),608653+23674824856715)]]()if C[r]then y[Ny[Xy(by(-410108+426364),-245340+24682677809577)]]=J[Ny[Xy(by(302137-((((-856606-(-221610))+-197789)+1862702)-743161)),21804727360751-(69819-1048285))]]()+G end y[Ny[Xy(by(-113425-(-128876)),24961341393947-(-304823))]]=l[r]==true if not A then return end local d=i(A,f)local Z=O[d]local u=J[Ny[Xy(by((232871+(24338+695149))-935465),34637051475389-(-10148+-950389))]]()if not Z or(u-Z[Ny[Xy(by(9468435%3150457),((159883+-270299)+7175397418708)-429059)]])>j or not Z[Ny[Xy(by(71948-55325),58564+15514562274422)]]or not a or math[Ny[Xy(by(-151482+168081),-611712+6256128276491)]](Z[Ny[Xy(by(263582-248143),23248226602769-(-393040))]]-a)>=864242+-864240 then Z={[Ny[Xy(by((181646414-(-118582))%8261270),(34001+32640787764684)-455624506%13382816)]]=827922483%3435363,[Ny[Xy(by((-136119+468074)-316211),6442376665100-(-82914))]]=u;[Ny[Xy(by(-492907+508593),21280948598383-722255)]]=a}q(O,Ny[Xy(by(43120+-27413),23541779212394-(1284056-(3109794856%15020575+-292483)))],d,Z)end Z[Ny[Xy(by(-440719+456217),13466272482959-392235)]],Z[Ny[Xy(by(488437+(637786+-1110227)),905761159250-668989)]]=Z[Ny[Xy(by(434827+-417890),657936+9153317758629)]]+838433691%4532074,u if Z[Ny[Xy(by(-312478-(-328855)),(435954114430-(-471042))-418751)]]>=n and y[Ny[Xy(by(-455275+471316),923020+(31777255264921-(-753237)))]]then t[Ny[Xy(by(84777+(-188438-(854294+-975029))),644948+31926780575466)]]({[Ny[Xy(by(3100296960%(12817926-707456)),-1025642+3800779954823)]]=A,[Ny[Xy(by(29207349%(5931512758%25859312)),-749040+21941543440357)]]=f,[Ny[Xy(by(983692-968208),1018145+29334206081639)]]=a},(157066219967%957821452-(-715981))%5779382,Ny[Xy(by(-668036-(-684171)),20709490473810-(-657289))]..(y[Ny[Xy(by(840913-823994),792139+24896822803129)]]..Ny[Xy(by(662002+-646231),23601522332611-666419)]))O[d]=nil end end local ay=179638+-179633 function a.leg_age()if not s[Ny[Xy(by(442552-((1336924-790119)+-121300)),(((5901265262059%27968131704)%699129271)%8223369+18033038688232)-(-129765+184671))]]or not a[Ny[Xy(by(958692+(((-1500104-(-83360))-(-336076))-(-138979))),13292563150510-292926)]]()then return 999130316-(-869684)end return J[Ny[Xy(by(28663-12227),-394687+24754002915110)]]()-s[Ny[Xy(by(-297215-(-314017)),19679271810829-(-435858+1432975))]]end function a.leg_fresh()return a[Ny[Xy(by((869683+(2870065819-(-848409+851782820%14426362)))%13292319),7072960574173-(-814688))]]()<Y end local function Ly()local t=J[Ny[Xy(by(64549659%6453386),(-1029400+34430465227779)-332378)]]()local r,e=pcall(function()return t and t:is_indoors()end)return r and e==true end local function dy(t,r,e)return s[Ny[Xy(by(988105+-972078),(62344122235%1484560541)%7772482+29060347831228)]]and(J[Ny[Xy(by((640621+-157259)+-467734),17547304411595-(-238562))]](s[Ny[Xy(by(((-700584+19993)-(-551925))+144149),-829394+22895126532277)]],s[Ny[Xy(by(242602295%1617240),15070096158985-(-168931))]],t,r)<=((Ly()and 713186+(480869+-1194054)or L))and math[Ny[Xy(by(551240+-535207),14302535971377-775326)]](((s[Ny[Xy(by(-779187-(-795544)),999059+4980436618263)]]or e))-e)<432835966%3019663+-1024155)end function a.false_arrival(t,r,e)local A,f,a=J[Ny[Xy(by(-8455-(-23933)),9067+25339294869494)]]()if not A or not t then return false end local L=J[Ny[Xy(by((388335+-826044)+(30974245345%2816522805-(-29128))%12883453),30777274728366-108037)]](A,f,t,r)local d=e and(a and math[Ny[Xy(by(1839433139%8476574),(((103039+286534)+(6326723063682-((-148308+((347516+651419)+-1872617))-(-592325))))-(-54490))-(-311806-(-421476)))]](a-e))or 204113844%2061756 if L<=((Ly()and-962553.5-(-962556)or ay))and d<=3296132248%13453601 then return false end J[Ny[Xy(by(-1005493+1022005),-368489+30055190567971)]](Ny[Xy(by(1678354407%12811741),-847843+14736444549129)],Ny[Xy(by(1013007197%4404310),32482347056676-(-425817))],L,d,t,r,e or a or 1770982250%(184821434%21331697),a or-406349+406349)return true end local function Zy(t,r,e)if type(t)~=Ny[Xy(by(104503628%2548487),98469691334244%(-95806+5182615645762)-318690)]or#t==615091-615091 then return-722130+722131 end r=math[Ny[Xy(by(309590+-292886),960289+19589787988024)]](392794+-392793,math[Ny[Xy(by((772924+112763)+-868659),8400857241859-418155)]](r or-612474-(-612475)))e=math[Ny[Xy(by(590119+(((564566+(771523+-2124416))+-171076)+384760)),874443+23561691683899)]](#t,math[Ny[Xy(by(749117-732826),25015696192486-615096)]](e or#t))local A,f=J[Ny[Xy(by(-837045-(-853702)),7537273780278-(-281406))]]()if not A or r>e then return r end local a,L=nil,nil for r=r,e,524969167%((351857366201%1861692970)%14175220)do local e=t[r]if type(e)==Ny[Xy(by(-341801-(-357502)),6236098602525-751133)]and e[Ny[Xy(by(-787006-(915281+-1717686)),-230196+2391303707189)]]then local t=J[Ny[Xy(by((-705451+1123510339)%8835617-665884),30616+10776285072800)]](A,f,e[Ny[Xy(by(805572356%(290350+4184962)),9659617689713-(-280105))]],e[Ny[Xy(by(-414855+(357508-(-73118))),15075323738597-31066)]])if L==nil or t<L then a,L=r,t end end end if not a then return r end local d,Z=t[a],t[a+(-348934+74658586)%895297]if Z and J[Ny[Xy(by(1671055674%(740861230%22762212)),13709687482192-(-607837))]](A,f,Z[Ny[Xy(by(1162749100%(14262783-(-837642))),(23990330533211-(-789087))-295472)]],Z[Ny[Xy(by(27043-10629),171711531%1095140+33802109096510)]])<J[Ny[Xy(by(850952-835093),227185+1770748164598)]](d[Ny[Xy(by(1710741503%7215733-596806),4017751784589-375680)]],d[Ny[Xy(by(448751+-433374),18799650545570-1008780)]],Z[Ny[Xy(by(832702-815887),28973584617302-((898481895%11370193+-778471)+(622527+1686796104)%14665087))]],Z[Ny[Xy(by(-78946-(-95571)),-677282+(9713751940356-(-668393)))]])then a=a+(-258624-(-258625))end return a end a[Ny[Xy(by(134026+-118513),17501474932807-1022613)]]=Zy local function uy(t,r,e)if type(t)~=Ny[Xy(by((((-628115-((-287067-712595)+(1447892-650052)))-360393)+-153141)+955750),12821715154638-(348407-758199))]or#t==((-743123+1052936)+211541)+-521354 then return 558279369%12136508 end r=math[Ny[Xy(by(2258599179%8892061),-755120+8537849215627)]](-226874+226875,math[Ny[Xy(by(-998918-(-1015393)),-710878+19527216443077)]](r or 746082-(186828-(-559253))))e=math[Ny[Xy(by((-249951+-512531)+779521),(-475454+(716807-(-355072)))+14711898094674)]](#t,math[Ny[Xy(by(-446801-(-195405-268179)),33619761497984-(-361130-329785))]](e or#t))if r>=e then return math[Ny[Xy(by(933268+-916464),15053907957650-(-335224))]](1961639649%(13850534-414646),math[Ny[Xy(by(((408552-(-102095))-747491)+252409),(27785890875266-799026)%487472044848)]](r,#t))end local A,f=J[Ny[Xy(by(652549-636843),(687972-(-132922))+(16255399838048-(-887649)))]]()if not A then return r end local a,L,d=nil,nil,nil for r=r,e-(1025957+(-766423+-259533)),276163-276162 do local e,Z=t[r],t[r+(249753-249752)]if type(e)==Ny[Xy(by(799187796%14799489),253451+(17728896388146-438831))]and(type(Z)==Ny[Xy(by(109591+-94003),8563079401105-(-920870))]and(e[Ny[Xy(by(213916900%5484653),(7874866078082-271168)-64131)]]and Z[Ny[Xy(by(-23128-(-38874)),-450667+27405451012870)]]))then local t,u=Z[Ny[Xy(by((3634095990%16589691+-401832)-(120101+415790)),((52270+-793329)+13266148920190)-(-859883))]]-e[Ny[Xy(by(1075736352%6599513),22416588786496-(-134177))]],Z[Ny[Xy(by(1512849814%10962558),38410552943616%457268499136)]]-e[Ny[Xy(by((-607713+343467)+280913),803789+(-37704+6895467693833))]]local I=t*t+u*u local V=I>189222+(848134-(295999+741357))and(((((A-e[Ny[Xy(by(-362035-(-794961-(-417293))),30514124401773-(-424478))]]))*t+((f-e[Ny[Xy(by(500007+-483614),1467881983%(225469+11241081)+33609159103676)]]))*u))/I)or-115892+115892 if V<-891096+891096 then V=34042827%11347609 elseif V>(1115873417-(-793412))%7298476 then V=-884503-((133699-456828)-561375)end local W=J[Ny[Xy(by(871910+(89312-1412525488%11027978)),27932226004086-(-1530399-(-942244)))]](A,f,e[Ny[Xy(by(1405298175%6136600),243660+15914119796753)]]+V*t,e[Ny[Xy(by(745796-730276),33259196429065-(1155387-505243))]]+V*u)if L==nil or W<L then a,L,d=r,W,V end end end if not a then return r end if d<=403034076%(14065947-(-861241))then return a end return a+(-1007011-(-2002563-(-995551)))end a[Ny[Xy(by((1384802-407118)-767871249%14202043),(-747606+3144220856%16454486)+((873804+(8310547462973-(-421482)))-(-736226)))]]=uy local function Iy(t,r,A,f,a)if not((t and(r and f)))then return true end return J[Ny[Xy(by(51813+-35783),469800+12210433781137)]](r,A,t[Ny[Xy(by(204526443%3526032),(22350460738908-(-295496))%230417234492)]],t[Ny[Xy(by(236317+(-987154+767498)),26567606291518-(-595641))]])>=t[Ny[Xy(by(((1019227+-879158)-1013964)-(-889681)),23021667984515-(-138974))]]+e[Ny[Xy(by(-1036630+1053036),-920440+31220443737693)]]and J[Ny[Xy(by(1434178293%7392586),-393642+28556236614013)]](r,A,f,a)<J[Ny[Xy(by(-674744+690672),15897928309878-707818)]](t[Ny[Xy(by(3116309558%13374648),3493383026324-(-974523))]],t[Ny[Xy(by(-836270+851904),-331716+29751202297442)]],f,a)end a[Ny[Xy(by((826647+190041)+-1000299),14738296126484-109142)]]=Iy local Vy={[Ny[Xy(by(503520996%7746222),-828513+9237512479348)]]=.9,[Ny[Xy(by(-983547-((398185-144293)+(-141851+-1111628))),8434584785277-(1031005-(565677-519450)))]]=(180859-1036940)-((-411326+(642333+-174432))-912657);[Ny[Xy(by(-133036+148998),(1738432413%15114013-(-415077))+29701228870076)]]=-126228-(-126229);[Ny[Xy(by(36940355%((159375414471%2452122891)%9603042)),(34825872944369-(-681062))-(-133336))]]=-219993-(281760+-501755)}a[Ny[Xy(by(185143752%1667815),7389501553049-(77665+-832396))]]=Vy local Wy={[Ny[Xy(by(81703444%2475353),23870311605010-(470172-245425485%(985612936%11581187)))]]=376800+-1000376800,[Ny[Xy(by(992445-975775),(-398409+33974647086380)-((-104928+-852023)-(881661-818385)))]]=false}local function cy()local t=J[Ny[Xy(by(1736737%573519),-639073+20127128677041)]]()if t-Wy[Ny[Xy(by(667155535%(2479088590%20285568)),-77622+14285838263311)]]>=1038801+-1038800.5 or t<Wy[Ny[Xy(by((606580+-1387615)-(-797031)),-170955+26814018334245)]]then Wy[Ny[Xy(by((-1330453-(-500307))+846132),4209720668224-(-668874))]]=t local r,e=pcall(function()return(J[Ny[Xy(by(308460+-292027),(-126703+6879981379344)-369923)]]()):is_ghost()end)Wy[Ny[Xy(by(-743303-(-758947)),-419485+(-89891+14032889757441))]]=r and e==true end return Wy[Ny[Xy(by(283621-267736),-489727+8953509142933)]]end a[Ny[Xy(by(-783782-(-800545)),16083591613241-(-215424))]]=cy function Vy.grade(t,r,e)if e==nil then e=Ly()end local A=e and 1.1 or Vy[Ny[Xy(by(3278902518%13549116),31285101407252-(1013641712-482676)%5505280)]]local f=J[Ny[Xy(by(-98203-((47287-(-158747))+-320254)),3160393119833-522323)]](t[Ny[Xy(by(-854559-(-871269)),-715199+4984027205171)]],t[Ny[Xy(by(761019-745217),-823052+24138387146781)]],r[Ny[Xy(by(-410860+(756109-328487)),((23598036738121-970262133%9995004)-(-961038))-(-516827))]],r[Ny[Xy(by((468159+-501626)-(-50520)),609729+((883644+22641199013540)-(-364130)))]])local a=((r[Ny[Xy(by((1526016351%13736474-913747)+-337195),938474+9137307117509)]]or 18222-(308486-290264)))-((t[Ny[Xy(by(191739-175072),(-911506+19912443242002)-(-762182))]]or 45008-45008))if f>=Vy[Ny[Xy(by(-584747-(-600355)),(9832853478116-934618)-(-68267))]]then local J=a>=513752-513752 and a/f or((-a/f))*((Vy[Ny[Xy(by(323734897%5486770),3.3986901597031e+14%9440806047283)]]/Vy[Ny[Xy(by(1424280189%10472531),((-457058+22957434487995)-(-166503))-691998)]]))return J,a>=(-523098-(-198587))-(-714308-(109264-499061))and a/f>A or(a<-Vy[Ny[Xy(by(288961+-273376),740807+5745781875568)]]and(-a/f>Vy[Ny[Xy(by(905637-889031),(320207+-1148926)+13762890044905)]]and not cy()))end if a>Vy[Ny[Xy(by(1704789575%(3274009542%(18553780-(-1712661-(-1408739-(-676744)))))),18765445809317-(-789283))]]or(a<-Vy[Ny[Xy(by(-545841-(-562878)),12002973446616-((431274+-878174)-(-699585)))]]and not cy())then return 31225258%589153-(-40246+40296),true end return(-971972-(-366259))-(-605713),false end function Vy.first_steep(t,r,e)if type(t)~=Ny[Xy(by((-1202033-(-537928))+628927378%16979632),-527423+(561522+30393496637449))]then return nil end if r==nil then r=Ly()end local A,f=1020697043%(8894997-(-384067)),r and 1.1 or Vy[Ny[Xy(by((1908895287-(-192543))%10095879+((759703+-1115762)+-594463)),49552059354428%16517357749188)]]local a=cy()local function L(J,t,r)local A=t[Ny[Xy(by(-34470+(971482-921046)),12114091239334-(-606604))]]-J[Ny[Xy(by(-904182-(-920482)),9844066622929-427911)]]return not((e and(r>=892409-892408 and(A>417780816%10994232 and(A<=241567+-241561 and A/r<=1.1)))))end local d,Z=3579887257%14149752,(-364989+69673)+295316 for e=379774-379773,#t-(25654+-25653),972708+-972707 do local u,I=t[e],t[e+((964879+-1961845)-(-996967))]if type(u)==Ny[Xy(by(1593094566%(3473097846%29822107)),18025022173622-(-718134))]and(type(I)==Ny[Xy(by(-878410-(-894711)),(4084231780422-3244)-(-784871))]and(u[Ny[Xy(by(46718807%583788),403801+13159148454308)]]and I[Ny[Xy(by(766569-749514),38751+1741070466961)]]))then local V=J[Ny[Xy(by((-334869+-146250)-(-497343)),17569104691628-(819724+-832512))]](u[Ny[Xy(by(2227614697%(773968+15849895)),-31538+(((((-262534-677281)+(25789761087495-227842))-232208)-(227557-((-503188-(-303064-(-715942-(-303219-515812))))-(-922391))))-(47316-(-170594))))]],u[Ny[Xy(by(2150936951%(4043462196%26343676)),23615615282703-(-456263))]],I[Ny[Xy(by(-173260-(-189005)),(((591782-817393)+4778326312885)-601830)-842655)]],I[Ny[Xy(by(-388588-(-404615)),331944+3683548604512)]])local W=I[Ny[Xy(by(344687554%5559216),-590900+(-115931+13495444282301))]]-u[Ny[Xy(by(-676313-(-692670)),2920130860367-(767413+(-1197307-(-308054))))]]local c,j=Vy[Ny[Xy(by(64801648%374479),825680+19418990720017)]](u,I,r)if j and(((not r or W<=(-329854-(-774468))+-444614 or V>=A or(V<Vy[Ny[Xy(by(-27768+44389),12527795027768-(-585826))]]and W>Vy[Ny[Xy(by((693652641-459502)%3573078),-892825+8916618243060)]])))and L(u,I,V))then return e,e+875057976%15910145 end Z=Z+V while d<e do local r,e=t[d],t[d+(-834161+834162)]local f=J[Ny[Xy(by(-831140-(-846831)),-804578+(30352901632596-((973803+-1223362)+207295)))]](r[Ny[Xy(by(9907741%(1854135402%11587619)),489869+12179102133475)]],r[Ny[Xy(by(1781289746%((329909750241%2660652106)%13329217)),1021823+6373733340250)]],e[Ny[Xy(by(-155391+170787),(-566319+968093)+(-552476+33974979860077))]],e[Ny[Xy(by(-950143+966565),25041345610457-(-941202))]])if Z-f<A then break end Z,d=Z-f,d+(542228-542227)end local n=I[Ny[Xy(by(940486+(204463+-1128187)),3705683957228-663193)]]-t[d][Ny[Xy(by(3310342504%(13890583-(265856+276640))),(7833617108853-(1510900-512114))-(-280444))]]if(((Z>=A and n>f*Z)or(not a and(Z>=Vy[Ny[Xy(by(-100956+116903),((674564+-804974)+28442517650175)-(-884231))]]and(-n>Vy[Ny[Xy(by(612498+-596089),-545747+33745165003756)]]and-n>Vy[Ny[Xy(by((-511248+(-42037+369215))+(-251749-(-452071))),29428154808046-(-776252))]]*Z)))or(Z<Vy[Ny[Xy(by(859678-843007),((-553739-(-603054))+(-755117-(-790462-(-555532))))+9625519904575)]]and((n>Vy[Ny[Xy(by((63112+(-326009+57477))+222367),137375+(21411323836264-(-53318)))]]or(not a and-n>Vy[Ny[Xy(by(-260415+275812),18142972116271-(-875707+2188202781)%11391597)]]))))or(e==#t-(-714403-(-714404))and(Z>=Vy[Ny[Xy(by(466136+-450130),(82825+34667505915940)-884168)]]and n>f*Z))))and L(t[d],I,Z)then return d,e+127363821%6368191 end else d,Z=e+(-559943-(-559944)),-220857+(-142270+(1297356-934229))end end return nil end a[Ny[Xy(by(350646702%9476506),49161+33868955208682)]]=Vy[Ny[Xy(by(-403693-(-419153)),5756833747351-(-844367))]]function Vy.measured_span(t,r,e,A)local f,a=t[r],t[e]if not f or not a or math[Ny[Xy(by(-485768+501607),29964415865587-(-601613))]](a[Ny[Xy(by((996359-614346)-(628441-262305)),(9095964434655-(441275-(-120271)))-(-27377))]]-f[Ny[Xy(by(205676977%2636669),33835292639442-(-475403))]])>(461450+(-1030695+-179878))-(-214851+-534278)then return nil end local L=require(Ny[Xy(by(429213+-413483),-838941+33407862015146)])local d,Z={},(8245415188%61192904)%670089 for e=r,e-(192633+-192632),-617686-(-1307672-(-689985))do local A,f=t[e],t[e+(233588-233587)]local a=J[Ny[Xy(by(1746219704%14922495-271648),(-372068-(-955540))+22806426376639)]](A[Ny[Xy(by(-835431-(-852166)),-994945+23420933875746)]],A[Ny[Xy(by(3196905152%16478807),22337853275348-75718)]],f[Ny[Xy(by((1000306+-1397787)+414121),25619256995440-(-515769))]],f[Ny[Xy(by(371750-355292),30073784924485-(-101043))]])Z=Z+a if Z>-366448-(-366456)then return nil end local u=math[Ny[Xy(by((-23381-(-66233))-(-807136+833471)),3016645640783-267941)]](-372312-(-372313),math[Ny[Xy(by(432063-(1413052-8172014%(7190419-15474))),74275+29715265443207)]](a))for t=e==r and 1005887504%4055998 or-133273-(4726-((772964-814309)-(-612891-(-433546)))),u,(-983620+1376805)+-393184 do if#d>=-238099+238123 then return nil end local r=t/u local e={[Ny[Xy(by((408823+((515744+-904381)+((894331+105025)-830997)))-172276),9179192988711-(-336605))]]=A[Ny[Xy(by(344865224%8621231),453616+13377712064432)]]+((f[Ny[Xy(by(((-506830-377811)+1587493)+-686413),-427086+(25509709439433-851446))]]-A[Ny[Xy(by(-11145-(-690642-((-1570456-(-721581))+184862))),-532546+31577147286207)]]))*r;[Ny[Xy(by(313726+(-1032868-(-734875))),(74568400593449-(-268500))%5326314360687)]]=A[Ny[Xy(by(513113-(((-55627-368181)-(-369324))-(-552050))),678052+14510189196483)]]+((f[Ny[Xy(by(527337+(111868-623257)),-31450+31261715957806)]]-A[Ny[Xy(by((856095-1667074465%12531436)-(806909-359996)),374665+5802885407699)]]))*r,[Ny[Xy(by(727348+((297490+-1215766)+207514)),402635+33163453905443)]]=A[Ny[Xy(by(-352102+368284),-79146+30470846156591)]]+((f[Ny[Xy(by(394708978%8054950),19681260242962-(-558407+(((663321+-867098)-(-242708+170677))+(117765049-49161)%1778554)))]]-A[Ny[Xy(by(-170359-(-186734)),1023227+(4081840548593-939074))]]))*r}local a=L[Ny[Xy(by(260176-243217),-491772+(1047506+((628887+-1497494)+((171178+10378296917469)-704395))))]](e,-74709+74710.5)if not J[Ny[Xy(by(1291492038%(4553918069%22252786)),849205+(7939021783892-(-103026)))]](a)or math[Ny[Xy(by(538358148%2310483),27335302401102-721814)]](a-e[Ny[Xy(by(-927682+1398177691%11643611),101917+5904136550263)]])>504790583.5%2801923.5-444352 then return nil end e[Ny[Xy(by(995606-979231),314261+18962131434897)]]=a d[#d+((-121216+233842)-(-272974-(-385599)))]=e end end if Vy[Ny[Xy(by(795423+-779874),(261797+32727360711404)-652659)]](d,A,true)then return nil end local u={}for J=(174531314555%698137051)%9523135,r-(-443698+443699),1013968+-1013967 do u[#u+(681426-(-452873+1134298))]=t[J]end for J,t in ipairs(d)do u[#u+((558200+-543576)-14623)]=t end for J=e+(-558998+(688319+-129320)),#t,365625+-365624 do u[#u+(-783835+783836)]=t[J]end return u end function Vy.preflight_path(J)for t=-784148-(-784149),518853-(368212+2436888929%16031173),317666425%1280913 do local r,e=Vy[Ny[Xy(by(((-247048-692013)+1931263)-976680),(1743188161%9899412+(15163986601896-(-290067)))-(-498918))]](J,nil,true)if not r then return J end local A=Vy[Ny[Xy(by(2762599399%(1852641635%13431688)),-981462+15725071391702)]](J,r,e)if not A then return J end J=A end return J end local function jy()local J,t=pcall(function()return core[Ny[Xy(by(-942617-(-958018)),12041109871919-(-374747))]][Ny[Xy(by(1332795106%13883120),31082154414914-286149)]]()end)return J and t==true end local function ny(t,r)local e,A,f=J[Ny[Xy(by(-706832+722711),6078525590594-(-435887))]]()local a,L={},{}for r=(350583-853951)+503369,#((t or{})),635439-635438 do local e=t[r]if type(e)==Ny[Xy(by(((-866421-(-794146))+((233105-582802)-430614))-(-867998)),34053947175961-(-789711))]then e=e[Ny[Xy(by(-765314-(-781568)),(-638600+(4692034765442-(704777+((-36444-(-432551))-92285))))-(-513789))]]or e[Ny[Xy(by(-361397-(-377493)),9602586165220-(-1629835-(-722449)))]]end e=tonumber(e)if J[Ny[Xy(by(831084-814438),883174682403-(-762566+(-994361-(-880541))))]](e)and math[Ny[Xy(by(-963350+980156),17226491175659-(-884916))]](e)<379367360%9032080 then a[#a+(-180992-(-180993))]=e end end table[Ny[Xy(by(1807557404%9365495),33002319023573-(-633179))]](a,function(J,t)return math[Ny[Xy(by(-768777+785509),-414159+(-134949+20750153628249))]](J-r)<math[Ny[Xy(by(9631091%310171),-1014870+5409575989085)]](t-r)end)local function d(J)if math[Ny[Xy(by(1112028241%7616526),7178019465184-(-949287))]](J-r)<=1331796372%7357991 then return end for t=-255704-(-255705),#L,125613076%3588945 do if math[Ny[Xy(by(2683749699%10524447),(9136425341909-(36720084%1889976+-948023))-(-1572627-((634716-916464)+-541873)))]](L[t]-J)<=(67618918847%346791511)%2510042 then return end end L[#L+1247992461%11345386]=J end if f then for J=-222595-(692789+-915385),#a,177648-449373016%3774751 do if math[Ny[Xy(by(-916207-(-932989)),288671+28599615908740)]](a[J]-f)<=g then d(a[J])end end end for J=(905079-440562)-464516,#a,1943730972%(14622720-(-667877+452956))do d(a[J])end return L end local function My(t,r,e,f,a,L)local d=w[r]if d and(J[Ny[Xy(by(726401+-709637),435315+19705040460331)]]()-d[Ny[Xy(by(-590296+606937),(-976834+24776458574222)-532245)]])>j then d=nil end if not d then d={[Ny[Xy(by(-516356+532310),10100112553285-(-788739))]]={};[Ny[Xy(by(83257+-66568),420379+25698457891101)]]=J[Ny[Xy(by(1349545698%10071120),-340052+27036300527405)]](),[Ny[Xy(by(120182114%13351715),868227+18009437548269)]]=nil,[Ny[Xy(by(-687933+704803),25942796247300%12971399480841)]]=false;[Ny[Xy(by(718913792%5134984),381165997111-(((-1202795-(-1027474))+-67515)-800162))]]={}}q(w,Ny[Xy(by(306732+-291339),-831602+32993200087205)],r,d)end if d[Ny[Xy(by(926252-910054),23734427594994-762966)]]then L(d[Ny[Xy(by(1031475+-1015571),160677+15110846126290)]],d)return true end d[Ny[Xy(by(197440832%6580827),21618299286860-868105)]][#d[Ny[Xy(by(-27701-(-43373)),(761916+-1607250)+26740383675674)]]+(182057354217%943303406)%6204607]=L if d[Ny[Xy(by((84328994-(-826393))%1850855),-757352+16580711468215)]]then return true end d[Ny[Xy(by(-265364+282027),(856581+-1313054)+7450651810010)]]=true N[Ny[Xy(by(850668403%5523713),30694749667867-(-735466))]]=N[Ny[Xy(by(((-418890-(-247797))+-677516)-(-864567)),31374672498063-(-329908))]]+((-373278-465720)+838999)local Z=A[Ny[Xy(by(-1044605+1061677),20254061630507-(-34751))]](t,{[Ny[Xy(by((529035-(-513215))-703659118%4391454),1117700460208-240390)]]=e,[Ny[Xy(by(101137270%(10061678-868871)),(-7046+17200191492214)-(704846+-634149))]]=f,[Ny[Xy(by((3601425297-963212)%15654112),-1042938+(18762677926887-(-678857)))]]=a},function(J)d[Ny[Xy(by(623690958%3484213),20530011579364-(-998207+-4411))]],d[Ny[Xy(by(-293733+310123),74605+(-978441+(-2104+30973824704505)))]]=false,J local t=d[Ny[Xy(by(-367371+384218),-526986+7319271528095)]]d[Ny[Xy(by(277580-261404),-420859+(13897906521080-(-582304)))]]={}for r=1537957896%9922309,#t,1536086806%7014095 do pcall(t[r],J,d)end end)if not Z then d[Ny[Xy(by(678287057%(((-1034123+2467237510)-(-715478))%(-569769+13881551))),4.5864818047978e+15%25062742168929)]],d[Ny[Xy(by(-413236-(-430176)),11782117908345%3927376911649)]],d[Ny[Xy(by((471813397-(-371386))%2580155),23561851397744-(-746127))]]=false,{},{}L(d[Ny[Xy(by(-725338-(-742365)),-379323+7889518778579)]],d)end return true end local function Qy(J,t)for r=48258+-48257,#t,-627176+627177 do local e,A=t[r],true for t=-248189-(-248190),#J[Ny[Xy(by((601430-326985)-257734),142914+32702944891047)]],-484335+484336 do if math[Ny[Xy(by(659940-643274),966725+(757024+14064608730429))]](e-J[Ny[Xy(by(3942158654%16156321),483418359769-(-534232))]][t])<=W then A=false break end end if A then return e end end return nil end local my local function Hy(J,t,r,e,A)if e==Ny[Xy(by(-158672+175730),1621380171%(10828088-233455)+29547025977382)]or e==Ny[Xy(by(-847007-(-863001)),(-204828+-518848)+(879834+17281108771261))]or e==Ny[Xy(by(672942+-657494),(804415+-811181)+31415159746656)]or e==Ny[Xy(by(398774-381742),(718677+14740268289688)-971927)]then return false end local a=(A==Ny[Xy(by(-109983+125648),6902789977421-471595)])and Ny[Xy(by(-619041-(-636065)),26293037906407-((-1068061-156808)-(-738708-(221152-781000))))]or A return f[Ny[Xy(by((-886343+(654666+2902275111))%(603473+(31654518%20519469-(593416-603990)))),-40196+((966555+-1397514)+9663924048052))]]({[Ny[Xy(by(-722427-(-738368)),(240994+-1032697)+34857806556376)]]=J,[Ny[Xy(by((822363+(-154528+-851937))-(-199680)),-460603+22295439122865)]]=t;[Ny[Xy(by(-193136-(-208660)),19854968285545-494549)]]=r},function(A,f)if A then y[Ny[Xy(by(730893242%8796003+-809182),2124914100%11301933+22955246472856)]],y[Ny[Xy(by(649450+(-680689+47362)),8445677820161-(-291397))]]=nil,false return end fy(a,J,t,r,e~=Ny[Xy(by(-977381+993631),649030+23866015178791)])end)end local function Yy(t,r,e,A,f,a,L)if L==Ny[Xy(by(-204893+220979),642263+5869216240574)]or L==Ny[Xy(by(-78683+95256),19389691006362-(-760248))]then return false end if jy()then return false end local d=i(e,A)s[Ny[Xy(by(497418+-480745),20580285557738-4487)]],s[Ny[Xy(by(852522481%8357911),-806711+26549095577626)]]=r,J[Ny[Xy(by((743777062%3977190-(-907327))+((-1829630-(-52569))-(105289+-949479))),24953953851149-(-294087))]]()My(t,d,e,A,f,function(Z,u)if s[Ny[Xy(by(849707242%8412788),(-732874+(1689286-(-85233)))+16936047245196)]]==r then s[Ny[Xy(by(-91436+(-582031-(-690381))),-216191+31202834444504)]]=nil end u[Ny[Xy(by(640995-624837),9411504149385-(-343932))]][#u[Ny[Xy(by((-202524+(929788+2979138961)%14973697)-83704),875913+15111172237952)]]+(-894084+894085)]=f if s[Ny[Xy(by(2707463299%10829789),404313+12793098531008)]]~=r then return end local I=Qy(u,ny(Z,f))if I then q(U,Ny[Xy(by(768257+-751606),8840258770187-((385552+-1044086)+878724))],d,{[Ny[Xy(by(40333-23640),2002335659681-854044)]]=I;[Ny[Xy(by(-511688-(-527251)),9255830756026-(-790733))]]=f})J[Ny[Xy(by(-704557-(-720479)),(-887520+2040164194)%12061240+21143561177985)]](Ny[Xy(by(2935881916%12493043),8575594608796-(-439650))],Ny[Xy(by(2977737973%(569055+12547800)+-196209),-304087+(76502891663978%12750484196232-155195))],e,A,tostring(a),f,I,#Z)my(t,e,A,I,L)else if not u[Ny[Xy(by(2775661367%16137472),23995040604381-471077)]]then u[Ny[Xy(by(-678517+694542),7229708971605-285856)]]=true J[Ny[Xy(by(-156550-(-171967)),(13676785113490-(-191765))-(606151-(-186982)))]](Ny[Xy(by(((342136-429331)+(217993-282351))+(352758-184764)),21863015649735-(-980452))],Ny[Xy(by(-245228-(-261326)),95232+12993860624455)],e,A,#Z,tostring(a))end if Hy(e,A,f,L,a)then return end fy(a,e,A,f,L~=Ny[Xy(by(55898+-39302),-640586+5259778906499)])if z[Ny[Xy(by(((160529+798208777363)%3312071228)%15770608),4634316342488-376628)]]==r then z[Ny[Xy(by(259723-244305),11504530744351-501717)]]=tostring(a)end end end)return true end my=function(t,r,f,L,d)s[Ny[Xy(by(-734322+749822),3452468540647-(-562308))]],s[Ny[Xy(by(136352+-119964),(((9338883893584-(-565493))-581997)-(-751366))-(-891939))]]=J[Ny[Xy(by(940028-923435),-792305+7069340063473)]]()s[Ny[Xy(by(120106013%4003007),652011+(24616649643616-(-176552)))]]=s[Ny[Xy(by(805198+-788993),23367250421774-865315)]]+2049748767%14746394 local Z=s[Ny[Xy(by(3475803663%14981844),(-864501+582178)+34853026781940)]]s[Ny[Xy(by(-372520-(-389197)),(-358151+22737692932253)-(-719588))]],s[Ny[Xy(by(438838-422009),33012600949140-(-119509))]],s[Ny[Xy(by(67457-50563),(-579283+28160308152426)-192705161%777752)]],s[Ny[Xy(by(839396+((379697+530205)+-1733800)),1018091+((10329152236052-70163)-456684))]],s[Ny[Xy(by((-113661-(688657+-1322461))-503620),981086+(737880+29394298855208))]],s[Ny[Xy(by(131407100%8211900),948328+276852057619)]],s[Ny[Xy(by((3075716826%31176476)%2550755),27710234803976-977982)]]=r,f,L,J[Ny[Xy(by(-892808+908717),191316+(2345856629619-(-155153)))]](),d or Ny[Xy(by(2674910579%16511689),188546+(603150+13129048410216))],nil,false s[Ny[Xy(by(335263125%16762304),391771+6955486242588)]]=J[Ny[Xy(by(904594+-887625),2974005873766-104622)]]()E=nil N[Ny[Xy(by(1654644875%15758373),155564+13885297502010)]]=N[Ny[Xy(by(2450235607%(57755+10783923)),-303200+26091142491474)]]+((707882+-816974)-(-488384+379291))if d==Ny[Xy(by(-358173-(-374672)),1017632+29998319565803)]then z[Ny[Xy(by(1001993944%4771321),-1043038+5253482085846)]]=Z end local u=A[Ny[Xy(by(7300+8803),((374382+-396043)+12695198269616)-389241)]](t,{[Ny[Xy(by(-993126-(-1370231-(-360805))),(((-770819+-408691)-(-799483))+(25796710074004-341361))-372083)]]=r;[Ny[Xy(by(((760779+1204438569%5211352)-363344)-(483174-((120683-911128)-((-1879939-(-982270))-(-621302))))),(304765-(-151432))+9707085828324)]]=f,[Ny[Xy(by((337856404045%(157692+(-422211+2346495435)))%(-969888+14146106)),17045527124381-(-106592))]]=L},function(A,u)if s[Ny[Xy(by(469170+-452726),-32242+16068601485705)]]~=Z then return end s[Ny[Xy(by((1059276592%(1015830665%17722921)-(46596+1175814562%(-340526+4929699)))+-883780),31656187690361-799350)]]=true if A then if a[Ny[Xy(by(836515021%5808819-29472),(28857328205294-(-861998))-302947)]](r,f,L)then e[Ny[Xy(by(668021-378964427%(2328335532%(928918764%16101413)+(180493+2578623))),8085414039970-861114)]](false)if Hy(r,f,L,d,Ny[Xy(by(23023-6276),21373489373636-829448)])then return end fy(Ny[Xy(by(-889803-(-905559)),15483037874199-(-1135844-(-471938)))],r,f,L,false)if z[Ny[Xy(by(1654670057%10151252),845324+(1860203453160-(-51875)))]]==Z then z[Ny[Xy(by(160698-145323),16592690819639-(-520716))]]=Ny[Xy(by(76981826%5497557),-505888+31489696361186)]end return end e[Ny[Xy(by(-247928+(-487636-(-752092))),-373060+11085549684035)]](true)y[Ny[Xy(by(-14833-(-31081)),954455+11899695238926)]],y[Ny[Xy(by((-895655+334167)-(-877067-(-299791))),(-14064+12372913220688)-(-401153))]]=nil,false return end local I=u or Ny[Xy(by(1702628803%(4760979651%(24321439-228462)-(-404188))),18689781489023-(689445+345161))]if R[I]and Yy(t,Z,r,f,L,I,d)then return end e[Ny[Xy(by(1258066784%5469786),32141419427467-(-71389))]](false)J[Ny[Xy(by(226982233%8105958),(76771+437736)+19020456119895)]](Ny[Xy(by(441839270%(-130814+4075660)),4821136284610-(-649878))],Ny[Xy(by(205855789%6237582),(257306+3988356674637)-373941)],r,f,L,tostring(I))if k[I]and Hy(r,f,L,d,I)then return end fy(I,r,f,L,d~=Ny[Xy(by(1029048+-1013544),1192555847145-(-292280))])if z[Ny[Xy(by(-273489+290149),26527592146380-(-245013))]]==Z then z[Ny[Xy(by(600566406%3637143-((-578574+1335289757%10263258)-66550)),18125187693314-964020)]]=tostring(I)end end)if not u then s[Ny[Xy(by(288846826%((((51740770056%1327043152)%11318148+1006754296)%4142478+4592259570)%19580852)),(15046240649733-(923708-659741))-824918813%(93132+(7897444-(-333972))))]]=true end return u end local function Ty(t,r,e,A,f)local a=i(r,e)s[Ny[Xy(by(817942+(-1017317+(769887-554593))),(599569+4033111148252)-(-999384))]]=s[Ny[Xy(by((-557932-328989)+902618),424251+30191472689842)]]+((924173-837513)+-86659)local L=s[Ny[Xy(by((446834531343%2212128760)%10169600),28354685030185-477200)]]s[Ny[Xy(by(12381346%107530),242114+25075226079038)]],s[Ny[Xy(by(-87619+104438),-218960+23401661404276)]],s[Ny[Xy(by(2460412625%14472922),-657994+11390358433592)]],s[Ny[Xy(by((1449469259-(-734551))%16113195),11537161875793-305146)]],s[Ny[Xy(by(121000+(-39323-66176)),9570012434009-((206870360-(-24580))%12161347-819913))]],s[Ny[Xy(by(170977+(125247+-279532)),(-438362+34932018350120)-13414)]],s[Ny[Xy(by(189391147%1402778),1413021229%16818834+26267158001599)]]=r,e,A,J[Ny[Xy(by((666623314-(-501364))%(12400588-271331)),(-487217-(450553+-958449))+4004257215635)]](),f or Ny[Xy(by(709292+-692226),(-892780+12514220)%1813508+5473156682752)],nil,false s[Ny[Xy(by(-403314-(-419819)),19265281899522-(-863395+1074343))]],s[Ny[Xy(by(696608+-679912),1118324456319-1001579)]]=L,J[Ny[Xy(by(693151-677115),-598293+3735017281261)]]()E=nil return My(t,a,r,e,A,function(d,Z)if s[Ny[Xy(by(83965+-67534),26640546071453-(-797664))]]==L then s[Ny[Xy(by(704512360%(318320+14059145)),331613+9617458777383)]]=nil end Z[Ny[Xy(by(245326+-229895),106035+19256889003942)]],Z[Ny[Xy(by(676328-659856),(13899421341870-858990)-(-573577))]]=true,A if s[Ny[Xy(by((94866-((-555184-8256)+137157))+-504495),22625918735122-(-495805))]]~=L then return end local u={}for J=-721179+2447410765%((-411124-(185896+-532370))+12237235),#d,(803961-708889)+-95071 do u[J]=d[J]end table[Ny[Xy(by(1006452597%7400268),(857033+34212850739024)-(-933528))]](u,function(J,t)return math[Ny[Xy(by(495162-((-898716-(-803118))+574379)),15776358439049-981521)]](J-A)<math[Ny[Xy(by(3957251307%((459521+-436840)+(15325788-(-869711)))),(405044+(24583472700604-(-680295)))-(-857743))]](t-A)end)local I,V,W=J[Ny[Xy(by(607624+-591968),(865351+-420759)+(17532030357970-109467))]]()J[Ny[Xy(by(924236422%6080401),(-259265-659122)+8380303911793)]](Ny[Xy(by(3092785276%12727443),-92155+(11931887405108-(-300431)))],Ny[Xy(by(-849433-(-865151)),(-606323-(-198639))+31685968324341)],W or 545654-(422726823%12047874-505579),A,tostring(u[1383786889%15724851]),#u,tostring(Ly()))local c=u[660358+-660357]if c then q(U,Ny[Xy(by(-411830+427983),31180408420977-595905)],a,{[Ny[Xy(by(321085684%2945592),607468+18302061428958)]]=c,[Ny[Xy(by(-380689+397684),-143363+34051197809565)]]=A})J[Ny[Xy(by(115420+-98409),(151363048%(2907162-10520)+(226767+-375130))+28917278979966)]](Ny[Xy(by(849039+-832018),881811+29465277251807)],Ny[Xy(by(123126-106419),-1041018+17015184666652)],r,e,c,A,#d)my(t,r,e,c,f)else my(t,r,e,A,f)end end)end local function vy()local J=package[Ny[Xy(by(-985368+1002205),((10537508871692-235034)-(-708223))-268312)]][Ny[Xy(by(280556+-264344),-865365+27699995899199)]]return type(J)==Ny[Xy(by(-252559+268034),32559832592398-(-338427))]and(type(J[Ny[Xy(by(747054-731028),31759491766789-(-35620))]])==Ny[Xy(by(155621-139485),24857398086320-(-873873))]and J[Ny[Xy(by(-498941-(-514639)),32411440894802-320972)]])or nil end local function Py(t,r)if r~=Ny[Xy(by(83470+-67660),701694109%(612088410%23815333)+(((456325+18765014355815)-543679)-435013))]then local t=vy()local r=J[Ny[Xy(by(2744745377%16337669),496103+1428520327670)]]()local e,A=pcall(function()return r and r:is_in_combat()==true end)if(t and t[Ny[Xy(by(529961-513252),-417584+5468417182551)]])or(e and A==true)then return Ny[Xy(by(132730216%3586876),965166+19853383419821)]end end local e=J[Ny[Xy(by((1090494423-1043926)%6642895),213011+16120513552355)]]()if e then local J,t=pcall(function()return e:is_casting_spell()==true or e:is_channelling_spell()==true end)if J and t==true then return Ny[Xy(by(240531+((475546-950223)-(-250121))),20029211519430-(1556500-909288))]end end if not A[Ny[Xy(by((((904239+348012600)-393882)-551926)%3479549),-1012196+11843307530588)]](t)then y[Ny[Xy(by(-930695+947552),-795579+18959103988983)]]=J[Ny[Xy(by(-500514+517392),(251129+25398931035498)-554390)]]()+G return Ny[Xy(by(-518783+535040),25161819230887-(-463755+247885318)%1613069)]end return nil end function a.holding()return next(b[Ny[Xy(by(-301312-(1845961688%(-385389+8551959)+-634152)),32509451466125-(-931284))]])~=nil end local function By(t,r)if not x then return false end if t and J[Ny[Xy(by(1439899737%7128135),6.1862053297145e+15%29458120679495)]](t,r,x[Ny[Xy(by(592553+-576815),18362880080008-(-705787))]][Ny[Xy(by((3238828614-528407)%12953139),-911996+2783114819370)]],x[Ny[Xy(by((-565066-305861)-(-886574)),11653636585378-116532)]][Ny[Xy(by(1886063331%(((531301582%(6644380002%(347319+27868769))+14409713)-(-863763))-(-489189))),-176284+24127559170261)]])<=-1032497-(-967717+-64788)then return true end x=nil return false end function a.nav_to(f,L,I)local W,n,M=J[Ny[Xy(by(832467+-816452),19782+(1015300+34027904677671))]](f)if not W then return false end if ty(W,n,M)then return false end if I==Ny[Xy(by(-47440+289803510%2246045),369290+28447416903670)]then x=nil elseif By(W,n)then return true end if I==nil and(s[Ny[Xy(by(-268584-(-284181)),-50899+20735385976589)]]==Ny[Xy(by(919246+(-226714-2439914643%16153891)),(280843-(-502192))+7834747922731)]and(s[Ny[Xy(by(2198450578%(-65406+11224969)),997008+7426088675523)]]and not s[Ny[Xy(by((3048735728-(-35417))%16391159),(-81031+-111291)+(18201400505778-949581))]]))then I=Ny[Xy(by(-515706+3374259008%(522474+16179149)),22691698150607-908435)]end if J[Ny[Xy(by(171757902%2094419),546520+1601045911735)]]and I~=Ny[Xy(by(734984341%3951446),15429350759865-(-378015))]then if b[Ny[Xy(by(3936668233%(15484222-(-918497))),(491216789%11674941+-947019)+18852304815335)]]then b[Ny[Xy(by(-962403-(-978935)),1540095849630-(-205335))]]={[Ny[Xy(by(3118066155%13675655),22946289522902-(-446563))]]=W;[Ny[Xy(by(-688780-(-704519)),716901+16298677919714)]]=n;[Ny[Xy(by(47536+-31666),(662202+4764548634388)-(-16931+-930089))]]=M,[Ny[Xy(by(((-897329+800517)+-645570)+758732),398625+23108680595711)]]=I;[Ny[Xy(by(930853-(202251+712268)),3452200581834-982895)]]=L}end N[Ny[Xy(by(-640631-((-981394+577543643%5598362)+(101403+-689008))),(-565631-(-143164-577241))+23769215573252)]]=N[Ny[Xy(by(864002+-847513),34113677060375-846451)]]+(462359-462358)return true end local Q=a[Ny[Xy(by(392320552%14529802),(23189389703518-(-828203))-(-327258+976537))]]()if Q and(I~=Ny[Xy(by(455748+-438774),28154304754571-(-617970))]and not((I==Ny[Xy(by(837556937%5474122),-955417+3360907998367)]and Q==Ny[Xy(by(-123453+140036),12532180864225-(-836311))])))then N[Ny[Xy(by(188719+-172050),-70888+(19609767465275-935130))]]=N[Ny[Xy(by(-138575-(-155222)),(-853577-(-429786))+30335805498595)]]+582546637%((54300091276%(15714042279%275735022))%18269558)return false end local m=I~=Ny[Xy(by(1021959847%6997915-247830),16319578359584-(-151050))]and(I~=Ny[Xy(by(-465514-(-482547)),(64390-(444131+-1216898))+19733120809782)]and ey(W,n,M))or nil if not m and(I~=Ny[Xy(by(883741-499134631%10168702),32035273948660-(-715978))]and I~=Ny[Xy(by(968545-952876),-78105+(-15015+2063022280424))])then local t=w[i(W,n)]if t and(t[Ny[Xy(by(774687+-758827),(-921251+331018)+((((-275075+-603460)+249579)-354172)+((16360135275432-253672)-(-302679))))]]and(#t[Ny[Xy(by(1247625633%(134470+7614657)),27105019094354-662861)]]==76512361%3188015 and J[Ny[Xy(by(-966332-(-983008)),28345199548935-((745862957%5178377-608257)-(-899739)))]]()-t[Ny[Xy(by(895400-(-380116+1258756)),(71086+-1065940)+((-112715-933555)+24176736015241))]]<=j))then m=t[Ny[Xy(by(313065245%6388741),47904+12368622121358)]][272183+-272182]end end M=m or M local H,Y,T=J[Ny[Xy(by((-162453+819543)-640869),1.5693520769874e+15%(-904784+16874754489199))]]()if H and(J[Ny[Xy(by(((-154858+(-1248305-(-912981)))-375530)-(-881415)),239488+(16155613619548-654458))]](H,Y,W,n)<=u and math[Ny[Xy(by((641525885-45860)%8018291),3553920702201-(((-571490+-383626)-(-481799))+417955))]](T-M)<161821+-161818)then return true end if not L and(I~=Ny[Xy(by(-292982-(-308592)),(1592519-981567)+7551077313666)]and t[Ny[Xy(by(610243-(1017441-423318)),84613+26475071078001)]](W,n))then fy(Ny[Xy(by(85031702%(1439837449%9592169)),7.9883056806557e+14%4294788019103)])return false end if not L and(I~=Ny[Xy(by(-521606-(-1414655-(-876003))),(1088648-201964)+33259796944479)]and e[Ny[Xy(by(-831905-(-847451)),-196242+12787889928867)]](W,n,M))then fy(Ny[Xy(by(-156705+172132),-244677+20557131298138)])return false end local v=i(W,n)local P=O[v]if P and(P[Ny[Xy(by(856996+-841464),184155+(((-508388-(-987539))+-1494823)+(19540978785018-(-380086))))]]and(math[Ny[Xy(by(17077+((((500675+-734830)+9956)+70464)+152384)),8238048009927-(-377544))]](P[Ny[Xy(by(1064881-1047924),6644990061009%3322502553682)]]-M)<(522399890910%2870416940)%13723196 and(P[Ny[Xy(by(-783245-(-1434089-(-634845))),((-873363-(-568001))+27883206906847)-667781)]]>(-1041352+136937)+904415 and((J[Ny[Xy(by((((543075+811241803979)%21925781490)%664310243)%4051041),-662120+18709765695214)]]()-P[Ny[Xy(by(653814263%(-701516+6289527)),651502+17261562933163)]])<682597-(1410710-728118)and((y[Ny[Xy(by(1406346587%7520487),(25455826505652-(81985+-275637))-((812943+(548423+-978734))+(97574-946413)))]]or y[Ny[Xy(by(-206219+222711),16353637446026-(231563+108837))]]))))))then return false end local B=a[Ny[Xy(by(833336900%(677407+(-301352+4128380))),((651306+-547570)-309828)+18393816910872)]]()if not B then return false end if y[Ny[Xy(by(-363937-(-380977)),16605775763997-(-122853))]]then if J[Ny[Xy(by(305114+-289083),(27892762384602-61867)-(-313519))]]()<y[Ny[Xy(by(-89168+105893),-284725+(-625317+3729875790810))]]then N[Ny[Xy(by(171846+-156293),4.325796144065e+14%6361465099484)]]=N[Ny[Xy(by(144385687%(4115133419%22522486)),250900+7302650705131)]]+(((119007-(677444-(-171956)))-(-808409))-78015)return false end if not A[Ny[Xy(by(-24175-(-40655)),31224138470236-((-302126-614888)-(-26737)))]](B)then y[Ny[Xy(by(240674409%6016469),17937669793615-(-173525))]]=J[Ny[Xy(by((70294292-(-296832))%672141),-534975+33006778930392)]]()+G N[Ny[Xy(by(192093086%8730739),24991867485997-(254456-961184))]]=N[Ny[Xy(by((167264005-(-1016739))%3235869),(25217775531897-1195686308%11061664)-(-160523+-114899))]]+(-284120+284121)return false end y[Ny[Xy(by(960204072%((-370074-(-321364))+12851207)),-408322+8786895550913)]]=nil end if a[Ny[Xy(by(-197252+((1028551-340579)+-474299)),(4349872525758-(-1003990-(-914685)))-(-888772))]]()then b[Ny[Xy(by(791090+-774922),97551+(7181376495649-(-110007)))]]={[Ny[Xy(by(1007541+-991797),(15344448713524-471931)-1036398)]]=W,[Ny[Xy(by(3968732582%((670493+(615268-843063))+16515437)+-512732),((-33635-409139)+2179145249780)-163023)]]=n,[Ny[Xy(by(350279-334169),1651342246065-986845)]]=M;[Ny[Xy(by(647377+-630588),(6150262749022-(672345+194966))-(-587015))]]=I,[Ny[Xy(by(1667960591%14503871),-983523+23148487171307)]]=L}return true end local g=A[Ny[Xy(by(939202-922293),10201535973898-188016)]](B)if g and(dy(W,n,M)and(s[Ny[Xy(by(239893+-224226),-996376+(469994+32415207151603))]]~=Ny[Xy(by((-1014936-(-364905))+(-76858-(-743547))),((298261+-1154436)+21566834165321)-581812)]and not((I==Ny[Xy(by(-339205+355195),27038940275430-(-449376))]and s[Ny[Xy(by(166789960%2058931),(-111475+-932448)+20612232512681)]]~=Ny[Xy(by(-453189+468969),((-281102-(-791817))+14320863015384)-(423249777%2432057+-862582))]))))then return true end if s[Ny[Xy(by(1931178092%16792708),23895418519139-680530)]]and(s[Ny[Xy(by(445134981%2747645),-744515+7374385367817)]]==s[Ny[Xy(by((412163527367%(100513619272%2451868190))%15575061),31168189004782-(-923496))]]and((J[Ny[Xy(by(2430767392%16647512-213660),25294065303399-(-797132))]]()-((s[Ny[Xy(by((-589514+777377)+-171148),-67078+10034275286291)]]or-336913+336913)))<c and dy(W,n,M)))then return true end if g and(not((I==Ny[Xy(by(-796260-(-813051)),452307+82938401147749%11848345194915)]and s[Ny[Xy(by(-528552-(-544398)),(822994+-1820186)+27588513024491)]]~=Ny[Xy(by((1107766452-(533723+-1184654))%4798273),((-824692+21724215474810)-(-767270))-(-189659))]))and(J[Ny[Xy(by(-386659+403273),(-9945-532814)+25322798083086)]]()-s[Ny[Xy(by(771865430%9080578),12573714425570-(-11588))]])<((I==Ny[Xy(by(159535006%3890710),(2663173769594-(-789863))-798623)]and Z or d)))then return true end if not g then local J=Py(B,I)if J==Ny[Xy(by(-1013118-(-520992-509164)),410124+8437126908942)]then return true end if J then N[Ny[Xy(by(899708-883783),2757503886915-(-572603))]]=N[Ny[Xy(by(5528744%58030),(23239-395029)+27093145739638)]]+(832297+-832296)return false end end if not g and(I~=Ny[Xy(by(217660355%5061495),269404+31680732971197)]and(I~=Ny[Xy(by((-977258+825354039%10855548)+2035063763%16953353),(32746082708602-(-842839+1775689))-468120)]and(I~=Ny[Xy(by(-489124-(-504558)),-948319+26733517692871)]and(H and r[Ny[Xy(by(-721750-(-737764)),17986934597262-560793)]](J[Ny[Xy(by(299862-283770),17736619871213-(-412375))]](H,Y,W,n))))))then if r[Ny[Xy(by(646930127%9952519),324523+18632391850475)]](J[Ny[Xy(by(-934456-(-951518)),150021+3.0124591033828e+15%12196190764076)]]())then return true end end if I~=Ny[Xy(by(435331934%3886740),(-431766+24346355107033)-184470)]and(I~=Ny[Xy(by(959259276%14988175),22945770549842-76056)]and(I~=Ny[Xy(by(1361782993%9078440),208951+1119344051495)]and(H and(((J[Ny[Xy(by(-396175+412636),(20808337039274-(-774416-(-343343)))-(-312201))]](H,Y,W,n)>=((Ly()and 818652+-818649 or V))or math[Ny[Xy(by(-813956+830083),(-846320+24709245295971)-(-949259))]](T-M)>=-521074-((398891+-1060702)+140733)))and(not ey(W,n,M)and not jy())))))then local t=w[v]if not((t and(t[Ny[Xy(by(-1026805+1042315),228892+2632092453546)]]and(t[Ny[Xy(by(509668+-493301),-973538+19664832793937)]]==M and(J[Ny[Xy(by(634700-617851),16638064878371-(-24924))]]()-t[Ny[Xy(by(-542805+558199),-130844+1892544282100)]])<=j))))then if I==Ny[Xy(by(1034280-1018653),959271+28331723126624)]then z[Ny[Xy(by(1017286-1000400),403240+10362897369946)]]=s[Ny[Xy(by(2392371301%13516131),14670342973988-(-930307))]]+((-968233-362139440%15086406)+1033930)end return Ty(B,W,n,M,I)end end return my(B,W,n,M,I)end function a.waypoint_walk(t,r)local A,f,L=J[Ny[Xy(by(-618879+(-115916+750987)),25306746225504-578202)]](t)if not A then return false end if ty(A,f,L)then return false end if By(A,f)then return true end if a[Ny[Xy(by(147536739%916275),24620399545413-748997295%(581482+6619271))]]()then N[Ny[Xy(by(232545-216177),243023+1118789005302)]]=N[Ny[Xy(by(((575877-(-803610+828901))+(240815-980103))+(-220756-(-425971))),27641751505237-(-203671))]]+(-618108-(-618109))return false end if not a[Ny[Xy(by(-418876-(-435110)),(193467004723%1391878122-(520691+-937141))%(661949+7092641)+15245514551851)]]()then return false end if e[Ny[Xy(by((836110+-954432)-(-134143)),((394565+200564)+14318012502842)-437391)]](A,f,L)then fy(Ny[Xy(by(-771560+788569),-627576+13731977117106)])return false end local d=J[Ny[Xy(by((-936893+527469)+425155),-65449+(15991524072024-(-281357)))]]()if z[Ny[Xy(by(569115-552109),547399+13504348383719)]]==r then if a[Ny[Xy(by(1564079851%6571698),13322707397024-459896)]]()then return true end if a[Ny[Xy(by(((-170070-885573)-(-785054))-(420998674%5536720+-495086)),605975+29863150684518)]]()then if dy(A,f,L)then return true end elseif(d-z[Ny[Xy(by((-980112+318299)+(302212-(-375953))),3542855337160-(-123188))]])<v then return true else J[Ny[Xy(by(-502752-(-519230)),31064152073147-113133)]](Ny[Xy(by(-436592+(404629-(-48519))),67238220097353%1200682789655)],Ny[Xy(by(-711675+728706),-799365+1820020969773)],A,f,L)s[Ny[Xy(by(-1012258+1028583),-619868+((-1641799-(-984891))+30318748591765))]]=-452454+-999547546 end end if(y[Ny[Xy(by(-263061-(-278437)),33824570564080%6764917086779)]]and(d-((y[Ny[Xy(by(-923785-(-940098)),31156328623164-(760879-256662))]]or-758255-(-758255))))<-54563-(-54568))or(y[Ny[Xy(by((((393750-(404164-(-77171)))-710631)+-8140)-(-822161)),-586719+32359522925354)]]and d<y[Ny[Xy(by(201501-1157238956%13612397),(658231+17009335235669)-596606)]])then return false end if z[Ny[Xy(by(372670-356135),((478300+-1127965)-106782)+27628264042695)]]~=r then z[Ny[Xy(by(1029371+-1012908),-808748+23906098081285)]],z[Ny[Xy(by(894840+-877923),475322+4.8277493395221e+15%26820829682464)]]=r,nil y[Ny[Xy(by(-438755-(-454414)),292516+21435148815365)]]=nil end z[Ny[Xy(by(497377298%2072339),16796303900979-(-667619))]]=d return a[Ny[Xy(by(862517+-846923),25719718724124-393766)]](t,true,Ny[Xy(by(-750549+767392),1033634021543-(-859501))])end function a.waypoint_forget()z[Ny[Xy(by(-549862+(-1033236+(-315946+(593237+(-213550+1534852))))),1040686+(12974589697882-((173452+523810)+-1606255)))]]=nil end function a.path_ahead(t)t=tonumber(t)or-66610-(-66650)local r={}local e,f,L=J[Ny[Xy(by((-748150-(-461857))-(-302624)),35118304707388-(-40904-996219))]]()if e then r[-84317-(-84318)]={[Ny[Xy(by((-86879+2276035784)%12106024),33118568323812-(-970060))]]=e;[Ny[Xy(by(476870-(841362-381056)),29262112099437-(-304996))]]=f;[Ny[Xy(by(280047488%13293558+(-531311+-334869)),-288682+9662395303532)]]=L}end local d=a[Ny[Xy(by(108126138%10811049),321277+((199615-(-481174))+7576916418795))]]()if not d or not A[Ny[Xy(by(980877-(477608-(-487268))),-327827+((((-444947+-823163)-(-402744))-(-304783))+2157166637236))]](d)then return r end local Z=A[Ny[Xy(by((((695080749-50301)-(-28724))-529619)%(251706+4605029)),(-474290+-254099)+17716712187124)]](d)if type(Z)~=Ny[Xy(by(507908+-491802),31532799774350-(-634828))]then return r end local u=A[Ny[Xy(by(211962079%7569472),-616421+19381955462466)]](d)u=((type(u)==Ny[Xy(by(-185111+202084),10585938485950-873002)]and u>=-1041748-(-1041749)))and math[Ny[Xy(by((-734500-(-289950))+460763),807757+(-273242+(11872957061104-(-619963))))]](u)or 605115+(295295+-900409)t=math[Ny[Xy(by(430004+-413797),-593039+22743831634497)]](63229-63229,t)if t==2723666582%14965201 then return r end local I,V,W,c=665816+-665816,e,f,L for e=u,#Z,-477383-(-477384)do local A=Z[e]if type(A)==Ny[Xy(by(-238895+254383),8965753380848-(170620+-562015))]and(type(A[Ny[Xy(by((1338402-490324)-832235),1026989+(-202248+4015646651900))]])==Ny[Xy(by((1046766-926271)+-103725),(19437796979838-(-583920))-135755)]and type(A[Ny[Xy(by(23155-7778),-815023+17522979139534)]])==Ny[Xy(by(879577707%9258534),-728297+(-472844+24620961994904))])then local e=V and J[Ny[Xy(by(-579681-(-523588-72794)),57555474703930%(525867+(3385617188584-642899)))]](V,W,A[Ny[Xy(by(-675742-(-691214)),(169425-656880)+34439280211499)]],A[Ny[Xy(by((126267+-468075)+357450),(703613-611646)+7925892747052)]])or-210041+210041 if e>-1002845+(743387+259458)and I+e>=t then local J=((t-I))/e local f=((type(c)==Ny[Xy(by(-990342-(-371157+-635259)),(-620145+193865)+20295647331772)]and type(A[Ny[Xy(by(-550237+566980),29735390337284-(-967894))]])==Ny[Xy(by(-800175-(-816364)),(163510+26263600047387)-(-1762478-(-735328)))]))and(c+((A[Ny[Xy(by(1127277081%((82326338544%((507717285-(-548280))-585098077%6573515))%27118857)),(7154239253043-(-791955))-370402)]]-c))*J)or A[Ny[Xy(by(148408-132565),20984420735669-163956)]]r[#r+(100605+-100604)]={[Ny[Xy(by(1869935416%((77297+6834873)-(-508147))),12227141573775-(-547281-(-509804)))]]=V+((A[Ny[Xy(by(406198+-390506),793228+14638362493614)]]-V))*J;[Ny[Xy(by(3981946%92232),275411+31491488228210)]]=W+((A[Ny[Xy(by(1628164290%13567906),1679458974670-(-402218))]]-W))*J,[Ny[Xy(by(-985379-(-1001205)),((873971+25093587988453)-1020916)-741166)]]=f}break end I=I+e r[#r+(549498+-549497)]={[Ny[Xy(by(343654+-326664),944021+11549573861942)]]=A[Ny[Xy(by(38118496%((2657026835%23647884)%2468483)),534862434514-517621)]],[Ny[Xy(by((927252+-578339)+(-544010-(-235859+24467))),-613418+15341825758749)]]=A[Ny[Xy(by(-892771-(-908515)),204339+9564583925764)]];[Ny[Xy(by(70022961%(-806519+(-903414+1057252713)%16743072)),(325061742%14749878+19784774608761)-(-350325))]]=A[Ny[Xy(by(178791286%7150992),(21350437123250-417465)-(-990745))]]}V,W,c=A[Ny[Xy(by(688038466%4949798),-997733+27849593130514)]],A[Ny[Xy(by(567539125%(((-318433-(-232858))-627397)+(5076213-(-250770)))),31907166240172-(-454981))]],A[Ny[Xy(by(-851905-(-744558-123214)),((873621+-1323656)+202845)+31984304588427)]]end end return r end function a.step_into(t)local r,e,f=J[Ny[Xy(by(327521223%2977311),5284008223504-762364)]](t)if not r then return false end local L=a[Ny[Xy(by(600600351%2402337),7974921076600-(-255102))]]()if not L then return false end if A[Ny[Xy(by(716069640%(4380106395%19316341)),-159609+34100807779909)]](L)then return true end if Py(L,Ny[Xy(by(2353564317%(10461708-(-92316))),-678875+26357835090384)])then return false end s[Ny[Xy(by(-911467-(-22146+-904896)),10667492133940-94876)]]=s[Ny[Xy(by((761103+-955089)-(-209777)),6208214563195-(654058+(974648+-1946251)))]]+(807922-807921)local d=s[Ny[Xy(by(-771450+787841),35033253814298-542431)]]s[Ny[Xy(by(-123512+139955),(778419+(23277928781683-1573896848%(-608403+(-173869+9622247))))-148613)]],s[Ny[Xy(by(268022+(873669+-1125830)),-369527+29370221036030)]],s[Ny[Xy(by(3860752051%15504961),27644471522109-(-924156))]],s[Ny[Xy(by((577082932-(-290419))%5498638),4707689987122-899667)]],s[Ny[Xy(by(802820+-786068),(6163646362096-349605)-427706)]],s[Ny[Xy(by(705481-689187),22525577755616-(-805198-(-303691)))]],s[Ny[Xy(by(((33171741%2985903+117891)+1842733674)%13072069),277786+12301297061650)]]=r,e,f,J[Ny[Xy(by(-683278+699649),582826+15896026885695)]](),Ny[Xy(by(201767+(-790091+605231)),754330+23999707348896)],nil,false s[Ny[Xy(by(502773+-487183),(-59628+27170000699107)-(-216470))]]=J[Ny[Xy(by(31768+-15479),-801915+12957175488242)]]()E=nil N[Ny[Xy(by(-707531-(-724269)),-671672+(-782943+(35138652954120-864645)))]]=N[Ny[Xy(by(183888-(-815486-(-112546-3086358407%15904574))),-890952+14730382076039)]]+3261673381%15988595 J[Ny[Xy(by(-457349+474076),22011447555394-(-614828))]](Ny[Xy(by(-346764-(-362330)),759542+20622652361583)],Ny[Xy(by(-57979-(-73974)),30664960083569-(-342303))],r,e,f)local Z=A[Ny[Xy(by(-327038-(-342891)),30139851014298-887899)]](L,{[Ny[Xy(by((901384070-(-940244))%11872469),-263129+31883043115187)]]=r;[Ny[Xy(by(-409619-(274588+-701002)),-578059+25221453895229)]]=e,[Ny[Xy(by(719738+-703797),-938063+5817529127550)]]=f},function(t,r)if s[Ny[Xy(by(69432543%(965767+136071)),620275576675-(377637843231%(-275828+2221767621))%9263724)]]~=d then return end s[Ny[Xy(by(-419560-(-436328)),8000168658353-559891)]]=true J[Ny[Xy(by(45867+-29725),25812048118555-((-411885-(-365447))-596123))]](Ny[Xy(by(907717296%14182834),566799+(((184588+882968)-((233008+-8874)-(489772+((-741555+(-505024-390712))-(-949341)))))+15478460582524))],Ny[Xy(by(((2393162727%10309978-520913)+271356010)%2176530),18029173728123-259395)],t and Ny[Xy(by(2321732600%16123036),25449947465713-(-320018))]or tostring(r))end)if not Z then s[Ny[Xy(by(2060079766%10673907),34171304957392-692090)]]=true end return Z end local gy=274538401%(2144381410%((-273603+10905747)-385629))function a.astar_leg(t,r,e)if J[Ny[Xy(by(-685229-(-399539-(2433306883%13011270+102363))),609545+20230600330645)]]or J[Ny[Xy(by(-332128+347686),-746627+30332532441559)]]then return false end local f=a[Ny[Xy(by(1808009309%15321971),182077+((530745+7002449682141)-(-945024)))]]()if not f or a[Ny[Xy(by((-789317+23785)-(-781534)),-981537+16726473120710)]]()or E then return false end if s[Ny[Xy(by((-845351+702710)+158835),17653585249255-691646)]]and(J[Ny[Xy(by(926488-911097),-328675+31146913068137)]]()-s[Ny[Xy(by(-198466+214017),-304784+10263912938472)]])<gy then return false end s[Ny[Xy(by(-153110-(-169001)),7546560253955-(-279154))]]=s[Ny[Xy(by(-90849-(-106335)),33503656549920-(-640603))]]+(-1018273+1018274)local L=s[Ny[Xy(by(-278914+294393),8043425624366-((-574121+-435690)+1338049))]]s[Ny[Xy(by(512306+-495492),1358678094653-811581)]],s[Ny[Xy(by((674568+-1516999)-(-858883)),230307+12770500175486)]],s[Ny[Xy(by(478110-461667),2487976726498-841221)]],s[Ny[Xy(by(411531623%(295838812%15470654)),((30903975541005-(-459439))-(-496190))-(-239327))]],s[Ny[Xy(by(-100649-(-116400)),-1003947+7388990623867)]],s[Ny[Xy(by(-143102-(-158937)),-275419+33038332390794)]],s[Ny[Xy(by(29957-13979),127752+6343484302855)]]=t,r,e,J[Ny[Xy(by(((-1048544-(-912227))+3357236445)%(4701970215%28242239)),-774520+(6093+11682716786817))]](),Ny[Xy(by(1009257423%4566701),-299514+1040798551305)],nil,false s[Ny[Xy(by(264859-248000),-461412+(909133+4553539489860))]]=J[Ny[Xy(by(-270335-(-286765)),17360774686541%2893463489738)]]()E=nil N[Ny[Xy(by(1026949-1010897),1035575+6170472618493)]]=N[Ny[Xy(by(33234285%(((-935313+3967292932)-(-284696))%(23253945-(-40165)))),(30793610151708-1030455)-516848)]]+(37971+(-316715-(190429+-469174)))J[Ny[Xy(by(-119927+136750),19201868288265-(-728783))]](Ny[Xy(by(902483529%9024668),-431047+2184348456071)],Ny[Xy(by(2302659317%(15041488-(-207808))),-701133+31448220333036)],t,r,e)local d=A[Ny[Xy(by(2851506639%15167501),1043897+28415006225881)]](f,{[Ny[Xy(by(515509-498659),(556331+(8449621367381-415948))-(-24710))]]=t;[Ny[Xy(by(-66167-(-82771)),1762154137499-590537)]]=r,[Ny[Xy(by(-323875+340185),955484+994254322068)]]=e},function()if s[Ny[Xy(by((-328508-(-117301))-(-227904)),569147+30266912298660)]]~=L then return end s[Ny[Xy(by(1012576-995965),249342+18208672324983)]]=true end)if not d then s[Ny[Xy(by(-595156+611402),((-663908-(-530655))+(34959670339943-335824))-(-1033327))]]=true end return d end f[Ny[Xy(by(-928864+(764519+180964)),12161752083941-497354)]]=a[Ny[Xy(by(41036906%4557766),26899274320093-71077)]]function a.follow_route(t,r,f)if type(t)~=Ny[Xy(by(570927-555334),24471945862340-(-939875))]or#t<(-1316828-(-419246))-(-897583)then return false end if a[Ny[Xy(by(949814-(1722843-789123)),345432+6557756440237)]]()then return false end local L=a[Ny[Xy(by(630600+-614996),(941531+(-2217308-(-826116)))+29088482896684)]]()if not L then return false end if a[Ny[Xy(by((-36728+-922614)+975659),328184+1197930872634)]]()then b[Ny[Xy(by(((106393+(369554-1000916))+393547)+146846),(-521713-(-537356))+7815172759203)]]={[Ny[Xy(by(-632210-(-647745)),29033098614541-(-491972))]]=t}return true end if not r and(s[Ny[Xy(by(800724+(-571219-213906)),881744569803-(-471381))]]==t and A[Ny[Xy(by(374988949%5281308),(3217156695%13986665+-1227301)+(25741312937731-805549))]](L))then return true end local d={}for r=-410773-(-410774),#t,493135-2142782439%10874565 do local e,A,f=J[Ny[Xy(by(795719734%7651001),28463196394854-322273)]](t[r])if not e then return false end d[r]={[Ny[Xy(by(-342047+(344166-(-13766))),-528877+19238673682455)]]=e;[Ny[Xy(by((-771219+120663257%(467745369%18593397))-547581),-539465+13289154746186)]]=A;[Ny[Xy(by(-64850-(-80554)),8398404924409-102714)]]=f}end local Z=f and uy(d,-430724+(-504591-(-1496891-(-804209+242634))),#d)or Zy(d,903490+-903489,#d)local u={}for J=Z,#d,182953+-182952 do u[#u+164959340%((1283256803%(105654+19115224))%5941467)]=d[J]end if Z>1259348257%6844284 then J[Ny[Xy(by(231510+-215206),-728978+30127952439910)]](Ny[Xy(by(872376208%13630628),579556+28390040511872)],Ny[Xy(by(((875132452316%4972360990-921062)%33163011)%4508754),-416274+31086691767216)],Z,#d)end s[Ny[Xy(by((987282+(-490251+299376))-780594),715920+1514117390394)]]=s[Ny[Xy(by(272999-256667),176767+6360629872046)]]+((888286+-956683)-(-68398))local I=s[Ny[Xy(by(1036630+-1020895),-807000+24358558710983)]]local V=u[#u]s[Ny[Xy(by(-37584-(-54566)),24968649562407-(245688-258174))]],s[Ny[Xy(by(1705130974%8611691),33828292806257-(-28000))]],s[Ny[Xy(by((337430+-1099751)-(-778805)),988024+10372173587418)]],s[Ny[Xy(by(659535630%5995632),-252116+20018950355042)]],s[Ny[Xy(by(-789741-(-806764)),10193137369462-1012236)]],s[Ny[Xy(by(502972-487166),34471023413799-108781)]],s[Ny[Xy(by(-1006475+1021934),1010756+19353911234891)]]=V[Ny[Xy(by(956432-939990),315840940886-795865)]],V[Ny[Xy(by(276142842%3326835),300014+18021013167362)]],V[Ny[Xy(by(2108345526%11214514),96746+21388728529143)]],J[Ny[Xy(by(750965498%6155322),991839+32651258493587)]](),Ny[Xy(by(-281874+298801),(34636970578554-(458391-393202))-(859170+-1365484))],t,false s[Ny[Xy(by(864605855%3472250),24304472102075-372509)]]=J[Ny[Xy(by((-579822+896161)+-300375),((-2296548-(-904183))-(-646098))+35078151514171)]]()E=nil N[Ny[Xy(by(89501+-73085),985807+30422376280777)]]=N[Ny[Xy(by(190106138%950446),-760578+26133888626494)]]+(-959675-(-959676))local W=A[Ny[Xy(by(892292+-876799),-406617+(-13238+(12713918460154-((966447-(-521344))-611324))))]](L,u,function(t,r)if s[Ny[Xy(by(156008-139681),-507492+3297320450974)]]~=I then return end s[Ny[Xy(by(-768929-(-784743)),854744+15276859905662)]]=true e[Ny[Xy(by(803827+(-1791541-(-1003792))),11177164578417-(-413187))]](t==true)if t then return end J[Ny[Xy(by(720320+(-67388+-637085)),(-1268344-(-430328))+(17359537141058-708786))]](Ny[Xy(by(-713227-(-729331)),10289464652831-(-320027))],Ny[Xy(by(2554104038%12964915),-801858+(21995521128345-35693))],tostring(r))fy(r or Ny[Xy(by(-390726+407660),-134998+22013150741188)],nil,nil,nil,true)end)if not W then s[Ny[Xy(by((-155110+-651122)-(-490936+-331433)),6351709905962-(-561380))]]=true end return W end local function ky(t)if A[Ny[Xy(by(-816153+832995),47529+(642101+17615842500430))]](t)then return false end return(J[Ny[Xy(by(398483+-382968),16539500866330-22711)]]()-((s[Ny[Xy(by(53679087%745314),26659825581520-(-798889))]]or-1040417+1040417)))>=Y end local function Cy(t,r,e,A)if r[Ny[Xy(by((205747+-815087)-(-1020794-(-212065+(588848-772115)))),21421557314028%465686232786)]]==Ny[Xy(by(59855-515325155%2815744),444359+(7871990681408-(-576324)))]and type(r[Ny[Xy(by(-566668+582109),23986453486155-606327)]])==Ny[Xy(by(901671708%5009193),20189213737095-(-81457))]then a[Ny[Xy(by(1055247-1038709),3720259442005-(-1011636-(158563-331629)))]](r[Ny[Xy(by(-210274+226494),20955196281142-537909)]],true,A)else my(t,r[Ny[Xy(by(423301-406873),179742+17317310260978)]],r[Ny[Xy(by((111546770343%(-94877+485146566))%2052041),(-977843-(1316445005%6614365-827735))+6032093326410)]],r[Ny[Xy(by(84230491%935707),482485+28870175179929)]],r[Ny[Xy(by(585737+-569955),(14307947191235-(-481786+140583))-(-772569))]]or Ny[Xy(by(-39630+55560),5838885780938-(-542523))])end J[Ny[Xy(by((84837-611866)+543784),256675+6793311667272)]](Ny[Xy(by(1404015375%(12922686-(-322590))),(626733+-1247988)+3746545679814)],Ny[Xy(by((-881675+1316950)-418723),(342492+-453740)+20571444212670)],r[Ny[Xy(by((1541389551%8109073-776005)-(-126642)),17232299838110-76542)]],r[Ny[Xy(by(-936515-(-951911)),23471+11165505858520)]],r[Ny[Xy(by(-633441-(-649146)),14449925165734-(168220+-929001))]]or 998071254%5769198,tostring(e))end function a.replan_fresh(t)local r=a[Ny[Xy(by(1932999853%(5516444655%23228993)),17880269307739-(-949006))]]()if not r or not s[Ny[Xy(by(307635304%5396820),686294+20872737216121)]]then return false end if ty(s[Ny[Xy(by(-861386-(-877518)),-56921+27701945447497)]],s[Ny[Xy(by((52207+-138591)-(-102981)),30523590470904-551037)]],s[Ny[Xy(by((-548401-404262)+968241),-68948+16203816835056)]])then return false end if Py(r,s[Ny[Xy(by(347451954%3187487),173001+8778448509123)]])or J[Ny[Xy(by(737135-720283),820283660193-(-791147))]]then return false end if A[Ny[Xy(by(609642+-592682),1505667381358-(-296542))]](r)and not ky(r)then return false end local f={[Ny[Xy(by(-307555-(-5570+-318610)),(180069+91677463966819)%1833549340106)]]=s[Ny[Xy(by(1569435784%9226314+-946884),((1009404+18942570490258)-(-637131))-689148)]];[Ny[Xy(by(356479-339769),824040+16547998073884)]]=s[Ny[Xy(by(3215508014%13919878),11273187253478-199699)]];[Ny[Xy(by(-614773+630206),3805869711214-(-982820))]]=s[Ny[Xy(by(-342590+359538),-745407+28808851812083)]];[Ny[Xy(by(817168813%16343063),20329908921485-(-512997))]]=s[Ny[Xy(by(365509540%9371605),28295069585568-(-283468))]],[Ny[Xy(by(-796129-(-811679)),24685056422265-94860)]]=s[Ny[Xy(by(2260294001%(136824+10279205)),30436324740600-861841)]]}if type(t)==Ny[Xy(by(-451389-(-467187)),13270591687033-(-436513))]and t:find(Ny[Xy(by((607354+-1096912)+506599),31412053526207-(-835408))],(49840061-837139)%(4387641-(-67170)),true)then local t,r,A=J[Ny[Xy(by(-567445+583919),384684+1738299354893)]]()if t then Ay(e[Ny[Xy(by((512075+738776671)%3996065),(-692510+366285)+(32498947732583-1037408))]](t,r,A,f[Ny[Xy(by(1828379932%(11395903-3905706639%16687781)),335319+32037249978294)]],f[Ny[Xy(by(3466209044%15755423),-469808+15287767863440)]]),Ny[Xy(by(928333696%4733139-622549),(453332+-1261339)+28311605706980)])end end x=nil Cy(r,f,t or Ny[Xy(by(271887+-256057),1040889+29715735676504)])return true end function a.rejoin(J)local t=a[Ny[Xy(by(721761+-706086),1920622652%13148349+1573321670993)]]()if not t or not s[Ny[Xy(by(1168107775%5458375),-720861+1542836362204)]]or not A[Ny[Xy(by(-949299-(-201203-763860)),(130029-95908)+13490179587479)]](t)then return false end if ty(s[Ny[Xy(by(-202480+219319),(533617+21406602144310)-701984)]],s[Ny[Xy(by(2678230243%14796760),28958978796993-(782374+((-673710+-18404)+901864)))]],s[Ny[Xy(by((-45011+-227627)+289701),-674656+21762166063155)]])then return false end if not ky(t)then return false end Cy(t,{[Ny[Xy(by(875095-((1259844-(-116351))-516582)),751961+(29363+26476242349994))]]=s[Ny[Xy(by((-545211+(18093+770161))+-226668),-266932+21062538873031)]],[Ny[Xy(by(231165+-215322),25376722978569-(-492655))]]=s[Ny[Xy(by(324655+-308397),752959+(59304+(252059+6937224549918)))]];[Ny[Xy(by(11821-(-3903)),(1991588-970391)+23799333976465)]]=s[Ny[Xy(by(2283720885%(14293657-283199)),3913536001245-(-198662))]];[Ny[Xy(by(((147448+-1141600)-(-294083))-(-717134)),-205939+(-795167+14129376699977))]]=s[Ny[Xy(by(827123+-810890),(-1029477-(-465314))+24470458206208)]];[Ny[Xy(by(-530089-(-545712)),((14388999583468-(-262851+(-946264-(-647156+227528))))-(-319222))-568995)]]=s[Ny[Xy(by(3509695481%16792727),15174623794787-(-569244))]]},Ny[Xy(by(-921191-(-937200)),24070413400310-(-613574))]..((J and(Ny[Xy(by(3431529809%13617120),554395+(-235216+20008870788751))]..tostring(J))or Ny[Xy(by(-243772+260788),582903+907993851067)])),true)return true end local function Gy(J)local t=x if not t then return end x=nil local r=a[Ny[Xy(by(468289+-452619),(-184813-(-410289))+5941941035041)]]()if r then Cy(r,t[Ny[Xy(by((748630+368257306)%2598519),((-761593+752090)-(-31787))+5410779756115)]],Ny[Xy(by((257298+-952075)-(-710220)),32247391780029-318095)]..(tostring(J)..Ny[Xy(by((440505-878054)+453548),(1812879-(760346+271077))+27812393115872)]))end end function a.detour(t,r,f,L,d)local Z=a[Ny[Xy(by(-891995+(573405-(-334070))),-715998+32193754480145)]]()if not Z or(not s[Ny[Xy(by(-585117+600902),34818748723701-(-731381))]]and not f)or type(t)~=Ny[Xy(by(138721-122978),384785+25577728070820)]or not t[Ny[Xy(by(2650898880%10819931),297385+14302731257070)]]then return false end local u=f and((f[Ny[Xy(by(-256583+273418),(18914421792328-526330)-(-676020))]]or Ny[Xy(by(38241422%378468),234603+17046876831683)]))or s[Ny[Xy(by(426137+-409293),25893996038092-361180)]]if Py(Z,u)or J[Ny[Xy(by(-715061-(-731807)),-417529+21957791564768)]]then return false end if A[Ny[Xy(by(2112085479%((((-381675-(-210652))+880258)+1226130879)%16631737)),690986+1125727669102)]](Z)and not ky(Z)then return false end local I=B local V=P if f and type(L)==Ny[Xy(by(206457877%(1748032935%11228303)),(1224813-692504)+(-762488+16873840000771))]then I=math[Ny[Xy(by(898476-881969),32851098643345-863941)]](B,math[Ny[Xy(by(726745689%16149561),12776150099751-326336)]](-124417+124597,L))+.1 V=math[Ny[Xy(by(-680690+696247),(17443158764097-(-568992))-567993)]](P,math[Ny[Xy(by(52012902%5776637+-6621),242818+6269684201458)]](-211916+(-800537-(-1012488)),L*(-134279+333421874.5%(609242+839834.5))))if type(d)==Ny[Xy(by(-287782+303688),6207358384911-(-520246))]then local t=575883254%11506222+-572154 for r=661744-661743,#d-(-314756-(-314757)),(-142562-899768)+1042331 do local e,A=d[r],d[r+(476248-476247)]t=t+J[Ny[Xy(by(1025971+(-105742-903449)),765571+12035972294873)]](e[Ny[Xy(by(156727-140333),253976+4141666475552)]],e[Ny[Xy(by(918937-(-66331-(-968956))),31097255270255-14809)]],e[Ny[Xy(by((1771510-1877256984%11582361)-840802),967887+1146665649431)]],A[Ny[Xy(by(91573-75868),-155703+27025636158422)]],A[Ny[Xy(by(-531762+1302679583%10334372),(4328930749649-(-1487843-(-872866)))-((519951+-915706)+369469))]],A[Ny[Xy(by(297345-280923),1018861+34679298635146)]])end V=math[Ny[Xy(by(((492365-810865)+-359357)+((-1164469-(-763646))+1095082)),11422133029907-404962)]](V,math[Ny[Xy(by((136578+-296278)-(862740-((-141285+-78388)+1258897))),2507767308726-(959174+-965085))]](178088712%7420358,t/(1761543598%6935211)+262223960%12486855))end end do local r,e=J[Ny[Xy(by(-949329+280915500%2089181),761432+8082693771232)]]()if not r or J[Ny[Xy(by(-520511+(-737697+1274927)),1043561+12343640635056)]](r,e,t[Ny[Xy(by(-102510+118431),4285084008218-(-495160))]],t[Ny[Xy(by(-177015+193161),(16682920596546-(-705119))-(3067817829%14463853-888617))]])>I then return false end end local W=f and{[Ny[Xy(by(380877342%3462376),72136382331849%(-517661+14427279532353))]]=f[Ny[Xy(by(899690594%4710341),34414327365488-1013168)]],[Ny[Xy(by((502254+(-858647+160176))+212512),((275232+-349997)-265059)+6728608422086)]]=f[Ny[Xy(by(-141586-(-158178)),23243679318667-(-52563+935692))]];[Ny[Xy(by(2945964331%(4135725251%(24048697-(-206894)))),45788469892459%381570640928)]]=f[Ny[Xy(by(1003831471%6737018),-414102+1887530726238)]];[Ny[Xy(by(2260454758%10815495),(-527754+26179467969394)-(-478739))]]=u}or{[Ny[Xy(by(-1008708-(-1024394)),(19789841965827-(-969352+540556))%(286809978293-447986))]]=s[Ny[Xy(by(749660809%7208118),73950+23687748547013)]],[Ny[Xy(by(329613-313315),8541803889719-(-772007))]]=s[Ny[Xy(by(233685+-216951),(877627+161261)+19051968541436)]];[Ny[Xy(by(2088366961%15243436),820898+(420977+20109937108838))]]=s[Ny[Xy(by(497449+-480995),8.8635488389423e+14%4545409720487)]],[Ny[Xy(by(-262656+279029),-802308+(102502+((-855051+13516186392784)-(-691965))))]]=s[Ny[Xy(by(-712745-(-728628)),33981177113262-(-173666))]],[Ny[Xy(by(963494+-946638),(921566924%9024783-292397)+31561507007994)]]=s[Ny[Xy(by(-111331-(-127944)),562170+((581458-(466078+3140))+28553666966600))]]}s[Ny[Xy(by(1230540878%14308427),-804452+(-882864+30830809336038))]],s[Ny[Xy(by(1096416385%7887773),23321762935496-286782)]],s[Ny[Xy(by(963501+-947757),-791447+16285221632764)]],s[Ny[Xy(by(2759067845%13726623),(18726725796951-(-261730))-(-929654))]]=W[Ny[Xy(by(-144605-(-160787)),-39460+(160619157%4223473+(693556+10924054286515)))]],W[Ny[Xy(by(-428628+444648),22679935322860-212526)]],W[Ny[Xy(by(244878+-227973),(11436123771660-117156)-795756)]],W[Ny[Xy(by(498742781%4795444),-901409+7224669901233)]]s[Ny[Xy(by(866566227%8175000),34121635967441-188134)]]=s[Ny[Xy(by(-553649-(-908119-(-338697))),716828+7680855802526)]]+(-1003808-((-1014156-(-350383))-(102427+237609)))local c=s[Ny[Xy(by((689113-(772180-(-145854)))-(-245100)),33514780648717-(-251282))]]s[Ny[Xy(by(-211559-(-1126376-(-897781))),60024+((-1786577-(-68331+(-1401033-(-591957))))+5872676355863))]],s[Ny[Xy(by(15396-(-550487-(-1360723-(-811169)))),826018+34572734492041)]]=nil,false s[Ny[Xy(by((-707556+641332560)%7536564),2980952683161-944077)]],s[Ny[Xy(by(215766+-198968),34663741920095-358075)]]=J[Ny[Xy(by(2966598889%13862533),577303+17831371944435)]](),J[Ny[Xy(by((18887133130%171832341)%6843097),-839878+12749122939105)]]()E=nil N[Ny[Xy(by((2551849157-729589)%12033509),-264633+1519377080132)]]=N[Ny[Xy(by(-405026+421523),7810794075106-(-818690))]]+(-552248+552249)x={[Ny[Xy(by((-1017560-(440658+-488320))-(-986210)),(150749-(-752510))+31639399873673)]]=t[Ny[Xy(by(3021373799%16692586),29947324011828-(-956316))]],[Ny[Xy(by(924317+-908121),28779362140012-(718374+-744691))]]=t[Ny[Xy(by(132673206%(1651706-778964)),5458721124338-(527384+(-454240+149711)))]];[Ny[Xy(by((-1213329-(-2003310-(-1013709)))-(-239141)),(1575929-472113799%(2775593-267376))+11170980632612)]]=t[Ny[Xy(by(90683960%1439157),6927368652824-597514)]],[Ny[Xy(by((120826196007%1007024757)%(4656361-(277369+(-880460-(-666394+237354))))),30476358616049-(-219937))]]=W,[Ny[Xy(by((1353243236-(-407912))%15382219),457421+383954053957)]]=c,[Ny[Xy(by(2187767746%14206183),-943997+((181410+1779978363493)-529713))]]=J[Ny[Xy(by(-508787-(426489+(960990+-1913053))),75740008%15105045+10895766714141)]]()+V}J[Ny[Xy(by(-1006748-(-1023217)),14850359322027-564155)]](Ny[Xy(by(116985+-100100),(10005226236840-(214320+(-1616191-(-841193))))-(-570915))],Ny[Xy(by(-660822+677677),(315947+55716214307912)%(794654+(470477+705267374559)))],t[Ny[Xy(by(1649539233%6960014),-151406+26164976579100)]],t[Ny[Xy(by(335443-319389),561676+11636844031875)]],tostring(r))local function j(t,r)if not x or x[Ny[Xy(by(976237%41708),959284+1530535201641)]]~=c then return end if not t and C[r]then e[Ny[Xy(by(1183902345%((214146-855062)+716758592%16484990)),30017661395017-(-783159))]](false)fy(r,nil,nil,nil,false)x=nil J[Ny[Xy(by(-557573+573022),-741927+14671360639577)]](Ny[Xy(by(1810201687%9330857),384232+17243204265721)],Ny[Xy(by(386962-370141),12266414502129-667962)],tostring(r),G)return end Gy(t and Ny[Xy(by((-558303+-434171)+1008332),14124109606429-(-815636))]or tostring(r))end local n if type(d)==Ny[Xy(by((-60969+(1510257-771603))+-660952),54459+17804738773597)]and#d>=668442943%10958081 then J[Ny[Xy(by(586714871%8889377),10793963224715-(-970456-(-785455)))]](Ny[Xy(by((-835423+211878923)%(901924+799903)),700973640053%17973783124)],Ny[Xy(by(-256169+122690675%3060452),-880669+4971097135172)],#d)n=A[Ny[Xy(by(2041201317%12077552+-78462),887660+14622754238986)]](Z,d,j)else n=A[Ny[Xy(by(321955-304948),814702215427-(-967656))]](Z,{[Ny[Xy(by(-489683+505090),14917502687914-688862)]]=t[Ny[Xy(by((71790-(780704+-388469))+1937147623%12336376),-868488+1934463250791)]],[Ny[Xy(by(87473-(825061+-754185)),5390038499497-(-431019))]]=t[Ny[Xy(by(1599620716%6924697),-668543+15077415811327)]];[Ny[Xy(by(421936328%(9314632-(-482477))+-643780),5.5838803501644e+14%4046290189361)]]=t[Ny[Xy(by(2094768876%(-432815+15184592)),-665387+15676096105728)]]or W[Ny[Xy(by(1605702740%12164293),22204447648308-674893)]]},j)end if not n then x=nil return false end return true end function a.detour_active()return x~=nil end function a.recover_path(t,r,e,f)if x or a[Ny[Xy(by(525507025%6255848),12491891649327-1002218)]]()or a[Ny[Xy(by((350212+(-339378+(1240576-647930)))-587120),(312362+-1296955)+10779067083241)]]()then return false end local L=a[Ny[Xy(by(745594-730186),19621314142771-(-194755))]]()if not L or A[Ny[Xy(by((-569263-(-36713))-(-549045)),142367+22372100165184)]](L)then return false end local d,Z,u=J[Ny[Xy(by((58819-178016)+135604),38779943233447%19389971828433)]]()if not d or not t then return false end local I,V=t[Ny[Xy(by(247368+-230698),27830208069578-(-412908))]]-d,t[Ny[Xy(by(1930058363%11768551),(-410022-232141)+32086264796954)]]-Z local W=math[Ny[Xy(by((-1341904-((979860+(-912946-(-879277)))+((-800547-(-579218))+-1687070)))+395409),31483944854643-(-450782))]](I*I+V*V)if W<-324837-(-324838)then return false end local c=require(Ny[Xy(by(894106-877045),11189261790319-((-570205-430539)-(-729541)))])if not c[Ny[Xy(by(545019-529530),4514366528038-1008359)]]()then return false end local j={[Ny[Xy(by(1004619+-987907),(16258739198857-(-466164))-263479)]]=d;[Ny[Xy(by(579007044%15648398),17326213093245-(-636575))]]=Z,[Ny[Xy(by(-346577+362978),438301+25723696068498)]]=u}local n={[Ny[Xy(by(246852838%3335629),91072606817355%18214524514097)]]=144273840%9017115;[Ny[Xy(by(-798391+(-393139+1208178)),989162+9612996208758)]]=1031453+(((-131758-(-26205))-114940)-810960);[Ny[Xy(by(1072303243%(16851681-108389)+-716787),26238207292767-(987087-808532))]]=(469586557-1349065852%8588034)%8225299;[Ny[Xy(by(1051482-1036011),(-1025017+365812)+2411055550894)]]=-970233+970233,[Ny[Xy(by(956177+(-1556459-(-617281))),33950195794811-(348388+((426970+279943)-612625)))]]=2988140157%15320868-570897}local M local Q=type(f)==Ny[Xy(by(782798-766523),4208118210346-686148925%((414595+299002)+1974580))]and(f>=-44027+44030 and{})or{895005-((56590087155%2695253582-(-510272))%12311693-681711);341491356%(2089770-(1089408-515173578%5417781)),-931155+931165}for J,A in ipairs(Q)do for J,f in ipairs({428907510%15885460;-981250+(-705009+110983029)%(1017319155%18068827),695968+-695833;456490+-456625,636790-636610,(374567+-894246)+519724;-662680+348681689%2656634})do local L=math[Ny[Xy(by(232254-216172),26920639426682-(-745545))]](f*((r or(-1392501-(-882141))+510361)))local u=((I*math[Ny[Xy(by(2118973287%12391562),(-1273461-(-281579))+28165976573529)]](L)-V*math[Ny[Xy(by(-577477+594373),34239867816230-(1019627+-202652))]](L)))/W local Q=((I*math[Ny[Xy(by(-272093+288985),826422620%7242398+2329760352163)]](L)+V*math[Ny[Xy(by(727826-(50277+661173)),1010262+(321940+8418175959465))]](L)))/W local m={j}local H=true for J=-333024-(-333025),math[Ny[Xy(by(2147311934%15337830),4.847706140627e+14%24238530735151)]](A),720335851%14406717 do local t=math[Ny[Xy(by(-178790-(378735-573609)),8379533278617-2761083340%(228384+1123393023%(18886154-(-910617))))]](A,J)local r=m[#m]local e={[Ny[Xy(by(((130302+-574665)-(-489143))-525780951%3809806),-468320+23158346864125)]]=d+u*t,[Ny[Xy(by(-607609-(-623754)),((447982-(-13349-(-752804)))-(-931323))+19726126010274)]]=Z+Q*t;[Ny[Xy(by(950651+(485377+(924532+-2343518))),3684790958878-33748027%11198740)]]=r[Ny[Xy(by(785809-769014),22359043477155-(-1278391-(-728933)))]]}local f=c[Ny[Xy(by(900574-885035),16753674888399-502389)]](e,241178367.5%((812419+-1448874)+6117781.5))if type(f)~=Ny[Xy(by(576993-561381),24728432415124-764872)]then n[Ny[Xy(by(-513313-(171895+-702061)),213247+33457179512576)]]=n[Ny[Xy(by(315395874%13712164),799136+20816436908785)]]+(172030+(826965-998994))H=false break end e[Ny[Xy(by((349839704552%1812677441)%8170223),22610402858756-(-217742+((190087+32888146387)%(16552563509%184006908))%748697))]]=f m[#m+((258330+-1300469)+1042140)]=e if Vy[Ny[Xy(by(-522716-(-538445)),31647878325702-(-826264))]](m)then n[Ny[Xy(by(437405296%8576270),-488508+7995785606553)]]=n[Ny[Xy(by(-617373+((-484102+416372026)-(-796096))%17335437),210184+(886329+30790399279629))]]+105296248%716301 H=false break end end local Y=m[#m]if H then for J=116898-1450169433%8430538,#m-122723783%7219046,-763683-(-763684)do local t=c[Ny[Xy(by(56016577%11200120),14438088568563-(-123641))]](m[J],m[J+(-799503-(-799504))],false,true)if t~=false then if t and not M then M=c[Ny[Xy(by(-684832-(-701414)),28341031479931-(-620637))]]end local J=t==nil and Ny[Xy(by(1063658235%4624529),28763476414206-(-818026))]or Ny[Xy(by((141479+88384)+-213369),29408102334152-(-253386))]n[J]=n[J]+(711869+-711868)H=false break end end if H then if a[Ny[Xy(by(377875159%2422170),889431+15141558976954)]](Y,e or Ny[Xy(by(-887985-(-904027)),-214487+11502817897977)],t,nil,m)then return true end n[Ny[Xy(by(-549202-(-565010)),14584324773612-(-318998))]]=n[Ny[Xy(by(-532036-(-547929)),898226432150-(-665772))]]+3580089451%14612610 end end end end J[Ny[Xy(by(116243-99293),10610452206736-(952112+-496797))]](Ny[Xy(by(-531019+546480),-952932+8699702023581)],Ny[Xy(by(-107231-(-123180)),12125185698661-(-864416-(-616076)))],n[Ny[Xy(by(476821-(437801+23179)),5579435760437-(-484535))]],n[Ny[Xy(by(745678+(-684362+-45912)),52900+(361697+18220103149304))]],n[Ny[Xy(by(-682707+(760963+(-235733-(-173629)))),-230769+3447050920102)]],n[Ny[Xy(by(44031796%289576),27814121256898-1916142433%7885228)]],n[Ny[Xy(by(-555991-(-572866)),34921392306879-(-768913))]])if M then local t,r=M[Ny[Xy(by((83101+-513402)+447343),-492355+(-313344+6208165524454))]],M[Ny[Xy(by(493235304%(-528155+14620143)),735849+17289115332355)]]J[Ny[Xy(by((-109002+-844680)+970555),((27658836538935-(-781104))-(-925373))-257870199%1274902)]](Ny[Xy(by(628778-612456),6969823728375%174245993382)],Ny[Xy(by(528992+-513129),330190+23134691913969)],M[Ny[Xy(by(247741102%(-244740+(5840687-90948))),1.3489800587138e+14%22483002745642)]],M[Ny[Xy(by(1678195578%6877786),328069+(2178153757637-464086283%2417084))]],t[Ny[Xy(by(2536437180%12372785),67400+(18513103390450-(2428222216%12321292+-999788)))]],t[Ny[Xy(by(766575-521209611%2049051),28362581183067-(939923+-471613))]],t[Ny[Xy(by(934859+(854567+-1772840)),389181+((548706-393160)+27184944139153))]],r[Ny[Xy(by(235716054%(2792117098%13353316)),(183964+-141013)+29581853865880)]],r[Ny[Xy(by(2627883970%14128325),-846962+28737659946993)]],r[Ny[Xy(by(114383752%(-908792+1486404)),-761184+(-827289+13929892487447))]],tostring(M[Ny[Xy(by(1031740-1015907),3009648964100-747378)]]))end if f and not X then local e=type(f)==Ny[Xy(by((-293605+868538)-558873),686945+(-124696+20890768837442))]and f or 316052-316049 local A=math[Ny[Xy(by(-654273-(-670967)),548535+16070337867838)]]((-513218-(-111494))+401724,math[Ny[Xy(by((463428591-359384)%2516594),-100273+(34071414479006-900808))]](((e-(240551+-240548)))/(377765502%(1444922867%14111446))))local L=(((A%(836713+(-932285+(400875+1219246113)%5752601))))*math[Ny[Xy(by(13930-((-1017893+467728)-(865773+-1414053))),14572266956428-187638)]])/(1520982666%12467071)local c,n=(-V/W)*((r or(-685140+730892369)%15536324)),(I/W)*((r or-704392-(-704393)))local M,Q=c*math[Ny[Xy(by(745727657%3359059),-490011+8664251422429)]](L)-n*math[Ny[Xy(by(974469-957898),-618754+11540165307081)]](L),c*math[Ny[Xy(by(-570354-(-586096)),(51018797%340173+611858)+2524028280975)]](L)+n*math[Ny[Xy(by(254741-239091),28521711001750-(-813099))]](L)local m={[Ny[Xy(by(794759630%13702469),-921224+14821426354285)]]=d+M*(311872+-311867);[Ny[Xy(by(-899449+915019),-829824+(28492987714954-(-218580)))]]=Z+Q*((321684+-847926)+526247),[Ny[Xy(by((3040092653%(57533131-(-990450)))%738315),10996194204914-66567)]]=u}local H=math[Ny[Xy(by(2560039794%16202682),-914231+16869876527148)]](288040393%(2512588601%11938828),(-430175+189020937%17144612)+A*(839194+((1044919+-44121)+-1839977)))J[Ny[Xy(by(390643-374707),425561+26648871990968)]](Ny[Xy(by(-708376-(-725384)),-824303+16222463382183)],Ny[Xy(by((496666+-1291941)-(((-342216-(-666618))-839477)+-296161)),(((-1832299-605552)-(-796371))-(-615927))+736551249235)],e,H,A%(-968057+968061))a[Ny[Xy(by(389091524%((887226656%11927827-(-325716))-617617)),((-256303+-242418)+(-422311+14611967755534))-(-682322))]](Ny[Xy(by(1319400768%14495790+(-1145119-(-877915))),1682298588477-((-873604-(-683651))+46255))],true)return a[Ny[Xy(by(963245+-947195),(855500+19605086975302)-652948)]](j,{m},function(r,e)local A=J[Ny[Xy(by(35278528%(297629-((-1236681-(-352528))-(-552090)))),928591+29281362446376)]]()local f,L=pcall(function()return A:is_dead_or_ghost()end)local d,Z=pcall(function()return A:is_in_combat()end)local u=t[Ny[Xy(by((176093+-405808)-(-245510)),9756765523286-465624)]]==Ny[Xy(by(931219693%3770054),868103+14206501479585)]if r and(f and(((u and(L==false and(d and Z==false)))or(not u and L==true))))then local A=u and Ny[Xy(by(127455-110380),1672772153217-(-175811))]or Ny[Xy(by(-479563+495201),3720658978910-89917)]local f=a[Ny[Xy(by(457498+-440695),6765586046477-(-142238))]](r,A..Ny[Xy(by(786478-770318),22491996320142-306908)],t,H,e)J[Ny[Xy(by(847253866%5763524),(424458+(762081+-2095091))+(23334721511131-3739))]](Ny[Xy(by(424927139%(-966898+2922839668%12090687)),-626891+(150942+25251924190004))],Ny[Xy(by(-930901-(-947668)),28837575139217-(1046622+-1782257))],A,H,tostring(f))end end,H,nil,t)end return false end function a.recovery_pending()return X~=nil end function a.all_heights(J,t)local r=a[Ny[Xy(by(((994692+-930554)+1778770375)%(2140753692%24150974)),(18086491449830-(-479516))-(-965049))]]()if not r or type(J)~=Ny[Xy(by(-506343-(-523276)),64993+19041310744010)]or not J[Ny[Xy(by(2086727996%(15166725-775610)),913856+27858498137509)]]then return false end return A[Ny[Xy(by(1029214015%10291971),10435184936037-(-738819))]](r,{[Ny[Xy(by(735849+-719901),(((1369983180-(989030+753537294)%3588755)-(-1000952))%5905152-481053)+18964985743513)]]=J[Ny[Xy(by(-672632+689614),-778869+10865419366765)]],[Ny[Xy(by(438218+-421905),16610178887730-558397)]]=J[Ny[Xy(by(((344281+(-1442309-(-874080)))-(-865527))+-624817),(-395812-(-376295))+441771886560)]],[Ny[Xy(by(-992884-(-269862+-739416)),-904455+16663660972149)]]=J[Ny[Xy(by(-180656-(-196188)),13720+8905004499886)]]or 27712-27712},function(J)pcall(t,J)end)end local function ly(J,t,r,e)local A=a[Ny[Xy(by(-32990-(-49990)),9987871953828-985981)]]({[Ny[Xy(by(634526+(-1231861-(-613822))),(224917+7785282319300)-(-144484-(-192368)))]]=J,[Ny[Xy(by((((227890093-(-253710))%6889592-622538625%4823863)-(-710154+1070646))+(136723-((295015+-948078)+940349))),-236589+26334242989450)]]=t,[Ny[Xy(by(449524025%3777381),10160460004478-1013030)]]=r},function(J)e(ny(J,r))end)if not A then e({})end end a[Ny[Xy(by((-179546+(161719+((945763+-1429553)+-68416)))-(-587031)),38803+21384461253200)]]=ly local function Ry(t)if A[Ny[Xy(by(11679583%185129),(853353+16048740181446)-(1043730-752235))]](t)then return false end return(J[Ny[Xy(by(-1039012+1054404),-281593+23679966215840)]]()-((s[Ny[Xy(by(107524036%2687691),267386+33007434300296)]]or-662618-(-662618))))>=Y end function a.stop(t,r)X=nil A[Ny[Xy(by((922393+-1660677)+(-50237+804202)),755109606359-47152)]]()x=nil if s[Ny[Xy(by(3331950871%(15518330-163795)),-671048+(19214003924769-(-173897)))]]~=Ny[Xy(by(960526657%4385892),-858721+31143088278806)]or t~=Ny[Xy(by((((1766304907%10765559+1134743459)-(-488195))-((-771947+-341351)-(-615524)))%8418272),(-594748-(-267896))+(15119842789318-(-520763)))]then f[Ny[Xy(by(1134844683%10223679),588885+(336870+(1525306660585-48251)))]](t or Ny[Xy(by(1270196321%11982830),14144273649299-(849217+((-756741-200636)+24915)))])end z[Ny[Xy(by(-26971-(-42409)),6365355925278-(185581+-925756))]]=nil local L=a[Ny[Xy(by(1132198916%15095763),-162752+20336260101884)]]()local d=L~=nil and((A[Ny[Xy(by(521353+-504597),17740654815989-240889)]](L)or A[Ny[Xy(by(32883422%2739002),12899486644937-74698)]](L)))if L and((d or s[Ny[Xy(by(170102+-153288),-397015+6083629295177)]]or r==true))then if r==true or Ry(L)then A[Ny[Xy(by(297741+-281459),30152840714382-848448)]](L)E=nil else E={[Ny[Xy(by(849464+-834025),20030225915731-83140)]]=J[Ny[Xy(by((-210369-(252824-924017))-(470616+-26802)),24793240308892-(-840426))]]();[Ny[Xy(by((28620-(-122624+54216))-80086),687826+4351636865838)]]=t}N[Ny[Xy(by(389624-373902),-781931+15168223449173)]]=N[Ny[Xy(by(275869+-259942),2067997713139-(-849936))]]+1771028875%10356894 end end if s[Ny[Xy(by(889384+-873330),-892977+23719985025561)]]and not s[Ny[Xy(by(366412+(-553649+204027)),-325250+((350923+29629863206557)-281351))]]then e[Ny[Xy(by(-424410+440707),1228709057132%175530520197)]](false)end s[Ny[Xy(by(-588135+604042),29201055423407-217600)]]=s[Ny[Xy(by(-445793-(441425-(1805655-902717))),19815069679602-611313)]]+((4370-(-815123))+-819492)s[Ny[Xy(by(612882174%16128061),16729472420260-176312)]],s[Ny[Xy(by(471601452%5548054),(455953159379-(-1019938))-(-619185))]],s[Ny[Xy(by(-201036-(-217546)),17884945405057-(-701298))]],s[Ny[Xy(by(-331261+346672),518367+(393446+32297060091724))]]=nil,nil,nil,true s[Ny[Xy(by(747364+-731672),16524825973802-599417)]]=-1000961106-((-1099474-428591)-(-566959))s[Ny[Xy(by(2397036201%11097311),601614+16711930313334)]]=nil if J[Ny[Xy(by(61334323%4087869),-510509+15707563395340)]]then J[Ny[Xy(by(403926087%3739908),-616157+23265355068046)]],J[Ny[Xy(by(-856161+872849),23872877926331-(260086-31175))]]=true,false end if d then J[Ny[Xy(by(94344883%2774384),15163404211154-(-42006))]]=J[Ny[Xy(by(216021+-200343),23283809857676-(710483+-284277))]]()+I end end function a.pause(t)t=t or Ny[Xy(by(-357517+(-572480-(-946814))),((-117314+1019894)+-1458565)+19357715185366)]e[Ny[Xy(by(602778656%(4199120-958462)),10649724188125-(-850820))]](t)local r=not a[Ny[Xy(by(2742494011%16227677),-849915+(15271195014270-(-1040806)))]]()b[Ny[Xy(by(1015474+-999102),19396034199826-(-137561))]][t]=true if r and(s[Ny[Xy(by(60952263%8705046),33147509232750-((-875652+1923882)+-1743442))]]and a[Ny[Xy(by(2249196035%14989774-(667716+((-575639+(21371+1489568))-(1784378150%14744486+593119)))),25256372935999-377387)]]())then b[Ny[Xy(by(-582127-(-598016)),(641670245653-762812)-((586870-(-952251+1626789))-817912))]]={[Ny[Xy(by(-428008-(-443402)),32507032918156-(-517810))]]=s[Ny[Xy(by(1675366711%14442676),(-200060+13349907623271)-(-265203))]];[Ny[Xy(by((-156252-(-828911))-(1417340-761004)),23715041508223-(-674976))]]=s[Ny[Xy(by(932881+-916943),-916943+32488635927891)]];[Ny[Xy(by(-570914-(-605346-(-17835))),385371+3723679921492)]]=s[Ny[Xy(by(273827257%5166240),29868301314331-(2097418092-(-497399))%11781835)]],[Ny[Xy(by((542876-(96256-150226))+-580741),30506572937713-(209115+-448335))]]=s[Ny[Xy(by(2771044192%10996140),(3463709997863-(660724-844920))-1030447)]],[Ny[Xy(by(-409582+425638),9001177381837-532600)]]=s[Ny[Xy(by((301319146-683350)%7157614),-619142+19914150780722)]];[Ny[Xy(by(-19064+35442),19826428124291-1034811)]]=true}local r=J[Ny[Xy(by((-199788+134137)-(-81170)),437738+14012144500232)]]a[Ny[Xy(by((-607113+-172121)+795158),(-367716+27122290594174)-910909)]](Ny[Xy(by(((1038147+-2287924)-(-156377-167857))+941157),16809619586461-162233)]..t)J[Ny[Xy(by(-250342+147749778%16386959),-399617+3621569502742)]]=r J[Ny[Xy(by(1686712928%8109118),(317065+36563137763228)%18281576854850)]]=false end end function a.resume(J)J=J or Ny[Xy(by(-152825-(((-879900+302890)+-304619)+(730454-18449))),9754910087788-(-883504))]e[Ny[Xy(by(1822488654%(3454526925%16465198)-298440),((613540+27150)+26591253453530)-548962)]](J)b[Ny[Xy(by(94382-78339),257906+34240839004175)]][J]=nil if a[Ny[Xy(by(23291019%(783681180%4819579)),-793730+32533219448569)]]()then return end local t=b[Ny[Xy(by(1379506984%10777268),3384876268344-392936)]]b[Ny[Xy(by(112450659%1479411),747789+(-994377+27412824208167))]]=nil if not t then return end if t[Ny[Xy(by(481257+-465536),-481433+13530639608594)]]then a[Ny[Xy(by(6306364%(((-49865-(-1678833-(-879123)))-1095150550%((-749688+406563)+5410393))-61547)),2892331311936-314679)]](t[Ny[Xy(by((60751+185517524)%(137879+3298444)),3073830692161-(-530997))]],true)else a[Ny[Xy(by(-201093+(470445-253393)),11498225106260-11392188%92900)]](t,t[Ny[Xy(by(-247880-(-264600)),-733797+8583876989616)]],t[Ny[Xy(by(442378339%2949082),29914062483167-752068)]])end end local function Sy(t)Jy()local r=J[Ny[Xy(by(273682-258098),23642047337586-(1205193-558454))]]()if r<h[Ny[Xy(by(-905152+921551),-29729+(10694857652996-((-590550-(-488831))-278313)))]]or s[Ny[Xy(by(1287617582%(2379749209%15606415)),(-154490-(-533107))+31350781358171)]]==Ny[Xy(by((-13137+(-215679+(1157926-178946)))+-733392),-924379+10850811004531)]or s[Ny[Xy(by(11478-(-4724)),15151205938783-(-811912))]]==Ny[Xy(by(-131851-(-147806)),718318+23292141320934)]or s[Ny[Xy(by((491155+-1439711)+964556),-832068+27609043120410)]]==Ny[Xy(by(158980+-142567),(463536+28538907080763)-(-923682))]or not s[Ny[Xy(by(-919504-((-836897+-811186)-(-712261))),1779075656%(-239383+13038439)+27480854420767)]]or s[Ny[Xy(by(-313113+(-201173-(-530117))),10404347621951-(51624-(-778260)))]]or a[Ny[Xy(by(-674872+691752),-410603+34846697209173)]]()or E or not A[Ny[Xy(by(-532081+548428),74334+29991416732724)]](t)or A[Ny[Xy(by(566652-550385),1017514+33954134186803)]](t)or a[Ny[Xy(by(182495-165973),-92148+18196272030666)]]()then return end h[Ny[Xy(by(310624049%15530376),(-167907+(1089989-(-876402-(-861334))))+34450175916612)]]=r+.35 local e=A[Ny[Xy(by(44127194%3393198),244911+17724983574183)]](t)or Ny[Xy(by(367938-350922),5992203984764-1023096)]if e:find(Ny[Xy(by(2515335681%(2575845373%20185634)),419394+7229314472229)],283004+(-408129-(-125126)),true)or e:find(Ny[Xy(by((-922547-(37059+-875796))-(-304832+204961)),14759742552476-(-1041607))],565708-565707,true)then return end local f,L=J[Ny[Xy(by((-130983-(-1412039-(-789559)))+-475181),((-29355+-582622)+69519)+(937399+14212539310591))]]()if not f then return end local d,Z,u=J[Ny[Xy(by(-461202+477352),30595535778045-99887)]]()local I=i(s[Ny[Xy(by(-1024273-(-1040017)),(-825697-(505986-(-552714+1054275)))+8719159570039)]],s[Ny[Xy(by(696324+-680024),22004344874281-863452)]])if p[Ny[Xy(by((277824-211386)+-50935),((48189-(-795848))+-820813)+(31409234262284-((1748635731%(9227950-(-648535))+(-2557194-(-943713)))-(-698563))))]]~=I or not p[Ny[Xy(by(125366-(-459734+569396)),(-315376+3687222260657)-(-292468))]]or math[Ny[Xy(by(28772+-12561),572604+29761714882095)]](((s[Ny[Xy(by(-793392-(-809087)),6422277783426-184810)]]or u))-p[Ny[Xy(by(-651958+668263),18775820037212-(-957085))]])>=(-817331+(45875-224792))+996250 then p={[Ny[Xy(by(431253+-415541),35020960683439-447907)]]=I,[Ny[Xy(by(195946046%5442486),134425+31400430865182)]]=r;[Ny[Xy(by(160788+-143952),1758192133%8411414+17633855789648)]]=f,[Ny[Xy(by(345464994%((-503080+(1382278-277305))+(-959595+1920821))),-550326+15064304778365)]]=L;[Ny[Xy(by(740396-724196),-627516+27861056510295)]]=f,[Ny[Xy(by(889068322%13891428),-661891+9459142128976)]]=L;[Ny[Xy(by(((421226-2962690699%(5368883208%21587160))+468345976%((16847580-(-669190))-210161))-681928),16605857987310-221735)]]=u,[Ny[Xy(by(917563-900819),-331787+(31887420724232-(-147504)))]]=s[Ny[Xy(by(531013488%15617564),((-1507629-(-169343-(962466-417340)))+(10281525271150-253632))-406083)]]or u;[Ny[Xy(by(124354183%767522),-386867+10798420865758)]]=(203895487571%3398428249)%(759002555%19602236);[Ny[Xy(by((718141+-1740324)+1038679),878078+32427306407759)]]=383737-(556994-173257)}end p[Ny[Xy(by(1215214058%5759229),10544653393477-490916)]]=p[Ny[Xy(by(681389583%12167381),(-493770+(-757004+13255469286319))-(-820724))]]+J[Ny[Xy(by(777948416%10372420),15107769499816-667597)]](f,L,p[Ny[Xy(by(337752-(1934284821%8912132+-30988)),-499661+12981842715718)]],p[Ny[Xy(by(-871055-(56009+-943323)),(20069010161273-72824)-(-978712))]])p[Ny[Xy(by(271037+-255282),-219385+598701228895)]],p[Ny[Xy(by(((971686+-1023573)-588328)+655895),-415236+(20134810530722-(-414109)))]]=f,L if r-p[Ny[Xy(by((-1425406-(-665707))-(-776382)),15761596068137-(-874775+917213))]]>=607288-607276 then local e=p[Ny[Xy(by(223729+-207363),(-9022+(3553807829%14326236+-1683809))+15402117582948)]]>=841532+-841514 and(J[Ny[Xy(by((504172-971237)-(-483039)),34659912%1309017+3449143917180)]](f,L,p[Ny[Xy(by(160504060%8024384),((1975181-1030505)-473217)+1923549435519)]],p[Ny[Xy(by(-752111+768846),12074816433420-(-78735))]])<-622452+622458 and math[Ny[Xy(by(3781658294%15310290),6875179611145-75799)]](u-p[Ny[Xy(by(435733990%(1509118201%6596620-352774)),(1762109584-(-634826))%(336110138%11246650)+(415084+18790123541147))]])<274634+(-1216315-(591891+(2289364494%14042255+-2010503))))p[Ny[Xy(by(587488-570638),22684636646192-(-528987))]],p[Ny[Xy(by(1361754309%8900252),22300243987420-383419)]],p[Ny[Xy(by(-446160-(-462620)),34101179251241-(-214917))]],p[Ny[Xy(by((764528-236601)+-511112),807303+(975214767038-(-79788)))]],p[Ny[Xy(by(839285-823871),457063+(816873+19385894680947))]]=r,f,L,u,586664+-586664 if e and not x then p[Ny[Xy(by(-493501-(-1130202-(-620359))),15412270909938-(-311289))]]=p[Ny[Xy(by(609532804%2770529),(839005+90023)+((-667935+10054340587898)-867001))]]+(416175+-416174)J[Ny[Xy(by(-973192-(-989665)),2247780944211-(-758090))]](Ny[Xy(by((-1159662-(-1012582))-(-163433)),29242532294822-(-140678))],Ny[Xy(by(187694-171648),29820266252780-(-822604))],p[Ny[Xy(by(500454303%6029376),30141266063623-516466)]])if p[Ny[Xy(by(701306171%11886266),25568695855268-851998)]]==-321038-(-321039)then A[Ny[Xy(by(439809349%9162369),-154913+15776663837840)]](t,Ny[Xy(by(-474916+490862),27470273351839-(-821623))])else h[Ny[Xy(by(462838+-445928),(1352513999718-692249)-713306)]],h[Ny[Xy(by(83241424%(3535311-(-625929))),4851634765050-255333)]],h[Ny[Xy(by((-1012883-(-479379))+550092),34543101346526-(-832273))]]=I,s[Ny[Xy(by(-1019294+2567736665%16775825),30147882983360-(856933+(246796+-1174944)))]],r+447257302%5082469 local J,t,e=s[Ny[Xy(by(4433368%65924),478903+11407684178171)]],s[Ny[Xy(by(515395293%5923898),((102686+(-144701-515710))-482857)+12025977514311)]],s[Ny[Xy(by(834438+-818568),-565299+34628545298705)]]a[Ny[Xy(by(36549126%3321096),-182712+10446556312179)]](Ny[Xy(by(((103635-(-271958))-((((200175-254587)-855893)+15197)+(335734496313%1533092775)%(2282905672%(18354860-843770))))+-15771),10249744019577-(-503544))],true)fy(Ny[Xy(by(1069206210%7637074),21531812706125-(-479488))],J,t,e,false)end return elseif not e then p[Ny[Xy(by(768224144%6096893),29667819328312-(-867797))]]=(44930772399%178308885)%7301761 end end if not h[Ny[Xy(by(1648853766%11693887),-721881+25238734429513)]]or J[Ny[Xy(by((724174167-(-553775))%11149421),((400961192-(-920581))%7877447+25791200788057)-767852)]](f,L,h[Ny[Xy(by((-270242+((-979675+-51244)-(-990312)))+326859),11328157825954-552697)]],h[Ny[Xy(by(1663772462%14594359),8520273127096-(-64418))]])>=98883819%(((441278-374137)+651393)+8270904)then h[Ny[Xy(by(446761+-430192),-448455+((-46893+35138077015261)-(-539885)))]],h[Ny[Xy(by(-136010-((-179534-(-819819))+-792788)),1010972316%4569904+16647827449059)]],h[Ny[Xy(by(1508586044%13117998),(-242159+28205400628799)-(-806996))]]=f,L,r end local V=a[Ny[Xy(by(196706734%((17387007-578258)-417913)),19646756731785-926793)]](Ly()and 622180+(((-621728+1617646)-1009199)+-608887)or-848448-(-848476))local W,c=pcall(function()return(J[Ny[Xy(by(432129-415822),-391005+32438213341245)]]()):is_falling()end)if W and(c==true and V[(1090120-704610)+-385509])then local J=(require(Ny[Xy(by(-795159-(-238024+-573830)),30954442635703-(-679458))]))[Ny[Xy(by(1696421321%13680690),6785831670691-870468)]]({[Ny[Xy(by(836921210%13284205),-868843+22126307321143)]]=f;[Ny[Xy(by(190911+(426652+-600918)),(167334+319051)+18847038605427)]]=L;[Ny[Xy(by(2813728369%12843396+-1008479),719885+5393486794829)]]=u})if type(J)==Ny[Xy(by(-730904+746309),23042562318667-540377)]and(u-J>.6 and u-J<=(-583466-(-160391))+952204137%5009374)then V[(-234248-636648)-(-870897)]={[Ny[Xy(by(949272+-933324),16610544005974-(-113014))]]=f;[Ny[Xy(by(211730+-195281),664022+19155551829161)]]=L;[Ny[Xy(by(671710+(108222+((322854+-1062404)-24464))),21828926587919-795482)]]=J}end end local j=ry(V)local n=Ly()or s[Ny[Xy(by(2601913090%13551550),854351+33389869604315)]]==Ny[Xy(by(1841549495%14851069),367790+30139651619267)]local M,Q=Vy[Ny[Xy(by(88082-71334),235728+26462465904164)]](j,n)if M then local J=Vy[Ny[Xy(by(2551644616%(955872770%18110595-442487738%2832937)+(-66217-(-24219))),10071687123848-336934)]](j,M,Q or M+((397571+(-1366374-(-44126)))+924678),n)if J then j=J M,Q=Vy[Ny[Xy(by(455616-440191),7202954959152-865479)]](j,n)end end local function m(t,e)local A=J[Ny[Xy(by((752223-332423)+-403343),677314+34090658581628)]](t[Ny[Xy(by(873900958%11349148),(274365+(-892511-(-82020)))+((4308292902526-(-929722))-558101))]],t[Ny[Xy(by(713977-697933),1203333145%6871933+1781404729405)]],e[Ny[Xy(by(866947+-851540),8369588323972-(-601438))]],e[Ny[Xy(by(339775-323532),5618563585202-79445)]])local a=e[Ny[Xy(by(562840-(1282863-735941)),18386046179637-873347)]]-t[Ny[Xy(by(-1019770+(891144+(54272-(-497182-(-650378-(-382391-(-137950))))))),32813596281770-388622)]]if A>=413647342%3865863 and(a>382103+-382103 and(a<=1750045512%((274225-(-648659))+6308709)and(a/A<=1.1 and J[Ny[Xy(by(942030+-925967),31220572722071-(696500-159456))]](f,L,t[Ny[Xy(by(340651694%2640583),-584884+21300728152556)]],t[Ny[Xy(by((945002113-(-225357))%4200942),-556791+14456118695970)]])>=816275133%4887875)))then return true end if A<846810-846809 or(a>=662026966%4443134 and J[Ny[Xy(by(790761+-774258),168204+29547666256163)]](f,L,t[Ny[Xy(by(115171+-99639),((-1148814-(-968739))+-100312)+11788705997712)]],t[Ny[Xy(by(-40826+56747),-964437+33213646556465)]])>=-562250-(-562258))or r-((h[Ny[Xy(by(967243822%4477903),-197351+(12210878219636-964653))]]or r))>=1.2 then return false end if a>=1840621920%11503887 and a/A<=1.1 then return true end if math[Ny[Xy(by(62556-46066),31548372786752-954835)]](a)>900403458%16674138 or A>948791-948783 then return false end local d,Z=pcall(function()return(J[Ny[Xy(by(1735025086%8807151),((811913+31640168756424)-(-83200))-(-646712))]]()):is_falling()end)if not d or Z~=false then return false end local I=require(Ny[Xy(by(313137992%(-718952+8547003)),630148664087-559431)])local V=I[Ny[Xy(by((343018+222989000%4540556)+(247281+-1075313)),25912767293810-(-223862))]]({[Ny[Xy(by(2608045824%14174072),1001359+(-886014+1652270421607))]]=f,[Ny[Xy(by((-1339663-(-188147+-661722))-(-238474-(880294+-613476))),238449+24299942309407)]]=L,[Ny[Xy(by((-554086+165894993)%3444247),30625056883388-(-916057))]]=u})if type(V)~=Ny[Xy(by(-280623+296555),100516+(17781622750607-(-365391)))]or math[Ny[Xy(by(-82741+99156),41261176768794%264494770523)]](u-V)>.6 then return false end local W=math[Ny[Xy(by(274935655%(-565779+((326486+2538907)-(-434638-500090)))),-948869+23661498976725)]](A/(604648.75-604648))local c for J=-694711-(-694711),W,-175508-(-175509)do local r=J/W local f={[Ny[Xy(by((-1009691-(-300630))+725996),1248571741454-661398)]]=t[Ny[Xy(by(909098350%13773968),565039+34934451931358)]]+((e[Ny[Xy(by(-2426+19245),(21797448916234-(-44401))-(-284353))]]-t[Ny[Xy(by(889119219%(1151685968%11300471)),-180225+(648002+(29084447340632-(-782384))))]]))*r,[Ny[Xy(by(130114239%3942371),14858875223372-(-374338))]]=t[Ny[Xy(by(124663333%1271902),(-1041573-(-61571))+33128072220352)]]+((e[Ny[Xy(by(192709-177178),17319484840978-(-853415))]]-t[Ny[Xy(by(528464-2782035067%16857712),-817799+1.1840867135994e+14%1426610571336)]]))*r;[Ny[Xy(by(66770-50377),779374993615-272456)]]=t[Ny[Xy(by(708805-691995),767325+(34392137365112-(861566+-274851)))]]+a*r}local L=I[Ny[Xy(by(194283+-177631),2726378037321-149131)]](f,226617295.5%2981806.5)if type(L)~=Ny[Xy(by(409332834%3622277),(250726+25053244773979)-839226)]or math[Ny[Xy(by(515209+(-432431+-66435)),696286+17066466963373)]](L-f[Ny[Xy(by(558372+(644908+-1187014)),122951969%1913890+30446647229495)]])>(106583+-540410)-(-433829)then return false end if c and((c-L>((-865495+865496.25)*A)/W or L-c>(1.1*A)/W))then return false end c=L end return true end if M then local J,t=j[M],j[Q or M+((1043313-41124)+-1002188)]if m(J,t)then M,Q=nil,nil end end local H=Ny[Xy(by(-914010+930894),-250066+17724788597319)]local function Y(J,t)if not n or t[Ny[Xy(by(316353037%14378984),18710014546682-(-908717))]]<=J[Ny[Xy(by(893737+-877193),(-1733293-(-925065))+16103578481770)]]or t[Ny[Xy(by(-19141+35401),28709062109988-718531)]]-J[Ny[Xy(by(708300+-691351),232768+18910627684070)]]>215364+-215358 or not m(J,t)then return false end local r=(require(Ny[Xy(by(((475791+((614350-(-255354))-924477))+-1216767)-(-811700)),25961397573732-(-169593))]))[Ny[Xy(by((((1459375-968629115%5176319)+-506603)+369472)-648332),695140+5352119048487)]]({[Ny[Xy(by(1071207151%7993962),(-504565+-90281)+15166145282036)]]=f,[Ny[Xy(by((745280+(-280227-(-587137)))-1035424),32165233660159-(-632442))]]=L;[Ny[Xy(by(40383720%13455953),(1311688118%10747241+33356358818575)-524656)]]=u})return type(r)==Ny[Xy(by((2945532543-(-338294))%11643692),1033860+5655027409629)]and math[Ny[Xy(by(((-324624-(-686056))+-1014094)+669021),149036+24355737456638)]](u-r)<=.6 end local function T(t,r)local e=J[Ny[Xy(by((437056-(-558863))-(-136789+1115665)),-928370+21627293516666)]](t[Ny[Xy(by(-211475-(-227876)),17951090246760-(-741770))]],t[Ny[Xy(by(-782212+797611),1.813848526356e+14%(1042441762978-63685))]],r[Ny[Xy(by(359363654%3327297),5667743737247-(-923079-(-267786)))]],r[Ny[Xy(by(((-987628+(706921+-107069))-75220)+(652812+-174291)),23885850970864-1035118)]])if e>634016930%2744662 then return false end local A=require(Ny[Xy(by((382641+-455331)+88127),-587745+27684683341062)])local f=math[Ny[Xy(by(802292-786764),676988+24375164415413)]](-469051-(-879406+410354),math[Ny[Xy(by(-852412+868682),229666+(33699674700282-((-607716+1025357)+-1338879)))]](e))for J=741381824%9755024,f,1730344561%(-882358+13241962)do local e=J/f local a,L,d=t[Ny[Xy(by(121126+-105393),(-894549+14697483746381)-(1634647935-948407)%9780938)]]+((r[Ny[Xy(by(2034990556%13476651),33929103420189-(-259516-(650415+(-121791-112559))))]]-t[Ny[Xy(by(1146774884%6403890+-463100),8399035516514-408973)]]))*e,t[Ny[Xy(by(1052463-1036682),72491232630084%2071178111257)]]+((r[Ny[Xy(by(440134+-423938),23812243540505-(-530116))]]-t[Ny[Xy(by(689339614%5385335),97402+23270150664813)]]))*e,t[Ny[Xy(by(-11003+26535),19656164208624-155406)]]+((r[Ny[Xy(by((131658023985%1645825911)%13315125),379973+2116515095559)]]-t[Ny[Xy(by(461043-444762),(871001-293065)+8575796581122)]]))*e if A[Ny[Xy(by(-332497+348637),31229749269675-1012846)]]({[Ny[Xy(by((1008327+(800298824%3633778-983792))-(238527-(-637968))),-755469+27329394955617)]]=a,[Ny[Xy(by(-148643-(231754-396798)),631207+20335018385603)]]=L;[Ny[Xy(by(-182687-(-199537)),-38626+8075060201528)]]=d+.3},{[Ny[Xy(by(-745040-(-761437)),31012339845762-(-637991))]]=a,[Ny[Xy(by(2121209853%15043923),607504+6619706621169)]]=L,[Ny[Xy(by(2088913036%((-110084+((-913558-731469)-(-866371)))+15599276)),748382+1197726835455)]]=d-.8},Ny[Xy(by(3299129457%16093232),1015437+4076157854376)])~=true then return false end end return true end for J=#o,901870-901869,-885536-(49272+(-155155+-779652))do if r>=o[J][Ny[Xy(by(51870-36270),25645253885506-(-106048))]]then table[Ny[Xy(by(554982136%10881688),-747790+2642626308979)]](o,J)end end if not M then for t=(-849917+-142634)-((-827903+-887443)-(-722794)),#j-(-840226+840227),((((-495991-((-137408+261415)-2797549273%11099550))-509579)+(542309-571702))-(-807399))+(-145915+34814)do local r,e=j[t],j[t+(782946+-782945)]local A,f=e[Ny[Xy(by(1282967875%5651767),20649593844849-563901)]]-r[Ny[Xy(by(855662+-840180),698502+17689047735888)]],e[Ny[Xy(by(-949927-((682078+-2638832)-((-350914+234583)-873559))),651758+33406229367057)]]-r[Ny[Xy(by(239473-223728),-277312+25805774522887)]]local a=A*A+f*f for L,d in ipairs(o)do local Z=a>412561+(-768217-(-355656))and math[Ny[Xy(by((415728-(-56933))-456553),4040563971686-84924)]](590878+-590878,math[Ny[Xy(by((-558535-25687)-(((353073+(-667100-243552))-410065)+366871)),18297657684685-202610)]]((-342267-(-529777))+-187509,((((d[Ny[Xy(by(602776604%14351432),13946903182169-((639970-543420)+-587571))]]-r[Ny[Xy(by(91671+((500433+-1210843)-(-635715))),32711162314672-(-808447))]]))*A+((d[Ny[Xy(by(776725369%8080597-(708133-(-49063-215395))),34612820653865-(-34969))]]-r[Ny[Xy(by(704895-688331),-3222+23472242568250)]]))*f))/a))or-726360-(-726360)local u=r[Ny[Xy(by(391563-376065),49767232304707%(((-14562+911714)+-495089)+9953447877709)-(-647729))]]+((e[Ny[Xy(by(774317-757488),544918+10531451331543)]]-r[Ny[Xy(by(168876+-153105),18639246092182-((-666567+862692)+-1067593))]]))*Z local I=not d[Ny[Xy(by(-924027-(-940157)),32999994332904-(131164-(-512156)))]]or A*d[Ny[Xy(by((463074264976%(395280202792%2136717150))%9965129),877454+22788812268808)]]+f*d[Ny[Xy(by(-98225-(612594+-726881)),24327294981825-(-691768))]]>384908800%(3222942-215842)local V,W=Vy[Ny[Xy(by(295015-277967),(-323696+796440)+8666189633027)]](r,e,n)local c=d[Ny[Xy(by(-359688-(-375067)),(178363+9601902678177)-(-548404))]]~=Ny[Xy(by(181926-165086),-869401+25876525285204)]or(not n and(W and not m(r,e)))if d[Ny[Xy(by(395445+(-307231+-71354)),(8.5077464244839e+14%13947125460611-(-729143+252566))-509806)]]==Ny[Xy(by(180487480%4296917),611486+25719500847572)]and((Y(r,e)or T(r,e)))then c=false end if I and(c and(J[Ny[Xy(by(591986350%13766750),32720408115200-857727)]](r[Ny[Xy(by(740164-724690),-91445+(-19484+10273811778630))]]+Z*A,r[Ny[Xy(by(-821264-(-838199)),20110009956579-644437)]]+Z*f,d[Ny[Xy(by(1001897129%7590013),26823374922570-475607)]],d[Ny[Xy(by(299483-283223),32237863164637-(-424696))]])<219474752%(916781+(437272+2369822463)%18303879)and math[Ny[Xy(by(953690+(-72513-864559)),(553599954%2672218+-99321)+4187268085972)]](u-d[Ny[Xy(by(36867734%1316103),988874+34028926674078)]])<958146+-958143))then M,H=t,Ny[Xy(by(9363812%63593),31835465348621-(-515667))]break end end if M then break end end end if not M then local J=require(Ny[Xy(by(989191-(1471010277%6901994+(((994061+(-1045240-(-393524)))-543057496%2224392)-(-50385)))),15307119395119-(-849924))])if J[Ny[Xy(by(1342827132%8552935),19236067187087-(-1013172))]]()then local t=#j-(-569852+514906137)%2024946 local r=math[Ny[Xy(by(44031+((404043+-1254363)+(563669-(-258356)))),30905451225834-971236)]](h[Ny[Xy(by((268456788429%1542927257)%7501752),12110886482019-(-192519))]]or((165186+1525608)-1627431442%9455787)+-654715,math[Ny[Xy(by(527488089%7992002),558539+3483733513634)]](193060+-193059,t))for e=1063027455%(1186727292%20703941),math[Ny[Xy(by(((847381+-1144592)+(240894773-405161))%((((-572319+1368565)+-144745)+2985505771)%11988566+4454213)),26268124843354-(-27833))]](582740-(-709005+1671457366%7489532),t-427325357%2926886),611138725%(8597557-(1277718-721460))do local A=(35094495-310664)%1159461+(((r-2054776452%8318933)+e))%t h[Ny[Xy(by(1021965609%12774368),16245836153194-(-749448))]]=(363656+-363655)+A%t local f,a=j[A],j[A+(-218964+218965)]local L={[Ny[Xy(by(-107026+122716),-349196+5268719880269)]]=((f[Ny[Xy(by(728568472%11750836),-984707+18567696393024)]]+a[Ny[Xy(by(-224128-(-240453)),611443+((264398-897820)+25100126499939))]]))/(1002007+-1002005),[Ny[Xy(by(272461-(-575842-(-831568))),(455828909-(-62127))%12316632+(18428415356703-(201059-866332)))]]=((f[Ny[Xy(by(1896250910%8986898),79847+28997192633664)]]+a[Ny[Xy(by((-568467-(-493982-31163152%(5264866-(-960364))))+54431),-19645+16567828663233)]]))/((541436873701%2590649834)%13516797);[Ny[Xy(by((1645712149-958009)%7028795),27541234101366-(-163889))]]=((f[Ny[Xy(by(-527607+543634),915248+23658891757443)]]+a[Ny[Xy(by(-883232-(-899486)),(30786278003850-(-1036513))-(-266027))]]))/(414687+-414685)}local d=J[Ny[Xy(by(-791335-(-992067+((69284+740182)+-624154))),315801+26212155017069)]]and J[Ny[Xy(by(296063-279199),28109346648835-(-1418143-(-663522)))]](L)if type(d)==Ny[Xy(by(178148752%(-836298+(4749959-732717))),445286+34796033036770)]and(L[Ny[Xy(by(-232571-((919964+(-172252+-803586))-192267)),9555975846883-(-63841))]]-d>635203+-635200 and(not cy()and(not Y(f,a)and not T(f,a))))then M,H=A,Ny[Xy(by(-547791+((-344692+1708119)-(982533-182292))),(19969398159031-(-809049))-(-1046069))]break end local Z=J[Ny[Xy(by(-29638-(-45277)),-274322+10184162084165)]](f,a,true)if Z==nil then h[Ny[Xy(by((1576111-817602)-741580),(1018236+(-1589219-(-432060)))+26310430202555)]]=A break end if Z==true then h[Ny[Xy(by(739449-1026674594%6932105),5226224422634-(-667762))]]=A M,H=A,Ny[Xy(by(749512+(-61248-672209)),20467647954830-(-798410))]break end end end end if not M then h[Ny[Xy(by(105359499%2194665),27393364024163-324708)]]=nil h[Ny[Xy(by(-432953-((-540610-496199)-(-588154))),53486+21765567586362)]],h[Ny[Xy(by(81533384%5094785),28065660205555-626508)]],h[Ny[Xy(by(12641+2799),(-1107056-(-546392))+(882659+(1447238049233-(-441350))))]]=(524961767-674849)%3297402,nil,nil return true end local v,P=j[M],j[Q or M+107995654%((947979+-1527261)+1294485)]local B=i(s[Ny[Xy(by(12371848%950425),-742949+29116806527429)]],s[Ny[Xy(by(1684291361%16675985),5106992104235-233810)]])if H==Ny[Xy(by(-18924-(-35424)),7369207901920-(1553544-(618007196-20383)%(11474064-1012942)))]then if J[Ny[Xy(by(854336-837529),33586999071138-370482)]](f,L,v[Ny[Xy(by(-534593-((858170+-1632389)-(-222557))),-232570+22163576200729)]],v[Ny[Xy(by(2471202269%14284312),110808+22884903914135)]])<(790946+-421533)+-369405 and r-((h[Ny[Xy(by((-867634+280097059)%1112405),2427389251461-(65324-589377))]]or r))<1.2 then return end local t=h[Ny[Xy(by(342110+-325926),24054397400996-(-325571))]]if not t or J[Ny[Xy(by(3004653258%(15194054-(-239454+258575))),24891830073593%655048361914)]](P[Ny[Xy(by(710109+-693439),((-556242+(992377+(-110728+334624)))+-314368)+(-122441+32282182222494))]],P[Ny[Xy(by(-202614+471485460%6930391),995710+20994249571456)]],t[Ny[Xy(by((-210111+361831626)%6128895),539216+(-592362+(18129509080119-(-1027270))))]],t[Ny[Xy(by(-148516-(-165092)),9042744777739-(-488262-120996))]])>971423-(88746+882674)or math[Ny[Xy(by(1799388541%8692622),523620+18458803376996)]](P[Ny[Xy(by(938320+-921862),24184151494858-(-693347))]]-t[Ny[Xy(by(668189+((-326791+159432)+-484365)),24112449378134-(-355784))]])>-478224-(-478226)then h[Ny[Xy(by((590403-(-241291))-815504),(434121+(-179539+(47306993975326-(527052+-1070297))))%6758143295261)]]={[Ny[Xy(by(695486330%8803421),255685+33063288178139)]]=P[Ny[Xy(by(2602472819%13012282),769794+21572889930919)]];[Ny[Xy(by(-491690-(-1287545-(602951+-1382354))),-759948+20544586751568)]]=P[Ny[Xy(by(654850-638088),1014229+18387354478045)]],[Ny[Xy(by(567527+(154100+-705004)),-741429+5324580406070)]]=P[Ny[Xy(by(50638+-34746),14297108688758-(-102489))]];[Ny[Xy(by(-797112+813513),-890483+13364724137916)]]=r}return end if r-t[Ny[Xy(by(45555+-29571),590628+5200297860696)]]<.3 then return end end local g for t,r in ipairs(o)do if J[Ny[Xy(by(-771814-(-787421)),(510971-(-34737))+14469095368192)]](P[Ny[Xy(by(910669-894537),-937610+((-209042+(513067+20825017916149))-924121))]],P[Ny[Xy(by((-656062+3235830495)%14442330+-75608),(689782+17465439850501)-(-556724))]],r[Ny[Xy(by((587878812%11750832-(-644006))+-964165),5555207874763-(-328742))]],r[Ny[Xy(by(914284-898155),6582498480378-102285)]])<-924943+(1355433-430486)and math[Ny[Xy(by(1046229-1030626),3870005086%17044344+11977265897437)]](P[Ny[Xy(by(617101-601355),17843539832601-(957440+-1383708))]]-r[Ny[Xy(by((1438950830-(-314328))%(-1027809+12922424)),-1033351+22321904128157)]])<-939239+939242 then g=r break end end if not g then g={[Ny[Xy(by(1794532993%((902195+480952165)%20589100)-623593),-364366+(31020064521274-960513))]]=P[Ny[Xy(by(375420325%15016160),(-735678+3049750336974)-(-124229+-859515))]];[Ny[Xy(by(-235334+251282),(280103-2283754619%(((-425869+-831566)-(-549214))+10507338))+8267107516879)]]=P[Ny[Xy(by(-419844-(-436732)),((566896-479495)-969175137%(8536886-720497128%12629804))+3460335860158)]];[Ny[Xy(by(1821786619%13494594),(9436+15943279392781)-(-131784))]]=P[Ny[Xy(by(28369+-12887),252393+6183405250711)]],[Ny[Xy(by(709423-693521),(-236138+538077)+31040070471722)]]=P[Ny[Xy(by(2265299801%10296744),19799658003056-(-981853))]]-v[Ny[Xy(by((-542257+1690999652)%6816296),449384+31858838350695)]];[Ny[Xy(by(344474+-327867),21994836166168-664860)]]=P[Ny[Xy(by(775918+-759864),8938986898571-(-1412886-(-440045)))]]-v[Ny[Xy(by(797674690%5280403+(196648+-513509)),-361963+22036551796698)]];[Ny[Xy(by(124837814%(1743168650%((-1221434-(-1236231-(-322448)))+18615735))),26446539594957-(-235492))]]=H,[Ny[Xy(by(-29906-(-45787)),501040+13972124612587)]]=r+(92917-1434733359%7102181),[Ny[Xy(by(100010082%2083197),-247373+12075932098549)]]=285348-(372167-86819)}o[#o+(-670647-(-670648))]=g if#o>((895879+672868040)%18365315)%(-425054+2947565)then table[Ny[Xy(by(1727860683%(-75144+(15237417-394377))),140257+20449031521883)]](o,(-817906+703263)-(-114644))end end if r-((g[Ny[Xy(by(23603-1859202047%10104315),12676219311383-922871)]]or-999568764-431236))<722856944%15045740+-661422 then if J[Ny[Xy(by(1728044950%9708022),13187098173359-703484)]](f,L,v[Ny[Xy(by(732448-716758),(7628197588840-622304)-(-630050))]],v[Ny[Xy(by(658813-642759),26427356992250-(-366655-409798))]])<=2326445822%(2566008082%12060437)then h[Ny[Xy(by(3431244645%15812109),-492540+(-557144+(25484079779489-973289)))]],h[Ny[Xy(by(898181585%(-456234+9092440)),7942950003570-(-1073521-(-843271)))]],h[Ny[Xy(by(388552-371914),(398957+7244887446618)-(-887119))]]=B,s[Ny[Xy(by(642721+-626370),-831972+27450295461600)]],r+(1012778+-1012748)a[Ny[Xy(by((767350+-231932)-519864),596155+34895662197352)]](Ny[Xy(by((((2690604346187-(-187299))%84081497803-944417)%(391713600-((-451145+898282)-(-1181367-(-1038666)))))%1961747),-813632+602613521265)],true)end return end g[Ny[Xy(by(972457382%9922866),6093910995321-371195)]]=r g[Ny[Xy(by(331356+-314722),4988628257268-1903177164%14753062)]]=g[Ny[Xy(by(321866-556761191%4347314),11763874555953-505485)]]+(78962-78961)if h[Ny[Xy(by(228361-211407),((184284580-(((660508-571646)+(87396+-522080))-306362))-(-818490))%15431538+31863068022028)]]~=B or not h[Ny[Xy(by(486834+-470602),-584952+13598512557843)]]or J[Ny[Xy(by(43572+((724206-(-100099))+(-392541-458756))),30060026906910-(-920601))]](P[Ny[Xy(by(619615-603267),29719462358971-(-560554))]],P[Ny[Xy(by(-109448-(-125902)),-582826+27519210788558)]],h[Ny[Xy(by(264363644%(1642322-(-949322))),4080172482840-128646)]],h[Ny[Xy(by(610995770%(2435031-29600)),(483266-(-177278))+(969731+32625366289928))]])>3228274820%15520552 then h[Ny[Xy(by(599111301%(25590+2840890)),33025488381291-158963)]],h[Ny[Xy(by(551731+-535140),-846661+14400407505977)]]=B,(40924598976%264080094)%1708430 h[Ny[Xy(by(-121059+136799),75362+(14007128203726-(-716930)))]],h[Ny[Xy(by(200233-184496),(18068308432702-(-352553))-781603)]]=P[Ny[Xy(by(-501301+516799),32693054454994-205695)]],P[Ny[Xy(by(1549152656%(706289+9036703)),650269+(2905156719356-320774))]]end h[Ny[Xy(by(20882-4472),25164706431685-817148)]]=g[Ny[Xy(by(((978220-6322)-552375)-402592),753537+29054968561050)]]J[Ny[Xy(by(745758-730033),2602911201539-210924)]](Ny[Xy(by(102120985%481626),-345185+(15451953817415-(-172071)))],Ny[Xy(by(1977160933%(2251023694%12817050-(-947075))),131543+4225020357388)],H,P[Ny[Xy(by((-1001067+1078510)+-60494),((957933+-990334)-(690359+-1021577))+31414908560849)]]-v[Ny[Xy(by(957228-941099),393257+11846064904570)]],J[Ny[Xy(by(1142587694%6642858),((-1136016-(-926109))-(28773-(-49874)))+(-878146+25693952631908))]](v[Ny[Xy(by(-904857+920547),(-946556+1351942)+10648260376955)]],v[Ny[Xy(by(-90934+167966122%6217010),19673515587680-1002439)]],P[Ny[Xy(by(3242043235%15657419-941982),-805948+24883499843107)]],P[Ny[Xy(by(107504856%8957367),405383+586717943369)]]),v[Ny[Xy(by(84061+-68604),-396695+23809478686085)]],v[Ny[Xy(by(730485214%13044080),2731851404886-(-646339))]],v[Ny[Xy(by(-522951-(-539685)),28506097779459-314912333%3788106)]],h[Ny[Xy(by(-712980+728742),25726070809380-(-517498))]])if P[Ny[Xy(by(927925638%6723980),433854+26598285512145)]]<v[Ny[Xy(by(42194+-26665),25456796739477-(-591703))]]then local t,e=pcall(function()return(J[Ny[Xy(by(245281702%4302904),(368294+3797802870126)-73830)]]()):is_falling()end)local A=(require(Ny[Xy(by(1159510242%8919190),-83274+2523829421861)]))[Ny[Xy(by(-451651+467192),28226775241429-(-431609))]]({[Ny[Xy(by(423176-406855),32227359385845-(-416193))]]=f;[Ny[Xy(by(-108328-(-223169-(-98854))),-923511+30395786208288)]]=L,[Ny[Xy(by(678769-(-232426+894142)),779022417064-(679545-(-58309)))]]=u})J[Ny[Xy(by((-907193-(-805411))-(-117847)),9039211096638-(-248124))]](Ny[Xy(by(151308174%(770917084%11494214)),(-420212+(110975666%(1079520419%18894022)+-700531))+(-978241+28009055154319))],Ny[Xy(by(1044553581%13743902),20856651609702-656177)],u,tostring(A),t and tostring(e)or Ny[Xy(by(571721+-555638),(915274+28253751600304)-((-278123+-538213)-(835022422%(539713+11379424)+(28442+-959451))))],r-((h[Ny[Xy(by((1656742-806241)-834886),94925+6498794497282)]]or r)))end local k=J[Ny[Xy(by(2323659817%12697502),2477598250790-(-764370))]](f,L,v[Ny[Xy(by((2230359753-(-1025546))%11806190),(-805101-(-694604))+(52600+21742156286924))]],v[Ny[Xy(by((-611338-(-800061))+-173324),622183+19428860394934)]])if not x and(h[Ny[Xy(by(1341111120%(967181126%22855523)),8756525292945-(310475+594530))]]<=880343210%9466056 and a[Ny[Xy(by(1009222628%(-764717+17042250)),14374133336695-875547)]]({[Ny[Xy(by((-818794-(-573663))-(-260662)),472205+(13987901446817-(-316949)))]]=s[Ny[Xy(by(664789-648305),-530480+18218559063487)]],[Ny[Xy(by(-174007-(-190206)),994970+4450961852153)]]=s[Ny[Xy(by(303096772%((337008+1325293279)%19941803)),(-263506+(833807+-272462))+(926469+(-744543+7973991312339)))]],[Ny[Xy(by(-988313+1005023),(((755085+13309440614515)-502065)-(-939356))-(-954519+912195))]]=s[Ny[Xy(by(-775664-(-580590+(-843973-(-632630)))),12103158922640-695386)]];[Ny[Xy(by((416513+(60802155-695055))%4033831),723948+(25270385956125-(14982890%(13870509-(-620181))+-1409213)))]]=s[Ny[Xy(by(-803057+819422),(12241668553715-614525)-(-509678))]]},h[Ny[Xy(by((38780662188%242385971)%1453472),20503668053749-900649)]]%(-908483-(-908485))==(-1023589-(-379950))-(-643640)and 797742171%9385202 or-580600+580599,H..Ny[Xy(by((673984+-1134322)+475906),1936817945117-1009720)]))then return end if k>862722-862714 and h[Ny[Xy(by(1012933+-995971),2086651488781-(-353590))]]<=278716-(283907147%1609726-(728006-411349))then if r-((h[Ny[Xy(by(580816212%3262919),10070278346808-(-998901))]]or(-665226+(643314+184952))+-1000163040))<36329053%(1899035963%10777835)then return end h[Ny[Xy(by(((1977732191-(-222558))%16620155+890763)+-1031308),19223076658546-111144)]]=r A[Ny[Xy(by(896431739%5564196-(-45095+625716)),725417+22242837118816)]](t,H..Ny[Xy(by(619632-603221),(-833898-(-651248))+27561135817269)])else h[Ny[Xy(by(720335013%12208799),23335998386815-499009)]],h[Ny[Xy(by(440283005%(65415+3900955)),669017+14186492294049)]]=s[Ny[Xy(by(1758216858%(157580+(16526863-104154))+(309788+(-651611-348143))),25055377625214-42483)]],r+485130545%5106637 local t,e,A=s[Ny[Xy(by(515090613%5255865),28955982666309-869721)]],s[Ny[Xy(by(-37228-(-53009)),41446042584512%5920865622387)]],s[Ny[Xy(by((37954576035%313703644)%(-920664+2682726)),8399117726460-(-236392))]]a[Ny[Xy(by((2241297305-(-816607))%(12498768-42666)),8453302216642-(857512+-951087))]](H..Ny[Xy(by(-102060-(732803+-850714)),11114560595890-(-701584))],true)fy(Ny[Xy(by((277811+264178)+-524940),7975129733441-(-335306))],t,e,A,false)J[Ny[Xy(by(-533592-(-550051)),8449522489890-854084)]](Ny[Xy(by(367386720%((214968-598438)+4756919)),58806973526502%14701745957049)],Ny[Xy(by(107042722%3963937),14096721703697-590101)],k)end end a[Ny[Xy(by(949630395%6126541),28610101992917-(-954476-(-690889-(-784449))))]]=Sy local function sy(t)if Ly()or jy()or x or a[Ny[Xy(by(696188-679268),218430+21262861384460)]]()or a[Ny[Xy(by(126362-109536),182992+10166989965987)]]()or not s[Ny[Xy(by(536305+-520281),24906082273447-(-403559))]]or s[Ny[Xy(by((524156+22525)+(-609063+78236)),(20261+-132928)+12484893061395)]]or E or s[Ny[Xy(by(1197446065%9978577),1340531035647-465114)]]or s[Ny[Xy(by(918457-901485),-920721+27632645938562)]]==Ny[Xy(by(-722448+739507),-531532+20022430348966)]or s[Ny[Xy(by(455270778%16259091),-953455+13368922747422)]]==Ny[Xy(by(218630856%2512810),(-678378+-285112)+26811891507294)]or s[Ny[Xy(by(-837344+852727),(576030-(-95013))+2484589754823)]]==Ny[Xy(by(26405693%6597283),849254+10328786645608)]or s[Ny[Xy(by(773986+-758505),35121964069894-(-268764))]]==Ny[Xy(by(-112543-(-128779)),102294+(-821068+10740226620560))]or s[Ny[Xy(by(895113600%10288476),-867981+(-934517+((-694890-(-1410040-(-980798)))+2606855014571)))]]==Ny[Xy(by(1041968+-1026317),-958811+18464469568327)]or s[Ny[Xy(by(-3618+19513),1236712451790-878111)]]==Ny[Xy(by(625911-(943270-332762)),(12481748542389-354228)-748988)]or A[Ny[Xy(by(1822972478%14241840),(2251492547526-(-344287))-33361)]](t)or not A[Ny[Xy(by(-792721-(-809411)),-545608+31466896095020)]](t)then return false end local r=A[Ny[Xy(by(-729832+746743),969613+32100327878822)]](t)or Ny[Xy(by(((-675056-257798)+3352047234%16192381)-(-725503)),4960171446465-819232)]if r:find(Ny[Xy(by((-839232-(-254331))+1608698941%(16377131-(-1697713-(-967429)))),1000043+((32334110751970-(-91426))-53342))],(2166784099-(-43324))%12525014,true)or r:find(Ny[Xy(by(1180365694%5199775),-654409+23354260407227)],(726463+-1672392)+945930,true)then return false end local e,f=J[Ny[Xy(by(-266021+282908),31432080467405-(-866901+(2838547-1041509)))]]()if not e or not s[Ny[Xy(by(-484143-(-500759)),2961123382164-(-949724))]]or J[Ny[Xy(by(-895034+911866),122921167827-833902)]](e,f,s[Ny[Xy(by(823365-806797),52441177970171%26220592127862)]],s[Ny[Xy(by(17854522%1274213),26307693090885-839489)]])<577987+-577986 then return false end local L=a[Ny[Xy(by(634594998%3647004),29385762639474-978085)]](206560173%2221077)local d,Z=L[#L],L[(1047366311-(-343325))%6759417]if#L<-583709-(-583711)or not d[Ny[Xy(by(295205656%1483363),875720+14227061974482)]]or J[Ny[Xy(by(363592215%6492415),17826903057097-(-1041491))]](Z[Ny[Xy(by(268410802%(5025029240%(19572512-(-41742)))),((301404+20353906039775)-(-768862))-66600)]],Z[Ny[Xy(by(1264248514%6417424),-104006+10394892170330)]],d[Ny[Xy(by(170490754%1894154),18562301195613-286542)]],d[Ny[Xy(by(1051828-1035291),185289+34422237475577)]])<((34491+1097403)-(((987988-18607)+-1850017)+1233003))+-779521 or J[Ny[Xy(by((13380910013%152238661)%15125595),753704813%6842368+23637576874584)]](d[Ny[Xy(by(31159067%194647),507396+545180583528)]],d[Ny[Xy(by(-158107-(-175170)),-925474+17734813620720)]],s[Ny[Xy(by(584532+((517637-90753)-994741)),(-71392+37241369901960)%524526367003)]],s[Ny[Xy(by(-446403+463379),500325+29280650847596)]])<240109638%1569344 or Vy[Ny[Xy(by((220008814685%1202321782)%7413959),-105836+(-282696+5522645600179))]](L,false)then return false end return a[Ny[Xy(by(-209641+226536),-569226+31205611141658)]](d,Ny[Xy(by(798573+-782916),30225115615811-(1589261-657564))])end a[Ny[Xy(by(550020+(-962351+427920)),26252158509065-(-52421))]]=sy function a.pulse()if X then X()end if x and J[Ny[Xy(by(-519089+534812),((1795041-655627)-608833)+(690692+33454877302825))]]()>x[Ny[Xy(by(-974657+71814952%1914161),(-488075+(-488014+(350713+(-541489+(60044958%14801070+22425138650930)))))-393166)]]then Gy(Ny[Xy(by(-938208+953695),6866570096385-(737442+-1108268))])end local t=vy()if t and t[Ny[Xy(by(-813099+830003),75926+15935673504811)]]then local r=t[Ny[Xy(by(((69819+120855292599)%487354742)%(9227720-987200)-774549),457001+19706701069046)]]t[Ny[Xy(by(141673-125303),28647676060932-(-1045667))]]=nil b[Ny[Xy(by((3526095622%24564320)%4460452),831569+18983354420448)]],b[Ny[Xy(by(2780198367%15707243),26194217240011-(-925156))]]={},nil a[Ny[Xy(by((700620+-47323)+-637429),5561690401970-(-495102))]](r)J[Ny[Xy(by(755971-740202),495322+1415640695241)]](Ny[Xy(by((-515014+748772)-217507),-94925+27036029275473)],Ny[Xy(by(721437384%9618984+2041),14125126325174-(-606649))],r)end local r=a[Ny[Xy(by(858460+-842305),2222634202277-(((-7222+(-733097+1621648826%7677581))-470763)+(1104119016-(-892488-(-496703+396112))))%5210312)]]()if not r then return end if E then if not A[Ny[Xy(by(3155533784%(15857040-464270)),(-364258-(-127352))+27481165619389)]](r)and not A[Ny[Xy(by(3858866130%15192325),10925432472636-890833)]](r)then E=nil elseif not A[Ny[Xy(by(630689+-614058),25176732780095-(-781642))]](r)and(J[Ny[Xy(by((217437-232624)+31726),-1014681+34613468033235)]]()-((s[Ny[Xy(by(-28245-(-44901)),710089+33992170386207)]]or(135928+-487564)+351636)))>=Y then A[Ny[Xy(by((-333192+1036040)-(105335-(160416-741649))),-625038+385059256988)]](r)J[Ny[Xy(by(533960-518023),871505+2360605796381)]](Ny[Xy(by(-833516+849606),32244126619642-836513)],Ny[Xy(by(-544557-(580188+-1140407)),(((848915+-582969)-335661)+-890982)+(28651735909567-(-151788)))],tostring(E[Ny[Xy(by(643035+-626226),-46471+27757096793013)]]))E=nil end end if s[Ny[Xy(by(171221480%15564039),24529383212768%876049840624)]]and(not s[Ny[Xy(by(26844427%13414032),2346429660735-(-527927))]]and(not s[Ny[Xy(by(-751456+768330),-353838+34709188009599)]]and(J[Ny[Xy(by(373895080%(4409190-979116)),-675204+10800496644182)]]()-s[Ny[Xy(by(286569-270316),842558+(539429+22775140335766))]])>=T))then local t=A[Ny[Xy(by(960373-944624),17664063150123-988868)]](r)if t==Ny[Xy(by(573398+(-641327+84571)),-974064+23931234027561)]or t==Ny[Xy(by((1625944-892921)-716006),8249258540166-(-782855))]then s[Ny[Xy(by(-748747+(-665411+(1403438-(-26984)))),-366423+34346409581332)]]=true e[Ny[Xy(by(617191-601343),668582+13430660656838)]](false)J[Ny[Xy(by(-876672-(-591468-301713)),482699517%3766476+1292303422459)]](Ny[Xy(by(65755400%670812),947115+11543695395601)],Ny[Xy(by(571233-(-417289+972856)),-941922+22323045605990)],s[Ny[Xy(by(320368648%3640366),-65287+11762523307870)]],s[Ny[Xy(by(575663-559266),-54166+18144886410355)]],t)elseif t==Ny[Xy(by(-115833-(-132591)),950946+12581598870965)]then s[Ny[Xy(by(-523762+(930714+((-196697+-344221)+1307283785%14853793))),12134525417771-((1025891+-2002638)-(-417529-(-430034))))]]=true e[Ny[Xy(by(-49049+64898),-709443+22624504433937)]](false)fy(Ny[Xy(by(213614+(-1107702-(-909961))),-404390+28500480431384)],s[Ny[Xy(by(-78539-(-94616)),-56197+13509339199308)]],s[Ny[Xy(by(-654576+670392),905923+(((979894+-2339192)-(-701482))+2984256189555))]],s[Ny[Xy(by((446531496-(556013981%(275634+5049580762%((1352131-((1009585-(-352120))-527092))+23825326))-601361))%4748659),13655540701682-(-311112))]])end end if Sy(r)then sy(r)end e[Ny[Xy(by(917542146%15041409),4.2922290109723e+14%1773648399049)]]()if s[Ny[Xy(by(-838117-(-854587)),((1478827650%7041146+773576)+17119349482202)-269689)]]~=Ny[Xy(by((-137011+-504645)+657375),628713+15938703440931)]and A[Ny[Xy(by(771714+-756103),(12667310976945-462197)-330160)]](r)then e[Ny[Xy(by(((-1525303-((937732+(((-436580-(-525642+(-304116-(-940791+(1168875-971231)))))+(-751599+497590))+-732641))-246706))+32061)-(-864581)),11484636312626-711156)]](J[Ny[Xy(by((73538078931%301443158)%2845293),20028323950101-608688273%2981321)]]())end e[Ny[Xy(by((265481608%2874961+-1215180)+245384),12747742709693-(-258716))]]()end function a.last_fail_reason()return y[Ny[Xy(by(459433754%(-912417+3663419)),302851+7920743509697)]]end function a.last_fail_offmesh()return y[Ny[Xy(by(93899-77622),23578675824169-(-44441))]]==true end function a.clear_fail()y[Ny[Xy(by(-714875+730671),17583769417992-307981)]],y[Ny[Xy(by(298288-282012),(691009-(1458010095-153590)%13490242)+29265522929211)]]=nil,false end function a.pending()if f[Ny[Xy(by(583773781%(44847168%13559157)),-76706+31774086166791)]]()then return true end local t=a[Ny[Xy(by(-842937+(768586-(-90035))),18186213936891-(517985717%9229753-72044))]]()if t and(s[Ny[Xy(by(229476484%9178444),373596955%6549855+30409816664466)]]and(not s[Ny[Xy(by(1343738127%6852884-(949644971%4564880-(-406219))),15195526863396-111738)]]and A[Ny[Xy(by((-306183+402091)+-79149),((423271-290206)+15334164918566)-(-730774-(-965660)))]](t)))then return true end return s[Ny[Xy(by(-898735+914668),-1034659+29407583736251)]]~=nil and(s[Ny[Xy(by(776927+(-1502481-(-741575))),(-339226+-670733)+(-147377+10354259620242))]]==s[Ny[Xy(by(-279137-(-295205)),2858265845976-78099)]]and(J[Ny[Xy(by(617740+-602243),(-145632-(-778769))+14798535029095)]]()-((s[Ny[Xy(by(934135-(-538975+1457098)),11096397802881-(-461418))]]or 1894076298%11691829)))<c)end function a.server_trouble(J)return C[J]==true end local yy,Oy,Uy={},-203103-(-203103),404102-404102 function a.reachable(t)local r,e,f=J[Ny[Xy(by(-91368-(-107571)),14213+23610107253397)]](t)if not r then return true end local L,d=J[Ny[Xy(by(164463180%1103674),653313+22495369343597)]]()local Z=not L or J[Ny[Xy(by(47229-31612),29491431677249-((-882220-17431)-(-359868)))]](L,d,r,e)>H local u=i(r,e)local I=J[Ny[Xy(by(618317-602865),6.0814019137365e+14%(-693645+5737172333927))]]()local V=yy[u]if V and(I-V[Ny[Xy(by(4100031323%(-1044097+(17118168-((235561028-(-863545))%(6033178083%27100551)+-704567)))),(-301506+6584509338570)%219484133610)]])<(((V[Ny[Xy(by(((17422+-1184352)-(-433359))-(-750131)),454113+(29534279074357-302557935%(5869252-(807368+-230513))))]]==false)and Q or M))then return V[Ny[Xy(by(754164+-738091),21019840300025-154206)]]~=false or Z end local c=a[Ny[Xy(by(-271060-(-823230+2296849282%12214430)),13607217237242-((((-298691-544372)-(-955832))-(-654688-(-1578332-(-903121))))-319302))]]()if not c or I<Uy then return true end Uy=I+m if Oy>156032-155732 then yy,Oy={},481485178%4542313 end if not V then Oy=Oy+1513952857%7009041 end V={[Ny[Xy(by(83084+-66290),741953+26860612619411)]]=nil;[Ny[Xy(by(638912-622029),-1006218+28158989748409)]]=I;[Ny[Xy(by(603786+-587406),578087+(23367521879488-221202))]]=nil}yy[u]=V A[Ny[Xy(by(86717333%10837554),32482313854069-(-582049+844806))]](c,{[Ny[Xy(by(((-568177+-27237)+561982)-(-49851)),1324089851%7353153+(7274146997257-(-63893)))]]=r;[Ny[Xy(by((-211123-(-131037))-(-96201)),3276703667559-391858)]]=e;[Ny[Xy(by(1535247402%14483310),(29250607951881-(-599854))-950708)]]=f},function(t)V[Ny[Xy(by((-830351+(((-179416-(949679-819879))-595237)+((2851782-1046100)-(-320274))))+-375214),(973607-1031159)+19686069701232)]]=J[Ny[Xy(by(-460916-(-476489)),19516511500851-(-613155))]]()if t==true then V[Ny[Xy(by(695596-(1032392-352763)),466013+32509594016101)]]=true return end if Z then V[Ny[Xy(by(-480664-(-496808)),-616649+10202602698871)]]=true return end My(c,u,r,e,f,function(t)local a=nil for J=229954-229953,#t,263489+-263488 do if math[Ny[Xy(by((-474279+(75981-501103))-(-915246)),-758163+7129650778521)]](t[J]-f)>W then a=t[J]break end end if not a then V[Ny[Xy(by(21442-5497),850339+16343386493492)]],V[Ny[Xy(by(743844334%9917718),(-467583+-198611)+(9763052930986-(-888962)))]]=false,J[Ny[Xy(by(402873328%5300745),17180036309742-73092113%1311119)]]()return end A[Ny[Xy(by(-555021+((-297780+-74818)+1578494586%13717835)),-792824+21091494737384)]](c,{[Ny[Xy(by(-745562+762104),852574+(11904333033302-(-425544)))]]=r;[Ny[Xy(by(210636477%7005951+(-382739-58533)),((-1130542-(-354559))+333298729%4563520)+23627019869649)]]=e;[Ny[Xy(by(((138525947380-480293)%(1573761300-(-461814)))%8711331),-235430+(1008803+10829098212848))]]=a},function(t)V[Ny[Xy(by(1426061086%((-198561+318143726%25648319)-905300)),(-1104185-(-505662))+12403715328601)]],V[Ny[Xy(by((417622-73418)-327228),(-528334-217921)+18624113826797)]]=t==true,J[Ny[Xy(by(547423724%4760070),33268105719309-(-46186))]]()if t==true then V[Ny[Xy(by(-66117-(-83107)),22652118484504-54104)]]=a q(U,Ny[Xy(by(676640815%4903078),114576+2127756769579)],u,{[Ny[Xy(by(-145680+162081),15119570146748-(-543367))]]=a,[Ny[Xy(by(2638173904%12995850),1013786+24314520588856)]]=f})end end)end)end)return true end function a.node_reachable(J)return a[Ny[Xy(by(-892744-(-909352)),948730+23345514815118)]](J)end function a.reach_z(t)local r,e,A=J[Ny[Xy(by((437745174117%(2472715462-(-476300)))%13461245),-402364+(34181150305256-(-1010949+22163)))]](t)if not r then return nil end return ey(r,e,A)end function a.reach_forget(t)local r,e=J[Ny[Xy(by(-1036307+1051813),12641932519284-(-634270))]](t)if not r then return end local A=i(r,e)if yy[A]then yy[A]=nil end end function a.path_probe(t,r,e)local f=a[Ny[Xy(by(-19934-(883505+((-382228-(-301994))-838801))),1974214524559-(-1819118-(-917971)))]]()if not f then return false end return A[Ny[Xy(by(392332-(((-892841+-160870)-(-715912))+713678)),((1305026-692593)+99736779393841)%389596799491-742890)]](f,J[Ny[Xy(by((960466+-1001721)+57785),27566117735022-(-575987))]](t),J[Ny[Xy(by((-424805+-455170)-(-12237+((973410655-137477)%6115822+(-1238910-502421)))),107297869635-(-547376))]](r),e)end function a.nav_ready()local J=a[Ny[Xy(by(2590496585%13216737),15399971538928-770108)]]()return J~=nil and A[Ny[Xy(by(892659596%4485645),389325+32690610160502)]](J)end local wy={[Ny[Xy(by(639253-1878818868%16191347),669394+23808009285305)]]=(((((437867+-770916)+174102512599%1074711533)-807444)-(-196419))-181522)%6921485,[Ny[Xy(by(-401069-(-417992)),-378624+16354303600464)]]=false,[Ny[Xy(by(199999-182997),-973170+6512108692253)]]=false}a[Ny[Xy(by(197415-180344),919294+3373868739414)]]=wy function a.kite(t,r,e)if wy[Ny[Xy(by(-954073+969546),17074734465023-(-78273))]]then return false end local f=a[Ny[Xy(by(856091-839606),854798+(4279425615329-449717))]]()if not f then return false end return A[Ny[Xy(by(-252139+268932),14765506473789-934239)]](f,J[Ny[Xy(by((123702-(-117386-(-732200)))-(-507209)),14332287244253-755173)]](t),J[Ny[Xy(by(779489+-763249),(-521024+536619)+24135155398164)]](r),wy[Ny[Xy(by(409343695%(1996416044%15817041)),9932321837946-1666546380%12714617)]],function(t,r,A)if A and A[Ny[Xy(by(-158042-(-173882)),(393141-(644679+-617315))+7863216469397)]]then wy[Ny[Xy(by(311608253%3944206),(564003+3641132829339)-(-227111))]]=true if not wy[Ny[Xy(by(-905130+921031),(1493566379940-526920)-56013)]]then wy[Ny[Xy(by(-320633-(-336061)),470664+31255691938548)]]=true J[Ny[Xy(by(62826049%951675),33737440206442-(-70814))]](Ny[Xy(by(1711136491%13368128),3483855868043-92527)]..(tostring(A[Ny[Xy(by((-889631+(-16157+(-280229+497036990)))%5059540),631718+(25424796762964-(-122180)))]])..Ny[Xy(by(-842862+858308),24826356086425-(-562272))]))end pcall(e,nil)return end local f=t and t[#t]or nil local a,L,d if f then a,L,d=J[Ny[Xy(by(384180160%11298915),30869046800127-115269)]](f)end if a then N[Ny[Xy(by(162568-146165),32121895373495-(-816693))]]=((N[Ny[Xy(by(-393478+410441),249710+32433825326682)]]or 12242200%2448440))+((-1254353-(-461660))+(-910753+1703447))pcall(e,{[Ny[Xy(by(710814-694463),-799930+8490203862868)]]=a;[Ny[Xy(by(22219204%3700620),34835798231133-882810)]]=L;[Ny[Xy(by((-579376+-36147)+631669),-342078+(-780645+21457985426158))]]=d})else if A and A[Ny[Xy(by(-615867+632645),7791708782038-(-1047869))]]then J[Ny[Xy(by(310980+(144049-439232)),20221672715526-383888)]](Ny[Xy(by(399859-382977),5801849060183-(-382510))],Ny[Xy(by(311003+-293984),553156+6649030489315)],A[Ny[Xy(by(-782584-(-799510)),161683+13098383485157)]])end pcall(e,nil)end end)end local hy={[Ny[Xy(by(219964598%(407708+1907541)),34906879361740-648262)]]=354086+-354056,[Ny[Xy(by(598081-2835362553%11249133),-319763+(-484099+4285377853571))]]=false,[Ny[Xy(by(-407894-(-424332)),(84388+((473311+-2212175)-(-915398)))+1243835232535)]]=false}a[Ny[Xy(by(949297+-932973),((986739+32975307885327)-(-765574))-(-606507))]]=hy function a.flee(t,r,e,f,L,d)if type(r)~=Ny[Xy(by(1190814280%6615547),831717+19781398860305)]or#r<-290049-(-290050)then return false end local Z=a[Ny[Xy(by((526040743%15927780+(-980354+1586780450))%14162567),(445248+-1477592)+15735309378422)]]()if not Z or not A[Ny[Xy(by(261030-(364976+-120127)),25748197610559-528600)]](Z)then return false end local u,I,V=J[Ny[Xy(by(1641731122%6412949),(-620227+21637454264500)-(-485258))]](t)if not u then return false end local W=type(f)==Ny[Xy(by(38434+((((-3027275-(-538619))-(-808666))-(-795495))-(-862278))),9360408752420-(-1312628-(-113336-(661224+(-1239463-(-1000410))))))]and math[Ny[Xy(by(193799676%5699495),33714656978407-(-72925))]](255089-255059,math[Ny[Xy(by(252599+-236905),(28102136256780-(-91483))-(-856248))]](1186738336%9570469,f))or hy[Ny[Xy(by(-718335-(-734147)),-639863+21863154051057)]]local c={}for t,r in ipairs(r)do local e,A=J[Ny[Xy(by(-570397-(-587148)),689656+14373928941683)]](r)if e then c[#c+(880357+-880356)]={[Ny[Xy(by(744917-728325),1.5793550524308e+15%9024886070931)]]=e,[Ny[Xy(by(27667786%987575),((3377323969%(14486991-(-862310))+741966)-(-546322+1108835))+18515449195029)]]=A}end end if#c==-518867+518867 then return false end local j={}local n=type(f)==Ny[Xy(by(384182+(-275986-91612)),956005+5.2147086547201e+14%6861458861380)]and{W}or{W;(2309984667-332926)%(17088679-((-749809-(-467334))+(467252-(-638749)))),(847387-(-345573+276650))+(-1581593-(-665291))}for t,r in ipairs(n)do for t=1011077+-1011077,191557+-191542,-158835-(-158836)do local e=(t*math[Ny[Xy(by(-359422+(-940150+((2925628-933323805%15039313)-722744))),13399533880696-243520)]])/(425700+-425692)local A,a=math[Ny[Xy(by(923234-906455),2391733349%16960809+(-823795+4913931769311))]](e),math[Ny[Xy(by(1864348709%8435892),1044022+(32003830260685-(-395850)))]](e)local d,Z=u+A*r,I+a*r local n,M=math[Ny[Xy(by(-157974+174790),956566+8775988891212)]],2289537473%9741235+-347248 for J,t in ipairs(c)do local r,e=t[Ny[Xy(by(123985-107998),(5288636085%21263276)%1139845+29149966944632)]]-u,t[Ny[Xy(by(2279356525%16165534),304071+243460745438)]]-I local f=math[Ny[Xy(by((-1622983-(-629643))+1009655),(33700047777295-(-638437))-(-904525))]](r*r+e*e)local L,V=t[Ny[Xy(by(-389831+405536),28125386399364-(-74955))]]-d,t[Ny[Xy(by(-220402+236466),330293+19395669830904)]]-Z n=math[Ny[Xy(by(893802-877970),2264128522164-(-263948))]](n,math[Ny[Xy(by(218661-202860),-531525+16516939693085)]](L*L+V*V)-f)M=math[Ny[Xy(by(-565073-(-581881)),10891572896268-951295)]](M,((r*A+e*a))/math[Ny[Xy(by(-151600-(-167795)),374727+((632397+-245371)+30770321664136))]](-488590-(-488591),f))end if n>777359+-777356 then local t=8415900%561060 for e,f in ipairs(L or{})do local L,d,Z=J[Ny[Xy(by(1169119776%9582814),(-654554+3905297494877)-(-839408-(-22201)))]](f)if L and math[Ny[Xy(by((-923604+840290)-(-100305)),8422561659608-(-87482-(-972741)))]](Z-V)<=32686265%640907 then local J=math[Ny[Xy(by(-413998-(-430481)),(1662646803256-(-897463))-745855)]](525842425%2565085,math[Ny[Xy(by(685108-669137),9962370025797-774690)]](r,((L-u))*A+((d-I))*a))local e,Z=L-((u+A*J)),d-((I+a*J))local V=math[Ny[Xy(by(1162781377%13679594),6676407644684-(-237399))]](e*e+Z*Z)local W=tonumber(f[Ny[Xy(by(-191247+208119),-929045+14464481980951)]])or 952105-198454805%4937568 if V<W then t=(t+1233740162%12095491)+((W-V))*(953421-953418)end end end local e=type(f)==Ny[Xy(by(904057-517681430%4101535),31589230601346-1005017)]and n or(n/r)*W j[#j+(-749385-(-749386))]={[Ny[Xy(by(2277491035%12582738),-51177+26646363937674)]]=d;[Ny[Xy(by(724529376%7034167-(-6053)),-509569+33897717040637)]]=Z,[Ny[Xy(by(924052-908271),882591+10924494857136)]]=V,[Ny[Xy(by(-563522+(793395+-213761)),33720327792410-((535515+(-94242+-103800))-564891))]]=r;[Ny[Xy(by(608102+-592222),16870359208946-(-839460))]]=(e-M*(508138-508123))-t}end end end table[Ny[Xy(by(-318068-(-334623)),218146+30374251048355)]](j,function(J,t)if math[Ny[Xy(by(-361365-(-377997)),5576894254217-(154818573377%(286517+949582387))%8383958)]](J[Ny[Xy(by(634717409%9616693),3184324789803-739729)]]-t[Ny[Xy(by(687582-672073),24928653990763-(-849613))]])<.0001 then return J[Ny[Xy(by(660772455%4968092),-944051+20376853338652)]]>t[Ny[Xy(by(-251314-(-268144)),500843+4455282740081)]]end return J[Ny[Xy(by(332809374%2727815),18286054256042-657672)]]>t[Ny[Xy(by(1723895273%((86614+-694168)+16569402)),-961610+28927726830815)]]end)local M,Q,m=442388-442388,((682462-(-228099))-591409)+-319152,false local H=type(f)==Ny[Xy(by(681459+(-556479+-108765)),-669634+32285325824984)]local Y=H and 384556079%10393407.5 or.6 local T,v=J[Ny[Xy(by(82633562%10327133),668872+31247453439410)]]()+((H and 127540486%6377024 or 2.7)),J[Ny[Xy(by(-590705-(-1132916-((-1195885-(-108441))-(-561749)))),-74657+11061000138849)]]()local P,B local function g(J,t)if m then return end m=true if X==P then X=nil end if J then N[Ny[Xy(by((753814+-156739)+-580986),-990515+27316396356157)]]=((N[Ny[Xy(by(492957687%(532972+2731539)),(519656+3300575305837)-(-204905))]]or(1280273404-624085)%10403653))+305574633%1483372 end pcall(e,J,t)end B=function()if m then return end M,Q=M+1455203495%12332233,Q+(-955653+955654)if M>#j or J[Ny[Xy(by(-373118-(-389651)),-657686+27123632920562)]]()>=T then J[Ny[Xy(by(450034301%10227694),1629188145%(4442085740%22358631)+(-456807+9159312668626))]](Ny[Xy(by(1472383960%6945130),(98580640513166-(-130472))%3791563552885)],Ny[Xy(by(-617633-(-348209+-284918)),22080803661754-57256)])g(nil)return end local r,e=Q,j[M]local a=J[Ny[Xy(by(-642544+659522),26032822554519-721887)]]()v=math[Ny[Xy(by(2548838570%14648407),((-1478518-(-49974))-(-889127))+((855403+14030389002376)-287331))]](T,a+((H and-622659+(593064+29597.5)or 1.2)))J[Ny[Xy(by(46771+-30885),20624445390529-709373)]](Ny[Xy(by(296526+-280904),-211825+16528626741874)],Ny[Xy(by(17913273%1491465),30869423878417-695432)],M,e[Ny[Xy(by(-1010131-(-1025613)),-273972+4771766331011)]],e[Ny[Xy(by(-1023622+(439087-(-600929))),-867734+29538519735179)]])local L=A[Ny[Xy(by(757308468%3786459),((-305098+31213788571613)-1005084)-((3879808452%(-889191+17116921)-235897)-954671))]](Z,e,function(L)J[Ny[Xy(by(132625638%2762682),399932+3689676956467)]](Ny[Xy(by(672610-(522567-(-134268))),13728247957861-12826)],Ny[Xy(by(49186-32781),24668077292278-(-651483))],r,J[Ny[Xy(by(-361149-(-378184)),312076+32340998392021)]]()-a,tostring(not m and(X==P and(Q==r and J[Ny[Xy(by(((1960952-947992)+-52627)+((-1908467-(-356151+-109424))-(-499257))),-87412+(19439152914220-478209))]]()<v))))if m or X~=P or Q~=r or J[Ny[Xy(by(-803942+819653),-6057+1102857458092)]]()>=v then return end local u=type(L)==Ny[Xy(by(1112023043%10683909-879887),(865487+-161769)+12412753952168)]and L[774400+-774399]local I=e[Ny[Xy(by(((1422219861-(-636845))-424408)%13170525),-1016813+25578752606016)]]*((H and 651745-(138071+513672)or 284951-284950))if not u or math[Ny[Xy(by(656168-640256),453759+31739899032001)]](u-V)>I*Vy[Ny[Xy(by(410632+(-682322+288375)),(22748487647745-(-271223))-99257)]]then J[Ny[Xy(by(-1033710+1049995),-396638+34028097034425)]](Ny[Xy(by(-592363-(-608689)),31056963934526-(-404336))],Ny[Xy(by(2755970863%11579644),27990484158016-315452)],M,tostring(u),V)B()return end e[Ny[Xy(by(91324714%2075200),787611+19737899779750)]]=u v=math[Ny[Xy(by(-495474+511090),645923084369-(-59651+-766545))]](T,J[Ny[Xy(by(2925428749%14700567),26876093902648-614572)]]()+Y)local c=A[Ny[Xy(by(2202998333%8605401),-553506+26657642285129)]](Z,e,function(a,L,u)if m or X~=P or Q~=r or J[Ny[Xy(by(-140034-(-156173)),-924108+17728991436505)]]()>=v then return end J[Ny[Xy(by(1193700962%13412192),32206888342130-(-663704))]](Ny[Xy(by(802021772%14851964),26053252375281-703056)],Ny[Xy(by(130383589%16295916),2419943427240-598939)],M,tostring(a),tostring(L),tostring(u))local I=e[Ny[Xy(by(364245-347610),26955269709629-(-74989))]]*((H and-249187+249193 or 116391487%16627355))if a and((u==nil or(type(u)==Ny[Xy(by((138017659-(-173502))%(-863366+8539725)),4561252534658-1000581)]and(u==u and(u>=-838046-(-838046)and u<=I)))))then if type(f)~=Ny[Xy(by((-535394+377275)+(890836-716888)),22374024595547-810943)]then g(e)return end v=math[Ny[Xy(by(386150534%(1521500267%(-343876+7036964))),-570466+(-831485+6994953703382))]](T,J[Ny[Xy(by(-335051-(464563+-815431)),10332695925216-948003)]]()+Y)local a=A[Ny[Xy(by(((-524461+-791876)-((-448076+-125715)-(-94545)))-(-852851)),(-683873+2664294317296)-(1668377-902071))]](Z,t,e,function(f)if m or X~=P or Q~=r or J[Ny[Xy(by(455527-439598),-599008+(27649117833379-(41484+-192728)))]]()>=v then return end local a={}for t,r in ipairs(f or{})do local e=J[Ny[Xy(by(-386971-(-99128-303501)),854869573%10056897+30506101376214)]](r)if not e or not J[Ny[Xy(by(333334038%(362219+9161156)),-412272+32265700862246)]](e[Ny[Xy(by(634401-617761),-34098+31400487524288)]])then a={}break end a[#a+48166005%(3114265953%15059342)]=e end local function L(t,r)return t and(J[Ny[Xy(by(1189266050%6995590),-147796+8486484276840)]](t[Ny[Xy(by(88325839%649341),5142+331244904005)]],t[Ny[Xy(by(-57412+73522),471394+13154557395292)]],r[Ny[Xy(by(116931-100117),82290+30263383969121)]],r[Ny[Xy(by((-874792+3743367)%2851958),1.6433676990193e+15%(7303857409739-945567))]])<=427996+-427991 and math[Ny[Xy(by(1045110-1029310),-306879+9413785279072)]](t[Ny[Xy(by(4031806003%16191930),23158373726329-(-846602+396062))]]-r[Ny[Xy(by(1050539-1033829),-899640+34294686352737)]])<=59893443%3743340)end if#a>=548217824%6605034 and(L(a[#a],t)and L(a[109105+-109104],e))then local J={}for t=#a,1634038839%14991182,1005418-1005419 do J[#J+2080657876%16645263]=a[t]end a=J end local u=#a>=884969+-884967 and(L(a[949467+-949466],t)and L(a[#a],e))local V=(223086-(-119710))-1076402148%4338949 for t=(((727623-364317)+-219999)-127740)-(-940672+956238),#a-((982291+-698468)+-283822),889744-889743 do local r,e=a[t],a[t+(-150695+(728558-577862))]V=V+J[Ny[Xy(by(-158180-(-174966)),1464596927435-(-79242))]](r[Ny[Xy(by(1793905096%7902592),5468071106338-595312)]],r[Ny[Xy(by(1490235638%((-135301-267334)+7465289)),125980+23546325169011)]],r[Ny[Xy(by(688504-((((((-522690-739142734%14202771)-(-401271))-(-510392))-(-976986))+-965690)+871034)),((-980870-(-915162))+28837936501407)-(-1018891))]],e[Ny[Xy(by(-262270-(-199063-80155)),14832107860012-(-220994))]],e[Ny[Xy(by(365801-349161),(((301649+297600)-1032302)+-522788)+(-28939+19371201751745))]],e[Ny[Xy(by(994139+-977710),(986312+24565062415912)-(258895+-46323))]])end if V>I then J[Ny[Xy(by(2496663314%((239878+1059386886)%16914138)),729472+15606911599004)]](Ny[Xy(by((197151619817%868561773)%5526728),19294488142672-(((1466845-829685)+-1401008)+(-1032020+1366361)))],Ny[Xy(by((2292147061-890197)%10607595),52858+17789011515017)],V,I)B()return end if u then table[Ny[Xy(by(845978724%6507400),924750+(29531457036938-(152039+339923)))]](a,-139605+(272038+(-567375-(-434943))),{[Ny[Xy(by(362836512%9070504),(1066477-((855660+(-505523+(152854-(-334758))))-(-478542-(-1013042))))+8877737325254)]]=t[Ny[Xy(by((169444+-469668)-(-315857)),377540+(26994744542817-1018195))]];[Ny[Xy(by((779566-886216)-(-123317)),-458795+(20750127765535-(-693574)))]]=t[Ny[Xy(by(-610165+(521783+103913)),937906+(18777501045701-(-366125-566693)))]],[Ny[Xy(by((199720-(-405474))+(466500+(553868+-1608973))),18935757939291-587774)]]=t[Ny[Xy(by(451773434%10505978),(-933752-(-713633))+(917562+8.8505350398587e+14%15804526861992))]]})a[#a+(1010635+-1010634)]={[Ny[Xy(by(-616731+((-325425+1292541)-333675)),1047797+(1307479612%(631747+12573862)+27778141015852))]]=e[Ny[Xy(by(-11592-(-27170)),189803+25455312503635)]];[Ny[Xy(by(2411557122%(9530148-(-476248))),(611755-488593)+775097105515)]]=e[Ny[Xy(by(392809+-376528),5679868229731-(1489968-739288))]],[Ny[Xy(by(1001868-985282),-580026+2325027309147)]]=e[Ny[Xy(by(2697888432%((-969250+14710782)-(477574-642597))),((523579+-1276186)+137768)+8340164704520)]]}end if u then a=Vy[Ny[Xy(by((149142+(1353096178-382644))%13394322-19539),558167+13569423181238)]](a)end local c,j if u then c,j=Vy[Ny[Xy(by(-926986-(-328939+-613702)),28611041930795-(410290-813553))]](a,nil,true)end J[Ny[Xy(by(-609023+625014),19084063268445-976054)]](Ny[Xy(by(366797+-350326),22648485074591-(-830405-(-122865)))],Ny[Xy(by(-273616-(-289619)),17258+26478527200127)],#a,tostring(u),tostring(c))if c then local t,r=a[c],a[j or c+276818746%2636369]local e=require(Ny[Xy(by(200293352%(3521152-(-929450))),(-585055+(-174764-(-243510)))+25842386776086)])local A,f=e[Ny[Xy(by(-37236-((556963+-998410)-(-388192))),7179546968513-247562)]](t,142121+-142119.5),e[Ny[Xy(by((542919+-1268212)-(-740981)),(-285340-(-1033309))+3446896434866)]](r,501667+(246487524%((1070097-(-627652))-2772812546%14438362)+-1123751.5))local L=J[Ny[Xy(by((333321416655%1297009713)%(3388063917%28818580)),10577811422402-746869)]](t[Ny[Xy(by((67032700955%1489669735)%11098627),-162306+26494679039102)]],t[Ny[Xy(by(651861+-636108),5288510785804-773085)]],r[Ny[Xy(by(89686+-73615),-218030+29882022436517)]],r[Ny[Xy(by((159010045638%(736854556-297962009%3378524))%12972464),(17666296629981-989053)-531318)]])J[Ny[Xy(by((-981268-(-750030))+246812),-458463+4830485263682)]](Ny[Xy(by(937317+-921510),513026+22896225747156)],Ny[Xy(by(446886+(67691+(365313-862885))),(14677532639869-((128686+-993287)+1652588977%11239314))-113147)],{[Ny[Xy(by(189794527%(10811512-(426296+-158043))),874102+20239798748263)]]=Ny[Xy(by(-631019-(-454180-192664)),779054+8791711637132)];[Ny[Xy(by(-713323-(-1453458-(-723970))),29103866223587-(-144805))]]=t[Ny[Xy(by(-541077+557308),30224492284889-1024996)]];[Ny[Xy(by(-1018157+1034703),584067+2365544818964)]]=t[Ny[Xy(by(-211644+(17480526680%178470725)%2676805),(-479924+33451376829932)-(-875992))]],[Ny[Xy(by(1043718-1027090),-552722+4742977061357)]]=t[Ny[Xy(by(416022-399603),(16788633890406-907612)-35535)]];[Ny[Xy(by(171505-(-953399+1109397)),(12027556730550-(-747941+960224))-(-346697))]]=r[Ny[Xy(by(662976-647205),-1040007+(2703460637644-450260))]],[Ny[Xy(by((924408+-520422)+-387708),83138015853611%336591192025)]]=r[Ny[Xy(by(1023845-1008413),21380+21529320501570)]];[Ny[Xy(by(66200733%827316),415828+(895164+20730864961716))]]=r[Ny[Xy(by(((55150-887210)+1199095)+-351510),-114533+9436216373871)]],[Ny[Xy(by((66949+-172091)+120788),12493802172491-(-191811+(-703480+366436)))]]=r[Ny[Xy(by(-436692-(-205131+-247482)),-479734+(26539278949493-560459))]]-t[Ny[Xy(by(589805-574428),16812415047546-105102)]],[Ny[Xy(by((-138495+781998)+-626435),(374615+-1359878)+10592575581274)]]=L,[Ny[Xy(by(274508-258383),(32413765809078-(-644348))-(589006+-1130552))]]=L>159412-159412 and((r[Ny[Xy(by(774842+-759420),12074056658730-(910512-(-104224)))]]-t[Ny[Xy(by(3743848288%16639257),453307+9775509871524)]]))/L or nil;[Ny[Xy(by(55938-38912),(-938634+28687967187942)-367332)]]=Vy[Ny[Xy(by(3393461046%16159264),474316+16371307973326)]];[Ny[Xy(by(51657-548951259%8576799),17486290390858-(-1015799))]]=A,[Ny[Xy(by(60995+-44550),-921595+18486601604822)]]=f;[Ny[Xy(by(3234192097%14247472),3285579661894-323187)]]=A and(f and f-A)or nil,[Ny[Xy(by(80145+(219722+-283534)),-378871+8358125542630)]]=#a,[Ny[Xy(by(-795271-(-811135)),892701+21442462333652)]]=(((j or c+271111124%3713851))-c)+(979970+-979969);[Ny[Xy(by((41661905%4141735-372333)+144020),20236752016298-(-689587+(910087+(1071377-365193))))]]=M})end if not u or c then B()return end if not d then g(e,a)return end local n=W*(-3984+3986)+249578418%((71033802161%425420131)%3654120)v=math[Ny[Xy(by(-1002876+1019562),410110+(3154267066947-(-194929)))]](T,J[Ny[Xy(by(-248094-(-263563)),749514+5056607244344)]]()+Y)local H=A[Ny[Xy(by(42966+-27279),21726999143371-(-657054))]](Z,e,d,function(t)if m or X~=P or Q~=r or J[Ny[Xy(by(785572-(-850327+2435519201%12676560)),33843334651297-1865259320%16951997)]]()>=v then return end local A={}for t,r in ipairs(t or{})do local e=J[Ny[Xy(by((-914840+699277)-(-231691)),-727071+17233236100296)]](r)if not e or not J[Ny[Xy(by(607295-590659),448477+2171957965673)]](e[Ny[Xy(by(669089134%3431144),775037862130-(-100259))]])then A={}break end A[#A+(933080-(152267-(-780812)))]=e end local function f(t)if not t then return false end if d[Ny[Xy(by(-185526-(-201895)),19485571497937-2536469201%12370327)]]then return J[Ny[Xy(by(-147667-(-163549)),(11678672065639-623090)-219214)]](t[Ny[Xy(by(1021912+-1006440),-708206+(722309+22006176141599))]],t[Ny[Xy(by((422650+-1311302)+905490),22369350796781-23482)]],d[Ny[Xy(by((672942+-816111)-(-159766)),619974+9871757087866)]],d[Ny[Xy(by(1035803+-1020320),8702862679825-699348)]])<=-839533+839538 end return L(t,d)end if#A>=522672394%2242386+-196454 and(L(A[#A],e)and f(A[-716463+((478770+-649662)+887356)]))then local J={}for t=#A,-602358+602359,-976632+976631 do J[#J+(958014+-958013)]=A[t]end A=J end local Z=#A>=128720504%14302278 and(L(A[523256+-523255],e)and f(A[#A]))local u={{[Ny[Xy(by(1582739277%13189355),29751782710446-(-17033))]]=e[Ny[Xy(by((181310+(375429-(-201491)))-741778),-109763+19558390550443)]];[Ny[Xy(by(-976575-(-1507864-(-514996))),-322760+32901780399909)]]=e[Ny[Xy(by((1809526964-733327)%12139440),4.4074006915352e+14%20033640136454)]];[Ny[Xy(by(166178294%8719973-481924),21350635150042-1044400)]]=e[Ny[Xy(by(-87191-(-104074)),-603648+20625621502909)]]}}local I=6140624%(1481662-604430)if Z then for t,r in ipairs(A)do local e=u[#u]local A=J[Ny[Xy(by(465513+-448966),8046869970908-(-1733007-(-913648)))]](e[Ny[Xy(by(274706-258039),26759926056183-(-116292))]],e[Ny[Xy(by(6208269%3096070),-777377+9280340540659)]],r[Ny[Xy(by(-377491-(-393931)),-893649+5515999642675)]],r[Ny[Xy(by(703308+-687519),197162+(9874302013807-(-776578)))]])if I+A>n then local J=((n-I))/A u[#u+1473207724%12591519]={[Ny[Xy(by((439886-797478)-(-373031)),5259860416744-(-6722))]]=e[Ny[Xy(by(529723+(638805+(-1317370-(-165235)))),9094270885240-(-518342))]]+((r[Ny[Xy(by(382180-366791),34270729272105-(-472810))]]-e[Ny[Xy(by(2513108632%15609269),22552413419760-(-491075+-33550))]]))*J,[Ny[Xy(by(386323+-370538),-642266+21290929109354)]]=e[Ny[Xy(by(3137616855%14940957),-149103+11926200328351)]]+((r[Ny[Xy(by(-136266+152667),-102008+1047390956002)]]-e[Ny[Xy(by(965447-948995),(27251217723166-568383)-(-1336051-(-1024501)))]]))*J;[Ny[Xy(by(973287-956224),14309682340958-821788)]]=e[Ny[Xy(by(378035-362263),12289795404766-116425)]]+((r[Ny[Xy(by(3249459509%13827419),((535496+(788834-826393))+(-891981+-318364))+6295109770165)]]-e[Ny[Xy(by(-984229+889150345%4989608),12275702842124-(997200+1580014244)%11623592)]]))*J}break end u[#u+346550273%2279936]=r I=I+A end end if Z then u=Vy[Ny[Xy(by((519798465%(1211113183%6837756+10220581)+((-997565-(-353843))-(-122127)))+134444),(-382181-(-487753+927167222%7409802))+27752261556927)]](u)end local V,W if Z then V,W=Vy[Ny[Xy(by(433056060%(-721451+11547444)),(-471174-(-974835))+20924705975307)]](u,nil,true)end J[Ny[Xy(by(-704191-(-721170)),7462260690014-797410)]](Ny[Xy(by(-187074+203300),507613+22517064005372)],Ny[Xy(by(-326718-(-342173)),813878+31810401403258)],n,tostring(Z),tostring(V))if V then local t,r=u[V],u[W or V+(-693009-(-693010))]local e=require(Ny[Xy(by(278316+-262558),13337+14481037098023)])local A,f=e[Ny[Xy(by((-572793+(901353+-1176460))-(-863385)),-167093+28128142086808)]](t,793089000.5%(-213465+6714194.5)),e[Ny[Xy(by(-884655+900517),-499591+((147297-(-430691))+21195551446488))]](r,(1183293.5-(5186+(1919953462-(-682506)))%16133397)-416381)local a=J[Ny[Xy(by((1704242757-451460)%6761015),385175+(785416+(-27821+3106285742239)))]](t[Ny[Xy(by(746096+-730630),2538242498583-428235)]],t[Ny[Xy(by(327902-311326),16595325944470-959919)]],r[Ny[Xy(by(-113994+130222),-432728+8776718352268)]],r[Ny[Xy(by(-488581+505538),(1014823+19402221348686)-834144)]])J[Ny[Xy(by(2844352231%11377343),(177658-649039)+9080767656546)]](Ny[Xy(by(113508258%4539678),15792795219041-(993166+-1906155))],Ny[Xy(by((447252-716003)+284198),(161741+18709499071408)-324978)],{[Ny[Xy(by(3206-(-13270)),-618676+33789708784699)]]=Ny[Xy(by(60944+-43892),514298+13296551747242)];[Ny[Xy(by(808193651%4514955),998687603567-(-980538))]]=t[Ny[Xy(by(-516578-(-533017)),-184802+22323057005456)]],[Ny[Xy(by((-659957+703938066)%(3452307-(-191535))),-647879+(-734008+15428528901849))]]=t[Ny[Xy(by(372953-(920371-564184)),30321703929138-476530)]],[Ny[Xy(by(690471-673816),-50976+9478773943378)]]=t[Ny[Xy(by(188355282%2215744),-328016+10530382211177)]],[Ny[Xy(by(252642+-236966),-689340+(9800227448890-((651727+-764777)-356405)))]]=r[Ny[Xy(by((-672640+646656)-(-42867)),(-472864+1487163)+26063887160880)]];[Ny[Xy(by(1024767-1008167),-685568+(17782942238589-474072))]]=r[Ny[Xy(by(272582487%2477871),-952682+28595643953337)]],[Ny[Xy(by((-631518+1094736125)%12432830),4850212402995-(-766264))]]=r[Ny[Xy(by(994898195%4605933),13674996295973-196)]];[Ny[Xy(by(-420714-(-437711)),9445893468958-(726479-896971))]]=r[Ny[Xy(by(687005+(-619082+-52005)),92168+25462925855596)]]-t[Ny[Xy(by((425107+680625229)%4310341),154943+890312947564)]],[Ny[Xy(by(-995488-(-1011330)),1418932959%(7948874-(-154582))+17889389089849)]]=a;[Ny[Xy(by(-706466-(-722213)),2774434680%11955183+15898681090770)]]=a>(-430106+444620)+-14514 and((r[Ny[Xy(by(768175-751753),11464376677568-(-95425))]]-t[Ny[Xy(by(-56095+73052),17178230427450-531166)]]))/a or nil,[Ny[Xy(by(-20356-(-36741)),(-1466880-(-627220))+((-434460+-371071)+(-69231+24268397179493)))]]=Vy[Ny[Xy(by((38972879-(-233474))%2612633),(32715627951897-359419)-(-582730))]],[Ny[Xy(by(569717825%(6355312841%29487979)),26572160464810-671461)]]=A,[Ny[Xy(by(334750939%1923761),30913500619082-713838)]]=f;[Ny[Xy(by(797499211%3309055),970600+25997078419530)]]=A and(f and f-A)or nil;[Ny[Xy(by(-528329-(((-224704+(446923+-510923))+(492248982-(-514667)))%(41471325%((826389+10802496)-(-590905-360840)))+-733698)),(233985-(-242004))+1691828482677)]]=#u;[Ny[Xy(by(1163670366%6574316),25984052620035-(-993864))]]=M})end if Z and not V then g(e,a)else B()end end)if not H and Q==r then B()end end)if not a and Q==r then B()end else B()end end)if not c and Q==r then B()end end)if not L and Q==r then B()end end P=function()if m then return end if A[Ny[Xy(by(-488107-(-505101)),-960147+(-8263+(767606718%6182213+(33694775572036-(-516356)))))]]()~=Z or J[Ny[Xy(by(573115+-556732),15575674308907-(-346675))]]()>=T then g(nil)elseif J[Ny[Xy(by(926289-909211),-868179+15658952691507)]]()>=v then J[Ny[Xy(by(-1024270+1039800),26925690788069-(-68472))]](Ny[Xy(by((-54286+1676640232)%16277373),8086820190574-(-574419))],Ny[Xy(by((149881+-173072)-(-38855)),305973+22762416300906)],M)B()end end X=P B()return true end local oy={[Ny[Xy(by(2153424958%13292651),(29298954461787-(-447402))-202511)]]=-953833+(1189934.5-(769970-(-545964+1079833)));[Ny[Xy(by(273418632%2297500),-999815+29935700221427)]]=-913791+((-997868247-1365914060%(1574048579%(26032247-(-835907))))-825191),[Ny[Xy(by(486424-470279),1002449+7790513220105)]]=nil}function a.status()local t=J[Ny[Xy(by(-241595-(-258099)),1722070029789-499314)]]()if(t-oy[Ny[Xy(by(829538-(1728497-915219)),863048+2616167534982)]])<oy[Ny[Xy(by(228554598%(4518210-(602976+-1163387))),-477026+4068448340839)]]then return oy[Ny[Xy(by((-246941-469565)+1038095298%(30176550%11302282)),-12180+24846826939655)]]end oy[Ny[Xy(by(-291396+(-516064+1203278410)%10365987),18654659649505-(-278700))]]=t local r=a[Ny[Xy(by(-22555-(-38854)),-209575+28516019681147)]]()if not r then oy[Ny[Xy(by(408775+-391719),854545+34483310820827)]]=nil return nil end local e={[Ny[Xy(by((1191631369%12095698)%3118737),-512515+25961408292135)]]=A[Ny[Xy(by(-608338-(-624034)),7401192281636-749166)]](r),[Ny[Xy(by(826556791%(3329212779%16626570)),19618110305601-(-992800))]]=A[Ny[Xy(by(1284646566%14937556),277851+4529805111094)]](r),[Ny[Xy(by((687849-309655)+-361908),-303704+3135352311024)]]=A[Ny[Xy(by((-777692+1360574832)%(4436688-(-895789))),11166408249090-571772)]](r);[Ny[Xy(by(-760686-(-777400)),734855+8018793995338)]]=A[Ny[Xy(by(33517819%1675047),-888677+22588917543749)]](r);[Ny[Xy(by(-583703-(-1444541-(-758146-87180))),(-159596+869007)+23654072245686)]]=A[Ny[Xy(by((-624539+1576740)-936301),30892448942920-((3072541880%15675721+-85409)+-676466))]](r)}local f=A[Ny[Xy(by(398061-382640),(237502+-283216)+27657472058468)]](r)local L,d,Z=J[Ny[Xy(by(97437182%389686),24481053103557-355549)]]()if f and L then e[Ny[Xy(by(967707+(-761422+-190386)),(1266645-741283)+(912518+15095489596357))]]=J[Ny[Xy(by(749813+-733728),21348005650030-(-645612))]](L,d,Z,f[Ny[Xy(by(362718+-346490),(-651258-(-361313))+(-544273+21547958921988))]],f[Ny[Xy(by(-600437-(-617112)),-268764+12862681415169)]],tonumber(f[Ny[Xy(by(-850147+866088),((-472140+969630)-691064)+17322178377313)]])or Z)end oy[Ny[Xy(by((-1557579-(-976595))-(-596450)),9596479707218-559391)]]=e return e end function a.status_text(J)if type(J)~=Ny[Xy(by(-189001+205630),26664750503863-286379)]then return nil end local t={}local r=J[Ny[Xy(by(4268-(-11363)),21410245490622-747029)]]if J[Ny[Xy(by(((786338-(27283+(-936170+1370803)))+-1054949)-(-746944)),-557362+6232085036246)]]==Ny[Xy(by(2576400699%14806806),-591467+13438213603909)]and(r and(r[Ny[Xy(by((-334467-475275)+826587),-221805+19872829160106)]]and r[Ny[Xy(by(2019831845%12947534),181751+585337636196)]]>887040+-887040))then t[#t+(-962092-(-962093))]=string[Ny[Xy(by(814621941%5359249),23689482682248-(-612993))]](Ny[Xy(by(483792+-466732),894450+(25271499532021-280161))],r[Ny[Xy(by(1473626871%11163723),(-1574108-(-761130))+30197329960924)]]or(-897596+1439204)+-541608,r[Ny[Xy(by(666538-(((513564-((87339-(-133572))+124632))-245852)-(-728959))),-91706+33189143548993)]]or-501872+501872,r[Ny[Xy(by(1342315238%14914435),17923813795772-(-602404))]])end if J[Ny[Xy(by((266802+1777797618)%13073880),541050+(259532+13327375545060))]]then t[#t+939701101%7228470]=string[Ny[Xy(by((-374345-253534)-(-644225)),31341589969256-672476)]](Ny[Xy(by(-441904-(-458003)),6353747734846-(-968929))],J[Ny[Xy(by(-810586-(-826063)),7362964242386-289491)]])end if J[Ny[Xy(by((1810122035%11829112+((-1457019-(-1033154))-(1641341-1011947)))-(287161+-1088580)),10917912222987-(-597721))]]and J[Ny[Xy(by(215967+-200375),884436+(20003433665987-(-956663)))]][Ny[Xy(by(597506-581911),19019440699910-(-849969))]]then t[#t+(-646444+646445)]=string[Ny[Xy(by(898925-883059),30277094469466%272766662692)]](Ny[Xy(by(-801358+817437),(21083156642320-(815079+(379607+(-964034+(482201+-614621)))))-(-946808))],J[Ny[Xy(by(210804913%6022522),26404+((101188+30218150888833)-(861892+-859291)))]][Ny[Xy(by((-1516475-(-622777))+910347),(33280287964452-274275)-(-988361))]])end if J[Ny[Xy(by(-477881-(-493259)),-692584+1220498071920)]]and J[Ny[Xy(by(-1018982-(-1035983)),2164621733996-(32785+-128496))]]>(1252336078-2289067499%13957187)%9008973 then t[#t+((-268296-(-1036207))+-767910)]=string[Ny[Xy(by(1058323-1042086),20401299509725-(-899729))]](Ny[Xy(by(1010478-994721),11028+(984674+(-681559+4503548289081)))],J[Ny[Xy(by(21931903%190575),11118207359790-794784)]],J[Ny[Xy(by(-43572+60420),997008+21668377917783)]]==-13697-(-821989-(-808291))and Ny[Xy(by(390067-373051),16883238108922-(377341334%3692447-(-16602+-272450)))]or Ny[Xy(by(-677706-(-694351)),12526006994439-827865)])end if J[Ny[Xy(by((1266127-345512)+-904107),2782973496001-(-372402))]]and J[Ny[Xy(by(952630579%((42248949-678393)%25953932)),27546988506828-213938)]]>531944+-531944 then t[#t+153808249%753962]=string[Ny[Xy(by(214365-198116),890726+((565391+138663)+1863121709986))]](Ny[Xy(by(-721055+736631),20587430392926-(-999821))],J[Ny[Xy(by(353973+-338290),6941223925930-(-148183))]],J[Ny[Xy(by(-728067-(-744852)),(-1586844-(-884895))+14929627422506)]]==-540004+540005 and Ny[Xy(by((510389306-571885)%(1990660492%10365637+3974859)),-1010983+28897093582476)]or Ny[Xy(by(831454-(168094-(-646389))),25698070505939-(-1043714))])end if#t==-81225-(-81225)then return nil end return table[Ny[Xy(by(1067917829%15255743),170684+28075958451253)]](t,Ny[Xy(by(-978717-(-995706)),(-1045667+658243)+22570819889614)])end local py={[Ny[Xy(by((319666+-1197260)+893230),172351+8934853799284)]]={},[Ny[Xy(by(1546127002%(354314073%28461358)),(32309794408527-(-54377))-549625)]]=107089+-1000107089,[Ny[Xy(by(-934605+951042),32296909045392-(-368052))]]=(592205-475240)-116962,[Ny[Xy(by(-957596-(-973011)),706665+18025069127256)]]=955938+-955934;[Ny[Xy(by((-210621+26552914)%128420),9550375583670-(85235-(-134638)))]]=1483738734%7493492-27208}a[Ny[Xy(by((30817741622%231739969)%4072308),(909340425689-(-150207+143711))-(-225331))]]=py function a.avoided(t,r)local e=J[Ny[Xy(by(-32113-(-47905)),28418046368257-(-553057))]]()for A=#py[Ny[Xy(by((-955288+1188955142%15427874)-37365),-169789+17028634955643)]],19887201%((-140364+904730)-((-651849+562041)-(-729879))),(685996+-923317)-(-237320)do local f=py[Ny[Xy(by(710009088%10757469),(-471058+16727606378342)-(-4020))]][A]if(e-f[Ny[Xy(by(598499-582430),-127953+4121476785064)]])>py[Ny[Xy(by(947609285%6193414),641031+21591395830136)]]then table[Ny[Xy(by((825360220%(38934597638%(37757409329%156691090)))%523326),1916527411837-329986)]](py[Ny[Xy(by(-409895+426396),28714592610285-680787)]],A)elseif J[Ny[Xy(by(-289490-(-305565)),41737+9904746111605)]](f[Ny[Xy(by(1362123707%16410932),327550+24309154517798)]],f[Ny[Xy(by((124396+-1060835)-(-44714+(-446789+-461993))),23954924538354-378289)]],t,r)<=py[Ny[Xy(by(147162+-131326),9830533066764-(-419399))]]then return true end end return false end function a.avoid_area(t,r,e)local f,L,d=J[Ny[Xy(by((1585622918%6747270+(45098603-(-908438)))%275480),839014+6263123414916)]](t)if not f then return false end if a[Ny[Xy(by(758837-742726),-879386+26517302223863)]](f,L)then return true end local Z=a[Ny[Xy(by(970513-953607),114300+24268428029629)]]()if not Z or not A[Ny[Xy(by(-675358-(-1562092-(-871179))),-984020+10097863448170)]](Z,{[Ny[Xy(by(404162+-388319),(15689401014788-12376)-1035704)]]=f;[Ny[Xy(by((1104504420-(-703836))%14169137),(-540373+-161076)+23630217401941)]]=L,[Ny[Xy(by(336768259%3089466),1017575447824-704873)]]=d},r)then return false end py[Ny[Xy(by(477704+-461716),9401596790874-(-906239))]][#py[Ny[Xy(by(-751820+768745),16227876393377-(363903829-(-63680))%14555465)]]+(-792563+792564)]={[Ny[Xy(by((402897+(-199241+-826419))-(-638333)),9891060109505-(-883822))]]=f,[Ny[Xy(by(-881471-(-897913)),34333977855302-41223)]]=L;[Ny[Xy(by(375258344%12939378),176452+16736034726209)]]=J[Ny[Xy(by(456924+-440699),26520288637228-((420242-820751)-(-598702)))]](),[Ny[Xy(by(-988394+1004332),(925927+-1911802)+14304875118851)]]=r}N[Ny[Xy(by(-659581+675628),116738+31259052243681)]]=((N[Ny[Xy(by(-869142-(-885365)),19105019749467-(-944415))]]or 207012536%(425738+11751470)))+(944168-944167)local u=false if A[Ny[Xy(by((-794934+40019)-(-771397)),149226+25991049608634)]](Z)and(J[Ny[Xy(by(1523497329%11039718),((33813956867350-(-424381-379145))-(-846713))-(493981+278904))]]()-py[Ny[Xy(by(237584994%(99750+10229354)),753088+(8550564960816-377049890%10460486))]])>=py[Ny[Xy(by(784059+-768067),(204101+6138165835036)-890631)]]then py[Ny[Xy(by(-70460-(-86234)),(679205+32709784344447)-502277)]]=J[Ny[Xy(by(-276884+293765),15334724702998-(-832838))]]()u=A[Ny[Xy(by(1383143991%(5440631972%22616428)),9878644206933-741818)]](Z,Ny[Xy(by((613534+-871305)-(-274175)),-731725+(373777+18972858378254))])N[Ny[Xy(by(-405494+420962),565437+29968568239704)]]=((N[Ny[Xy(by(118767339%(-906009+4495495)-298729),73585497967091%399921222172)]]or-746955+746955))+((u and-378162+378163 or-968019+968019))end J[Ny[Xy(by(503954991%7199121),16385256258807-(-890159))]](Ny[Xy(by(654061524%8959530),33323632580703-250929)],Ny[Xy(by(484467766%2536393),70299888597485%23433296397514)],tostring(e),r,f,L,u and Ny[Xy(by(633365497%7630706),975914+21884411482404)]or Ny[Xy(by(-599439+616455),284517+16993855294308)])return true end function a._reset()X=nil o,p={},{}h={[Ny[Xy(by(-964509-(-980440)),(-1040270+1343468)+((-702186+850399)+(9589796006334-(-610279))))]]=746089+-746089;[Ny[Xy(by((985342+691913712)%13573823-618381),29463276597524-179845)]]=nil;[Ny[Xy(by(870282-(1445857-591086)),22757783238847-(-942361))]]=-389297-(379533+(706196+-1475026)),[Ny[Xy(by(716192-699620),18341795950167-387646)]]=153010+-153010}s={[Ny[Xy(by(((-1306408-(-888112))-(-824005))-1409051380%14086617),14797761448807-36579333%1482988)]]=-225922-(-295720+69798);[Ny[Xy(by(606926665%6525924),-18539+13200396396131)]]=nil,[Ny[Xy(by(-661587+678569),22391+7206354293278)]]=nil,[Ny[Xy(by((-304815+1998957901)%15737300),4.338563027108e+14%19720741769544)]]=nil;[Ny[Xy(by(2032227512%((1111869008-611970)%(1965635964%33495951))),((580454+332575)+5703529412018)-135427)]]=nil;[Ny[Xy(by(450008469%2977727+-354721),(879435+-1720741)+14943286282647)]]=-835508-(-835508);[Ny[Xy(by((-500217+(773004+-8830))-247059),171073322%17032373+2021634797504)]]=nil,[Ny[Xy(by(-449794+(1283639-817641)),30615338543601-367846)]]=false}y={[Ny[Xy(by(450170+-434265),139868+(14415976664476-939064))]]=nil;[Ny[Xy(by((54673843472%1188619689)%(1797185063%((52864511459%4807281505)%26363475))),(504106+152289)+22616827357654)]]=false,[Ny[Xy(by(175571+-159547),11354099372907-(-369326))]]=-599271-(-599271)}O,U,w,yy,Oy={},{},{},{},((1363564-1005654)+252550)+-610460 K={[Ny[Xy(by(281468-264591),761923+31279870050960)]]=-645330+645330;[Ny[Xy(by(1108418672%5155360),823478+(32146944291004-194029))]]=3121946472%15532072;[Ny[Xy(by(-412081-(-428244)),19082701988061-(-42260))]]=393209573%(((-1087790-(-943694))+-500985)+(6812316-629072))}E,b,x=nil,{[Ny[Xy(by(572314+-555664),264390+(26261022659910-451252))]]={};[Ny[Xy(by(1417140709%14460460),((779923+-1415636)+10099813602687)-(-223673))]]=nil},nil z={[Ny[Xy(by(2334934999%10064305),33504753268824-(-323747))]]=nil;[Ny[Xy(by(137899+-121855),23697254406501-206305)]]=((-1000791025-(-286260))-(-66390))-(-438375);[Ny[Xy(by(2367025112%10958374),(363461405%(5301631-655169)+19598020411270)-(-462094))]]=nil}F=nil end return a end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- movement/nav.lua - travel through Sentinel Navigation
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Product version: see version.lua
+-- ============================================================================
+-- 1.1.0 SENTINEL PORT (docs/SENTINEL_PORT_GUIDE.md; the reference travel layer
+-- is restedXP_questing 4.7.0 movement/nav.lua - SENTINEL_API.md = the official
+-- v0.0.8 page, SENTINEL_V024.md = what the installed v0.24 really does).
+-- Every Sentinel call goes through movement/sentinel.lua (S.*). Sentinel plans
+-- and walks its own path: this layer hands it destinations and reads how they
+-- end. Sentinel Navigation / Sentinel are gone from this file: no find_path +
+-- follow_path exact walk (movement/guide_path is retired), no 15 yd windows,
+-- no input driver, no the Sentinel UI, no game height probes.
+--
+-- WALK = move_to(target, cb(success, reason)). A new destination while a walk
+-- runs is another move_to - Sentinel re-plans without stopping (0.12 s,
+-- recorded) - at most every RETARGET_GAP s (combat COMBAT_GAP s): one path
+-- request a second, never per frame. The same destination (within SAME_DEST
+-- yd) while walking is a no-op, so callers can ask every tick.
+--
+-- WALKS ARE OURS TO TRACK: a walk replaced by a newer move_to, or stopped,
+-- gets NO callback (recorded). Each walk carries a token (cur.id); a newer
+-- walk or a stop retires it and its callback, should one ever come, is
+-- ignored. A walk the Sentinel UI ended (no callback) is closed by the pulse
+-- from get_state().
+--
+-- HEIGHTS (RestedXP waypoints are x, y with a guessed z): an off-mesh target
+-- costs ~6 s of library retries before Sentinel snaps it (recorded), so an
+-- out-of-combat walk of FLOOR_FIRST yd or more asks the navmesh floors there
+-- first (get_all_heights, one request per spot, nearest the guess) and walks
+-- at that height. A walk that still ends "unreachable" tries another floor
+-- there (retry_at_ground; 1.0.22 kept: floors near the player's own height
+-- first - a cave floor at a cave mouth). The height found is kept (N.reach_z).
+--
+-- HOLDS: Sentinel has no pause / resume. A hold (a cast, a loot, a conjure)
+-- stops the walk and remembers where it went; when the last hold lifts the
+-- same destination is walked again. Destinations asked for during a hold
+-- replace the remembered one. Sentinel steers its own corners and recovers
+-- from being stuck by itself: the sharp-turn pivot holds no walk (Pv.HOLD
+-- false) and movement.lua presses no unstick keys while a walk runs.
+--
+-- STOPS: never on a walk still waiting for its path or younger than
+-- FRESH_LEG s (the 2.181.0 / 3.7.1 crash pattern: stopping a fresh leg came
+-- right before game crashes). Such a stop is deferred to the pulse until the path is ready; a new walk meanwhile replaces it instead.
+--
+-- FAILURES: the reason of the last failed walk is kept (last_fail_reason /
+-- last_fail_offmesh). "unreachable" twice at one spot in FAIL_WINDOW s
+-- blacklists it (movement/zones); "server_timeout" backs off SERVER_BACKOFF s
+-- and asks is_server_available() again.
+--
+-- NAV MEMORY (movement/memory, 1.9.0 / 1.0.14 bookkeeping kept): a walk that
+-- Sentinel gave up stuck (max_stuck_exceeded) marks the player's spot a black
+-- point, a twice re-planned corridor too; black points go to this session's
+-- zones (N.mem_black) and a goal inside one is refused. The memory reads the
+-- walk Sentinel follows (N.path_points / N.path_index) for its valid paths.
+--
+-- THE FOREVER SURFACE (movement.lua, quest/engine): waypoint_walk (one walk
+-- per guide waypoint key), step_into (move_direct into a portal), path_ahead
+-- (Sentinel's own path from its index), replan_fresh / rejoin (the current
+-- destination walked again), detour (a point, then the destination),
+-- all_heights (get_all_heights), steep_at (a client-side check of a point
+-- list - Sentinel has no slope data), mem_black.
+--
+-- NO SENTINEL (library missing, no maps for this game version - only the WoW
+-- Forever map set exists for this product): no movement at all, and the
+-- reason is logged (once per reason). There is no straight-line fallback.
+-- ============================================================================
+
+local R = require("movement/core")
+local Z = require("movement/zones")
+local MT = require("movement/mount")         -- 3.8.0: mount for travel (the 1-60 way)
+local MEM = require("movement/memory")       -- 1.9.0: black points (bookkeeping)
+local S = require("movement/sentinel")       -- 1.1.0: the only Sentinel caller
+local AS = require("movement/astar")         -- local A* + ray fallback for off-mesh targets (alongside Sentinel)
+
+local N = {}
+
+local SAME_DEST = 2.0          -- yd: the same destination
+local RETARGET_GAP = 1.0       -- s between two travel retargets (one path request a second)
+local COMBAT_GAP = 0.5         -- s between two combat retargets (a moving target)
+local UNDERFOOT = 1.0          -- yd: a destination this close is reached
+local QUIET_STOP = 0.3         -- s callers wait after a real stop (is_quiet)
+local FLOOR_FIRST = 40         -- yd: farther travel walks ask the floors there first
+local HEIGHT_SAME = 2.0        -- yd: a height this close to a tried one is the same
+local HEIGHT_SCAN_HOLD = 10.0  -- s: a floor query with no answer holds new walks there no longer
+local FAIL_WINDOW, FAIL_BLACKLIST = 120, 2
+local REACH_TTL, REACH_TTL_BAD, REACH_GAP = 120, 45, 0.25
+local REACH_TRUST_FAR = 150    -- yd: farther answers are guesses, never "unreachable"
+local FRESH_LEG = 1.0          -- s: a leg younger than this is never stopped (3.7.1)
+local LOST_WALK = 2.0          -- s: an idle client this long after our walk began = it ended
+local WP_RECHECK = 5.0         -- s: an idle waypoint walk short of its point is sent again
+local DETOUR_MAX_S = 15        -- s: a detour leg that takes longer is given up
+local DETOUR_FAR = 40          -- yd: a detour point farther than this is refused
+local CAVE_NEAR = 6            -- yd of the player's z: a floor at a cave mouth (1.0.22)
+
+-- Sentinel failure reasons (doc): unreachable, server_timeout,
+-- max_stuck_exceeded, max_repath_exceeded
+local OFFMESH = { unreachable = true }
+local SERVER_CODES = { server_timeout = true, server_down = true, map_not_loaded = true }
+local SERVER_BACKOFF = 3.5
+local GIVE_UP_CODES = { max_stuck_exceeded = true, max_repath_exceeded = true }
+local HEIGHT_RETRY = { unreachable = true }
+-- the nav memory: Sentinel's own stuck give-up is a black point at the player
+-- ("unreachable" is a planning answer about the goal, not a stuck spot)
+local STUCK_CODES = { max_stuck_exceeded = true }
+
+-- the walk this layer asked for
+local cur = { id = 0, x = nil, y = nil, z = nil, mode = nil, t = 0, route = nil, done = false }
+local fail = { reason = nil, offmesh = false, t = 0 }
+local fails_at = {}            -- dest key -> { n, t }
+local zfix = {}                -- dest key -> corrected z
+local zscan = {}               -- dest key -> { tried = { z, ... }, t, list, asking }
+local terrain_guard = { next_t = 0, key = nil, tries = 0, blocked_until = 0 }
+local blocked_terrain, orbit = {}, {}
+local escape_poll = nil
+local stats = { issued = 0, refused = 0, floors = 0, deferred_stops = 0 }
+N.stats = stats
+local stop_req = nil           -- { t, reason } a stop waiting for a safe moment
+local held = { reasons = {}, dest = nil }
+local wp_walk = { key = nil, t = -1e9, failed = nil }   -- 1.4.0: one walk per guide waypoint key
+-- 2026-11-15 NEXT-WAYPOINT HINT (see N.hint_next): the quest engine says which
+-- waypoint it walks AFTER the current one; `hint` is that word, `hand` the
+-- hand-over once the walk to it was started before the current waypoint ended.
+local hint, hand = nil, nil
+local det = nil                -- 1.7.23: { x, y, z, dest = { x, y, z, mode, route }, id, until_t }
+
+-- fails_at / zfix / zscan are keyed per destination and would grow for a whole
+-- session; past CACHE_MAX keys each is emptied (all are re-learnt).
+local CACHE_MAX = 256
+local cache_n = { fails = 0, zfix = 0, zscan = 0 }
+local function cache_put(tbl, which, k, v)
+    if tbl[k] == nil then
+        cache_n[which] = cache_n[which] + 1
+        if cache_n[which] > CACHE_MAX then
+            for key in pairs(tbl) do tbl[key] = nil end
+            cache_n[which] = 1
+        end
+    end
+    tbl[k] = v
+end
+
+-- ----------------------------------------------------------------------------
+-- the client
+-- ----------------------------------------------------------------------------
+local warned = nil             -- the last "no navigation" reason logged
+
+--- Sentinel's shared client, or nil: the library is missing, or this game
+--- version has no maps on the server (the launcher says so in MASTER_FARMER.nav).
+function N.client()
+    local info = S.info()
+    local why = nil
+    if info.kind ~= "sentinel" then
+        why = "not loaded through Master Farmer's Sentinel entry - the bot will not move"
+    elseif not info.supported then
+        why = "Sentinel navigation has no maps for this game version - the bot will not move"
+    end
+    local c = nil
+    if not why then
+        c = S.client()
+        if not c then why = "the Sentinel Navigation library is not loaded - enable it and reload" end
+    end
+    if why then
+        if warned ~= why then
+            warned = why
+            R.log(why)
+        end
+        return nil
+    end
+    warned = nil
+    return c
+end
+
+--- Why the bot cannot navigate now (for the GUI), or nil.
+function N.unavailable() return S.unavailable() end
+
+-- 1.7.4 Sentinel Navigation driver claim: Sentinel has no driver setting and its
+-- UI owns the tuning - kept as no-ops so the callers (gui Start / Stop,
+-- mapwalk, unload) stay as they are.
+function N.want_input_driver(_) end
+function N.driver_claimed() return false end
+function N.release_driver_now() end
+
+local function key_of(x, y)
+    return string.format("%d|%d", math.floor(x / 4), math.floor(y / 4))
+end
+
+-- Temporary hazards belong to a world, and goal holds to a specific floor.
+local function guard_context()
+    local map, instance = MEM.ctx()
+    local world = tostring(map) .. "|" .. tostring(instance)
+    if terrain_guard.world ~= world then
+        terrain_guard = {world=world,next_t=0,blocked_until=0}
+        blocked_terrain, orbit = {}, {}
+        fails_at, zfix, zscan = {}, {}, {}
+        cache_n = {fails=0,zfix=0,zscan=0}
+    end
+    return world
+end
+local function guard_blocked(x,y,z)
+    guard_context()
+    return terrain_guard.key == key_of(x,y)
+        and type(z)=="number" and type(terrain_guard.goal_z)=="number"
+        and math.abs(z-terrain_guard.goal_z)<2
+        and R.now()<terrain_guard.blocked_until
+end
+
+-- Collapse only straight, level/constant-grade runs. Preserve every bend and
+-- height change; cap each ray span at two yards. Dense server points therefore
+-- do not consume the entire ray budget in the first few feet.
+local function guard_points(points)
+    local out = {}
+    for _,p in ipairs(points) do
+        local a,b=out[#out-1],out[#out]
+        local merge=false
+        if a and b then
+            local dx,dy,dz=p.x-a.x,p.y-a.y,p.z-a.z
+            local length2=dx*dx+dy*dy+dz*dz
+            if length2>0 and length2<=4 then
+                local u=((b.x-a.x)*dx+(b.y-a.y)*dy+(b.z-a.z)*dz)/length2
+                local ex,ey,ez=b.x-a.x-u*dx,b.y-a.y-u*dy,b.z-a.z-u*dz
+                merge=u>=0 and u<=1 and ex*ex+ey*ey+ez*ez<0.000001
+            end
+        end
+        if merge then out[#out]=p else out[#out+1]=p end
+    end
+    return out
+end
+N._guard_points = guard_points
+
+local function corrected_z(x, y, hint)
+    local e = zfix[key_of(x, y)]
+    if e and (math.abs(hint - e.hint) <= 2 or math.abs(hint - e.z) <= 2) then return e.z end
+end
+
+
+-- ----------------------------------------------------------------------------
+-- gates: who may start a walk now
+-- ----------------------------------------------------------------------------
+--- Why travel is refused now, or nil. Combat owns the player while a fight
+--- asks for it every tick (movement/combat sets R.combat_until); a rest or a
+--- backpedal holds everything.
+function N.refusal()
+    if R.resting then return "resting" end
+    if R.backpedal_until then return "backpedal" end
+    if (R.combat_until or 0) > R.now() then return "combat" end
+    -- 3.0.2: standing at an NPC (movement.interact) - its window / gossip /
+    -- purchase gets NPC_HOLD s before any walk starts again
+    if (R.npc_until or 0) > R.now() then
+        -- the game answered "too far away": nothing opened, the caller walks
+        -- up to the NPC - the hold is lifted for that walk
+        local ev = package.loaded["events"]
+        if R.npc_ev_t and type(ev) == "table" and type(ev.too_far_since) == "function"
+            and ev.too_far_since(R.npc_ev_t) == true then
+            R.npc_until, R.npc_ev_t = nil, nil
+            return nil
+        end
+        return "npc"
+    end
+    return nil
+end
+
+-- ----------------------------------------------------------------------------
+-- state
+-- ----------------------------------------------------------------------------
+--- Sentinel is navigating (is_moving: true only while "navigating").
+function N.busy()
+    local c = N.client()
+    return c ~= nil and S.moving(c)
+end
+
+function N.destination()
+    if cur.x and N.busy() then return cur.x, cur.y, cur.z end
+    return nil
+end
+
+function N.mode() return N.busy() and cur.mode or nil end
+
+--- Sentinel's dotted state, or nil.
+function N.full_state()
+    local c = N.client()
+    return c and S.full_state(c) or nil
+end
+
+--- The path Sentinel follows (vec3[]) and the index being walked to, or nil.
+function N.path_points()
+    local c = N.client()
+    return c and S.current_path(c) or nil
+end
+function N.path_index()
+    local c = N.client()
+    return c and S.path_index(c) or nil
+end
+
+-- 1.9.0: a black point (movement/memory) also goes to this session's zones at
+-- its radius, so the walk refuses the spot at once; the file is the copy that
+-- survives a reload
+-- 2026-11-15 (nav audit 11): the same spot is also queued as a Sentinel
+-- avoidance zone, applied by N.pulse once the player is clear of it (a zone
+-- on the player's own feet could only confuse the next path).
+local stuck_zone = {}
+local function mem_black(rec, why)
+    if rec and MEM.active(rec) then
+        Z.blacklist_area({ x = rec.cx, y = rec.cy, z = rec.cz }, rec.radius, "stuck here (" .. tostring(why) .. ")")
+        stuck_zone[#stuck_zone + 1] = { x = rec.cx, y = rec.cy, z = rec.cz, r = math.max(2, math.min(rec.radius or 2, 6)), t = R.now() }
+        if #stuck_zone > 8 then table.remove(stuck_zone, 1) end
+    end
+    return rec
+end
+N.mem_black = mem_black                  -- 1.0.14: movement.lua's stuck-episode confirm
+
+--- `walked`: a walk ENDED with `code` (a move_to / follow_path callback), not a
+--- planning answer - only then can the player's spot be a black point.
+local function record_fail(code, x, y, z, walked)
+    if walked then
+        local px, py, pz = R.here()
+        if px and STUCK_CODES[code] then
+            mem_black(MEM.confirm_stuck(px, py, pz, code), code)   -- 1.0.14: once per cell per episode
+        elseif px and code == "max_repath_exceeded" and (x or cur.x) then
+            mem_black(MEM.note_replan(px, py, pz, x or cur.x, y or cur.y), code)
+        end
+    end
+    fail.reason, fail.offmesh, fail.t = tostring(code or "failed"), OFFMESH[code] == true, R.now()
+    if SERVER_CODES[code] then fail.server_until = R.now() + SERVER_BACKOFF end
+    fail.give_up = GIVE_UP_CODES[code] == true
+    if not x then return end
+    local k = key_of(x, y)
+    local e = fails_at[k]
+    local t = R.now()
+    if not e or (t - e.t) > FAIL_WINDOW or not e.z or not z or math.abs(e.z-z)>=2 then e = { n = 0, t = t, z = z } cache_put(fails_at, "fails", k, e) end
+    e.n, e.t = e.n + 1, t
+    if e.n >= FAIL_BLACKLIST and fail.offmesh then
+        Z.blacklist_area({ x = x, y = y, z = z }, 6, "no path there (" .. fail.reason .. ")")
+        fails_at[k] = nil
+    end
+end
+
+-- ----------------------------------------------------------------------------
+-- fresh legs (3.7.1, crash logs 2026-10-16 17:30 - 18:06)
+-- ----------------------------------------------------------------------------
+local FALSE_ARRIVAL = 5.0      -- yd: an "arrived" farther from the goal is not one
+
+--- Seconds since the running leg started (huge when none runs).
+function N.leg_age()
+    if not cur.leg_t or not N.busy() then return 1e9 end
+    return R.now() - cur.leg_t
+end
+function N.leg_fresh() return N.leg_age() < FRESH_LEG end
+
+local function indoors()
+    local me = R.me()
+    local ok, inside = pcall(function() return me and me:is_indoors() end)
+    return ok and inside == true
+end
+
+local function same_destination(x, y, z)
+    return cur.x and R.dist2(cur.x, cur.y, x, y) <= (indoors() and 1 or SAME_DEST)
+        and math.abs((cur.z or z) - z) < 2
+end
+
+--- An "arrived" far from the goal is not counted (logged once per leg).
+function N.false_arrival(x, y, z)
+    local hx, hy, hz = R.here()
+    if not hx or not x then return false end
+    local d = R.dist2(hx, hy, x, y)
+    local dz = z and hz and math.abs(hz - z) or 0
+    if d <= (indoors() and 2.5 or FALSE_ARRIVAL) and dz <= 3 then return false end
+    R.trail("nav", "arrival rejected: %.1f yd horizontal, %.1f yd vertical from (%.1f, %.1f, %.1f); player z %.1f",
+        d, dz, x, y, z or hz or 0, hz or 0)
+    return true
+end
+
+-- ----------------------------------------------------------------------------
+-- route helpers (pure: a point list and the player's x, y)
+-- ----------------------------------------------------------------------------
+-- 1.7.22 PICK UP THE PATH WHERE THE PLAYER IS: the point nearest the player
+-- within [lo, hi]; when the player is already past it (nearer the next point
+-- than it is), the next one. Used for a recorded route (follow_route).
+local function pickup_index(pts, lo, hi)
+    if type(pts) ~= "table" or #pts == 0 then return 1 end
+    lo = math.max(1, math.floor(lo or 1))
+    hi = math.min(#pts, math.floor(hi or #pts))
+    local x, y = R.here()
+    if not x or lo > hi then return lo end
+    local best, bd = nil, nil
+    for i = lo, hi do
+        local p = pts[i]
+        if type(p) == "table" and p.x then
+            local d = R.dist2(x, y, p.x, p.y)
+            if bd == nil or d < bd then best, bd = i, d end
+        end
+    end
+    if not best then return lo end
+    local p, n = pts[best], pts[best + 1]
+    if n and R.dist2(x, y, n.x, n.y) < R.dist2(p.x, p.y, n.x, n.y) then best = best + 1 end
+    return best
+end
+N._pickup_index = pickup_index
+
+-- 1.0.21 THE WAYPOINT IN FRONT: the nearest SEGMENT (i, i+1) in [lo, hi] (the
+-- player projected onto it) and its END, i + 1 - the point still ahead; point
+-- i itself only when the projection is ON i. Used by N.rejoin on a recorded
+-- route (never the point behind).
+local function front_index(pts, lo, hi)
+    if type(pts) ~= "table" or #pts == 0 then return 1 end
+    lo = math.max(1, math.floor(lo or 1))
+    hi = math.min(#pts, math.floor(hi or #pts))
+    if lo >= hi then return math.max(1, math.min(lo, #pts)) end
+    local x, y = R.here()
+    if not x then return lo end
+    local best, bd, bt = nil, nil, nil
+    for i = lo, hi - 1 do
+        local a, b = pts[i], pts[i + 1]
+        if type(a) == "table" and type(b) == "table" and a.x and b.x then
+            local vx, vy = b.x - a.x, b.y - a.y
+            local L = vx * vx + vy * vy
+            local t = L > 0 and (((x - a.x) * vx + (y - a.y) * vy) / L) or 0
+            if t < 0 then t = 0 elseif t > 1 then t = 1 end
+            local d = R.dist2(x, y, a.x + t * vx, a.y + t * vy)
+            if bd == nil or d < bd then best, bd, bt = i, d, t end
+        end
+    end
+    if not best then return lo end
+    if bt <= 0 then return best end
+    return best + 1
+end
+N._front_index = front_index
+
+--- 1.0.23: is the player at (px, py) CLEAR of stuck disk r on the way to (gx, gy)
+--- - radius + VALID_CLEAR yd from it and nearer the goal than it is?
+local function clear_of(r, px, py, gx, gy)
+    if not (r and px and gx) then return true end
+    return R.dist2(px, py, r.cx, r.cy) >= r.radius + MEM.VALID_CLEAR
+        and R.dist2(px, py, gx, gy) < R.dist2(r.cx, r.cy, gx, gy)
+end
+N._clear_of = clear_of
+
+-- 1.7.29 STEEP GROUND: Sentinel gives no slope data, so this is a client-side
+-- check of a point list with heights (a Sentinel find_path answer): more than
+-- about 42 deg up (rise / run > UP), about 45 deg down (DOWN), or a STEP_DZ
+-- climb in under a yard. The stuck fan (movement.lua) refuses a detour over
+-- steep ground with it (N.steep_at). Nothing re-plans a Sentinel walk round
+-- steep ground: Sentinel's own path is walked.
+-- Kharanos shop stairs measure about 0.84 rise/run on the mesh. A 0.7
+-- threshold rejected walkable steps and created a permanent retry loop.
+local TM = R.TERRAIN                      -- the shared terrain model (movement/core)
+local ST = { UP = R.TERRAIN.UP, UP_IN = R.TERRAIN.UP_IN, DOWN = R.TERRAIN.DOWN, MIN_RUN = R.TERRAIN.MIN_RUN,
+    STEP_DZ = R.TERRAIN.STEP_DZ }
+N.STEEP = ST
+
+-- 1.28.146 GHOSTS FALL FOR FREE. A dead player takes no fall damage, so a
+-- steep descent or a drop is no hazard on a corpse run (log 2026-11-06: 7 of
+-- 38 slope vetoes were descents, each costing a recovery cycle). Every ASCENT
+-- limit stays: a ghost cannot climb a wall. Read at most twice a second -
+-- ST.grade / ST.first_steep run over whole point lists.
+local ghost_cache = { t = -1e9, v = false }
+local function ghost_now()
+    local t = R.now()
+    if t - ghost_cache.t >= 0.5 or t < ghost_cache.t then
+        ghost_cache.t = t
+        local ok, v = pcall(function() return R.me():is_ghost() end)
+        ghost_cache.v = ok and v == true
+    end
+    return ghost_cache.v
+end
+N.ghost_now = ghost_now
+
+function ST.grade(a, b, inside)
+    if inside == nil then inside = indoors() end
+    local up = inside and ST.UP_IN or ST.UP
+    local run = R.dist2(a.x, a.y, b.x, b.y)
+    local dz = (b.z or 0) - (a.z or 0)
+    if run >= ST.MIN_RUN then
+        local g = dz >= 0 and dz / run or (-dz / run) * (ST.UP / ST.DOWN)
+        return g, dz >= 0 and dz/run > up
+            or (dz < -ST.STEP_DZ and -dz/run > ST.DOWN and not ghost_now())
+    end
+    if dz > ST.STEP_DZ or (dz < -ST.STEP_DZ and not ghost_now()) then return 99, true end   -- a wall to climb, not a step
+    return 0, false
+end
+--- The first steep stretch of `points`: its index (points[i] -> points[i+1]), or nil.
+function ST.first_steep(points, inside, progress_check)
+    if type(points) ~= "table" then return nil end
+    if inside == nil then inside = indoors() end
+    -- Indoor risers are judged across three yards of stair treads. Keep
+    -- immediate vertical-wall and downhill checks; never relax cliff drops.
+    -- Keep enough dense nodes to detect a sustained descent after allowing
+    -- an isolated <=2 yard step; a one-yard window could hide that descent.
+    local window,up = 3, inside and ST.UP_IN or ST.UP
+    local ghost = ghost_now()
+    local function must_reject(a,b,run)
+        local rise=b.z-a.z
+        -- Preflight may approach a short moderate ascent that the live
+        -- guard already permits ONLY while travel makes progress.
+        -- It does not grant a descent, long-rise, or stalled-walk exemption.
+        return not (progress_check and run>=1 and rise>0 and rise<=6 and rise/run<=ST.UP_IN)
+    end
+    local first,run = 1,0
+    for i=1,#points-1 do
+        local a,b=points[i],points[i+1]
+        if type(a)=="table" and type(b)=="table" and a.z and b.z then
+            local edge=R.dist2(a.x,a.y,b.x,b.y)
+            local dz=b.z-a.z
+            local _,steep=ST.grade(a,b,inside)
+            if steep and (not inside or dz<=0 or edge>=window
+                or (edge<ST.MIN_RUN and dz>ST.STEP_DZ)) and must_reject(a,b,edge) then return i,i+1 end
+            run=run+edge
+            while first<i do
+                local p,q=points[first],points[first+1]
+                local n=R.dist2(p.x,p.y,q.x,q.y)
+                if run-n<window then break end
+                run,first=run-n,first+1
+            end
+            local rise=b.z-points[first].z
+            if ((run>=window and rise>up*run)
+                or (not ghost and run>=ST.MIN_RUN and -rise>ST.STEP_DZ and -rise>ST.DOWN*run)
+                or (run<ST.MIN_RUN and (rise>ST.STEP_DZ or (not ghost and -rise>ST.STEP_DZ)))
+                or (i==#points-1 and run>=ST.MIN_RUN and rise>up*run))
+                and must_reject(points[first],b,run) then return first,i+1 end
+        else first,run=i+1,0 end
+    end
+    return nil
+end
+N.steep_at = ST.first_steep
+
+-- Mesh clearance varies between nodes. Before rejecting a short span,
+-- sample its actual floor while preserving every bend in the original path.
+-- Only nearby surfaces qualify: never snap a cave path to another level.
+function ST.measured_span(points,first,last,inside)
+    local a,b=points[first],points[last]
+    if not a or not b or math.abs(b.z-a.z)>6 then return nil end
+    local trace=require("movement/trace")
+    local samples,walked={},0
+    for n=first,last-1 do
+        local p,q=points[n],points[n+1]
+        local run=R.dist2(p.x,p.y,q.x,q.y)
+        walked=walked+run
+        if walked>8 then return nil end
+        local count=math.max(1,math.ceil(run))
+        for j=n==first and 0 or 1,count do
+            if #samples>=24 then return nil end
+            local u=j/count
+            local s={x=p.x+(q.x-p.x)*u,y=p.y+(q.y-p.y)*u,z=p.z+(q.z-p.z)*u}
+            local floor=trace.player_ground(s,1.5)
+            if not R.finite(floor) or math.abs(floor-s.z)>1.5 then return nil end
+            s.z=floor;samples[#samples+1]=s
+        end
+    end
+    if ST.first_steep(samples,inside,true) then return nil end
+    local corrected={}
+    for n=1,first-1 do corrected[#corrected+1]=points[n] end
+    for _,p in ipairs(samples) do corrected[#corrected+1]=p end
+    for n=last+1,#points do corrected[#corrected+1]=points[n] end
+    return corrected
+end
+
+function ST.preflight_path(points)
+    for attempt=1,8 do
+        local first,last=ST.first_steep(points,nil,true)
+        if not first then return points end
+        local measured=ST.measured_span(points,first,last)
+        if not measured then return points end
+        points=measured
+    end
+    return points
+end
+
+-- ----------------------------------------------------------------------------
+-- heights: the navmesh floors at a spot
+-- ----------------------------------------------------------------------------
+local function swimming()
+    local ok, v = pcall(function() return core.character.is_swimming() end)
+    return ok and v == true
+end
+
+--- 1.0.22: the heights to try at a spot other than the failed `z`:
+--- floors within CAVE_NEAR yd of the player's own height first (a cave floor
+--- at its mouth, not the hill over it), then the rest nearest `z`. Floors
+--- within 1 yd of `z` or of each other are one. (1.1.0: mesh floors only - no
+--- game ground probe.)
+local function order_floors(vals, z)
+    local _, _, hz = R.here()
+    local floors, list = {}, {}
+    for i = 1, #(vals or {}) do
+        local v = vals[i]
+        if type(v) == "table" then v = v.z or v.height end
+        v = tonumber(v)
+        if R.finite(v) and math.abs(v) < 20000 then floors[#floors + 1] = v end
+    end
+    table.sort(floors, function(a, b) return math.abs(a - z) < math.abs(b - z) end)
+    local function add(v)
+        if math.abs(v - z) <= 1.0 then return end
+        for i = 1, #list do if math.abs(list[i] - v) <= 1.0 then return end end
+        list[#list + 1] = v
+    end
+    if hz then
+        for i = 1, #floors do if math.abs(floors[i] - hz) <= CAVE_NEAR then add(floors[i]) end end
+    end
+    for i = 1, #floors do add(floors[i]) end
+    return list
+end
+
+--- The floors at (x, y), asked once per spot per FAIL_WINDOW s: cb(list, st).
+--- True when the list is known or the query went out.
+local function floors_for(c, k, x, y, z, cb)
+    local st = zscan[k]
+    if st and (R.now() - st.t) > FAIL_WINDOW then st = nil end
+    if not st then
+        st = { tried = {}, t = R.now(), list = nil, asking = false, waiting = {} }
+        cache_put(zscan, "zscan", k, st)
+    end
+    if st.list then cb(st.list, st) return true end
+    st.waiting[#st.waiting + 1] = cb
+    if st.asking then return true end
+    st.asking = true
+    stats.floors = stats.floors + 1
+    local sent = S.floors(c, { x = x, y = y, z = z }, function(list)
+        st.asking, st.list = false, list
+        local w = st.waiting
+        st.waiting = {}
+        for i = 1, #w do pcall(w[i], list, st) end
+    end)
+    if not sent then
+        st.asking, st.list, st.waiting = false, {}, {}
+        cb(st.list, st)
+    end
+    return true
+end
+
+--- The first floor of `cands` not tried at this spot yet, or nil.
+local function untried(st, cands)
+    for i = 1, #cands do
+        local v, fresh = cands[i], true
+        for j = 1, #st.tried do
+            if math.abs(v - st.tried[j]) <= HEIGHT_SAME then fresh = false break end
+        end
+        if fresh then return v end
+    end
+    return nil
+end
+
+-- ----------------------------------------------------------------------------
+-- issuing walks
+-- ----------------------------------------------------------------------------
+local issue_walk
+
+-- LOCAL A* FALLBACK (movement/astar, alongside Sentinel): a walk Sentinel ends
+-- "arrived" short of its goal or "unreachable", with the goal within AS.MAX_YD
+-- of the player, is handed to the local grid search; its path is walked leg by
+-- leg (N.astar_leg, Sentinel move_direct). On A* failure the old outcome is
+-- recorded (the place is marked unreachable), so the engine carries on.
+local function astar_try(x, y, z, mode, code)
+    if mode == "combat" or mode == "astar" or mode == "swim" or mode == "portal" then return false end
+    local rec = (code == "arrived_short") and "unreachable" or code
+    return AS.start({ x = x, y = y, z = z }, function(ok, why)
+        if ok then
+            fail.reason, fail.offmesh = nil, false
+            return
+        end
+        record_fail(rec, x, y, z, mode ~= "combat")
+    end)
+end
+
+--- "unreachable" at (x, y, z): walk again at another floor found there.
+--- True when a retry is under way (it reports the failure itself).
+local function retry_at_ground(c, id, x, y, z, code, mode)
+    if mode == "npc" or mode == "corpse" then return false end -- Observed destination floors are authoritative.
+    if swimming() then return false end          -- R9.2 (the floor query answers the bed)
+    local k = key_of(x, y)
+    cur.scanning, cur.scan_t = id, R.now()
+    floors_for(c, k, x, y, z, function(list, st)
+        if cur.scanning == id then cur.scanning = nil end
+        st.tried[#st.tried + 1] = z
+        if cur.id ~= id then return end           -- superseded meanwhile (the list is kept)
+        local hz = untried(st, order_floors(list, z))
+        if hz then
+            cache_put(zfix, "zfix", k, { z = hz, hint = z })
+            R.trail("nav", "(%.0f, %.0f): %s at z %.1f - walking again at a floor there, z %.1f (%d found)",
+                x, y, tostring(code), z, hz, #list)
+            issue_walk(c, x, y, hz, mode)
+        else
+            if not st.spent then
+                st.spent = true
+                R.trail("nav", "(%.0f, %.0f): no floor with a path found (%d found) - %s", x, y, #list, tostring(code))
+            end
+            if astar_try(x, y, z, mode, code) then return end                  -- local A* fallback
+            record_fail(code, x, y, z, mode ~= "combat")
+            if wp_walk.id == id then wp_walk.failed = tostring(code) end
+        end
+    end)
+    return true
+end
+
+-- PRECOMPUTED PATHS (user, 2026-11-15: "use follow_path with precomputed paths
+-- instead of move_to"; session log 2026-11-15 11:48, v1.28.147: 68 path
+-- segments, 59 "walking again", every 2.6 s). A move_to makes Sentinel go
+-- awaiting_path and ask its server AFTER the walk is issued; here the path is
+-- planned FIRST (plan_route - planning only, nothing walks, the player keeps
+-- running the old walk meanwhile), audited for steep ground (a steep span becomes
+-- an avoidance zone and the path is planned again), and only then handed to
+-- Sentinel as follow_path(waypoints) - a path it already has, no server wait.
+--   * re-generation (a zone, a hazard, the loop breaker): N.regen plans a fresh
+--     path from where the player is NOW and swaps it in (follow_path again) while
+--     the old one is still being walked;
+--   * a path that ends short of the goal (a partial plan): the horizon (LA) plans
+--     the continuation from the path's END and swaps in old-remainder + new;
+--   * anything the plan cannot answer (no path, an error, 3 s with no reply, no
+--     plan_route in the library): the walk is a plain move_to, exactly as before.
+-- Walks of 15+ yd in the "move" and "guide" modes only; short hops, combat, NPC,
+-- corpse, portal, swim, A* and recorded-route walks are not touched.
+N.PRECOMPUTE = true
+local PRE = { MIN_YD = 15, WAIT_S = 3.0, TRIES = 2, REGEN_GAP = 1.5, EXTEND_MIN = 3.0, MODES = { move = true, guide = true } }
+N.PRE = PRE
+
+--- The planned points from the one nearest the player on (the point the player
+--- already stands on is dropped), as plain {x, y, z}.
+local function pre_trim(points)
+    local hx, hy = R.here()
+    local first = 1
+    if hx then
+        local best, bd = 1, math.huge
+        for i = 1, #points do
+            local d = R.dist2(hx, hy, points[i].x, points[i].y)
+            if d < bd then best, bd = i, d end
+        end
+        first = (bd < 2 and best < #points) and best + 1 or best
+    end
+    local out = {}
+    for i = first, #points do out[#out + 1] = { x = points[i].x, y = points[i].y, z = points[i].z } end
+    return out
+end
+
+--- Start walk `id` to (x, y, z) as plan -> audit -> follow_path. True when the
+--- plan request went out (the reply starts the walk, or falls back to move_to);
+--- false when this walk is not eligible (the caller issues the move_to).
+local function pre_start(c, id, x, y, z, finished)
+    if not N.PRECOMPUTE or not PRE.MODES[cur.mode or "move"] or swimming() then return false end
+    local hx, hy = R.here()
+    if not hx or R.dist2(hx, hy, x, y) < PRE.MIN_YD then return false end
+    local goal = { x = x, y = y, z = z }
+    local st = { id = id, done = false, started = false, planning = false, tries = 0, t0 = R.now(), regen_t = -1e9 }
+    local request
+    local function fallback(why)
+        if st.done or cur.id ~= id then return end
+        st.done = true
+        if cur.scanning == id then cur.scanning = nil end
+        stats.pre_fallbacks = (stats.pre_fallbacks or 0) + 1
+        R.trail("nav", "precomputed path unavailable (%s) - Sentinel plans this walk itself", tostring(why))
+        local sent = S.move_to(c, goal, finished)
+        if not sent then cur.done = true end
+    end
+    st.fallback = fallback
+    local function launch(points)
+        local list = pre_trim(points)
+        if #list == 0 then return fallback("empty plan") end
+        if not S.follow_path(c, list, finished) then return fallback("follow_path refused") end
+        local first = not st.started
+        st.started = true
+        cur.leg_t = R.now()
+        if first then
+            stats.pre_walks = (stats.pre_walks or 0) + 1
+            R.trail("nav", "precomputed path: %d points planned in %.2f s, walked with follow_path", #list, R.now() - st.t0)
+        else
+            stats.pre_regens = (stats.pre_regens or 0) + 1
+        end
+    end
+    request = function(initial)
+        st.tries = st.tries + 1
+        local fx, fy, fz = R.here()
+        if not fx then return fallback("no position") end
+        st.planning, st.plan_t = true, R.now()
+        local sent = S.plan_probe(c, { x = fx, y = fy, z = fz }, goal, function(points)
+            if cur.id ~= id or st.done then return end
+            st.planning = false
+            if initial and cur.scanning == id then cur.scanning = nil end
+            if type(points) ~= "table" or #points < 2 then
+                if st.started then return end            -- a swap that found nothing: the old path runs on
+                return fallback("no plan")
+            end
+            st.in_reply = true
+            local pts = guard_points(points)
+            local i, e = ST.first_steep(pts, indoors(), true)
+            local zoned = false
+            if i and st.tries <= PRE.TRIES then
+                zoned = N.zone_span(pts[i], pts[e or i + 1], "unsafe slope") == "new"
+                if zoned then
+                    R.trail("nav", "plan audit: steep span (rise %.1f / run %.1f) - zone, planning again",
+                        pts[(e or i + 1)].z - pts[i].z, R.dist2(pts[i].x, pts[i].y, pts[e or i + 1].x, pts[e or i + 1].y))
+                end
+            end
+            st.in_reply = false
+            if zoned then return request(initial) end
+            launch(points)
+        end)
+        if not sent then st.planning = false return fallback("plan not sent") end
+        if initial then cur.scanning, cur.scan_t = id, R.now() end
+    end
+    --- re-generation: a fresh path from where the player stands, swapped in
+    st.again = function(why)
+        if st.done or not st.started or st.in_reply or cur.id ~= id then return false end
+        if st.planning and R.now() - (st.plan_t or 0) < PRE.WAIT_S then return false end
+        if R.now() - st.regen_t < PRE.REGEN_GAP then return false end
+        st.regen_t, st.tries = R.now(), 0
+        R.trail("nav", "path re-generated while walking (%s)", tostring(why))
+        request(false)
+        return true
+    end
+    --- the continuation of a path that ends short of the goal, from its END
+    st.extend = function()
+        if st.done or not st.started or st.in_reply or cur.id ~= id or st.no_extend then return false end
+        if st.planning and R.now() - (st.plan_t or 0) < PRE.WAIT_S then return false end
+        local ahead = N.path_ahead(300)
+        if #ahead < 2 then return false end
+        local last = ahead[#ahead]
+        st.planning, st.plan_t = true, R.now()
+        local sent = S.plan_probe(c, last, goal, function(points)
+            st.planning = false
+            if cur.id ~= id or st.done then return end
+            if type(points) ~= "table" or #points < 2 then st.no_extend = true return end
+            local nl = points[#points]
+            if R.dist2(nl.x, nl.y, last.x, last.y) < PRE.EXTEND_MIN then st.no_extend = true return end
+            local now_ahead = N.path_ahead(300)
+            local list = {}
+            for k = 2, #now_ahead do list[#list + 1] = { x = now_ahead[k].x, y = now_ahead[k].y, z = now_ahead[k].z } end
+            for k = 2, #points do list[#list + 1] = { x = points[k].x, y = points[k].y, z = points[k].z } end
+            if S.follow_path(c, list, finished) then
+                stats.pre_extends = (stats.pre_extends or 0) + 1
+                R.trail("nav", "path extended by %d points from its end (%.0f yd from the goal)", #points - 1,
+                    R.dist2(nl.x, nl.y, x, y))
+            end
+        end)
+        if not sent then st.planning = false return false end
+        return true
+    end
+    cur.pre = st
+    request(true)
+    return true            -- the plan, or its move_to fallback, is on its way: the caller sends nothing
+end
+
+issue_walk = function(c, x, y, z, mode)
+    cur.start_x,cur.start_y = R.here()
+    cur.id = cur.id + 1
+    local id = cur.id
+    cur.x, cur.y, cur.z, cur.t, cur.mode, cur.route, cur.done = x, y, z, R.now(), mode or "move", nil, false
+    cur.leg_t = R.now()
+    stop_req = nil                                -- a new walk replaces a pending stop
+    stats.issued = stats.issued + 1
+    if mode == "guide" then wp_walk.id = id end
+    cur.pre = nil
+    local finished = function(success, reason)
+        if cur.id ~= id then return end
+        cur.done = true
+        if success then
+            if N.false_arrival(x, y, z) then
+                -- audit N10: an "arrived" short of the goal is a failure (no black
+                -- point: nothing got stuck), or the waypoint recheck walks it for ever
+                MEM.walk_ended(false)
+                if astar_try(x, y, z, mode, "arrived_short") then return end   -- local A* finishes the last yards
+                record_fail("unreachable", x, y, z, false)
+                if wp_walk.id == id then wp_walk.failed = "unreachable" end
+                return
+            end
+            MEM.walk_ended(true)
+            fail.reason, fail.offmesh = nil, false
+            return
+        end
+        local code = reason or "failed"
+        if HEIGHT_RETRY[code] and retry_at_ground(c, id, x, y, z, code, mode) then return end
+        MEM.walk_ended(false)
+        R.trail("nav", "walk to (%.0f, %.0f, %.0f) ended: %s", x, y, z, tostring(code))
+        if OFFMESH[code] and astar_try(x, y, z, mode, code) then return end     -- local A* for an off-mesh goal
+        record_fail(code, x, y, z, mode ~= "combat")   -- 1.9.0: a short combat step is no black point
+        if wp_walk.id == id then wp_walk.failed = tostring(code) end
+    end
+    if pre_start(c, id, x, y, z, finished) then return true end
+    local sent = S.move_to(c, { x = x, y = y, z = z }, finished)
+    if not sent then cur.done = true end
+    return sent
+end
+
+--- Out of combat and FLOOR_FIRST yd or more away with an unchecked height:
+--- the floors there first, then the walk at the nearest one. True while it runs.
+local FLOOR_ASKS = 3                       -- stacked floors asked about at most
+local function walk_at_floor(c, x, y, z, mode)
+    local k = key_of(x, y)
+    cur.id = cur.id + 1
+    local id = cur.id
+    cur.x, cur.y, cur.z, cur.t, cur.mode, cur.route, cur.done = x, y, z, R.now(), mode or "move", nil, false
+    cur.scanning, cur.scan_t = id, R.now()
+    stop_req = nil
+    return floors_for(c, k, x, y, z, function(list, st)
+        if cur.scanning == id then cur.scanning = nil end
+        st.checked, st.hint = true, z
+        if cur.id ~= id then return end
+        -- Cached lists were sorted for the original query height. Re-sort for
+        -- this destination so stacked floors do not inherit that ordering.
+        local candidates = {}
+        for i = 1, #list do candidates[i] = list[i] end
+        table.sort(candidates, function(a, b) return math.abs(a - z) < math.abs(b - z) end)
+        local _, _, player_z = R.here()
+        R.trail("nav", "terrain: player z %.1f, requested z %.1f, floor z %s, layers %d, indoors %s",
+            player_z or 0, z, tostring(candidates[1]), #candidates, tostring(indoors()))
+        local hz = candidates[1]
+        if hz then
+            local function go(h)
+                if cur.scanning == id then cur.scanning = nil end
+                cache_put(zfix, "zfix", k, { z = h, hint = z })
+                R.trail("nav", "(%.0f, %.0f): walking at the floor there, z %.1f (guess %.1f, %d floor(s))", x, y, h, z, #list)
+                issue_walk(c, x, y, h, mode)
+            end
+            -- 2026-11-15 (nav audit 10): stacked floors - ask Sentinel which of the
+            -- nearest FLOOR_ASKS is reachable (nearest height first) instead of
+            -- walking at the closest one and failing; none answers yes -> the
+            -- nearest, as before. A superseded walk drops the answer.
+            local function try(i)
+                if i > math.min(FLOOR_ASKS, #candidates) then return go(candidates[1]) end
+                cur.scanning, cur.scan_t = id, R.now()
+                local sent = S.validate(c, { x = x, y = y, z = candidates[i] }, function(reachable)
+                    if cur.id ~= id then return end
+                    if reachable then go(candidates[i]) else try(i + 1) end
+                end)
+                if not sent then go(candidates[i]) end
+            end
+            if #candidates >= 2 then try(1) else go(hz) end
+        else
+            issue_walk(c, x, y, z, mode)
+        end
+    end)
+end
+
+local function event_flags()
+    local ev = package.loaded["events"]
+    return type(ev) == "table" and type(ev.navflags) == "table" and ev.navflags or nil
+end
+
+--- Why a NEW walk may not start now, or nil. A walk already running is a
+--- retarget, not a new start. "casting": the caller walks once the cast ends
+--- (moving would cancel it).
+local function start_blocked(c, mode)
+    -- no new travel walk in combat - only the fight's own walks (mode "combat")
+    if mode ~= "combat" then
+        local nf = event_flags()
+        local me0 = R.me()
+        local okc, fighting = pcall(function() return me0 and me0:is_in_combat() == true end)
+        if (nf and nf.in_combat) or (okc and fighting == true) then return "in combat" end
+    end
+    local me = R.me()
+    if me then
+        local okc, casting = pcall(function() return me:is_casting_spell() == true or me:is_channelling_spell() == true end)
+        if okc and casting == true then return "casting" end
+    end
+    if not S.server_up(c) then
+        fail.server_until = R.now() + SERVER_BACKOFF
+        return "server down"
+    end
+    return nil
+end
+
+-- ----------------------------------------------------------------------------
+-- holds (Sentinel has no pause / resume)
+-- ----------------------------------------------------------------------------
+function N.holding() return next(held.reasons) ~= nil end
+
+--- The guide asks for `x, y` while a detour runs: the same goal - leave the
+--- detour alone (true); another goal - the detour is over (false).
+local function detour_owns(x, y)
+    if not det then return false end
+    if x and R.dist2(x, y, det.dest.x, det.dest.y) <= 8 then return true end
+    det = nil
+    return false
+end
+
+--- Walk to `dest`. True when a walk there is running or was started (also
+--- when `dest` is underfoot, or remembered for after a hold); false when
+--- refused (combat / rest / backpedal, a blacklisted area, the same spot just
+--- failed, no Sentinel). Safe to call every tick.
+function N.nav_to(dest, direct, mode)
+    local x, y, z = R.xyz(dest)
+    if not x then return false end
+    if guard_blocked(x,y,z) then return false end
+    if mode == "combat" then
+        det = nil -- combat must not inherit a quest detour's resume destination
+    elseif detour_owns(x, y) then return true end
+    -- 3.5.0: a retarget (movement.nudge) of a running guide walk stays one
+    if mode == nil and cur.mode == "guide" and cur.x and not cur.done then mode = "guide" end
+    -- 3.7.1: a sharp turn is being made - the next leg starts after it
+    if R.turning and mode ~= "combat" then
+        if held.dest then held.dest = { x = x, y = y, z = z, mode = mode, direct = direct } end
+        stats.refused = stats.refused + 1
+        return true
+    end
+    local why = N.refusal()
+    -- combat walks always go; an NPC approach (movement.interact) goes
+    -- through its own NPC hold
+    if why and mode ~= "combat" and not (mode == "npc" and why == "npc") then
+        stats.refused = stats.refused + 1
+        return false
+    end
+    local cached_floor = mode ~= "npc" and mode ~= "corpse" and corrected_z(x, y, z) or nil
+    if not cached_floor and mode ~= "npc" and mode ~= "corpse" then
+        local scan = zscan[key_of(x,y)]
+        if scan and scan.list and #scan.list == 1 and R.now()-scan.t <= FAIL_WINDOW then
+            cached_floor = scan.list[1]
+        end
+    end
+    z = cached_floor or z
+    local hx, hy, hz = R.here()
+    if hx and R.dist2(hx, hy, x, y) <= UNDERFOOT and math.abs(hz - z) < 3 then
+        return true
+    end
+    if not direct and mode ~= "combat" and Z.blocked_xy(x, y) then
+        record_fail("blacklisted")
+        return false
+    end
+    if not direct and mode ~= "combat" and MEM.goal_blocked(x, y, z) then   -- 1.9.0: a black goal cell
+        record_fail("blacklisted")
+        return false
+    end
+    local k = key_of(x, y)
+    local fe = fails_at[k]
+    if fe and fe.z and math.abs(fe.z-z)<2 and fe.n > 0 and (R.now() - fe.t) < 5 and (fail.offmesh or fail.give_up) then return false end
+    local c = N.client()
+    if not c then return false end
+    -- server back-off, then is_server_available()
+    if fail.server_until then
+        if R.now() < fail.server_until then
+            stats.refused = stats.refused + 1
+            return false
+        end
+        if not S.server_up(c) then
+            fail.server_until = R.now() + SERVER_BACKOFF
+            stats.refused = stats.refused + 1
+            return false
+        end
+        fail.server_until = nil
+    end
+    -- a hold (cast, loot, conjure): remembered, walked when it lifts
+    if N.holding() then
+        held.dest = { x = x, y = y, z = z, mode = mode, direct = direct }
+        return true
+    end
+    local busy = S.moving(c)
+    if busy and same_destination(x, y, z) and cur.mode ~= "route"
+        and not (mode == "combat" and cur.mode ~= "combat") then
+        return true
+    end
+    -- its floors are being asked for (walk_at_floor / retry_at_ground)
+    if cur.scanning and cur.scanning == cur.id and (R.now() - (cur.scan_t or 0)) < HEIGHT_SCAN_HOLD
+        and same_destination(x, y, z) then
+        return true
+    end
+    if busy and not (mode == "combat" and cur.mode ~= "combat")
+        and (R.now() - cur.t) < (mode == "combat" and COMBAT_GAP or RETARGET_GAP) then return true end
+    if not busy then
+        local blocked = start_blocked(c, mode)
+        if blocked == "casting" then return true end      -- walked once the cast ends
+        if blocked then stats.refused = stats.refused + 1 return false end
+    end
+    -- 3.8.0: before an out-of-combat walk of MIN_WALK yd or more starts, mount
+    -- (or Travel Form) first - the player stands for the cast meanwhile
+    if not busy and mode ~= "combat" and mode ~= "npc" and mode ~= "corpse" and hx and MT.wants(R.dist2(hx, hy, x, y)) then
+        if MT.step(R.me()) then return true end
+    end
+    if mode ~= "combat" and mode ~= "npc" and mode ~= "corpse" and hx and (R.dist2(hx, hy, x, y) >= (indoors() and 3 or FLOOR_FIRST) or math.abs(hz - z) >= 4) and not corrected_z(x, y, z) and not swimming() then
+        local st = zscan[k]
+        if not (st and st.checked and st.hint == z and (R.now() - st.t) <= FAIL_WINDOW) then
+            if mode == "guide" then wp_walk.id = cur.id + 1 end
+            return walk_at_floor(c, x, y, z, mode)
+        end
+    end
+    return issue_walk(c, x, y, z, mode)
+end
+
+--- 1.4.0 (Zygor spec, kept for RestedXP waypoints): ONE walk per guide
+--- waypoint key (step, goal, point); another only when the key changes. The
+--- same key is rechecked every WP_RECHECK s and walked again when Sentinel
+--- stands idle short of the point. A stop (a fight, an NPC) lets the same key
+--- go again at once.
+function N.waypoint_walk(dest, key)
+    local x, y, z = R.xyz(dest)
+    if not x then return false end
+    if guard_blocked(x,y,z) then return false end
+    if detour_owns(x, y) then return true end           -- 1.7.23: a stuck detour runs
+    if N.refusal() then
+        stats.refused = stats.refused + 1
+        return false
+    end
+    if not N.client() then return false end
+    if MEM.goal_blocked(x, y, z) then                     -- 1.9.0: the goal cell is a black point
+        record_fail("blacklisted")
+        return false
+    end
+    local now = R.now()
+    -- the walk to the NEXT waypoint was started a few yards before this one
+    -- ended (N.hint_next): this waypoint's key is satisfied, do not turn back
+    if hand and hand.from == key and now < hand.until_t then return true end
+    if wp_walk.key == key then
+        if N.pending() then return true end
+        if N.busy() then
+            -- the walk running is this waypoint's (a retarget refused by the
+            -- retarget gap is asked again below)
+            if same_destination(x, y, z) then return true end
+        elseif (now - wp_walk.t) < WP_RECHECK then
+            return true
+        else
+            R.trail("nav", "waypoint recheck: idle short of (%.0f, %.0f, %.0f) - walking again", x, y, z)
+            cur.t = -1e9                                  -- not a retarget: at once
+        end
+    end
+    -- audit S3: a give-up (max_stuck / max_repath) or a server back-off is not
+    -- retried every 5 s - the same 5 s give-up window nav_to uses
+    if (fail.give_up and (now - (fail.t or 0)) < 5) or (fail.server_until and now < fail.server_until) then
+        return false
+    end
+    if wp_walk.key ~= key then
+        wp_walk.key, wp_walk.failed = key, nil
+        fail.reason = nil
+    end
+    wp_walk.t = now
+    return N.nav_to(dest, true, "guide")
+end
+function N.waypoint_forget() wp_walk.key = nil end
+
+--- 1.7.9: the running walk's own path from the point being walked, up to
+--- `yards` along it (the player's position first): Sentinel's
+--- get_current_path from get_path_index. Client reads only, on the update
+--- tick. Just the player's position when idle.
+function N.path_ahead(yards)
+    yards = tonumber(yards) or 40
+    local out = {}
+    local hx, hy, hz = R.here()
+    if hx then out[1] = { x = hx, y = hy, z = hz } end
+    local c = N.client()
+    if not c or not S.moving(c) then return out end
+    local pts = S.current_path(c)
+    if type(pts) ~= "table" then return out end
+    local idx = S.path_index(c)
+    idx = (type(idx) == "number" and idx >= 1) and math.floor(idx) or 1
+    yards = math.max(0, yards)
+    if yards == 0 then return out end
+    local walked, px, py, pz = 0, hx, hy, hz
+    for i = idx, #pts do
+        local p = pts[i]
+        if type(p) == "table" and type(p.x) == "number" and type(p.y) == "number" then
+            local leg = px and R.dist2(px, py, p.x, p.y) or 0
+            if leg > 0 and walked + leg >= yards then
+                local t = (yards - walked) / leg
+                local z = (type(pz) == "number" and type(p.z) == "number") and (pz + (p.z - pz) * t) or p.z
+                out[#out + 1] = { x = px + (p.x - px) * t, y = py + (p.y - py) * t, z = z }
+                break
+            end
+            walked = walked + leg
+            out[#out + 1] = { x = p.x, y = p.y, z = p.z }
+            px, py, pz = p.x, p.y, p.z
+        end
+    end
+    return out
+end
+
+--- 1.7.7: the last yards INTO a portal. The portal is not on the navmesh, so
+--- this is Sentinel's move_direct - a single waypoint with no pathfinding
+--- (documented, not yet recorded on v0.24). The loading screen ends it.
+function N.step_into(pos)
+    local x, y, z = R.xyz(pos)
+    if not x then return false end
+    local c = N.client()
+    if not c then return false end
+    if S.moving(c) then return true end          -- this step, or the walk to the entry, still runs
+    if start_blocked(c, "portal") then return false end
+    cur.id = cur.id + 1
+    local id = cur.id
+    cur.x, cur.y, cur.z, cur.t, cur.mode, cur.route, cur.done = x, y, z, R.now(), "portal", nil, false
+    cur.leg_t = R.now()
+    stop_req = nil
+    stats.issued = stats.issued + 1
+    R.trail("nav", "stepping into the portal: straight walk to (%.0f, %.0f, %.0f)", x, y, z)
+    local ok = S.move_direct(c, { x = x, y = y, z = z }, function(success, reason)
+        if cur.id ~= id then return end
+        cur.done = true
+        R.trail("nav", "portal step ended: %s", success and "arrived" or tostring(reason))
+    end)
+    if not ok then cur.done = true end
+    return ok
+end
+
+--- One leg of the local A* path (movement/astar): Sentinel's move_direct, a
+--- single off-mesh waypoint, never a key. One leg start a second at most; holds
+--- are respected. Set as AS.leg_fn below.
+local ASTAR_LEG_GAP = 1.0
+function N.astar_leg(x, y, z)
+    if R.resting or R.backpedal_until then return false end
+    local c = N.client()
+    if not c or N.holding() or stop_req then return false end
+    if cur.leg_t and (R.now() - cur.leg_t) < ASTAR_LEG_GAP then return false end
+    cur.id = cur.id + 1
+    local id = cur.id
+    cur.x, cur.y, cur.z, cur.t, cur.mode, cur.route, cur.done = x, y, z, R.now(), "astar", nil, false
+    cur.leg_t = R.now()
+    stop_req = nil
+    stats.issued = stats.issued + 1
+    R.trail("nav", "move_direct (astar leg) %.1f %.1f %.1f", x, y, z)
+    local ok = S.move_direct(c, { x = x, y = y, z = z }, function()
+        if cur.id ~= id then return end
+        cur.done = true
+    end)
+    if not ok then cur.done = true end
+    return ok
+end
+AS.leg_fn = N.astar_leg
+
+--- Walk a recorded route (array of {x,y,z}) with follow_path, picked up at its
+--- point nearest the player (1.7.22; `front`: the point in front, 1.0.21). The
+--- same table while it runs is a no-op unless `replace`. True when accepted.
+function N.follow_route(list, replace, front)
+    if type(list) ~= "table" or #list < 1 then return false end
+    if N.refusal() then return false end
+    local c = N.client()
+    if not c then return false end
+    if N.holding() then
+        held.dest = { route = list }
+        return true
+    end
+    if not replace and cur.route == list and S.moving(c) then return true end
+    local all = {}
+    for i = 1, #list do
+        local x, y, z = R.xyz(list[i])
+        if not x then return false end
+        all[i] = { x = x, y = y, z = z }
+    end
+    local from = front and front_index(all, 1, #all) or pickup_index(all, 1, #all)
+    local pts = {}
+    for i = from, #all do pts[#pts + 1] = all[i] end
+    if from > 1 then R.trail("nav", "route picked up at point %d of %d", from, #all) end
+    cur.id = cur.id + 1
+    local id = cur.id
+    local last = pts[#pts]
+    cur.x, cur.y, cur.z, cur.t, cur.mode, cur.route, cur.done = last.x, last.y, last.z, R.now(), "route", list, false
+    cur.leg_t = R.now()
+    stop_req = nil
+    stats.issued = stats.issued + 1
+    local ok = S.follow_path(c, pts, function(success, reason)
+        if cur.id ~= id then return end
+        cur.done = true
+        MEM.walk_ended(success == true)
+        if success then return end
+        R.trail("nav", "route walk ended: %s", tostring(reason))
+        record_fail(reason or "failed", nil, nil, nil, true)
+    end)
+    if not ok then cur.done = true end
+    return ok
+end
+
+-- ----------------------------------------------------------------------------
+-- re-navigation (movement.lua's no-progress watchdog): the current
+-- destination walked again, or a detour point first
+-- ----------------------------------------------------------------------------
+--- The running walk may be replaced now: it follows its path and is not fresh.
+local function replaceable(c)
+    if S.path_pending(c) then return false end
+    return (R.now() - (cur.leg_t or 0)) >= FRESH_LEG
+end
+
+--- Walk `d` again from where the player stands (a new move_to re-plans
+--- without stopping; a recorded route is picked up again).
+local function walk_again(c, d, why, front)
+    if d.mode == "route" and type(d.route) == "table" then
+        N.follow_route(d.route, true, front)
+    else
+        issue_walk(c, d.x, d.y, d.z, d.mode or "move")
+    end
+    R.trail("nav", "re-navigation: walking to (%.0f, %.0f, %.0f) again - %s", d.x, d.y, d.z or 0, tostring(why))
+end
+
+--- A fresh path from where the player stands to the walk's own goal: the
+--- same destination handed to Sentinel again. False when there is no walk,
+--- a new walk may not start, or the leg is still fresh / awaiting its path.
+function N.replan_fresh(why)
+    local c = N.client()
+    if not c or not cur.x then return false end
+    if guard_blocked(cur.x,cur.y,cur.z) then return false end
+    -- audit N6: no new walk during a cast / channel, in combat (out-of-combat
+    -- walks) or mid-pivot
+    if start_blocked(c, cur.mode) or R.turning then return false end
+    if S.moving(c) and not replaceable(c) then return false end
+    local d = { x = cur.x, y = cur.y, z = cur.z, mode = cur.mode, route = cur.route }
+    -- 1.9.0: the second stuck re-plan of the same corridor is a black point
+    if type(why) == "string" and why:find("stuck", 1, true) then
+        local px, py, pz = R.here()
+        if px then mem_black(MEM.note_replan(px, py, pz, d.x, d.y), "re-planned twice") end
+    end
+    det = nil
+    walk_again(c, d, why or "stuck")
+    return true
+end
+
+--- 1.7.22 / 1.0.21: the running walk picks its path up again from where the
+--- player is - a recorded route at the point in front, any other walk its
+--- destination handed to Sentinel again.
+function N.rejoin(why)
+    local c = N.client()
+    if not c or not cur.x or not S.moving(c) then return false end
+    if guard_blocked(cur.x,cur.y,cur.z) then return false end
+    if not replaceable(c) then return false end
+    walk_again(c, { x = cur.x, y = cur.y, z = cur.z, mode = cur.mode, route = cur.route },
+        "rejoin" .. (why and (" - " .. tostring(why)) or ""), true)
+    return true
+end
+
+local function detour_done(reason)
+    local d = det
+    if not d then return end
+    det = nil
+    local c = N.client()
+    if c then walk_again(c, d.dest, "after a detour (" .. tostring(reason) .. ")") end
+end
+
+--- 1.7.23: walk to `pt` (a checked detour point), then on to the walk's own
+--- goal. While it runs the walk's destination (cur.x) stays the real goal, so
+--- the guide asking for the same goal every tick leaves the detour alone;
+--- another goal ends it.
+function N.detour(pt, why, resume_goal, recovery_radius, planned_path)
+    local c = N.client()
+    if not c or (not cur.x and not resume_goal) or type(pt) ~= "table" or not pt.x then return false end
+    local mode = resume_goal and (resume_goal.mode or "move") or cur.mode
+    if start_blocked(c, mode) or R.turning then return false end          -- audit N6
+    if S.moving(c) and not replaceable(c) then return false end
+    local max_distance=DETOUR_FAR
+    local max_time=DETOUR_MAX_S
+    if resume_goal and type(recovery_radius)=="number" then
+        max_distance=math.max(DETOUR_FAR,math.min(180,recovery_radius))+0.1
+        max_time=math.max(DETOUR_MAX_S,math.min(35,recovery_radius*0.5))
+        if type(planned_path)=="table" then
+            local route_length=0
+            for n=1,#planned_path-1 do
+                local a,b=planned_path[n],planned_path[n+1]
+                route_length=route_length+R.dist3(a.x,a.y,a.z,b.x,b.y,b.z)
+            end
+            max_time=math.max(max_time,math.min(120,route_length/4+5))
+        end
+    end
+    do
+        local hx, hy = R.here()
+        if not hx or R.dist2(hx, hy, pt.x, pt.y) > max_distance then return false end
+    end
+    local dest = resume_goal and {x=resume_goal.x,y=resume_goal.y,z=resume_goal.z,mode=mode}
+        or { x = cur.x, y = cur.y, z = cur.z, mode = cur.mode, route = cur.route }
+    cur.x,cur.y,cur.z,cur.mode = dest.x,dest.y,dest.z,dest.mode
+    cur.id = cur.id + 1
+    local id = cur.id
+    cur.route, cur.done = nil, false
+    cur.t, cur.leg_t = R.now(), R.now()
+    stop_req = nil
+    stats.issued = stats.issued + 1
+    det = { x = pt.x, y = pt.y, z = pt.z, dest = dest, id = id, until_t = R.now() + max_time }
+    R.trail("nav", "re-navigation: detour to (%.0f, %.0f) - %s", pt.x, pt.y, tostring(why))
+    local function completed(success, reason)
+        if not det or det.id ~= id then return end
+        -- A server code (timeout / down / map not loaded) is not a detour that
+        -- merely failed: back off (record_fail) and drop any capture instead of
+        -- re-issuing the real walk at once, bypassing SERVER_BACKOFF.
+        if not success and SERVER_CODES[reason] then
+            MEM.walk_ended(false)
+            record_fail(reason, nil, nil, nil, false)
+            det = nil
+            R.trail("nav", "detour ended: %s; backing off %.1f s before walking again", tostring(reason), SERVER_BACKOFF)
+            return
+        end
+        detour_done(success and "reached" or tostring(reason))
+    end
+    local ok
+    if type(planned_path)=="table" and #planned_path>=2 then
+        R.trail("nav","recovery follows %d validated waypoints",#planned_path)
+        ok=S.follow_path(c,planned_path,completed)
+    else
+        ok=S.move_to(c,{x=pt.x,y=pt.y,z=pt.z or dest.z},completed)
+    end
+    if not ok then det = nil return false end
+    return true
+end
+
+function N.detour_active() return det ~= nil end
+
+-- A corpse-run watchdog may ask for a different local approach after a
+-- stalled leg. Sentinel remains the only walker; rays reject unsafe exits.
+function N.recover_path(goal, side, why, wide)
+    if det or N.holding() or N.leg_fresh() then return false end
+    local c=N.client()
+    if not c or S.path_pending(c) then return false end
+    local x,y,z=R.here()
+    if not x or not goal then return false end
+    local dx,dy=goal.x-x,goal.y-y
+    local length=math.sqrt(dx*dx+dy*dy)
+    if length<1 then return false end
+    local trace=require("movement/trace")
+    if not trace.ready() then return false end
+    local from={x=x,y=y,z=z}
+    local rejected={floor=0,slope=0,body=0,budget=0,request=0}
+    local first_body
+    -- Sideways-only probes cannot escape a slope between trees or walls.
+    -- Try stepping back around it before considering forward diagonals.
+    local distances=type(wide)=="number" and wide>=3 and {} or {3,6,10}
+    for _,distance in ipairs(distances) do
+        for _,degrees in ipairs({90,-90,135,-135,180,45,-45}) do
+            local angle=math.rad(degrees*(side or 1))
+            local ux=(dx*math.cos(angle)-dy*math.sin(angle))/length
+            local uy=(dx*math.sin(angle)+dy*math.cos(angle))/length
+            local samples={from}
+            local safe_exit=true
+            for n=1,math.ceil(distance) do
+                local d=math.min(distance,n)
+                local previous=samples[#samples]
+                local point={x=x+ux*d,y=y+uy*d,z=previous.z}
+                -- The next sample may rise up to 1.1 yd over this one-yard
+                -- interval. Starting only 0.5 yd above the preceding floor
+                -- casts from inside an otherwise walkable uphill surface.
+                local floor=trace.player_ground(point,1.5)
+                if type(floor)~="number" then rejected.floor=rejected.floor+1 safe_exit=false break end
+                point.z=floor
+                samples[#samples+1]=point
+                if ST.first_steep(samples) then rejected.slope=rejected.slope+1 safe_exit=false break end
+            end
+            local point=samples[#samples]
+            if safe_exit then
+                -- Follow the measured floor profile. A single low ray chord
+                -- intersects harmless convex ground between safe endpoints.
+                for n=1,#samples-1 do
+                    local blocked=trace.corridor_blocked(samples[n],samples[n+1],false,true)
+                    if blocked~=false then
+                        if blocked and not first_body then first_body=trace.last_hit end
+                        local key=blocked==nil and "budget" or "body"
+                        rejected[key]=rejected[key]+1 safe_exit=false break
+                    end
+                end
+                if safe_exit then
+                    -- Keep the floor and body corridor we just measured.
+                    -- Replanning only its endpoint can send a three-yard
+                    -- escape back through the slope it was meant to avoid.
+                    if N.detour(point,why or "corpse progress watchdog",goal,nil,samples) then return true end
+                    rejected.request=rejected.request+1
+                end
+            end
+        end
+    end
+    R.trail("nav","measured escape refused: floor=%d slope=%d body=%d ray_budget=%d request=%d",
+        rejected.floor,rejected.slope,rejected.body,rejected.budget,rejected.request)
+    if first_body then
+        local a,b=first_body.a,first_body.b
+        R.trail("nav","escape collision evidence: %s mask=%s (%.2f,%.2f,%.2f)->(%.2f,%.2f,%.2f), hit distance=%s",
+            first_body.source,first_body.mask,a.x,a.y,a.z,b.x,b.y,b.z,tostring(first_body.distance))
+    end
+    if wide and not escape_poll then
+        -- Short straight exits can all touch a wall even when a curved
+        -- navmesh retreat exists. Validate a bounded endpoint through
+        -- Sentinel; the normal path guard still checks the resulting walk.
+        -- Rotate the geometric exclusion point on alternate attempts. A
+        -- retreat directly away from the distant corpse rejoins the same
+        -- failed corridor; a side approach can reach its entrance instead.
+        -- Try opposite sides first, then rotate the pair through diagonals
+        -- and forward/backward approaches instead of repeating two corridors.
+        local attempt=type(wide)=="number" and wide or 3
+        local pair=math.max(0,math.floor((attempt-3)/2))
+        local angle=(pair%4)*math.pi/4
+        local sx,sy=-dy/length*(side or 1),dx/length*(side or 1)
+        local ex,ey=sx*math.cos(angle)-sy*math.sin(angle),sx*math.sin(angle)+sy*math.cos(angle)
+        local exclusion={x=x+ex*5,y=y+ey*5,z=z}
+        local radius=math.min(180,30+pair*15)
+        R.trail("nav","corpse recovery search: attempt %d, radius %.0f yd, heading pair %d",attempt,radius,pair%4)
+        -- Keep the validated origin stationary during asynchronous probes.
+        -- The previous walk otherwise keeps advancing into the hazard and
+        -- its terrain stop cancels the new search before it can finish.
+        N.stop("planning alternate recovery route",true)
+        return N.flee(from,{exclusion},function(point,path)
+            local me=R.me()
+            local ok,ghost=pcall(function() return me:is_dead_or_ghost() end)
+            local okc,combat=pcall(function() return me:is_in_combat() end)
+            local quest=goal.mode=="guide"
+            if point and ok and ((quest and ghost==false and okc and combat==false) or (not quest and ghost==true)) then
+                local purpose=quest and "quest" or "corpse"
+                local started=N.detour(point,purpose.." retreat after local exits failed",goal,radius,path)
+                R.trail("nav","%s recovery walk: radius %.0f yd, started=%s",purpose,radius,tostring(started))
+            end
+        end,radius,nil,goal)
+    end
+    return false
+end
+
+function N.recovery_pending() return escape_poll~=nil end
+
+--- 1.7.24: every navmesh floor under `pos` (Sentinel get_all_heights through
+--- the adapter) -> cb(list of heights, nearest pos.z first). False when it
+--- could not be asked (cb is not called then).
+function N.all_heights(pos, cb)
+    local c = N.client()
+    if not c or type(pos) ~= "table" or not pos.x then return false end
+    return S.floors(c, { x = pos.x, y = pos.y, z = pos.z or 0 }, function(list) pcall(cb, list) end)
+end
+
+--- 1.0.22: other heights to try at (x, y) than `z` - the floors there, those
+--- near the player's own height first: cb(list). (Tests; retry_at_ground
+--- orders a spot's cached floors the same way.)
+local function z_candidates(x, y, z, cb)
+    local asked = N.all_heights({ x = x, y = y, z = z }, function(vals) cb(order_floors(vals, z)) end)
+    if not asked then cb({}) end
+end
+N._z_candidates = z_candidates
+
+--- A stop may go out now: the walk follows its path and is not fresh.
+local function safe_to_stop(c)
+    if S.path_pending(c) then return false end
+    return (R.now() - (cur.leg_t or 0)) >= FRESH_LEG
+end
+
+--- Stop the walk this layer started. Cheap when idle. A walk still waiting
+--- for its path or younger than FRESH_LEG s is stopped by the pulse later
+--- unless `force` (Stop / GUI close / unload: callbacks will not pulse again).
+function N.stop(reason, force)
+    escape_poll = nil
+    S.invalidate()
+    det = nil                               -- 1.7.23
+    if cur.mode ~= "astar" or reason ~= "astar leg" then AS.cancel(reason or "stop") end   -- end any local A* search/walk
+    wp_walk.key = nil                       -- 1.4.0: a stopped waypoint walk may go again
+    local c = N.client()
+    local was = c ~= nil and (S.moving(c) or S.path_pending(c))
+    if c and (was or cur.x or force == true) then
+        if force == true or safe_to_stop(c) then
+            S.stop(c)
+            stop_req = nil
+        else
+            stop_req = { t = R.now(), reason = reason }
+            stats.deferred_stops = stats.deferred_stops + 1
+        end
+    end
+    if cur.x and not cur.done then MEM.walk_ended(false) end   -- 1.9.0
+    cur.id = cur.id + 1                     -- the stopped walk's callback, if any, is ignored
+    cur.x, cur.mode, cur.route, cur.done = nil, nil, nil, true
+    cur.t = -1e9                            -- the next walk is not a retarget: it goes at once (and replaces a deferred stop)
+    cur.scanning, cur.pre = nil, nil
+    -- 3.7.1: a deliberate stop also ends a sharp turn in progress (movement/pivot
+    -- only finishes a turn when the walk ended by itself)
+    if R.turning then R.turn_cancel, R.turning = true, false end
+    if was then R.quiet_until = R.now() + QUIET_STOP end
+end
+
+--- Hold the walk for `reason` (a cast, a loot, a conjure): stopped, its
+--- destination remembered.
+function N.pause(reason)
+    reason = reason or "hold"
+    MEM.on_pause(reason)                    -- 1.9.0: a loot / conjure / cast hold holds the memory
+    local first = not N.holding()
+    held.reasons[reason] = true
+    if first and cur.x and N.busy() then
+        held.dest = { x = cur.x, y = cur.y, z = cur.z, mode = cur.mode, route = cur.route, direct = true }
+        local turning = R.turning
+        N.stop("hold " .. reason)
+        R.turning = turning                     -- a sharp-turn hold keeps its turn
+        R.turn_cancel = false
+    end
+end
+
+--- Lift `reason`; when no hold is left the remembered destination is walked again.
+function N.resume(reason)
+    reason = reason or "hold"
+    MEM.on_resume(reason)
+    held.reasons[reason] = nil
+    if N.holding() then return end
+    local d = held.dest
+    held.dest = nil
+    if not d then return end
+    if d.route then
+        N.follow_route(d.route, true)
+    else
+        N.nav_to(d, d.direct, d.mode)
+    end
+end
+
+--- Per frame: event-flag stops, the deferred stop, walks ended without a
+--- callback, the detour timeout, the nav memory.
+
+-- Inspect the next few yards, not the endpoint's overall grade: a safe
+-- switchback can end far above us. Replans are bounded so a bad mesh does
+-- not send the character into the same cliff indefinitely.
+
+local function guard_path(c)
+    guard_context()
+    local now = R.now()
+    if now < terrain_guard.next_t or cur.mode == "combat" or cur.mode == "portal"
+        or cur.mode == "swim" or not cur.x or cur.done or N.holding()
+        or stop_req or not S.moving(c) or S.path_pending(c) or N.leg_fresh() then return end
+    terrain_guard.next_t = now + 0.35
+    local fs = S.full_state(c) or ""
+    if fs:find("recovering", 1, true) or fs:find("repathing", 1, true) then return end
+    local px,py = R.here()
+    if not px then return end
+    local _,_,pz = R.here()
+    local goal_key = key_of(cur.x,cur.y)
+    if orbit.key ~= goal_key or not orbit.t or math.abs((cur.z or pz)-orbit.goal_z)>=2 then
+        orbit = {key=goal_key,t=now,x=px,y=py,lx=px,ly=py,z=pz,goal_z=cur.z or pz,distance=0,tries=0}
+    end
+    orbit.distance = orbit.distance + R.dist2(px,py,orbit.lx,orbit.ly)
+    orbit.lx,orbit.ly = px,py
+    if now-orbit.t >= 12 then
+        local loop = orbit.distance >= 18 and R.dist2(px,py,orbit.x,orbit.y) < 6
+            and math.abs(pz-orbit.z)<2
+        orbit.t,orbit.x,orbit.y,orbit.z,orbit.distance = now,px,py,pz,0
+        if loop and not det then
+            orbit.tries = orbit.tries + 1
+            R.trail("nav", "loop detected: returned within 6 yd after travelling 18+ yd; recovery %d", orbit.tries)
+            if orbit.tries == 1 then N.regen(c,"circling without progress")
+            else
+                terrain_guard.key,terrain_guard.goal_z,terrain_guard.blocked_until = goal_key,cur.z,now+30
+                local gx,gy,gz=cur.x,cur.y,cur.z
+                N.stop("repeated navigation loop",true)
+                record_fail("max_repath_exceeded",gx,gy,gz,false)
+            end
+            return
+        elseif not loop then orbit.tries=0 end
+    end
+    if not terrain_guard.mx or R.dist2(px,py,terrain_guard.mx,terrain_guard.my) >= 1 then
+        terrain_guard.mx,terrain_guard.my,terrain_guard.motion_t = px,py,now
+    end
+    local ahead=N.path_ahead(indoors() and math.max(12,(N.LA and N.LA.H) or 20) or 28)
+    -- A small hop/fall puts the live player above the path's floor. Judge
+    -- that entry connection from measured ground, not the airborne body.
+    -- Large/unknown drops and every later mesh edge remain guarded.
+    local ok_fall,falling=pcall(function() return R.me():is_falling() end)
+    if ok_fall and falling==true and ahead[1] then
+        local ground=require("movement/trace").player_ground({x=px,y=py,z=pz})
+        if type(ground)=="number" and pz-ground>0.6 and pz-ground<=2 then
+            ahead[1]={x=px,y=py,z=ground}
+        end
+    end
+    local points = guard_points(ahead)
+    -- Shop/inn entrance stairs begin outside the indoor flag boundary.
+    -- A live NPC destination uses the same bounded stair-rise allowance.
+    local stair_approach=indoors() or cur.mode=="npc"
+    local i, steep_end = ST.first_steep(points,stair_approach)
+    if i then
+        local measured=ST.measured_span(points,i,steep_end or i+1,stair_approach)
+        if measured then
+            points=measured
+            i,steep_end=ST.first_steep(points,stair_approach)
+        end
+    end
+    -- Mesh grades near 45 degrees can describe traversable snow banks.
+    -- Nearby moderate ascents get a short progress grace. A moderate descent
+    -- also requires measured ground at our feet and no falling; never grant
+    -- that exception to a long drop, a steep wall, or a stalled walk.
+    local function progressing_grade(a,b)
+        local run=R.dist2(a.x,a.y,b.x,b.y)
+        local rise=b.z-a.z
+        -- A short grade eligible for the near-player progress check must
+        -- first be approachable. Stopping it at 17 yd otherwise prevents
+        -- that check forever and sends recovery back around the same ridge.
+        -- This is only an approach allowance; nearby stalled walks and all
+        -- descents still take the checks below.
+        if run>=1 and rise>0 and rise<=6 and rise/run<=ST.UP_IN
+            and R.dist2(px,py,a.x,a.y)>=8 then return true end
+        -- Descents can be validated ahead of arrival using every ground
+        -- sample below; rejecting them outside eight yards prevents the
+        -- player ever reaching the near-player validation window.
+        if run<1 or (rise>=0 and R.dist2(px,py,a.x,a.y)>=8)
+            or now-(terrain_guard.motion_t or now)>=1.2 then return false end
+        if rise>=0 and rise/run<=ST.UP_IN then return true end
+        if math.abs(rise)>6 or run>8 then return false end
+        local ok,falling=pcall(function() return R.me():is_falling() end)
+        if not ok or falling~=false then return false end
+        local trace=require("movement/trace")
+        local ground=trace.player_ground({x=px,y=py,z=pz})
+        if type(ground)~="number" or math.abs(pz-ground)>0.6 then return false end
+        -- Measure the entire short descent. Mesh interpolation can cross
+        -- snow banks or cave steps at the wrong Z; feet alone prove nothing
+        -- about the next drop. Unknown floors and sharp ledges stay blocked.
+        local count=math.ceil(run/0.75)
+        local previous
+        for sample=0,count do
+            local u=sample/count
+            local p={x=a.x+(b.x-a.x)*u,y=a.y+(b.y-a.y)*u,z=a.z+rise*u}
+            local z=trace.player_ground(p,1.5)
+            if type(z)~="number" or math.abs(z-p.z)>2 then return false end
+            -- A short continuous downhill grade can be steeper than an
+            -- ascent. Samples remain under one yard; abrupt ledges fail.
+            if previous and (previous-z>1.25*run/count or z-previous>1.1*run/count) then return false end
+            previous=z
+        end
+        return true
+    end
+    if i then
+        local a,b=points[i],points[steep_end or i+1]
+        if progressing_grade(a,b) then
+            i,steep_end=nil,nil
+        end
+    end
+    local reason = "unsafe slope"
+    local function supported_stair_ascent(a,b)
+        if not stair_approach or b.z<=a.z or b.z-a.z>6 or not progressing_grade(a,b) then return false end
+        local ground=require("movement/trace").player_ground({x=px,y=py,z=pz})
+        return type(ground)=="number" and math.abs(pz-ground)<=0.6
+    end
+    local function supported_deck(a,b)
+        local run=R.dist2(a.x,a.y,b.x,b.y)
+        if run>8 then return false end
+        local trace=require("movement/trace")
+        local count=math.max(1,math.ceil(run))
+        for sample=0,count do
+            local u=sample/count
+            local x,y,z=a.x+(b.x-a.x)*u,a.y+(b.y-a.y)*u,a.z+(b.z-a.z)*u
+            if trace.hit({x=x,y=y,z=z+0.3},{x=x,y=y,z=z-0.8},"GROUND")~=true then return false end
+        end
+        return true
+    end
+    for n=#blocked_terrain,1,-1 do
+        if now >= blocked_terrain[n].until_t then table.remove(blocked_terrain,n) end
+    end
+    if not i then
+        for j=1,#points-1 do
+            local a,b=points[j],points[j+1]
+            local dx,dy=b.x-a.x,b.y-a.y
+            local length2=dx*dx+dy*dy
+            for _,hazard in ipairs(blocked_terrain) do
+                local u=length2>0 and math.max(0,math.min(1,((hazard.x-a.x)*dx+(hazard.y-a.y)*dy)/length2)) or 0
+                local z=a.z+(b.z-a.z)*u
+                local direction_ok = not hazard.dx or dx*hazard.dx+dy*hazard.dy > 0
+                local _, steep_now = ST.grade(a,b,stair_approach)
+                local shape_ok = hazard.kind ~= "unsafe slope" or (not stair_approach and steep_now and not progressing_grade(a,b))
+                if hazard.kind=="unsupported ground / drop"
+                    and (supported_stair_ascent(a,b) or supported_deck(a,b)) then shape_ok=false end
+                if direction_ok and shape_ok and R.dist2(a.x+u*dx,a.y+u*dy,hazard.x,hazard.y)<2 and math.abs(z-hazard.z)<3 then
+                    i,reason=j,"remembered blocked terrain"; break
+                end
+            end
+            if i then break end
+        end
+    end
+    if not i then
+        local trace = require("movement/trace")
+        if trace.ready() then
+            local count=#points-1
+            local start=math.min(terrain_guard.scan_index or 1,math.max(1,count))
+            local eq={n=0,max=10}          -- height queries the ledge test may use this scan
+            terrain_guard.edge=terrain_guard.edge or {}
+            for offset=0,math.min(15,count-1) do
+                local j=1+(start-1+offset)%count
+                terrain_guard.scan_index=1+j%count
+                local a,b = points[j],points[j+1]
+                local mid = {x=(a.x+b.x)/2,y=(a.y+b.y)/2,z=(a.z+b.z)/2}
+                local ground = trace.player_ground and trace.player_ground(mid)
+                -- A chord between ascending stair nodes can pass over the
+                -- lower room beside the staircase. Grounded forward progress
+                -- up a bounded stair is not evidence of a drop.
+                -- Terrain height may lie below a solid bridge deck. Require
+                -- short downward collision rays along the whole span before
+                -- dismissing a drop; a missing deck sample remains unsafe.
+                if type(ground) == "number" and mid.z-ground > 3 and not ghost_now()
+                    and not supported_stair_ascent(a,b) and not supported_deck(a,b) then
+                    i, reason = j, "unsupported ground / drop"
+                    break
+                end
+                -- Ledge: the path itself is fine but runs along a cliff edge. Soft
+                -- hazard only: a Sentinel zone + re-path, never a stop (a rail-lined
+                -- bridge or a ledge trail with no other way is still walked).
+                if R.dist2(px,py,a.x,a.y)>=4 and not ghost_now() then
+                    local ek=key_of(mid.x,mid.y)
+                    local seen=terrain_guard.edge[ek]
+                    if not seen or now-seen>60 then
+                        local ledge,drop,lx,ly=trace.edge_drop(a,b,eq)
+                        if ledge~=nil then
+                            if next(terrain_guard.edge) and (terrain_guard.edge_n or 0)>200 then
+                                terrain_guard.edge,terrain_guard.edge_n={},0
+                            end
+                            terrain_guard.edge[ek]=now
+                            terrain_guard.edge_n=(terrain_guard.edge_n or 0)+1
+                            if ledge then
+                                local placed=N.zone_span(a,b,"cliff edge")
+                                R.trail("nav","cliff edge: ground %.1f yd lower %.1f yd beside the path near (%.0f, %.0f) - zone %s",
+                                    drop,TM.EDGE_SIDE,lx,ly,tostring(placed))
+                                if placed=="new" then stats.edge_zones=(stats.edge_zones or 0)+1 end
+                            end
+                        end
+                    end
+                end
+                local blocked=trace.corridor_blocked(a,b,true)
+                if blocked == nil then terrain_guard.scan_index=j; break end
+                if blocked == true then
+                    terrain_guard.scan_index=j
+                    i, reason = j, "blocked body corridor"
+                    break
+                end
+            end
+        end
+    end
+    if not i then
+        terrain_guard.suspect = nil
+        terrain_guard.tries, terrain_guard.ax, terrain_guard.ay = 0, nil, nil
+        return true
+    end
+    local a, b = points[i], points[steep_end or i+1]
+    local k = key_of(cur.x, cur.y)
+    if reason == "blocked body corridor" then
+        -- At a doorway/step, a ray can cross geometry that Sentinel is
+        -- already rounding successfully. Distant obstructions are proactive;
+        -- immediate contacts need a real progress stall before intervention.
+        if R.dist2(px,py,a.x,a.y)<8 and now-(terrain_guard.motion_t or now)<1.2 then return end
+        local suspect=terrain_guard.suspect
+        if not suspect or R.dist2(b.x,b.y,suspect.x,suspect.y)>3 or math.abs(b.z-suspect.z)>2 then
+            terrain_guard.suspect={x=b.x,y=b.y,z=b.z,t=now}
+            return
+        end
+        if now-suspect.t<0.3 then return end
+    end
+    local hazard
+    for _,h in ipairs(blocked_terrain) do
+        if R.dist2(b.x,b.y,h.x,h.y)<4 and math.abs(b.z-h.z)<3 then hazard=h break end
+    end
+    if not hazard then
+        hazard={x=b.x,y=b.y,z=b.z,dx=b.x-a.x,dy=b.y-a.y,kind=reason,until_t=now+120,tries=0}
+        blocked_terrain[#blocked_terrain+1]=hazard
+        if #blocked_terrain>24 then table.remove(blocked_terrain,1) end
+    end
+    if now-(hazard.action_t or -1e9)<2 then
+        if R.dist2(px,py,a.x,a.y)<=8 then
+            terrain_guard.key,terrain_guard.goal_z,terrain_guard.blocked_until=k,cur.z,now+30
+            N.stop("known terrain hazard ahead",true)
+        end
+        return
+    end
+    hazard.action_t=now
+    hazard.tries=hazard.tries+1
+    if terrain_guard.key ~= k or not terrain_guard.ax
+        or R.dist2(b.x,b.y,terrain_guard.ax,terrain_guard.ay) > 4 then
+        terrain_guard.key, terrain_guard.tries = k, 0
+        terrain_guard.ax, terrain_guard.ay = b.x, b.y
+    end
+    terrain_guard.tries = hazard.tries
+    R.trail("nav", "%s: rise %.2f / run %.2f near (%.1f, %.1f, %.1f), attempt %d",
+        reason, b.z-a.z, R.dist2(a.x,a.y,b.x,b.y), a.x,a.y,a.z, terrain_guard.tries)
+    if b.z<a.z then
+        local ok,falling=pcall(function() return R.me():is_falling() end)
+        local ground=require("movement/trace").player_ground({x=px,y=py,z=pz})
+        R.trail("nav", "descent evidence: player Z %.2f, ground %s, falling %s, progress age %.2f",
+            pz,tostring(ground),ok and tostring(falling) or "unknown",now-(terrain_guard.motion_t or now))
+    end
+    local distance = R.dist2(px,py,a.x,a.y)
+    -- Tell Sentinel about the hazard (a path-avoid zone + soft re-path) so its
+    -- next plan goes round it; the local measured escape waits for that answer.
+    -- A body-corridor ray hit is not zoned (doorways Sentinel rounds fine).
+    if reason ~= "blocked body corridor" and distance > 8
+        and N.zone_span(a,b,reason) == "new" then
+        return
+    end
+    -- A lateral waypoint changes the server's route without another movement
+    -- driver. Require measured floor, a walkable grade and a clear body corridor.
+    if not det and terrain_guard.tries<=2 and N.recover_path({x=cur.x,y=cur.y,z=cur.z,mode=cur.mode},
+        terrain_guard.tries%2==1 and 1 or -1,reason .. " measured escape") then
+        return
+    end
+    if distance > 8 and terrain_guard.tries <= 2 then
+        if now - (terrain_guard.replan_t or -1e9) < 2 then return end
+        terrain_guard.replan_t = now
+        N.regen(c, reason .. " ahead")
+    else
+        terrain_guard.goal_z,terrain_guard.blocked_until = cur.z,now + 30
+        local gx,gy,gz=cur.x,cur.y,cur.z
+        N.stop(reason .. " ahead", true)
+        record_fail("max_repath_exceeded", gx, gy, gz, false)
+        R.trail("nav", "unsafe route stopped before hazard (%.1f yd ahead); deferred for 30 s", distance)
+    end
+end
+N._guard_path = guard_path
+
+-- Select intermediate destinations from the server path, never from a
+-- straight line to the goal. Sentinel replans each short leg and the detour
+-- lifecycle retains the original destination across holds and completion.
+-- 2026-11-15 (user log: "State navigating.following_path -> arrived, arrived ->
+-- navigating.awaiting_path" every ~2.5 s = every 12 yd): this split a walk into
+-- 12 yd legs, each ENDING in an arrival; the next leg's path was only asked for
+-- after it, so the player ran, stopped for the path, ran again. Sentinel's own
+-- full path is walked instead (the path guard, the whole-path audit and the
+-- rolling horizon cover what the legs were for). N.SEGMENTS = true brings the
+-- legs back; they then hand over to the next walk a few yards BEFORE arrival.
+N.SEGMENTS = false
+local function outdoor_segment(c)
+    if not N.SEGMENTS then return false end
+    if indoors() or swimming() or det or N.holding() or N.leg_fresh()
+        or not cur.x or cur.done or stop_req or cur.scanning
+        or cur.mode=="combat" or cur.mode=="npc" or cur.mode=="portal"
+        or cur.mode=="swim" or cur.mode=="astar" or cur.mode=="route"
+        or S.path_pending(c) or not S.moving(c) then return false end
+    local fs=S.full_state(c) or ""
+    if fs:find("recovering",1,true) or fs:find("repathing",1,true) then return false end
+    local px,py=R.here()
+    if not px or not cur.start_x or R.dist2(px,py,cur.start_x,cur.start_y)<1 then return false end
+    local points=N.path_ahead(12)
+    local p,here=points[#points],points[1]
+    if #points<2 or not p.z or R.dist2(here.x,here.y,p.x,p.y)<6
+        or R.dist2(p.x,p.y,cur.x,cur.y)<6 or ST.first_steep(points,false) then return false end
+    local started = N.detour(p,"12 yd outdoor path segment")
+    if started and det then det.segment = true end
+    return started
+end
+N._outdoor_segment = outdoor_segment
+
+-- EARLY PATH AUDIT + CORRIDOR WIDTHS. The moment Sentinel's path for a new walk
+-- is in, the WHOLE path (not just the 12/28 yd the guard looks at) is checked
+-- once for steep ground with the guard's own grade rules (pure arithmetic, no
+-- rays). A steep span 8+ yd away becomes a Sentinel avoidance zone and a soft
+-- re-path while the walk has barely started. One audit per walk id, so a
+-- re-path can never loop. get_corridor_widths (units undocumented) is read
+-- relatively: a stretch under N.TIGHT_W that is also under 60 % of the path's
+-- median is a real narrowing - a mounted player gets N.tight_hook (dismount).
+N.TIGHT_W, N.TIGHT_LOOK, N.TIGHT_GAP = 2.0, 14, 1.0
+N.tight_hook = nil                     -- set by movement.lua: function(width, yards)
+local audit = { id = -1, tight_t = -1e9, tight_id = -1 }
+N._audit = audit
+
+local function tight_scan(c, log)
+    local ws = S.corridor_widths(c)
+    local pts = S.current_path(c)
+    if not ws or not pts then return end
+    local idx = S.path_index(c)
+    idx = (type(idx) == "number" and idx >= 1) and math.floor(idx) or 1
+    local list = {}
+    for i = idx, #ws do if ws[i] then list[#list + 1] = ws[i] end end
+    if #list < 3 then return end
+    table.sort(list)
+    local median = list[math.ceil(#list / 2)]
+    local hx, hy = R.here()
+    if not hx then return end
+    local walked, px, py, min, at = 0, hx, hy, nil, nil
+    for i = idx, #pts do
+        local p = pts[i]
+        if type(p) == "table" and type(p.x) == "number" then
+            walked = walked + R.dist2(px, py, p.x, p.y)
+            px, py = p.x, p.y
+            if walked > N.TIGHT_LOOK then break end
+            local w = ws[i]
+            if w and (not min or w < min) then min, at = w, walked end
+        end
+    end
+    if log then
+        R.trail("nav", "corridor widths: %d points, median %.2f, narrowest within %d yd %s", #list, median,
+            N.TIGHT_LOOK, min and string.format("%.2f at %.0f yd", min, at) or "n/a")
+    end
+    if min and min < N.TIGHT_W and min < median * 0.6 then return min, at end
+end
+
+local function audit_new_path(c)
+    if not cur.x or cur.done or stop_req or N.holding() then return end
+    local m = cur.mode
+    if m == "combat" or m == "portal" or m == "swim" or m == "astar" or m == "route" then return end
+    if not S.moving(c) or S.path_pending(c) then return end
+    local fs = S.full_state(c) or ""
+    if fs:find("recovering", 1, true) or fs:find("repathing", 1, true) then return end
+    local now = R.now()
+    if cur.id ~= audit.id then
+        audit.id = cur.id
+        local planned = cur.pre and cur.pre.id == cur.id        -- audited before it was walked
+        local points = planned and {} or guard_points(N.path_ahead(90))
+        if #points >= 2 then
+            local i, e = ST.first_steep(points, indoors() or m == "npc", true)
+            if i then
+                local a, b = points[i], points[e or i + 1]
+                local px, py = R.here()
+                if px and R.dist2(px, py, a.x, a.y) >= 8 then
+                    local r = N.zone_span(a, b, "unsafe slope")
+                    R.trail("nav", "path audit: steep span %.1f yd away (rise %.1f / run %.1f) - zone %s",
+                        R.dist2(px, py, a.x, a.y), b.z - a.z, R.dist2(a.x, a.y, b.x, b.y), tostring(r))
+                    if r then stats.audit_zones = (stats.audit_zones or 0) + 1 end
+                end
+            end
+        end
+        tight_scan(c, true)
+    end
+    -- while mounted: a narrowing ahead -> the hook (dismount), at most once a second
+    if N.tight_hook and audit.tight_id ~= cur.id and now - audit.tight_t >= N.TIGHT_GAP then
+        audit.tight_t = now
+        local ok, mounted = pcall(function() return R.me():is_mounted() end)
+        if ok and mounted == true then
+            local w, at = tight_scan(c, false)
+            if w then
+                audit.tight_id = cur.id
+                R.trail("nav", "narrow corridor %.2f %.0f yd ahead - mounted, dismount hook", w, at)
+                pcall(N.tight_hook, w, at)
+            end
+        end
+    end
+end
+N._audit_new_path = audit_new_path
+
+-- NEXT-WAYPOINT HINT (user, 2026-11-15: "add the next waypoint hint from the
+-- quest engine"). The engine walks a route one waypoint at a time and only
+-- looks at the next one once it stands within ARRIVE yd of the current one;
+-- that late start is the run, stop, run: Sentinel arrives at the point, the
+-- next point's floors are asked for, its path is asked for, the player stands.
+-- With the hint (movement.hint_next(pos, key), called by the engine on every
+-- route tick) the work is done AHEAD:
+--   * at once, while the next point is far: its floors are asked for and cached
+--     (a single floor - stacked floors keep their reachability pick), so the
+--     later walk starts without a floor query;
+--   * within the horizon (>= 20 yd) of the current point: the path from the
+--     current point to the next is planned (planning only, nothing walks) and
+--     checked for steep ground - a steep span becomes an avoidance zone;
+--   * a few yards (speed * latency) before the current point ends, while the
+--     player still walks: the walk to the next point is started (a second
+--     move_to re-plans without stopping), under the next point's own key - the
+--     engine's later request for it finds it already running. The current key
+--     stays satisfied (hand) so the engine does not turn the player back.
+-- A hint older than HINT_TTL s (the engine stopped walking the route) is dead.
+local HINT_TTL, HAND_S = 1.5, 5.0
+
+local function prefetch_floor(c, x, y, z)
+    local k = key_of(x, y)
+    if corrected_z(x, y, z) then return end
+    local st = zscan[k]
+    if st and st.checked and st.hint == z and (R.now() - st.t) <= FAIL_WINDOW then return end
+    floors_for(c, k, x, y, z, function(list, st2)
+        if #list >= 2 then return end          -- stacked floors: the normal walk picks by reachability
+        st2.checked, st2.hint = true, z
+        if #list == 1 then cache_put(zfix, "zfix", k, { z = list[1], hint = z }) end
+    end)
+end
+
+local function probe_next(c, a, b)
+    S.plan_probe(c, a, b, function(points)
+        if type(points) ~= "table" or #points < 2 then return end
+        local pts = guard_points(points)
+        local i, e = ST.first_steep(pts, indoors(), true)
+        if not i then return end
+        local p, q = pts[i], pts[e or i + 1]
+        local r = N.zone_span(p, q, "unsafe slope")
+        R.trail("nav", "next leg audit: steep span (rise %.1f / run %.1f) on the way to the next waypoint - zone %s",
+            q.z - p.z, R.dist2(p.x, p.y, q.x, q.y), tostring(r))
+        if r == "new" then stats.audit_zones = (stats.audit_zones or 0) + 1 end
+    end)
+end
+
+--- The engine's word on the waypoint after the current one. Cheap; called on
+--- every route tick.
+function N.hint_next(pos, key)
+    local x, y, z = R.xyz(pos)
+    if not x or not key then return false end
+    local now = R.now()
+    if not hint or hint.key ~= key then
+        hint = { key = key, x = x, y = y, z = z, t = now, floors = false, probed = false }
+    end
+    hint.t = now
+    return true
+end
+
+local function hint_tick(c)
+    if hand and (R.now() > hand.until_t or not cur.x or cur.done) then hand = nil end
+    if not hint or R.now() - hint.t > HINT_TTL then return end
+    if cur.mode ~= "guide" or not cur.x or cur.done or det or stop_req or N.holding() or R.turning
+        or not S.moving(c) or swimming() then return end
+    local hx, hy = R.here()
+    if not hx then return end
+    -- the hint must be a waypoint other than the one being walked
+    if R.dist2(cur.x, cur.y, hint.x, hint.y) < 3 then return end
+    if wp_walk.key == hint.key then return end
+    if not hint.floors and R.dist2(hx, hy, hint.x, hint.y) >= FLOOR_FIRST then
+        hint.floors = true
+        prefetch_floor(c, hint.x, hint.y, hint.z)
+    end
+    local to_a = R.dist2(hx, hy, cur.x, cur.y)
+    if not hint.probed and to_a <= N.LA.horizon() and not S.path_pending(c) then
+        hint.probed = true
+        probe_next(c, { x = cur.x, y = cur.y, z = cur.z }, { x = hint.x, y = hint.y, z = corrected_z(hint.x, hint.y, hint.z) or hint.z })
+    end
+    -- hand over a few yards before this waypoint ends
+    local lead = math.max(4, math.min(10, N.LA.speed * (N.LA.latency + 0.3)))
+    if to_a > lead or S.path_pending(c) or not replaceable(c) then return end
+    local from_key = wp_walk.key
+    if not from_key then return end
+    local ok = N.nav_to({ x = hint.x, y = hint.y, z = hint.z }, true, "guide")
+    local z = corrected_z(hint.x, hint.y, hint.z) or hint.z
+    if ok and same_destination(hint.x, hint.y, z) then
+        hand = { from = from_key, to = hint.key, until_t = R.now() + HAND_S }
+        N.LA.last_ask = "next waypoint hint"
+        stats.handovers = (stats.handovers or 0) + 1
+        R.trail("nav", "next waypoint hint: %.1f yd before the current point, walking on to (%.0f, %.0f) without a stop",
+            to_a, hint.x, hint.y)
+    end
+end
+N._hint_tick = hint_tick
+
+-- ROLLING PATH HORIZON (user, 2026-11-15: "calculates and creates pathing 20
+-- yards ahead of the player ... the player movement isn't waiting on a generated
+-- path"). A walk never lets its planned path run out under the player: while
+-- Sentinel walks, the path left ahead is measured every LA.GAP s, and when it is
+-- shorter than the horizon (LA.H = 20 yd at least) while the goal is still
+-- farther than the path's end, the walk is handed to Sentinel AGAIN at once -
+-- a second move_to re-plans without stopping (recorded 0.12 s), so the next
+-- stretch is generated while the player is still walking the buffer instead of
+-- after it ends (the stall, the "arrived short" re-plan, the 5 s waypoint
+-- recheck). The horizon grows with the measured path latency and walking speed
+-- (speed * (latency + 0.5 s)), capped at LA.H_MAX, so a slow server or a mount
+-- still gets its answer before the buffer is gone. Guard: needs 4 yd of progress
+-- toward the goal between two re-issues, at most LA.MAX per goal chain.
+-- Sentinel does the planning; this only decides WHEN to ask. Off for combat,
+-- NPC, portal, swim, A* and recorded-route walks and while a detour runs.
+local LA = { H = 20, H_MAX = 40, GAP = 0.25, SHORT_YD = 3.0, MIN_GOAL = 25, PROGRESS = 4.0, MAX = 6, CHAIN_S = 60,
+    speed = 7, latency = 0.3, last_t = -1e9, id = -1, lat_done = true, pos = nil, pos_t = 0,
+    key = nil, n = 0, goal_d = nil, chain_t = -1e9 }
+N.LA = LA
+local LA_SKIP = { combat = true, npc = true, portal = true, swim = true, astar = true, route = true, corpse = true }
+
+--- The horizon in yards for the speed and path latency measured so far.
+function LA.horizon()
+    return math.max(LA.H, math.min(LA.H_MAX, LA.speed * (LA.latency + 0.5)))
+end
+
+--- Yards of planned path left ahead of the player and the path's last point.
+function LA.path_left()
+    local pts = N.path_ahead(300)
+    if #pts < 2 then return nil end
+    local len = 0
+    for i = 2, #pts do len = len + R.dist2(pts[i - 1].x, pts[i - 1].y, pts[i].x, pts[i].y) end
+    return len, pts[#pts]
+end
+
+function LA.tick(c)
+    local now = R.now()
+    if now - LA.last_t < LA.GAP then return end
+    LA.last_t = now
+    if not cur.x or cur.done or LA_SKIP[cur.mode or "move"] or det or stop_req or N.holding() or R.turning
+        or not S.moving(c) then
+        LA.pos, LA.still_t, LA.still_logged = nil, nil, false
+        return
+    end
+    local px, py = R.here()
+    if not px then return end
+    -- walking speed (only while actually moving) and path latency of this walk
+    if LA.pos and now > LA.pos_t then
+        local v = R.dist2(px, py, LA.pos.x, LA.pos.y) / (now - LA.pos_t)
+        if v > 1 and v < 40 then LA.speed = LA.speed * 0.8 + v * 0.2 end
+        -- STALL TELEMETRY: the player stands while a walk runs. Logged once per
+        -- stall with what Sentinel and this layer were doing, so a "stutter" in
+        -- game can be matched to its cause (awaiting_path after a re-issue, a
+        -- recovery, a hold, ...) from the trail.
+        if v < 0.5 then
+            LA.still_t = LA.still_t or now
+            if not LA.still_logged and now - LA.still_t >= 0.6 then
+                LA.still_logged = true
+                stats.stalls = (stats.stalls or 0) + 1
+                R.trail("nav", "stall: standing %.1f s on a running walk - state %s, leg %.1f s old, mode %s, hand %s, last ask: %s",
+                    now - LA.still_t, tostring(S.full_state(c)), now - (cur.leg_t or now), tostring(cur.mode),
+                    tostring(hand ~= nil), tostring(LA.last_ask or "-"))
+            end
+        else
+            LA.still_t, LA.still_logged = nil, false
+        end
+    end
+    LA.pos, LA.pos_t = { x = px, y = py }, now
+    if LA.id ~= cur.id then LA.id, LA.lat_done = cur.id, false end
+    if S.path_pending(c) then return end
+    if not LA.lat_done then
+        LA.lat_done = true
+        LA.latency = LA.latency * 0.7 + math.max(0, math.min(5, now - cur.t)) * 0.3
+    end
+    local fs = S.full_state(c) or ""
+    if fs:find("recovering", 1, true) or fs:find("repathing", 1, true) then return end
+    local goal_d = R.dist2(px, py, cur.x, cur.y)
+    if goal_d < LA.MIN_GOAL or not replaceable(c) then return end
+    local key = key_of(cur.x, cur.y)
+    if LA.key ~= key or now - LA.chain_t > LA.CHAIN_S then LA.key, LA.n, LA.goal_d = key, 0, nil end
+    if LA.n >= LA.MAX then return end
+    if LA.goal_d and goal_d > LA.goal_d - LA.PROGRESS then return end      -- no progress since the last ask
+    local left, last = LA.path_left()
+    local H = LA.horizon()
+    if not left or left >= H then return end
+    if R.dist2(last.x, last.y, cur.x, cur.y) <= LA.SHORT_YD then return end   -- the path reaches the goal
+    LA.n, LA.goal_d, LA.chain_t = LA.n + 1, goal_d, now
+    stats.horizon = (stats.horizon or 0) + 1
+    local pre = cur.pre
+    if pre and pre.id == cur.id and not pre.done and pre.started then
+        LA.last_ask = "path extension"
+        R.trail("nav", "horizon: %.0f yd of path left (want %.0f), goal %.0f yd away - planning the continuation from the path's end",
+            left, H, goal_d)
+        pre.extend()
+        return
+    end
+    R.trail("nav", "horizon: %.0f yd of path left (want %.0f: speed %.1f, latency %.2f s), goal %.0f yd away - next path requested while walking",
+        left, H, LA.speed, LA.latency, goal_d)
+    LA.last_ask = "path horizon"
+    walk_again(c, { x = cur.x, y = cur.y, z = cur.z, mode = cur.mode, route = cur.route }, "path horizon")
+end
+
+function N.pulse()
+    if escape_poll then escape_poll() end
+    if det and R.now() > det.until_t then detour_done("took too long") end      -- 1.7.23
+    -- a path SEGMENT hands over to the next walk before its end: the new move_to
+    -- re-plans without stopping, so the player never stands for the next path
+    if det and det.segment then
+        local hx, hy = R.here()
+        local c0 = N.client()
+        local lead = math.max(3, math.min(10, N.LA.speed * (N.LA.latency + 0.3)))
+        if hx and c0 and S.moving(c0) and not S.path_pending(c0) and (R.now() - cur.t) >= FRESH_LEG
+            and R.dist2(hx, hy, det.x, det.y) <= lead then
+            detour_done("handed over before arrival")
+        end
+    end
+    -- 1.7.5: death or a loading screen flagged by the event callback - the walk
+    -- stops here, on the update tick (Sentinel does not stop on death / loading)
+    local nf = event_flags()
+    if nf and nf.stop then
+        local why = nf.stop
+        nf.stop = nil
+        held.reasons, held.dest = {}, nil
+        N.stop(why)
+        R.trail("nav", "walk stopped: %s", why)
+    end
+    local c = N.client()
+    if not c then return end
+    if stop_req then
+        if not S.moving(c) and not S.path_pending(c) then
+            stop_req = nil
+        elseif not S.path_pending(c) and (R.now() - (cur.leg_t or 0)) >= FRESH_LEG then
+            S.stop(c)
+            R.trail("nav", "deferred stop sent (%s)", tostring(stop_req.reason))
+            stop_req = nil
+        end
+    end
+    -- a walk of ours that Sentinel ended without a callback (its UI stopped it,
+    -- another consumer took over): closed here
+    if cur.x and not cur.done and not cur.scanning and (R.now() - cur.t) >= LOST_WALK then
+        local st = S.state(c)
+        if st == "idle" or st == "arrived" then
+            cur.done = true
+            MEM.walk_ended(false)
+            R.trail("nav", "walk to (%.0f, %.0f) ended without a callback (state %s)", cur.x, cur.y, st)
+        elseif st == "failed" then
+            cur.done = true
+            MEM.walk_ended(false)
+            record_fail("failed", cur.x, cur.y, cur.z)
+        end
+    end
+    -- 1.9.0: the memory loads with the first client; a walk past a black point
+    -- counts; changed snapshots are written (every 10 s at most)
+    do   -- a plan with no reply for WAIT_S s: Sentinel plans the walk itself
+        local st = cur.pre
+        if st and st.id == cur.id and st.planning and not st.started and not st.done
+            and R.now() - (st.plan_t or R.now()) > PRE.WAIT_S then
+            st.planning = false
+            st.fallback("no reply in " .. PRE.WAIT_S .. " s")
+        end
+    end
+    pcall(N.flush_stuck_zones, c)
+    pcall(hint_tick, c)
+    pcall(LA.tick, c)
+    pcall(audit_new_path, c)
+    if guard_path(c) then outdoor_segment(c) end
+    MEM.load()
+    if cur.mode ~= "combat" and S.moving(c) then MEM.tick(R.here()) end
+    MEM.flush()
+end
+
+-- ----------------------------------------------------------------------------
+-- failures
+-- ----------------------------------------------------------------------------
+function N.last_fail_reason() return fail.reason end
+function N.last_fail_offmesh() return fail.offmesh == true end
+function N.clear_fail() fail.reason, fail.offmesh = nil, false end
+
+--- A walk is being planned or its floors are being asked for - not a stand.
+function N.pending()
+    if AS.searching() then return true end          -- the local A* search (the player stands)
+    local c = N.client()
+    if c and cur.x and not cur.done and S.path_pending(c) then return true end
+    return cur.scanning ~= nil and cur.scanning == cur.id and (R.now() - (cur.scan_t or 0)) < HEIGHT_SCAN_HOLD
+end
+
+--- A failure reason that is the server's, not the place's.
+function N.server_trouble(code) return SERVER_CODES[code] == true end
+
+-- ----------------------------------------------------------------------------
+-- reachability (validate_destination, cached; never blocks the caller)
+-- ----------------------------------------------------------------------------
+local reach, reach_n, reach_next = {}, 0, 0
+
+--- false only once Sentinel said "not reachable" (also at the floors there);
+--- true while pending, unknown, far, or with no server.
+function N.reachable(pos)
+    local x, y, z = R.xyz(pos)
+    if not x then return true end
+    local hx, hy = R.here()
+    local far = not hx or R.dist2(hx, hy, x, y) > REACH_TRUST_FAR
+    local k = key_of(x, y)
+    local t = R.now()
+    local e = reach[k]
+    if e and (t - e.t) < ((e.ok == false) and REACH_TTL_BAD or REACH_TTL) then
+        return e.ok ~= false or far
+    end
+    local c = N.client()
+    if not c or t < reach_next then return true end
+    reach_next = t + REACH_GAP
+    if reach_n > 300 then reach, reach_n = {}, 0 end
+    if not e then reach_n = reach_n + 1 end
+    e = { ok = nil, t = t, z = nil }
+    reach[k] = e
+    S.validate(c, { x = x, y = y, z = z }, function(ok)
+        e.t = R.now()
+        if ok == true then e.ok = true return end
+        if far then e.ok = true return end
+        -- the height may be the guess: ask at the floors there before saying no
+        floors_for(c, k, x, y, z, function(list)
+            local gz = nil
+            for i = 1, #list do if math.abs(list[i] - z) > HEIGHT_SAME then gz = list[i] break end end
+            if not gz then e.ok, e.t = false, R.now() return end
+            S.validate(c, { x = x, y = y, z = gz }, function(ok2)
+                e.ok, e.t = ok2 == true, R.now()
+                if ok2 == true then e.z = gz cache_put(zfix, "zfix", k, { z = gz, hint = z }) end
+            end)
+        end)
+    end)
+    return true
+end
+
+function N.node_reachable(pos) return N.reachable(pos) end
+
+--- The ground height found at (x, y) when the given one was wrong, or nil.
+function N.reach_z(pos)
+    local x, y, z = R.xyz(pos)
+    if not x then return nil end
+    return corrected_z(x, y, z)
+end
+
+function N.reach_forget(pos)
+    local x, y = R.xyz(pos)
+    if not x then return end
+    local k = key_of(x, y)
+    if reach[k] then reach[k] = nil end
+end
+
+--- One path query (movement/sight, the stuck fan): cb(points|nil, ok, info).
+--- False when there is no client to ask.
+function N.path_probe(from, to, cb)
+    local c = N.client()
+    if not c then return false end
+    return S.find_path(c, R.point(from), R.point(to), cb)
+end
+
+function N.nav_ready()
+    local c = N.client()
+    return c ~= nil and S.server_up(c)
+end
+
+--- 1.3.0 KITE: a ranged retreat point from Sentinel's nav_client:kite (a path
+--- round the target at KITE.RADIUS yd; the walk goes to its last point).
+--- cb(point | nil). The FIRST answer of an unexpected shape switches kiting
+--- off for the session (logged with what came back) - the call was read from
+--- the v0.0.6 source, so its v0.24 answer is checked live. True when asked.
+local KITE = { RADIUS = 15, off = false, said = false }
+N.KITE = KITE
+function N.kite(from, target, cb)
+    if KITE.off then return false end
+    local c = N.client()
+    if not c then return false end
+    return S.kite(c, R.point(from), R.point(target), KITE.RADIUS, function(pts, ok, info)
+        if info and info.shape_bad then
+            KITE.off = true
+            if not KITE.said then
+                KITE.said = true
+                R.log("Sentinel kite answered in an unknown shape (" .. tostring(info.got) .. ") - kiting off for this session")
+            end
+            pcall(cb, nil)
+            return
+        end
+        local last = pts and pts[#pts] or nil
+        local x, y, z                          -- (not `last and R.xyz(last)`: that keeps one value)
+        if last then x, y, z = R.xyz(last) end
+        if x then
+            stats.kites = (stats.kites or 0) + 1
+            pcall(cb, { x = x, y = y, z = z })
+        else
+            if info and info.error then R.trail("nav", "kite: no point (%s)", info.error) end
+            pcall(cb, nil)
+        end
+    end)
+end
+
+--- Escape destination selection using the public Sentinel reachability API.
+--- cb(point | nil); combat owns the bounded request lifetime and starts the walk.
+local FLEE = { DISTANCE = 30, off = false, said = false }
+N.FLEE = FLEE
+function N.flee(from, threats, cb, search_radius, ambient, rejoin_goal)
+    if type(threats) ~= "table" or #threats < 1 then return false end
+    local c = N.client()
+    if not c or not S.server_up(c) then return false end
+    local x, y, z = R.xyz(from)
+    if not x then return false end
+    local radius=type(search_radius)=="number" and math.max(30,math.min(180,search_radius)) or FLEE.DISTANCE
+    local enemies = {}
+    for _, threat in ipairs(threats) do
+        local tx, ty = R.xyz(threat)
+        if tx then enemies[#enemies + 1] = { x = tx, y = ty } end
+    end
+    if #enemies == 0 then return false end
+    -- Rank escape headings by worst separation gain. Penalize headings that
+    -- initially approach an attacker. Sentinel still plans the actual walk.
+    local candidates = {}
+    local rings=type(search_radius)=="number" and {radius} or {radius,15,8}
+    for _,ring in ipairs(rings) do
+    for i = 0, 15 do
+        local angle = i * math.pi / 8
+        local dx, dy = math.cos(angle), math.sin(angle)
+        local px, py = x + dx * ring, y + dy * ring
+        local gain, approach = math.huge, 0
+        for _, enemy in ipairs(enemies) do
+            local ex, ey = enemy.x - x, enemy.y - y
+            local before = math.sqrt(ex * ex + ey * ey)
+            local ax, ay = enemy.x - px, enemy.y - py
+            gain = math.min(gain, math.sqrt(ax * ax + ay * ay) - before)
+            approach = math.max(approach, (ex * dx + ey * dy) / math.max(1, before))
+        end
+        if gain > 3 then
+            local risk=0
+            for _,hazard in ipairs(ambient or {}) do
+                local hx,hy,hz=R.xyz(hazard)
+                if hx and math.abs(hz-z)<=8 then
+                    local along=math.max(0,math.min(ring,(hx-x)*dx+(hy-y)*dy))
+                    local ox,oy=hx-(x+dx*along),hy-(y+dy*along)
+                    local clearance=math.sqrt(ox*ox+oy*oy)
+                    local aggro=tonumber(hazard.radius) or 20
+                    if clearance<aggro then risk=risk+80+(aggro-clearance)*3 end
+                end
+            end
+            -- Compare separation gained per yard so all short cave exits
+            -- are not starved behind the entire outer ring's floor queries.
+            local benefit=type(search_radius)=="number" and gain or gain/ring*radius
+            candidates[#candidates + 1] = { x = px, y = py, z = z, radius=ring, score = benefit - approach * 15 - risk }
+        end
+    end
+    end
+    table.sort(candidates, function(a, b)
+        if math.abs(a.score-b.score)<0.0001 then return a.radius>b.radius end
+        return a.score>b.score
+    end)
+    -- Only one query at a time: some client versions share their pending
+    -- validator. Every candidate has its own token and bounded stage timeout.
+    local index, token, done = 0, 0, false
+    local recovery=type(search_radius)=="number"
+    local reply_budget=recovery and 1.5 or 0.6
+    local deadline, stage_until = R.now()+(recovery and 6 or 2.7), R.now()
+    local poll, next_candidate
+    local function finish(point,path)
+        if done then return end
+        done=true
+        if escape_poll==poll then escape_poll=nil end
+        if point then stats.flees=(stats.flees or 0)+1 end
+        pcall(cb,point,path)
+    end
+    next_candidate=function()
+        if done then return end
+        index,token=index+1,token+1
+        if index>#candidates or R.now()>=deadline then
+            R.trail("nav","flee: exhausted candidates or deadline")
+            finish(nil); return
+        end
+        local id,point=token,candidates[index]
+        -- Give the floor request enough time for a network round trip while
+        -- retaining the overall combat deadline. Rapidly replacing queries
+        -- discarded every heading in the live two-attacker fight.
+        local floor_started=R.now()
+        stage_until=math.min(deadline,floor_started+(recovery and 2.5 or 1.2))
+        R.trail("nav","flee candidate %d: floor query at %.1f, %.1f",index,point.x,point.y)
+        local sent=S.floors(c,point,function(floors)
+            R.trail("nav","flee candidate %d: floor reply after %.2f s, current=%s",id,R.now()-floor_started,
+                tostring(not done and escape_poll==poll and token==id and R.now()<stage_until))
+            if done or escape_poll~=poll or token~=id or R.now()>=stage_until then return end
+            local floor=type(floors)=="table" and floors[1]
+            -- Recovery validates the whole curved route below (up to two
+            -- radii long). Its endpoint rise need not fit the shorter chord.
+            -- Combat keeps the conservative direct-distance floor filter.
+            local height_run=point.radius*(recovery and 2 or 1)
+            if not floor or math.abs(floor-z)>height_run*ST.UP then
+                R.trail("nav","flee candidate %d: rejected floor %s (origin Z %.1f)",index,tostring(floor),z)
+                next_candidate(); return
+            end
+            point.z=floor
+            stage_until=math.min(deadline,R.now()+reply_budget)
+            local accepted=S.validate(c,point,function(reachable,reason,distance)
+                if done or escape_poll~=poll or token~=id or R.now()>=stage_until then return end
+                R.trail("nav","flee candidate %d: reachable=%s reason=%s distance=%s",index,tostring(reachable),tostring(reason),tostring(distance))
+                local route_limit=point.radius*(recovery and 6 or 2)
+                if reachable and (distance==nil or (type(distance)=="number" and distance==distance and distance>=0 and distance<=route_limit)) then
+                    if type(search_radius)~="number" then finish(point); return end
+                    stage_until=math.min(deadline,R.now()+reply_budget)
+                    local planned=S.plan_probe(c,from,point,function(raw)
+                        if done or escape_poll~=poll or token~=id or R.now()>=stage_until then return end
+                        local path={}
+                        for _,p in ipairs(raw or {}) do
+                            local q=R.point(p)
+                            if not q or not R.finite(q.z) then path={} break end
+                            path[#path+1]=q
+                        end
+                        local function near(a,b)
+                            return a and R.dist2(a.x,a.y,b.x,b.y)<=5 and math.abs(a.z-b.z)<=3
+                        end
+                        if #path>=2 and near(path[#path],from) and near(path[1],point) then
+                            local reversed={} for j=#path,1,-1 do reversed[#reversed+1]=path[j] end
+                            path=reversed
+                        end
+                        local endpoints=#path>=2 and near(path[1],from) and near(path[#path],point)
+                        local route_length=0
+                        for n=1,#path-1 do
+                            local a,b=path[n],path[n+1]
+                            route_length=route_length+R.dist3(a.x,a.y,a.z,b.x,b.y,b.z)
+                        end
+                        if route_length>route_limit then
+                            R.trail("nav","recovery rejected route length %.1f (limit %.1f)",route_length,route_limit)
+                            next_candidate(); return
+                        end
+                        -- Endpoint snapping can put the first mesh point a
+                        -- few yards above the player. Include the real entry
+                        -- and exit connections, not just the mesh interior.
+                        if endpoints then
+                            table.insert(path,1,{x=from.x,y=from.y,z=from.z})
+                            path[#path+1]={x=point.x,y=point.y,z=point.z}
+                        end
+                        if endpoints then path=ST.preflight_path(path) end
+                        local steep,steep_end
+                        if endpoints then steep,steep_end=ST.first_steep(path,nil,true) end
+                        R.trail("nav","recovery detour preflight: %d points, endpoints=%s, steep=%s",#path,tostring(endpoints),tostring(steep))
+                        if steep then
+                            local a,b=path[steep],path[steep_end or steep+1]
+                            local trace=require("movement/trace")
+                            local ga,gb=trace.player_ground(a,1.5),trace.player_ground(b,1.5)
+                            local run_xy=R.dist2(a.x,a.y,b.x,b.y)
+                            R.event("nav","recovery_span_rejected",{stage="recovery",
+                                ax=a.x,ay=a.y,az=a.z,bx=b.x,by=b.y,bz=b.z,rise=b.z-a.z,run=run_xy,
+                                grade=run_xy>0 and (b.z-a.z)/run_xy or nil,limit=ST.UP,
+                                ground_start=ga,ground_end=gb,measured_rise=ga and gb and gb-ga or nil,
+                                points=#path,span_points=(steep_end or steep+1)-steep+1,candidate=index})
+                        end
+                        if not endpoints or steep then next_candidate(); return end
+                        if not rejoin_goal then finish(point,path); return end
+                        -- A safe retreat that immediately returns to the
+                        -- same cliff is not recovery. Look beyond the
+                        -- retreat's round trip plus normal hazard lookahead;
+                        -- a fixed 30 yd check can end before the old obstacle.
+                        local onward_limit=radius*2+28
+                        stage_until=math.min(deadline,R.now()+reply_budget)
+                        local onward=S.plan_probe(c,point,rejoin_goal,function(raw_next)
+                            if done or escape_poll~=poll or token~=id or R.now()>=stage_until then return end
+                            local next_path={}
+                            for _,p in ipairs(raw_next or {}) do
+                                local q=R.point(p)
+                                if not q or not R.finite(q.z) then next_path={} break end
+                                next_path[#next_path+1]=q
+                            end
+                            -- A goal whose height is a guess (the world-map corpse marker
+                            -- answers the ghost's own height when the body's floor is
+                            -- unknown) is matched by position alone. A 3 yd height test
+                            -- rejected every valid onward route to a body 35 yd above or
+                            -- below the guess (log 2026-11-06 15:51: connected=false for
+                            -- all candidates, the ghost idle for 110 s).
+                            local function near_goal(a)
+                                if not a then return false end
+                                if rejoin_goal.z_guess then return R.dist2(a.x,a.y,rejoin_goal.x,rejoin_goal.y)<=5 end
+                                return near(a,rejoin_goal)
+                            end
+                            if #next_path>=2 and near(next_path[#next_path],point) and near_goal(next_path[1]) then
+                                local reversed={} for j=#next_path,1,-1 do reversed[#reversed+1]=next_path[j] end
+                                next_path=reversed
+                            end
+                            local connected=#next_path>=2 and near(next_path[1],point) and near_goal(next_path[#next_path])
+                            local prefix={{x=point.x,y=point.y,z=point.z}}
+                            local walked=0
+                            if connected then
+                                for _,q in ipairs(next_path) do
+                                    local a=prefix[#prefix]
+                                    local run=R.dist2(a.x,a.y,q.x,q.y)
+                                    if walked+run>onward_limit then
+                                        local u=(onward_limit-walked)/run
+                                        prefix[#prefix+1]={x=a.x+(q.x-a.x)*u,y=a.y+(q.y-a.y)*u,z=a.z+(q.z-a.z)*u}
+                                        break
+                                    end
+                                    prefix[#prefix+1]=q;walked=walked+run
+                                end
+                            end
+                            if connected then prefix=ST.preflight_path(prefix) end
+                            local bad,bad_end
+                            if connected then bad,bad_end=ST.first_steep(prefix,nil,true) end
+                            R.trail("nav","recovery onward preflight: horizon=%.0f connected=%s steep=%s",onward_limit,tostring(connected),tostring(bad))
+                            if bad then
+                                local a,b=prefix[bad],prefix[bad_end or bad+1]
+                                local trace=require("movement/trace")
+                                local ga,gb=trace.player_ground(a,1.5),trace.player_ground(b,1.5)
+                                local run_xy=R.dist2(a.x,a.y,b.x,b.y)
+                                R.event("nav","onward_span_rejected",{stage="onward",
+                                    ax=a.x,ay=a.y,az=a.z,bx=b.x,by=b.y,bz=b.z,rise=b.z-a.z,run=run_xy,
+                                    grade=run_xy>0 and (b.z-a.z)/run_xy or nil,limit=ST.UP,
+                                    ground_start=ga,ground_end=gb,measured_rise=ga and gb and gb-ga or nil,
+                                    points=#prefix,candidate=index})
+                            end
+                            if connected and not bad then finish(point,path) else next_candidate() end
+                        end)
+                        if not onward and token==id then next_candidate() end
+                    end)
+                    if not planned and token==id then next_candidate() end
+                else next_candidate() end
+            end)
+            if not accepted and token==id then next_candidate() end
+        end)
+        if not sent and token==id then next_candidate() end
+    end
+    poll=function()
+        if done then return end
+        if S.client()~=c or R.now()>=deadline then finish(nil)
+        elseif R.now()>=stage_until then
+            R.trail("nav","flee candidate %d: stage timeout; trying another heading",index)
+            next_candidate()
+        end
+    end
+    escape_poll=poll
+    next_candidate()
+    return true
+end
+
+--- 1.7.0 LIVE SENTINEL STATUS (restedXP 4.14.0, improvements 5 and 11): the
+--- walk's progress, the recorded route's progress, the distance to the
+--- destination, the avoidance zone count and the consecutive path failures.
+--- Read at most every STATUS.GAP s, on the update tick only (movement.lua's
+--- snapshot) - the GUI reads the cached table. nil without a client.
+local STATUS = { GAP = 0.5, t = -1e9, v = nil }
+function N.status()
+    local now = R.now()
+    if (now - STATUS.t) < STATUS.GAP then return STATUS.v end
+    STATUS.t = now
+    local c = N.client()
+    if not c then STATUS.v = nil return nil end
+    local v = { progress = S.progress(c), route = S.route_progress(c), zones = S.zone_count(c),
+        failures = S.failures(c), state = S.state(c),
+        -- nav audit 18: what the terrain avoidance has done this session
+        terrain = { audit_zones = stats.audit_zones or 0, edge_zones = stats.edge_zones or 0,
+            stuck_zones = stats.stuck_zones or 0, zones = stats.zones or 0, stalls = stats.stalls or 0,
+            pre_walks = stats.pre_walks or 0, pre_fallbacks = stats.pre_fallbacks or 0,
+            pre_regens = stats.pre_regens or 0, pre_extends = stats.pre_extends or 0,
+            horizon = stats.horizon or 0, handovers = stats.handovers or 0 } }
+    local d = S.destination(c)
+    local hx, hy, hz = R.here()
+    if d and hx then v.dest_yd = R.dist3(hx, hy, hz, d.x, d.y, tonumber(d.z) or hz) end
+    STATUS.v = v
+    return v
+end
+
+--- One line for the GUI from a status table (no game call).
+function N.status_text(v)
+    if type(v) ~= "table" then return nil end
+    local parts = {}
+    local pr = v.progress
+    if v.state == "navigating" and pr and pr.total and pr.total > 0 then
+        parts[#parts + 1] = string.format("%.0f%% (wp %d/%d)", pr.percent or 0, pr.index or 0, pr.total)
+    end
+    if v.dest_yd then parts[#parts + 1] = string.format("%.0f yd to go", v.dest_yd) end
+    if v.route and v.route.percent then parts[#parts + 1] = string.format("route %.0f%%", v.route.percent) end
+    if v.zones and v.zones > 0 then parts[#parts + 1] = string.format("%d zone%s", v.zones, v.zones == 1 and "" or "s") end
+    if v.failures and v.failures > 0 then parts[#parts + 1] = string.format("%d failed path%s", v.failures, v.failures == 1 and "" or "s") end
+    if #parts == 0 then return nil end
+    return table.concat(parts, ", ")
+end
+
+-- tests
+-- ----------------------------------------------------------------------------
+-- 1.2.0 AVOID AREAS (user: never walk into the threat range of a mob 3+ levels
+-- above the player or an elite - "path-threat avoidance through Sentinel
+-- avoidance zones + soft re-path"). N.avoid_area(pos, radius, why): a
+-- Sentinel avoidance zone of `radius` yd there (S.add_zone - every path
+-- request after it plans round it) and a SOFT re-path of the walk that runs
+-- (S.soft_replan - no stop), at most one re-path every AV.REPLAN_GAP s. A spot
+-- already zoned (within AV.SAME yd, inside AV.TTL s - Sentinel ages zones out
+-- at 120 s) is not zoned again. True when the area is avoided (now or before).
+-- ----------------------------------------------------------------------------
+local AV = { zones = {}, replan_t = -1e9, REPLAN_GAP = 3.0, SAME = 4.0, TTL = 110 }
+N.AV = AV
+
+function N.avoided(x, y)
+    local t = R.now()
+    for i = #AV.zones, 1, -1 do
+        local z = AV.zones[i]
+        if (t - z.t) > AV.TTL then table.remove(AV.zones, i)
+        elseif R.dist2(z.x, z.y, x, y) <= AV.SAME then return true end
+    end
+    return false
+end
+
+function N.avoid_area(p, radius, why)
+    local x, y, z = R.xyz(p)
+    if not x then return false end
+    if N.avoided(x, y) then return true end
+    local c = N.client()
+    if not c or not S.add_zone(c, { x = x, y = y, z = z }, radius) then return false end
+    AV.zones[#AV.zones + 1] = { x = x, y = y, t = R.now(), r = radius }
+    stats.zones = (stats.zones or 0) + 1
+    local replanned = false
+    if S.moving(c) and (R.now() - AV.replan_t) >= AV.REPLAN_GAP then
+        AV.replan_t = R.now()
+        replanned = N.regen(c, "mf_avoid")
+        stats.soft_replans = (stats.soft_replans or 0) + (replanned and 1 or 0)
+    end
+    R.trail("nav", "avoid %s: Sentinel avoidance zone %.0f yd at (%.0f, %.0f)%s", tostring(why), radius, x, y,
+        replanned and ", path re-planned (soft, no stop)" or "")
+    return true
+end
+
+--- A hazard span a -> b (steep ground / a drop) as one avoidance zone at its
+--- middle: radius from its length (2.5 .. 6 yd, 3.5+ for a drop). Not placed
+--- on the player or on the goal (that would trap the walk). Returns "new" when
+--- a zone was just added, true when one already covers it, false otherwise.
+--- Re-generate the running walk's path (a zone, a hazard, a loop): a
+--- precomputed walk plans a fresh path from the player's spot and swaps it in;
+--- any other walk asks Sentinel to re-plan softly.
+function N.regen(c, reason)
+    local st = cur.pre
+    if st and st.id == cur.id and not st.done and st.started and cur.x and not cur.done then
+        return st.again(reason) == true
+    end
+    return S.soft_replan(c, reason)
+end
+
+function N.zone_point(p, r, kind)
+    local px, py = R.here()
+    if not px or R.dist2(px, py, p.x, p.y) <= r + 1 then return false end
+    if cur.x and R.dist2(cur.x, cur.y, p.x, p.y) <= r + 2 then return false end
+    local was = N.avoided(p.x, p.y)
+    if not N.avoid_area(p, r, kind) then return false end
+    return was and true or "new"
+end
+
+function N.zone_span(a, b, kind)
+    local mx, my = (a.x + b.x) / 2, (a.y + b.y) / 2
+    local r = math.max(2.5, math.min(6, R.dist2(a.x, a.y, b.x, b.y) / 2 + 1.5))
+    if kind == "unsupported ground / drop" then r = math.max(r, 3.5) end
+    return N.zone_point({ x = mx, y = my, z = ((a.z or 0) + (b.z or 0)) / 2 }, r, kind)
+end
+
+--- Queued stuck spots (mem_black) -> Sentinel zones, while a walk runs and the
+--- player is clear of them; a spot not zoned within 90 s is dropped.
+function N.flush_stuck_zones(c)
+    if #stuck_zone == 0 then return end
+    local now = R.now()
+    local walking = cur.x and not cur.done and S.moving(c)
+    for i = #stuck_zone, 1, -1 do
+        local q = stuck_zone[i]
+        if now - q.t > 90 then table.remove(stuck_zone, i)
+        elseif walking then
+            local r = N.zone_point(q, q.r, "stuck point")
+            if r then
+                table.remove(stuck_zone, i)
+                if r == "new" then stats.stuck_zones = (stats.stuck_zones or 0) + 1 end
+            end
+        end
+    end
+end
+N._stuck_zone = stuck_zone
+
+function N._reset()
+    audit.id, audit.tight_id = -1, -1
+    LA.id, LA.key, LA.n, LA.goal_d, LA.pos, LA.last_t = -1, nil, 0, nil, nil, -1e9
+    hint, hand = nil, nil
+    for i = #stuck_zone, 1, -1 do stuck_zone[i] = nil end
+    escape_poll = nil
+    blocked_terrain,orbit = {},{}
+    terrain_guard = { next_t=0, key=nil, tries=0, blocked_until=0 }
+    cur = { id = 0, x = nil, y = nil, z = nil, mode = nil, t = 0, route = nil, done = false }
+    fail = { reason = nil, offmesh = false, t = 0 }
+    fails_at, zfix, zscan, reach, reach_n = {}, {}, {}, {}, 0
+    cache_n = { fails = 0, zfix = 0, zscan = 0 }
+    stop_req, held, det = nil, { reasons = {}, dest = nil }, nil
+    wp_walk = { key = nil, t = -1e9, failed = nil }
+    warned = nil
+end
+
+return N

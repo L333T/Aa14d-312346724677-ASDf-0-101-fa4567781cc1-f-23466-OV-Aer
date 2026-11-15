@@ -1,1 +1,107 @@
-return(function(...)local q={"hrGtW^D&R^2WM!H(";"hu[2\"_\\\'!M","hNM[(qR%ap@PP",">GWvuV2JDiH+NNs==",">AMdz7tWQ";">fAJ/D3ARZ5L=","h![\'>F%DXO";"h-b4<h";"hFZIhM7r>QrQ^[E<","hmZrACA=";"h9%Aql]\\";">bgaUGKN=";"hCa`RHBq2$e`U";">ZoNv4mHgne==";">T9noU+g0Xs==",">",">4tfyY3tiBm==";"h-1WfL",">hums1s==","h8:KB","h(J5!WY<)8kEOX\'gckR",">AMHbWy9z";">VLLx77BNxs==","h_Uh4\"";"hRbJkV95W@",">V09zWVjkPyHT7yS="}for I,l in ipairs({{402617041%1677571;156889871%(2945267556%13556595)},{447916-447915,-708331-(-708352)},{-205729-(-205751);(((-713352+(-574814+2243480))+6797)+2275123188)%12171579}})do while l[-76776-(413671+-490448)]<l[-603825+603827]do q[l[-349913-(-349914)]],q[l[1646021990%(7562982-(-427416))]],l[-86633-(-86634)],l[556508165%(163491784%2928993)-364955]=q[l[207551-207549]],q[l[672977-672976]],l[(57297+768391)-(1137491-311804)]+(342821-342820),l[(140103-(452155-988937))-676883]-78479401%3139176 end end local function R(I)return q[I-2401715853%(9860456-215173)]end do local I=q local l=math.floor local e=table.concat local A={O=(-55727-552386)+608114;z=656952215%(2843477005%20117459);["6"]=(574287-1025521820%11513271)-(-266462);m=-246744+246776,D=203623546%6170409;U=563035+-562985;n=-136877+136917,p=318326-318300;a=-808730-(-808777),E=130874+-130817,w=1565912644%11347193;d=((-783831+29731286592496%(19041557690012%334062468589))%(155226936820%1450762368))%11118134,Z=93953-93942;["+"]=-553003+553055,s=973254-973238;i=715456-715413;S=-607800-(-607820);["3"]=1956352462%(-913707+10895097);l=3362350481%14068412,M=1687177616%15199798;N=543946-543902;t=(-155695+797072)-641322;["9"]=669190+-669129,f=970807-(560745-(-410044)),H=2009316637%(13958564-(-815823));T=121415+-121381,x=(-677810-((-1174059-(-463940))-(-246183)))+213905;B=-858436-((-394747-875653)-(-411957));J=408894+-408836;R=-742809+742868;Y=43930+-43891,F=43968536%5496060;["2"]=-651623+651626,P=-292201-(-292230);L=6792-6756,j=-319129-(-319146);b=3675818310%16193032,V=-727108-(-10118-717013),Q=(590233+382356)-972552;["7"]=442855+-442828;v=41314649%590209;y=369743-369737;G=-25568+25619;["8"]=1007272+-1007212,W=(919640462-525165)%6046811,["4"]=603004-602996,c=(953642-146717)+((-247238+458311)-((-731446+674185002568)%3439717101)%13483994);C=2754954717%16696695,o=431446742%((-191621+((-974143+188099)+896055652))%5807222+3156444);X=619594+-619540,["0"]=-100382-(-100435),q=1342082014%6710410;I=(23716488-723074)%4598682;u=-200320-(-200322),K=3968192978%16330012;["/"]=(-452007-96568)-(-548599),h=-205719-(-205754),r=(-787789+1444749)-(594344+62553),["5"]=1012817-1012787,g=520885+-520876,A=814092466%(828880+((-796192+3342302)-(-483268)));e=1634274208%12287776;k=60647182%4040543-39004;["1"]=162644442%(3886368-(-1042251))}local d=string.char local h=type local y={b=1042295331%12710918,D=127893+-127874;[")"]=2111013309%15078666,r=-763107-(-763177);["6"]=115456-115381;[">"]=990936-990853;_=1744149213%7207228,["5"]=-599622-(-599644),["\""]=-692753+692770,o=(-1149184-(-421064))-(-728182);u=(205508971841%(-542243+(-741990+2056444279)))%11011437,Z=245180-245113,d=1842649932%9906720,P=376216+-376189,R=-527203+527233,T=421254+((-612614-(-549195))+-357764);S=(140453968478%610703614)%16292995,V=(584249+-838509)+(286413+-32088),j=338986205%11299539,["\'"]=794134+-794131;["8"]=-537242-(-537265);[","]=-735823-(442719+-1178603),["+"]=818595+-818574,s=795885692%5270766;["*"]=-662061+662107,m=546534802%4479793;X=822196865%4725269,["4"]=(255670+334328)-589980;["#"]=-969599+969667,h=479476+-479465,["$"]=25051+-25003,B=(1593562255-2206101790%(12172003-182735))%11463926;["9"]=(910495-(-1022486+1018797))-448998736%(6317011-93614);H=-684098+684143;["]"]=((458318+460003)+-1594924)+676639;["&"]=609245+-609207,["7"]=-36217-(-36289);["1"]=1888848261%(13699099-(801473+-889587)),K=1179592718%9288131;["`"]=522928+-522900;[":"]=356967+-356885;["/"]=693207106%10831360,C=797369-797354,["-"]=177307-177276,Q=1003217638%16172099-547499;["%"]=379460-379382,f=-159611-(-159636);["["]=371651401%4645642;["="]=(389563+1626586903)%15795888;l=858790+(-1881088-(-1022305)),J=(-983017+94916)-(-765205-122936),E=983720-983706,M=(-188489-(-803119+(261360961-(-795603)))%5923944)+888437;I=(253136858553%1077184609)%16297879,["\\"]=-752753-(-752807),a=200687578%805974;["2"]=932717-932688,L=-394006+394080,["!"]=774645+-774587,["."]=198850221%2234272,G=-395519-(-395539),e=536916+-536873,[";"]=-220343+220353;A=-534130-(-783320+249182),c=943733-943686,p=-471434-(-471507),["0"]=994390-(971235-(-23078));q=(958221-734100)-224087,["?"]=62381000%15595250;O=-586396-(-586445);["<"]=-22875+22881,["3"]=161190-1313503833%7060982,U=326768739%4538454,W=300525-540284909%8852204;["("]=-687588-(-630310-57320),n=430209+-430159;N=744478709%5683043,k=((-914340+281789)+1633509)-515323606%5471518;["@"]=(469989620-975584)%9196352,t=110026-109962,i=-34021+34100,["^"]=-42689+42742,g=457898-457894,Y=687455+-687431,F=1013699+(-1537576-(-523893))}local Y=table.insert local O=string.sub local s=string.len for M=1535104413%(((945124-860853)+17064202)-817575),#I,136066+-136065 do local q=I[M]if h(q)=="string"then local h=O(q,(87206523440%1816841931)%7145483,(637294+-1419631)+782338)if h==">"then q=O(q,-850151-(-850153))local h=s(q)local y={}local R=-74755-(-74756)local X=746084248%14347774 local f=1005152800%10051528 while R<=h do local I=O(q,R,R)local e=A[I]if e then X=X+e*((178132+-178068)^(((701069133%100722667)%711273-f)))f=f+961712101%(4147455-(-566820))if f==137142-137138 then f=59872924%318473 local I=l(X/(1533178621%(-703096+15304173)))local e=l((X%(630745+-565209))/(-758454-(-758710)))local A=X%(590419+-590163)Y(y,d(I,e,A))X=-176550-(-176550)end elseif I=="="then Y(y,d(l(X/(280441470%8246351))))if R>=h or O(q,R+(10467-10466),R+(-702287-(-702288)))~="="then Y(y,d(l((X%(4116151636%16333675))/(2205735952%11987694))))end break end R=R+((220744+-241182)-(-20439))end I[M]=e(y)elseif h=="h"then q=O(q,-594413+(-708955+1303370))local A=s(q)local h={}local R=-662774+662775 while R<=A do local I=(A-R)+919421281%4256580 local e=I>=211935+-211930 and 855145-855140 or I local s=-95549-(-95549)local M=e>(1419640-376098)+(229965+-1273506)for I=274561+(655649+-930210),(8222+1041875174)%4069857,-645559-(-916747-(-271187))do local l if I<e then local e=O(q,R+I,R+I)l=y[e]if not l then M=false break end else l=2481742324%15510889 end s=s*(160206+-160121)+l end if M then local I=l(s/(554106+16223110))%(-275838-(-979984+59521238%1278638))local A=l(s/((962712-(-32985))-((1462544-526724)-5659)))%(543581-(84883+458442))local y=l(s/((-944101+(421328720-(-276862))%12755461)+268988))%(345077-344821)local O=s%(-990704-(-990960))if e==321457765%2472752 then Y(h,d(I,A,y,O))elseif e==449300-449296 then Y(h,d(I,A,y))elseif e==1943507640%9124449 then Y(h,d(I,A))elseif e==-382460-(-382462)then Y(h,d(I))end end R=R+e end I[M]=e(h)end end end end local s,M do local I=math[R(919210+(((-1861495-(-682552-(-685018-(-378311))))-369262)-(-976094)))]local l=math[R(488617+(493706+-941920))]local e={}local A=string[R(-612782+653181)]local d={}local h=table[R(((2441679984363%26540036713)%186974418)%6415190)]local y=-731364-(-731364)local Y=229809387%2800198+-193149 for I=106232993%13279124,2254452164%9239557,-884793-(-884794)do e[I]=I end repeat local I=l(-100433-(-100434),#e)local y=h(e,I)d[y]=A(y-(-306574+306575))until#e==446507-446507 local O={}local function q()if#O==321306921%3693183 then y=((y*(21515+-21274)+(-553320+3282318836877)))%((1035436+35184370075788)-((289050+-390623)+-876035))repeat Y=(Y*(979854+-979700))%(-1024531+(-999994+2024782))until Y~=-558510-(-558511)local l=Y%(-754460+754492)local e=(156596175365%860462236)%7680276-((Y-l))/(148226522%2744935)local A=(I(y/(628091+-628089)^e)%((4294066446-(-431772))-(-469078)))/(1010546+-1010544)^l local d=I((A%(408492+-408491))*(1049657642698%(4302422385-518371)))+I(A)local h=d%(1258067440%5422422)local s=((d-h))/(353474116%2078874)O={h%(582487-582231),((h-h%(749823+-749567)))/(1680338828%11353639),s%((-613321-(-300444))-(-313133)),((s-s%(-260382+(-727402+988040))))/(328298+-328042)}end local l=#O local e=O[l]O[l]=nil return e end local X={}M=setmetatable({},{[R((440215709-(-288405))%2077659)]=X;[R(1065734807%8735200)]=nil})function s(I,l)local e=X if(e[l])then return l else O={}local A=d y=l%(35184372776667-(1317279-629444))Y=l%(173111323%783308)+((-761095+1681682)-920585)local h=#I e[l]=R((449925355-(-980457))%3152905)local s=65860133%((254229+4399007679)%27739221)local M=R((338784694%((-1253428-(841415+-1104870))+3642876433%19408310)-451783)+84716)for l=-773200+773201,h,75983741%2713705 do s=(((string[R(992971+(890071+-1842653))](I,l)+q())+s))%(-276133+276389)M=M..A[s+((-100419+-810749)-(-911169))]end e[l]=M end return l end end local I=require(M[s(R(-415665+1650624289%8334183),26236187881906-(844184+-1252308))])local l=require(M[s(R(-691628-(578617+-1310646)),16354339911135-(-662769+(-167875+1596699)))])local e=require(M[s(R(-612912-(-653308)),15664337506689-(-421352))])local A=require(M[s(R(85931-45536),(-137390+841419)+1501029115592)])local d=require(M[s(R(85199+(92657+(-45802+(138857+-230520)))),-856217+10285259886762)])local h=require(M[s(R(1167967369%((2698138365-720294)%20971057)),-608290+26070813190219)])local y=require(M[s(R(-663206+703599),(23304825432304-(-757335))-(-723325))])local Y={}local function O(I)local l,e=pcall(I)if l then return e end return nil end function Y.class_id()return I[M[s(R(37397355%(-159929+584440)),-636359+33778465722456)]][M[s(R(908743+(-625366-(-372755+615744))),11679423953460-(77877367355%3115471708-(-595880+491600))%15222705)]]end function Y.label()return M[s(R(((143422-(473365+124633))-((-845034-(-738550))-(-536126)))-(-924627)),-916052+24444339482869)]end function Y.combat_range(I)return(1468435848-(-242717))%7812120 end function Y.is_melee(I)return true end function Y.scan_range(I)return-773741-(-773761)end function Y.combat_profile()return{[M[s(R((-1442198-(-802676))-(-679927)),31980450680668-(-743018+297287))]]=M[s(R(767674+-727276),33014031496501-(-417913))],[M[s(R((-1744899-((-395213+-143215)+-251492))+995387),-831898+30393087553988)]]=-456149-(-456149),[M[s(R(1530282691%(2155796434%23340164)),225550+(10386062560268-2002093101%8973675))]]=1037554+-1037554,[M[s(R(1673268742%(295090+12984500)),1687809381423-873561)]]=function()return false end}end function Y.rest(I)return e[M[s(R(1775151184%13550464),(513042+16472979718383)-(-623984))]](I,{[M[s(R(613623+(-450066-123153)),32082024621592-361271)]]=-162640-(-162675),[M[s(R(2153243035%((3294678405-623902)%18969656)),((((190752+-32519)-84887)+23647988664925)-(-756301))-(-831813))]]=-620165+620165})end return Y end)(...)
+-- ============================================================================
+-- Master Farmer - Forever Questing
+-- Warrior grind filler (TBC)
+-- ============================================================================
+-- Authors: BLIZZ - Anthonyk
+-- Version: 4.0.0
+-- Folder: Forever_Questing
+-- ============================================================================
+-- RAGE IS NOT MANA AND NOT ENERGY
+--   Rage is earned by fighting and decays out of combat, so there is nothing
+--   to conserve and nothing to drink for. A warrior opens a fight with an
+--   empty bar, which is why the rotation leads with what is cheap and keeps
+--   Heroic Strike behind a rage floor: spend it too early and the specials
+--   never fire.
+--
+--   resting.lua already gates drinking on mana_max > 0, so the drink
+--   threshold passed below is inert for this class. It is passed anyway so
+--   the interface reads the same as the other eight.
+--
+-- STANCES: THIS ROTATION DOES NOT DANCE
+--   Most of the warrior book is stance-locked. Whirlwind and Pummel need
+--   Berserker, Shield Bash and Taunt need Defensive, Charge and Overpower
+--   need Battle. Switching stance costs rage, drops the rest, and takes a
+--   global - doing it mid-fight to fit one ability in is a trade this bot
+--   cannot judge, and a rotation that flickers between stances spends the
+--   whole fight paying for the privilege.
+--
+--   So: Battle Stance is maintained out of combat when the toggle is on, and
+--   the stance-locked abilities are offered only when the player is ALREADY
+--   in the right stance. A Fury warrior who lives in Berserker gets
+--   Whirlwind and Pummel; an Arms warrior in Battle gets Overpower. Neither
+--   gets moved.
+--
+--   core.spell_book.get_shapeshift_form_id is what reports this. Nothing else
+--   in the project reads it yet, so it is called through pcall and an
+--   unreadable stance means "do not offer the stance-locked abilities"
+--   rather than an error.
+--
+-- OVERPOWER IS OFF BY DEFAULT
+--   It is only usable for five seconds after the target dodges, and no call
+--   in the reflected reference reports a dodge. The spell simply fails when
+--   the window is closed, which costs a tick. Left in, defaulted off, so a
+--   player who wants it can have it.
+--
+-- SPELL IDS
+--   Highest rank first; fq_warrior_debug prints what resolved. Wrong or
+--   missing ids degrade to "not learned" rather than erroring, because every
+--   use is behind learned().
+-- ============================================================================
+
+---@type enums
+local enums = require("common/enums")
+
+local gui = require("gui")
+local resting = require("resting")
+local racials = require("racials")
+local state = require("state")
+local spellbook = require("spellbook")
+local auras = require("auras")
+
+local warrior = {}
+
+local function safe(fn)
+    local ok, r = pcall(fn)
+    if ok then return r end
+    return nil
+end
+
+-- ----------------------------------------------------------------------------
+-- IDENTITY
+-- ----------------------------------------------------------------------------
+function warrior.class_id() return enums.class_id.WARRIOR end
+function warrior.label() return "Warrior" end
+function warrior.combat_range(player) return 5 end
+function warrior.is_melee(player) return true end
+
+--- How far out to look for something to fight.
+---
+--- Melee has to walk into contact and then stand still, so a wide scan only
+--- drags extra mobs into a fight it cannot kite out of.
+function warrior.scan_range(player)
+    return 20
+end
+
+-- Pure melee with no ranged filler: stepping out is a flat DPS loss, the
+-- target simply follows, and a warrior who backs off loses the rage that
+-- pays for everything. Never retreats.
+function warrior.combat_profile()
+    return {
+        name = "warrior", melee_danger = 0, melee_safe = 0,
+        should_retreat = function() return false end,
+    }
+end
+
+-- ----------------------------------------------------------------------------
+-- RESTING
+-- ----------------------------------------------------------------------------
+--- Sit down and eat. The thresholds are this class's to choose; the machinery
+--- lives in resting.lua so a fix lands once rather than nine times.
+---
+--- drink_pct is inert here - resting.lua gates drinking on mana_max > 0 and a
+--- warrior has none - and is passed so this reads like the other eight.
+function warrior.rest(player)
+    return resting.tick(player, { eat_pct = 35, drink_pct = 0 })
+end
+
+return warrior
